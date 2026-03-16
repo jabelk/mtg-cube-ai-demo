@@ -1,76 +1,76 @@
 {
-  "query_card": "Dark Confidant",
+  "query_card": "Cultivate",
   "count": 10,
   "similar_cards": [
     {
-      "id": "66473ed4-a605-4860-a7e4-590618dd17f1",
-      "oracle_id": "b8602f19-6fc2-43c4-b0c4-2cd11d5dbda2",
-      "name": "Keen Duelist",
-      "type_line": "Creature \u2014 Human Wizard",
-      "distance": 0.197520076859006
+      "id": "756a6144-55a9-4c34-888d-eb20577b21bd",
+      "oracle_id": "1766f1f4-0924-4436-8379-94030adcccc5",
+      "name": "Flare of Cultivation",
+      "type_line": "Sorcery",
+      "distance": 0.137050631412377
     },
     {
-      "id": "30f64ff7-9d9f-4f73-9cad-9269eefe96ea",
-      "oracle_id": "e51f5b41-5465-4b1d-b96a-544762657ca5",
-      "name": "Novice Occultist",
-      "type_line": "Creature \u2014 Human Wizard",
-      "distance": 0.252688981672793
+      "id": "5188b91d-8785-4d4f-985c-31e436d38489",
+      "oracle_id": "b8f566ea-8283-4afa-9ac8-737e26419283",
+      "name": "Explore",
+      "type_line": "Sorcery",
+      "distance": 0.196901392190661
     },
     {
-      "id": "4efabe5e-5161-4e26-80d1-17b16763c1c5",
-      "oracle_id": "e21cc22b-d7d0-435d-a87f-6aa8e0b96c9b",
-      "name": "The Keeper of Dark Pacts",
-      "type_line": "Legendary Creature \u2014 Human Wizard",
-      "distance": 0.255015839346048
+      "id": "e67b3c3e-a809-4f04-b167-a03a8dee9f4f",
+      "oracle_id": "8539f295-5d58-4436-a73a-b9277c4c7795",
+      "name": "Rampant Growth",
+      "type_line": "Sorcery",
+      "distance": 0.20605501362466
     },
     {
-      "id": "f1eeb25e-0ec9-4bab-8c5a-7841901be265",
-      "oracle_id": "6df57d67-2fd9-4e7a-b67b-f361fc30e496",
-      "name": "Distinguished Conjurer",
-      "type_line": "Creature \u2014 Human Wizard",
-      "distance": 0.27314978412781
+      "id": "d33cba06-e673-4ddf-ad80-96b024e5ea3a",
+      "oracle_id": "cedc52eb-66a6-4b43-87f1-9bb9f4d4871e",
+      "name": "Lay of the Land",
+      "type_line": "Sorcery",
+      "distance": 0.218941828090627
     },
     {
-      "id": "12f0ffa2-e3b7-40b7-8d64-962293d7439b",
-      "oracle_id": "edbde032-4432-4610-83a2-a52f6ce199e1",
-      "name": "Death Cultist",
-      "type_line": "Creature \u2014 Human Wizard",
-      "distance": 0.284071150675286
+      "id": "4711fc7a-5667-4b4b-9218-33aa50f3d719",
+      "oracle_id": "8df46910-ee13-416e-8282-dfe85a90e6d5",
+      "name": "Renewal",
+      "type_line": "Sorcery",
+      "distance": 0.220422154641462
     },
     {
-      "id": "18c4afca-30a0-4b40-a5cf-2b0da3f159af",
-      "oracle_id": "b78973fa-a4cb-4927-8a75-6b1c963c1c0c",
-      "name": "Confessor",
-      "type_line": "Creature \u2014 Human Cleric",
-      "distance": 0.284883715138531
+      "id": "30e6a77e-c19f-4a82-9b5f-7189306ab584",
+      "oracle_id": "d07dbd41-b2c1-4ed0-a781-74dde481518b",
+      "name": "Rampant, Growth",
+      "type_line": "Sorcery",
+      "distance": 0.224033387106007
     },
     {
-      "id": "430c3358-83a7-4dfa-8e9a-36accf8fba4c",
-      "oracle_id": "1c3105d2-21cf-47f1-a615-bb7a0d5e3d8d",
-      "name": "Gale, Abyssal Conduit",
-      "type_line": "Legendary Creature \u2014 Human Wizard",
-      "distance": 0.297483461656184
+      "id": "534a4691-9275-4af3-b473-387179865300",
+      "oracle_id": "db4907f3-4071-47c4-9329-96b4813435be",
+      "name": "Migration Path",
+      "type_line": "Sorcery",
+      "distance": 0.225886091656344
     },
     {
-      "id": "ddeeeb4d-eca7-45ab-9e8b-4875eccfe7aa",
-      "oracle_id": "877bfa3f-6e30-4cb3-831e-d56849b01334",
-      "name": "Orzhov Guildmage",
-      "type_line": "Creature \u2014 Human Wizard",
-      "distance": 0.298666838725095
+      "id": "e97e6848-4152-4f73-b380-da850c0fabc9",
+      "oracle_id": "ec6d52f9-1c8f-48da-951c-be8d7813c7be",
+      "name": "Harvest Season",
+      "type_line": "Sorcery",
+      "distance": 0.233498515881916
     },
     {
-      "id": "11524024-0a1f-4710-ab73-ce30d6b3aa36",
-      "oracle_id": "8f2c8498-5b10-4ec7-8678-598c90987556",
-      "name": "Disciple of Bolas",
-      "type_line": "Creature \u2014 Human Wizard",
-      "distance": 0.302106359663795
+      "id": "0b200688-c37a-438c-99d4-007e5ec70622",
+      "oracle_id": "de3764b9-9572-4f5c-8c90-82dedec47557",
+      "name": "Celebrate the Harvest",
+      "type_line": "Sorcery",
+      "distance": 0.234312512840129
     },
     {
-      "id": "20af4c1a-1365-4573-bddc-0a404adb9f51",
-      "oracle_id": "d696aba9-ef3e-4f81-821a-c1df51431b8a",
-      "name": "Cunning Lethemancer",
-      "type_line": "Creature \u2014 Human Wizard",
-      "distance": 0.303171435093028
+      "id": "2e45bdcc-307a-4d84-b038-0b44fd1147d8",
+      "oracle_id": "2aff9be5-f6d4-4cdd-ab59-20202bc2f144",
+      "name": "Peregrination",
+      "type_line": "Sorcery",
+      "distance": 0.239573986392764
     }
   ]
 }

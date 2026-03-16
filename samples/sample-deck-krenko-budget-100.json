@@ -4,14 +4,14 @@
   "budget": "$100",
   "style": "default",
   "total_cards": 99,
-  "total_cost_display": "$23.24",
+  "total_cost_display": "$106.26",
   "deck": {
     "commander": "Krenko, Mob Boss",
     "creatures": [
       {
-        "name": "Thran Spider",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/bro/254/thran-spider"
+        "name": "Storm-Kiln Artist",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/astx/13/storm-kiln-artist"
       },
       {
         "name": "Skirk Prospector",
@@ -34,9 +34,9 @@
         "url": "https://manapool.com/card/blc/202/siege-gang-commander"
       },
       {
-        "name": "Emerald Collector",
-        "price": "N/A",
-        "url": ""
+        "name": "Su-Chi",
+        "price": "$77.93",
+        "url": "https://manapool.com/card/atq/66/su-chi"
       },
       {
         "name": "Goblin Ringleader",
@@ -44,19 +44,19 @@
         "url": "https://manapool.com/card/m20/143/goblin-ringleader"
       },
       {
-        "name": "Radha, Heir to Keld",
+        "name": "Thermopod",
+        "price": "$0.37",
+        "url": "https://manapool.com/card/plst/CSP-100/thermopod"
+      },
+      {
+        "name": "Blood Petal Celebrant",
         "price": "$0.15",
-        "url": "https://manapool.com/card/dds/53/radha-heir-to-keld"
+        "url": "https://manapool.com/card/dbl/413/blood-petal-celebrant"
       },
       {
-        "name": "Gl\u00f3in, Dwarf Emissary",
-        "price": "$0.47",
-        "url": "https://manapool.com/card/ltr/132/gloin-dwarf-emissary"
-      },
-      {
-        "name": "Bloodspatter Vampire",
-        "price": "N/A",
-        "url": ""
+        "name": "Psychosis Crawler",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/mbs/126/psychosis-crawler"
       },
       {
         "name": "Gempalm Incinerator",
@@ -64,14 +64,19 @@
         "url": "https://manapool.com/card/dmr/122/gempalm-incinerator"
       },
       {
-        "name": "Valley Rannet",
+        "name": "Drannith Stinger",
         "price": "$0.15",
-        "url": "https://manapool.com/card/arb/61/valley-rannet"
+        "url": "https://manapool.com/card/iko/113/drannith-stinger"
       },
       {
-        "name": "Aethersquall Ancient",
+        "name": "Merchant of the Vale // Haggle",
         "price": "$0.15",
-        "url": "https://manapool.com/card/drc/68/aethersquall-ancient"
+        "url": "https://manapool.com/card/eld/131/merchant-of-the-vale-haggle"
+      },
+      {
+        "name": "Martyr of Ashes",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/csp/92/martyr-of-ashes"
       },
       {
         "name": "Volley Veteran",
@@ -161,39 +166,14 @@
     ],
     "instants": [
       {
-        "name": "Dark Dabbling",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/ori/89/dark-dabbling"
-      },
-      {
         "name": "Massive Raid",
         "price": "$0.19",
         "url": "https://manapool.com/card/gtc/100/massive-raid"
       },
       {
-        "name": "Hunter's Insight",
-        "price": "$0.41",
-        "url": "https://manapool.com/card/cmr/232/hunters-insight"
-      },
-      {
-        "name": "Allay",
+        "name": "Fiery Cannonade",
         "price": "$0.15",
-        "url": "https://manapool.com/card/exo/1/allay"
-      },
-      {
-        "name": "Consider",
-        "price": "$0.26",
-        "url": "https://manapool.com/card/tle/157/consider"
-      },
-      {
-        "name": "Lithobraking",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/eoe/142/lithobraking"
-      },
-      {
-        "name": "Arcbond",
-        "price": "$0.51",
-        "url": "https://manapool.com/card/frf/91/arcbond"
+        "url": "https://manapool.com/card/cmr/178/fiery-cannonade"
       },
       {
         "name": "Goblin Surprise",
@@ -223,9 +203,14 @@
         "url": "https://manapool.com/card/scg/96/goblin-war-strike"
       },
       {
-        "name": "Megaton's Fate",
+        "name": "Rite of Flame",
+        "price": "$5.21",
+        "url": "https://manapool.com/card/mb2/59/rite-of-flame"
+      },
+      {
+        "name": "Skittering Invasion",
         "price": "$0.15",
-        "url": "https://manapool.com/card/pip/61/megatons-fate"
+        "url": "https://manapool.com/card/m3c/159/skittering-invasion"
       },
       {
         "name": "Goblin Grenade",
@@ -233,14 +218,19 @@
         "url": "https://manapool.com/card/fem/56c/goblin-grenade"
       },
       {
-        "name": "Darkness Descends",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/ecl/97/darkness-descends"
+        "name": "Brotherhood's End",
+        "price": "$0.54",
+        "url": "https://manapool.com/card/bro/128/brotherhoods-end"
       },
       {
-        "name": "Waltz of Rage",
+        "name": "Selective Obliteration",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/m3c/35/selective-obliteration"
+      },
+      {
+        "name": "Crush the Weak",
         "price": "$0.15",
-        "url": "https://manapool.com/card/dsk/165/waltz-of-rage"
+        "url": "https://manapool.com/card/khm/128/crush-the-weak"
       },
       {
         "name": "Mob Justice",
@@ -265,14 +255,24 @@
     ],
     "artifacts": [
       {
-        "name": "The Enigma Jewel // Locus of Enlightenment",
-        "price": "$0.98",
-        "url": "https://manapool.com/card/lci/55/the-enigma-jewel-locus-of-enlightenment"
+        "name": "Ur-Golem's Eye",
+        "price": "$0.29",
+        "url": "https://manapool.com/card/dst/155/ur-golems-eye"
       },
       {
-        "name": "Ketria Crystal",
+        "name": "Dictation Quillograph",
         "price": "$0.15",
-        "url": "https://manapool.com/card/iko/236/ketria-crystal"
+        "url": "https://manapool.com/card/ust/175/dictation-quillograph"
+      },
+      {
+        "name": "Dragonweave Tapestry",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Fraying Line",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/clb/314/fraying-line"
       },
       {
         "name": "Hazoret's Monument",
@@ -292,11 +292,6 @@
         "url": "https://manapool.com/card/uma/142/raid-bombardment"
       },
       {
-        "name": "The Phasing of Zhalfir",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/dmu/59/the-phasing-of-zhalfir"
-      },
-      {
         "name": "Rising of the Day",
         "price": "$0.19",
         "url": "https://manapool.com/card/ltr/427/rising-of-the-day"
@@ -314,6 +309,11 @@
     ],
     "planeswalkers": [],
     "lands": [
+      {
+        "name": "Conqueror's Galleon // Conqueror's Foothold",
+        "price": "$0.46",
+        "url": "https://manapool.com/card/xln/234/conquerors-galleon-conquerors-foothold"
+      },
       {
         "name": "Castle Embereth",
         "price": "$0.20",
@@ -517,16 +517,16 @@
     ],
     "other": []
   },
-  "export_text": "1 Krenko, Mob Boss *CMDR*\n1 Thran Spider\n1 Skirk Prospector\n1 Goblin Matron\n1 Pashalik Mons\n1 Siege-Gang Commander\n1 Goblin War Strike\n1 The Enigma Jewel // Locus of Enlightenment\n1 Emerald Collector\n1 Goblin Ringleader\n1 Radha, Heir to Keld\n1 Ketria Crystal\n1 Megaton's Fate\n1 Gl\u00f3in, Dwarf Emissary\n1 Dark Dabbling\n1 Bloodspatter Vampire\n1 Massive Raid\n1 Gempalm Incinerator\n1 Goblin Grenade\n1 Valley Rannet\n1 Hunter's Insight\n1 Allay\n1 Consider\n1 Darkness Descends\n1 Lithobraking\n1 Raid Bombardment\n1 Aethersquall Ancient\n1 Arcbond\n1 Volley Veteran\n1 Waltz of Rage\n1 Castle Embereth\n1 Path of Ancestry\n1 The Phasing of Zhalfir\n1 Treasure Nabber\n1 Squee, Dubious Monarch\n1 Goblin Lookout\n1 Goblin Surprise\n1 Mob Justice\n1 Torch Courier\n1 Battle Squadron\n1 Rising of the Day\n1 Fervor\n1 Den of the Bugbear\n1 Siege-Gang Lieutenant\n1 Goblin Wardriver\n1 Foundry Street Denizen\n1 Outnumber\n1 Goblin Negotiation\n1 Dark-Dweller Oracle\n1 You See a Pair of Goblins\n1 Goblin Rabblemaster\n1 Goblin War Drums\n1 Goblin Cratermaker\n1 Goblin War Party\n1 Hazoret's Monument\n1 Heraldic Banner\n1 Frenzied Goblin\n1 Goblin Rally\n1 Squee, the Immortal\n1 Goblin Sledder\n1 Reckless One\n1 Rummaging Goblin\n1 Last-Ditch Effort\n1 Access Tunnel\n1 Adventurer's Inn\n1 Aether Hub\n1 Amonkhet Raceway\n1 Ancient Ziggurat\n1 Arch of Orazca\n1 Archaeological Dig\n1 Archway Commons\n1 Arid Archway\n1 Ash Barrens\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain",
+  "export_text": "1 Krenko, Mob Boss *CMDR*\n1 Storm-Kiln Artist\n1 Skirk Prospector\n1 Goblin Matron\n1 Pashalik Mons\n1 Siege-Gang Commander\n1 Goblin War Strike\n1 Conqueror's Galleon // Conqueror's Foothold\n1 Su-Chi\n1 Goblin Ringleader\n1 Thermopod\n1 Rite of Flame\n1 Ur-Golem's Eye\n1 Skittering Invasion\n1 Blood Petal Celebrant\n1 Psychosis Crawler\n1 Massive Raid\n1 Gempalm Incinerator\n1 Goblin Grenade\n1 Drannith Stinger\n1 Dictation Quillograph\n1 Merchant of the Vale // Haggle\n1 Dragonweave Tapestry\n1 Fiery Cannonade\n1 Brotherhood's End\n1 Raid Bombardment\n1 Fraying Line\n1 Martyr of Ashes\n1 Volley Veteran\n1 Selective Obliteration\n1 Castle Embereth\n1 Path of Ancestry\n1 Crush the Weak\n1 Treasure Nabber\n1 Squee, Dubious Monarch\n1 Goblin Lookout\n1 Goblin Surprise\n1 Mob Justice\n1 Torch Courier\n1 Battle Squadron\n1 Rising of the Day\n1 Fervor\n1 Den of the Bugbear\n1 Siege-Gang Lieutenant\n1 Goblin Wardriver\n1 Foundry Street Denizen\n1 Outnumber\n1 Goblin Negotiation\n1 Dark-Dweller Oracle\n1 You See a Pair of Goblins\n1 Goblin Rabblemaster\n1 Goblin War Drums\n1 Goblin Cratermaker\n1 Goblin War Party\n1 Hazoret's Monument\n1 Heraldic Banner\n1 Frenzied Goblin\n1 Goblin Rally\n1 Squee, the Immortal\n1 Goblin Sledder\n1 Reckless One\n1 Rummaging Goblin\n1 Last-Ditch Effort\n1 Access Tunnel\n1 Adventurer's Inn\n1 Aether Hub\n1 Amonkhet Raceway\n1 Ancient Ziggurat\n1 Arch of Orazca\n1 Archaeological Dig\n1 Archway Commons\n1 Arid Archway\n1 Ash Barrens\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain",
   "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
   "health_check": {
     "passing": true,
     "counts": {
-      "lands": 40,
-      "ramp": 9,
+      "lands": 41,
+      "ramp": 10,
       "card_draw": 9,
-      "targeted_removal": 15,
-      "mass_removal": 7,
+      "targeted_removal": 14,
+      "mass_removal": 6,
       "synergy": 19,
       "uncategorized": 0
     },
@@ -535,97 +535,97 @@
   "auto_fixes_applied": [
     {
       "category": "ramp",
-      "added": "Thran Spider",
+      "added": "Storm-Kiln Artist",
       "removed": "Goblin Warchief"
     },
     {
       "category": "ramp",
-      "added": "The Enigma Jewel // Locus of Enlightenment",
+      "added": "Conqueror's Galleon // Conqueror's Foothold",
       "removed": "Krenko's Command"
     },
     {
       "category": "ramp",
-      "added": "Emerald Collector",
+      "added": "Su-Chi",
       "removed": "Goblin Chirurgeon"
     },
     {
       "category": "ramp",
-      "added": "Radha, Heir to Keld",
+      "added": "Thermopod",
       "removed": "Dragon Fodder"
     },
     {
       "category": "ramp",
-      "added": "Ketria Crystal",
+      "added": "Rite of Flame",
       "removed": "Shared Animosity"
     },
     {
       "category": "ramp",
-      "added": "Megaton's Fate",
+      "added": "Ur-Golem's Eye",
       "removed": "Goblin Instigator"
     },
     {
       "category": "ramp",
-      "added": "Gl\u00f3in, Dwarf Emissary",
+      "added": "Skittering Invasion",
       "removed": "Hordeling Outburst"
     },
     {
       "category": "card_draw",
-      "added": "Dark Dabbling",
+      "added": "Blood Petal Celebrant",
       "removed": "Legion Warboss"
     },
     {
       "category": "card_draw",
-      "added": "Bloodspatter Vampire",
+      "added": "Psychosis Crawler",
       "removed": "Battle Cry Goblin"
     },
     {
       "category": "card_draw",
-      "added": "Valley Rannet",
+      "added": "Drannith Stinger",
       "removed": "Beetleback Chief"
     },
     {
       "category": "card_draw",
-      "added": "Hunter's Insight",
+      "added": "Dictation Quillograph",
       "removed": "Mogg War Marshal"
     },
     {
       "category": "card_draw",
-      "added": "Allay",
+      "added": "Merchant of the Vale // Haggle",
       "removed": "Goro-Goro, Disciple of Ryusei"
     },
     {
       "category": "card_draw",
-      "added": "Consider",
+      "added": "Dragonweave Tapestry",
       "removed": "Quest for the Goblin Lord"
     },
     {
       "category": "mass_removal",
-      "added": "Darkness Descends",
+      "added": "Fiery Cannonade",
       "removed": "Goblin Motivator"
     },
     {
       "category": "mass_removal",
-      "added": "Lithobraking",
+      "added": "Brotherhood's End",
       "removed": "Marvin, Murderous Mimic"
     },
     {
       "category": "mass_removal",
-      "added": "Aethersquall Ancient",
+      "added": "Fraying Line",
       "removed": "Searslicer Goblin"
     },
     {
       "category": "mass_removal",
-      "added": "Arcbond",
+      "added": "Martyr of Ashes",
       "removed": "Moria Marauder"
     },
     {
       "category": "mass_removal",
-      "added": "Waltz of Rage",
+      "added": "Selective Obliteration",
       "removed": "Empty the Warrens"
     },
     {
       "category": "mass_removal",
-      "added": "The Phasing of Zhalfir",
+      "added": "Crush the Weak",
       "removed": "Grenzo, Havoc Raiser"
     }
   ]
