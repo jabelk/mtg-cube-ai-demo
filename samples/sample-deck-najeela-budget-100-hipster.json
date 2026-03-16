@@ -1,0 +1,522 @@
+{
+  "commander": "Najeela, the Blade-Blossom",
+  "bracket": null,
+  "budget": "$100",
+  "style": "hipster",
+  "total_cards": 99,
+  "total_cost_display": "$33.27",
+  "deck": {
+    "commander": "Najeela, the Blade-Blossom",
+    "creatures": [
+      {
+        "name": "Rushblade Commander",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/bbd/77/rushblade-commander"
+      },
+      {
+        "name": "Blood-Chin Rager",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dtk/89/blood-chin-rager"
+      },
+      {
+        "name": "Herald of Dromoka",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dtk/22/herald-of-dromoka"
+      },
+      {
+        "name": "Devilish Valet",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/195/devilish-valet"
+      },
+      {
+        "name": "Grand Warlord Radha",
+        "price": "$0.48",
+        "url": "https://manapool.com/card/dom/195/grand-warlord-radha"
+      },
+      {
+        "name": "Tinder Wall",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/ice/270/tinder-wall"
+      },
+      {
+        "name": "Kargan Warleader",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/znr/224/kargan-warleader"
+      },
+      {
+        "name": "Combat Celebrant",
+        "price": "$0.53",
+        "url": "https://manapool.com/card/j25/531/combat-celebrant"
+      },
+      {
+        "name": "Brutal Hordechief",
+        "price": "$1.45",
+        "url": "https://manapool.com/card/frf/64/brutal-hordechief"
+      },
+      {
+        "name": "Isshin, Two Heavens as One",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/aneo/69/isshin-two-heavens-as-one"
+      },
+      {
+        "name": "Chief of the Edge",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ktk/169/chief-of-the-edge"
+      },
+      {
+        "name": "Lovisa Coldeyes",
+        "price": "$0.28",
+        "url": "https://manapool.com/card/csp/90/lovisa-coldeyes"
+      },
+      {
+        "name": "Aven Wind Guide",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/akh/195/aven-wind-guide"
+      },
+      {
+        "name": "Alesha, Who Smiles at Death",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/2x2/101/alesha-who-smiles-at-death"
+      },
+      {
+        "name": "Shanna, Sisay's Legacy",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dom/204/shanna-sisays-legacy"
+      },
+      {
+        "name": "Marneus Calgar",
+        "price": "N/A",
+        "url": "https://manapool.com/card/40k/175/marneus-calgar"
+      },
+      {
+        "name": "Ogre Battledriver",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdc/227/ogre-battledriver"
+      },
+      {
+        "name": "Suki, Kyoshi Captain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tle/85/suki-kyoshi-captain"
+      },
+      {
+        "name": "Baylen, the Haymaker",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blb/205/baylen-the-haymaker"
+      },
+      {
+        "name": "Zurgo, Thunder's Decree",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdm/237/zurgo-thunders-decree"
+      },
+      {
+        "name": "Thrasher Brute",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/bbd/52/thrasher-brute"
+      },
+      {
+        "name": "Decorated Champion",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/bbd/69/decorated-champion"
+      },
+      {
+        "name": "Stadium Headliner",
+        "price": "$0.51",
+        "url": "https://manapool.com/card/tdm/122/stadium-headliner"
+      },
+      {
+        "name": "Moraug, Fury of Akoum",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/aznr/66/moraug-fury-of-akoum"
+      },
+      {
+        "name": "Simian Spirit Guide",
+        "price": "$2.28",
+        "url": "https://manapool.com/card/plc/122/simian-spirit-guide"
+      },
+      {
+        "name": "Selfless Safewright",
+        "price": "$0.41",
+        "url": "https://manapool.com/card/ecl/193/selfless-safewright"
+      },
+      {
+        "name": "Curious Colossus",
+        "price": "$0.98",
+        "url": "https://manapool.com/card/ecl/12/curious-colossus"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Flusterstorm",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/amh3/54/flusterstorm"
+      },
+      {
+        "name": "Abrupt Decay",
+        "price": "$1.30",
+        "url": "https://manapool.com/card/otp/34/abrupt-decay"
+      },
+      {
+        "name": "Unbreakable Formation",
+        "price": "$0.62",
+        "url": "https://manapool.com/card/ltc/179/unbreakable-formation"
+      },
+      {
+        "name": "Fire Covenant",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ecc/54/fire-covenant"
+      },
+      {
+        "name": "Will of the Mardu",
+        "price": "$0.78",
+        "url": "https://manapool.com/card/tdc/17/will-of-the-mardu"
+      },
+      {
+        "name": "Nature's Claim",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fca/47/natures-claim"
+      },
+      {
+        "name": "Dispel",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/bfz/76/dispel"
+      },
+      {
+        "name": "Heroic Intervention",
+        "price": "$1.07",
+        "url": "https://manapool.com/card/altr/73/heroic-intervention"
+      },
+      {
+        "name": "Assassin's Trophy",
+        "price": "$0.45",
+        "url": "https://manapool.com/card/tmc/55/assassins-trophy"
+      },
+      {
+        "name": "Negate",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cn2/117/negate"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Sevinne's Reclamation",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/c19/5/sevinnes-reclamation"
+      },
+      {
+        "name": "Culling Ritual",
+        "price": "$1.39",
+        "url": "https://manapool.com/card/dsc/85/culling-ritual"
+      },
+      {
+        "name": "Neoform",
+        "price": "$0.59",
+        "url": "https://manapool.com/card/war/206/neoform"
+      },
+      {
+        "name": "Finale of Devastation",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/acmm/68/finale-of-devastation"
+      },
+      {
+        "name": "Harvest Season",
+        "price": "$1.03",
+        "url": "https://manapool.com/card/khc/63/harvest-season"
+      },
+      {
+        "name": "Shamanic Revelation",
+        "price": "$0.77",
+        "url": "https://manapool.com/card/afc/171/shamanic-revelation"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Bident of Thassa",
+        "price": "$0.40",
+        "url": "https://manapool.com/card/blc/162/bident-of-thassa"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "Collective Inferno",
+        "price": "$0.83",
+        "url": "https://manapool.com/card/ecl/132/collective-inferno"
+      },
+      {
+        "name": "Shared Animosity",
+        "price": "$1.19",
+        "url": "https://manapool.com/card/lcc/231/shared-animosity"
+      },
+      {
+        "name": "Warleader's Call",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/amkm/23/warleaders-call"
+      },
+      {
+        "name": "Raiders' Spoils",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ktk/83/raiders-spoils"
+      },
+      {
+        "name": "Carpet of Flowers",
+        "price": "$1.44",
+        "url": "https://manapool.com/card/who/229/carpet-of-flowers"
+      },
+      {
+        "name": "Within Range",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdc/32/within-range"
+      },
+      {
+        "name": "Wild Growth",
+        "price": "$0.28",
+        "url": "https://manapool.com/card/ice/277/wild-growth"
+      },
+      {
+        "name": "Reconnaissance Mission",
+        "price": "$1.45",
+        "url": "https://manapool.com/card/iko/65/reconnaissance-mission"
+      },
+      {
+        "name": "Etchings of the Chosen",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lcc/269/etchings-of-the-chosen"
+      }
+    ],
+    "planeswalkers": [],
+    "lands": [
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      }
+    ],
+    "other": []
+  },
+  "export_text": "1 Najeela, the Blade-Blossom *CMDR*\n1 Collective Inferno\n1 Rushblade Commander\n1 Blood-Chin Rager\n1 Herald of Dromoka\n1 Devilish Valet\n1 Grand Warlord Radha\n1 Flusterstorm\n1 Tinder Wall\n1 Kargan Warleader\n1 Combat Celebrant\n1 Brutal Hordechief\n1 Isshin, Two Heavens as One\n1 Sevinne's Reclamation\n1 Shared Animosity\n1 Chief of the Edge\n1 Lovisa Coldeyes\n1 Aven Wind Guide\n1 Warleader's Call\n1 Alesha, Who Smiles at Death\n1 Shanna, Sisay's Legacy\n1 Marneus Calgar\n1 Ogre Battledriver\n1 Suki, Kyoshi Captain\n1 Baylen, the Haymaker\n1 Raiders' Spoils\n1 Zurgo, Thunder's Decree\n1 Thrasher Brute\n1 Decorated Champion\n1 Culling Ritual\n1 Neoform\n1 Stadium Headliner\n1 Abrupt Decay\n1 Unbreakable Formation\n1 Moraug, Fury of Akoum\n1 Fire Covenant\n1 Will of the Mardu\n1 Finale of Devastation\n1 Carpet of Flowers\n1 Nature's Claim\n1 Harvest Season\n1 Within Range\n1 Dispel\n1 Bident of Thassa\n1 Simian Spirit Guide\n1 Selfless Safewright\n1 Heroic Intervention\n1 Shamanic Revelation\n1 Wild Growth\n1 Reconnaissance Mission\n1 Etchings of the Chosen\n1 Assassin's Trophy\n1 Curious Colossus\n1 Negate\n1 Island\n1 Plains\n1 Swamp\n1 Forest\n1 Mountain\n1 Island\n1 Plains\n1 Swamp\n1 Forest\n1 Swamp\n1 Forest\n1 Mountain\n1 Island\n1 Plains\n1 Swamp\n1 Forest\n1 Mountain\n1 Island\n1 Plains\n1 Swamp\n1 Forest\n1 Mountain\n1 Island\n1 Plains\n1 Swamp\n1 Forest\n1 Mountain\n1 Island\n1 Plains\n1 Swamp\n1 Forest\n1 Mountain\n1 Island\n1 Plains\n1 Swamp\n1 Forest\n1 Mountain\n1 Island\n1 Plains\n1 Swamp\n1 Forest\n1 Mountain\n1 Island\n1 Plains\n1 Swamp\n1 Forest",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format."
+}

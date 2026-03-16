@@ -1,0 +1,522 @@
+{
+  "commander": "Najeela, the Blade-Blossom",
+  "bracket": null,
+  "budget": "unlimited",
+  "style": "default",
+  "total_cards": 99,
+  "total_cost_display": "$3224.24",
+  "deck": {
+    "commander": "Najeela, the Blade-Blossom",
+    "creatures": [
+      {
+        "name": "Birds of Paradise",
+        "price": "$5.87",
+        "url": "https://manapool.com/card/wc02/bk231/birds-of-paradise"
+      },
+      {
+        "name": "Blood-Chin Rager",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dtk/89/blood-chin-rager"
+      },
+      {
+        "name": "Bramblewood Paragon",
+        "price": "$2.05",
+        "url": "https://manapool.com/card/mor/115/bramblewood-paragon"
+      },
+      {
+        "name": "Champion of Lambholt",
+        "price": "$2.86",
+        "url": "https://manapool.com/card/jmp/383/champion-of-lambholt"
+      },
+      {
+        "name": "Chatterfang, Squirrel General",
+        "price": "$2.60",
+        "url": "https://manapool.com/card/mh2/151/chatterfang-squirrel-general"
+      },
+      {
+        "name": "Deathrite Shaman",
+        "price": "$6.09",
+        "url": "https://manapool.com/card/mb2/81/deathrite-shaman"
+      },
+      {
+        "name": "Delighted Halfling",
+        "price": "$24.65",
+        "url": "https://manapool.com/card/ltr/158/delighted-halfling"
+      },
+      {
+        "name": "Derevi, Empyrial Tactician",
+        "price": "$7.13",
+        "url": "https://manapool.com/card/c13/186/derevi-empyrial-tactician"
+      },
+      {
+        "name": "Devilish Valet",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/195/devilish-valet"
+      },
+      {
+        "name": "Elvish Spirit Guide",
+        "price": "$2.39",
+        "url": "https://manapool.com/card/dmr/157/elvish-spirit-guide"
+      },
+      {
+        "name": "Esper Sentinel",
+        "price": "$51.05",
+        "url": "https://manapool.com/card/mh2/328/esper-sentinel"
+      },
+      {
+        "name": "Gornog, the Red Reaper",
+        "price": "$3.95",
+        "url": "https://manapool.com/card/j25/49/gornog-the-red-reaper"
+      },
+      {
+        "name": "Grand Abolisher",
+        "price": "$13.02",
+        "url": "https://manapool.com/card/e01/12/grand-abolisher"
+      },
+      {
+        "name": "Grim Hireling",
+        "price": "$15.61",
+        "url": "https://manapool.com/card/sld/2493/grim-hireling"
+      },
+      {
+        "name": "Herald of Dromoka",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dtk/22/herald-of-dromoka"
+      },
+      {
+        "name": "Ignoble Hierarch",
+        "price": "$0.80",
+        "url": "https://manapool.com/card/ecc/52/ignoble-hierarch"
+      },
+      {
+        "name": "Kutzil, Malamet Exemplar",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/alci/50/kutzil-malamet-exemplar"
+      },
+      {
+        "name": "Mindblade Render",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdc/187/mindblade-render"
+      },
+      {
+        "name": "Mirri, Weatherlight Duelist",
+        "price": "$4.01",
+        "url": "https://manapool.com/card/cmm/347/mirri-weatherlight-duelist"
+      },
+      {
+        "name": "Noble Hierarch",
+        "price": "$9.25",
+        "url": "https://manapool.com/card/plst/MM2-151/noble-hierarch"
+      },
+      {
+        "name": "Professional Face-Breaker",
+        "price": "$4.06",
+        "url": "https://manapool.com/card/fic/296/professional-face-breaker"
+      },
+      {
+        "name": "Ragavan, Nimble Pilferer",
+        "price": "$36.27",
+        "url": "https://manapool.com/card/fca/43/ragavan-nimble-pilferer"
+      },
+      {
+        "name": "Rushblade Commander",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/bbd/77/rushblade-commander"
+      },
+      {
+        "name": "Samut, Vizier of Naktamun",
+        "price": "$1.29",
+        "url": "https://manapool.com/card/mat/45/samut-vizier-of-naktamun"
+      },
+      {
+        "name": "Simian Spirit Guide",
+        "price": "$2.28",
+        "url": "https://manapool.com/card/plc/122/simian-spirit-guide"
+      },
+      {
+        "name": "Thassa's Oracle",
+        "price": "$20.37",
+        "url": "https://manapool.com/card/thb/73/thassas-oracle"
+      },
+      {
+        "name": "Voice of Victory",
+        "price": "$21.36",
+        "url": "https://manapool.com/card/tdm/33/voice-of-victory"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Cyclonic Rift",
+        "price": "$28.69",
+        "url": "https://manapool.com/card/cmm/84/cyclonic-rift"
+      },
+      {
+        "name": "Deflecting Swat",
+        "price": "$64.39",
+        "url": "https://manapool.com/card/tle/311/deflecting-swat"
+      },
+      {
+        "name": "Eladamri's Call",
+        "price": "$8.59",
+        "url": "https://manapool.com/card/tle/48/eladamris-call"
+      },
+      {
+        "name": "Enlightened Tutor",
+        "price": "$19.37",
+        "url": "https://manapool.com/card/wc00/nl19/enlightened-tutor"
+      },
+      {
+        "name": "Fierce Guardianship",
+        "price": "$53.24",
+        "url": "https://manapool.com/card/tle/307/fierce-guardianship"
+      },
+      {
+        "name": "Flusterstorm",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/amh3/54/flusterstorm"
+      },
+      {
+        "name": "Force of Will",
+        "price": "$19.99",
+        "url": "https://manapool.com/card/wc97/jk28/force-of-will"
+      },
+      {
+        "name": "Heroic Intervention",
+        "price": "$1.07",
+        "url": "https://manapool.com/card/altr/73/heroic-intervention"
+      },
+      {
+        "name": "Mental Misstep",
+        "price": "$11.34",
+        "url": "https://manapool.com/card/nph/38/mental-misstep"
+      },
+      {
+        "name": "Path to Exile",
+        "price": "$1.20",
+        "url": "https://manapool.com/card/fic/248/path-to-exile"
+      },
+      {
+        "name": "Silence",
+        "price": "$6.19",
+        "url": "https://manapool.com/card/m11/30/silence"
+      },
+      {
+        "name": "Swan Song",
+        "price": "$7.90",
+        "url": "https://manapool.com/card/ltc/197/swan-song"
+      },
+      {
+        "name": "Swords to Plowshares",
+        "price": "$1.27",
+        "url": "https://manapool.com/card/lcc/137/swords-to-plowshares"
+      },
+      {
+        "name": "Vampiric Tutor",
+        "price": "$62.30",
+        "url": "https://manapool.com/card/wc99/js161/vampiric-tutor"
+      },
+      {
+        "name": "Worldly Tutor",
+        "price": "$22.30",
+        "url": "https://manapool.com/card/mir/255/worldly-tutor"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Cultivate",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmc/50/cultivate"
+      },
+      {
+        "name": "Demonic Tutor",
+        "price": "$15.61",
+        "url": "https://manapool.com/card/acmm/64/demonic-tutor"
+      },
+      {
+        "name": "Diabolic Intent",
+        "price": "$12.99",
+        "url": "https://manapool.com/card/fca/34/diabolic-intent"
+      },
+      {
+        "name": "Eldritch Evolution",
+        "price": "$2.39",
+        "url": "https://manapool.com/card/plst/EMN-155/eldritch-evolution"
+      },
+      {
+        "name": "Farseek",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/rvr/138/farseek"
+      },
+      {
+        "name": "Nature's Lore",
+        "price": "$2.50",
+        "url": "https://manapool.com/card/ice/255/natures-lore"
+      },
+      {
+        "name": "Sevinne's Reclamation",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/c19/5/sevinnes-reclamation"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Arcane Signet",
+        "price": "$0.37",
+        "url": "https://manapool.com/card/tmc/57/arcane-signet"
+      },
+      {
+        "name": "Chromatic Lantern",
+        "price": "$0.44",
+        "url": "https://manapool.com/card/tmc/58/chromatic-lantern"
+      },
+      {
+        "name": "Chrome Mox",
+        "price": "$38.54",
+        "url": "https://manapool.com/card/wc04/mb152/chrome-mox"
+      },
+      {
+        "name": "Fellwar Stone",
+        "price": "$1.02",
+        "url": "https://manapool.com/card/nec/150/fellwar-stone"
+      },
+      {
+        "name": "Lightning Greaves",
+        "price": "$4.25",
+        "url": "https://manapool.com/card/drc/55/lightning-greaves"
+      },
+      {
+        "name": "Lotus Petal",
+        "price": "$30.73",
+        "url": "https://manapool.com/card/tmp/294/lotus-petal"
+      },
+      {
+        "name": "Mox Diamond",
+        "price": "$931.08",
+        "url": "https://manapool.com/card/sth/138/mox-diamond"
+      },
+      {
+        "name": "Skullclamp",
+        "price": "$5.05",
+        "url": "https://manapool.com/card/fic/355/skullclamp"
+      },
+      {
+        "name": "Sol Ring",
+        "price": "$1.22",
+        "url": "https://manapool.com/card/tmc/59/sol-ring"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "Druids' Repository",
+        "price": "$2.93",
+        "url": "https://manapool.com/card/avr/176/druids-repository"
+      },
+      {
+        "name": "Mystic Remora",
+        "price": "$8.02",
+        "url": "https://manapool.com/card/ice/87/mystic-remora"
+      },
+      {
+        "name": "Nature's Will",
+        "price": "$5.05",
+        "url": "https://manapool.com/card/wot/82/natures-will"
+      },
+      {
+        "name": "Rhystic Study",
+        "price": "$49.95",
+        "url": "https://manapool.com/card/pcy/45/rhystic-study"
+      },
+      {
+        "name": "Shared Animosity",
+        "price": "$1.19",
+        "url": "https://manapool.com/card/lcc/231/shared-animosity"
+      },
+      {
+        "name": "Underworld Breach",
+        "price": "$6.13",
+        "url": "https://manapool.com/card/pza/10/underworld-breach"
+      },
+      {
+        "name": "Warleader's Call",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/amkm/23/warleaders-call"
+      }
+    ],
+    "planeswalkers": [],
+    "lands": [
+      {
+        "name": "Arid Mesa",
+        "price": "$27.28",
+        "url": "https://manapool.com/card/zen/211/arid-mesa"
+      },
+      {
+        "name": "Bayou",
+        "price": "$281.34",
+        "url": "https://manapool.com/card/cei/279/bayou"
+      },
+      {
+        "name": "Blood Crypt",
+        "price": "$10.10",
+        "url": "https://manapool.com/card/ecl/262/blood-crypt"
+      },
+      {
+        "name": "Bloodstained Mire",
+        "price": "$13.75",
+        "url": "https://manapool.com/card/wc03/we313/bloodstained-mire"
+      },
+      {
+        "name": "Breeding Pool",
+        "price": "$12.49",
+        "url": "https://manapool.com/card/eoe/251/breeding-pool"
+      },
+      {
+        "name": "City of Brass",
+        "price": "$7.99",
+        "url": "https://manapool.com/card/tmc/62/city-of-brass"
+      },
+      {
+        "name": "Command Tower",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/325/command-tower"
+      },
+      {
+        "name": "Exotic Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/131/exotic-orchard"
+      },
+      {
+        "name": "Flooded Strand",
+        "price": "$2.08",
+        "url": "https://manapool.com/card/aznr/29/flooded-strand"
+      },
+      {
+        "name": "Mana Confluence",
+        "price": "$29.00",
+        "url": "https://manapool.com/card/jou/163/mana-confluence"
+      },
+      {
+        "name": "Marsh Flats",
+        "price": "$26.12",
+        "url": "https://manapool.com/card/mh2/248/marsh-flats"
+      },
+      {
+        "name": "Misty Rainforest",
+        "price": "$26.10",
+        "url": "https://manapool.com/card/mh2/250/misty-rainforest"
+      },
+      {
+        "name": "Overgrown Tomb",
+        "price": "$8.33",
+        "url": "https://manapool.com/card/ecl/266/overgrown-tomb"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Polluted Delta",
+        "price": "$18.70",
+        "url": "https://manapool.com/card/mh3/224/polluted-delta"
+      },
+      {
+        "name": "Sacred Foundry",
+        "price": "$9.78",
+        "url": "https://manapool.com/card/gtc/245/sacred-foundry"
+      },
+      {
+        "name": "Scalding Tarn",
+        "price": "$31.63",
+        "url": "https://manapool.com/card/mh2/254/scalding-tarn"
+      },
+      {
+        "name": "Stomping Ground",
+        "price": "$8.56",
+        "url": "https://manapool.com/card/peoe/258p/stomping-ground"
+      },
+      {
+        "name": "Taiga",
+        "price": "$253.29",
+        "url": "https://manapool.com/card/30a/575/taiga"
+      },
+      {
+        "name": "Temple Garden",
+        "price": "$7.03",
+        "url": "https://manapool.com/card/ecl/268/temple-garden"
+      },
+      {
+        "name": "Tropical Island",
+        "price": "$380.84",
+        "url": "https://manapool.com/card/cei/284/tropical-island"
+      },
+      {
+        "name": "Verdant Catacombs",
+        "price": "$28.11",
+        "url": "https://manapool.com/card/mh2/440/verdant-catacombs"
+      },
+      {
+        "name": "Volcanic Island",
+        "price": "$343.90",
+        "url": "https://manapool.com/card/30a/282/volcanic-island"
+      },
+      {
+        "name": "Windswept Heath",
+        "price": "$11.43",
+        "url": "https://manapool.com/card/ktk/248/windswept-heath"
+      },
+      {
+        "name": "Wooded Foothills",
+        "price": "$17.31",
+        "url": "https://manapool.com/card/mh3/236/wooded-foothills"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      }
+    ],
+    "other": []
+  },
+  "export_text": "1 Najeela, the Blade-Blossom *CMDR*\n1 Birds of Paradise\n1 Blood-Chin Rager\n1 Bramblewood Paragon\n1 Champion of Lambholt\n1 Chatterfang, Squirrel General\n1 Deathrite Shaman\n1 Delighted Halfling\n1 Derevi, Empyrial Tactician\n1 Devilish Valet\n1 Elvish Spirit Guide\n1 Esper Sentinel\n1 Gornog, the Red Reaper\n1 Grand Abolisher\n1 Grim Hireling\n1 Herald of Dromoka\n1 Ignoble Hierarch\n1 Kutzil, Malamet Exemplar\n1 Mindblade Render\n1 Mirri, Weatherlight Duelist\n1 Noble Hierarch\n1 Professional Face-Breaker\n1 Ragavan, Nimble Pilferer\n1 Rushblade Commander\n1 Samut, Vizier of Naktamun\n1 Simian Spirit Guide\n1 Thassa's Oracle\n1 Voice of Victory\n1 Cyclonic Rift\n1 Deflecting Swat\n1 Eladamri's Call\n1 Enlightened Tutor\n1 Fierce Guardianship\n1 Flusterstorm\n1 Force of Will\n1 Heroic Intervention\n1 Mental Misstep\n1 Path to Exile\n1 Silence\n1 Swan Song\n1 Swords to Plowshares\n1 Vampiric Tutor\n1 Worldly Tutor\n1 Cultivate\n1 Demonic Tutor\n1 Diabolic Intent\n1 Eldritch Evolution\n1 Farseek\n1 Nature's Lore\n1 Sevinne's Reclamation\n1 Arcane Signet\n1 Chromatic Lantern\n1 Chrome Mox\n1 Fellwar Stone\n1 Lightning Greaves\n1 Lotus Petal\n1 Mox Diamond\n1 Skullclamp\n1 Sol Ring\n1 Druids' Repository\n1 Mystic Remora\n1 Nature's Will\n1 Rhystic Study\n1 Shared Animosity\n1 Underworld Breach\n1 Warleader's Call\n1 Arid Mesa\n1 Bayou\n1 Blood Crypt\n1 Bloodstained Mire\n1 Breeding Pool\n1 City of Brass\n1 Command Tower\n1 Exotic Orchard\n1 Flooded Strand\n1 Mana Confluence\n1 Marsh Flats\n1 Misty Rainforest\n1 Overgrown Tomb\n1 Path of Ancestry\n1 Polluted Delta\n1 Sacred Foundry\n1 Scalding Tarn\n1 Stomping Ground\n1 Taiga\n1 Temple Garden\n1 Tropical Island\n1 Verdant Catacombs\n1 Volcanic Island\n1 Windswept Heath\n1 Wooded Foothills\n1 Forest\n1 Island\n1 Mountain\n1 Plains\n1 Swamp\n1 Swamp\n1 Forest\n1 Mountain\n1 Island",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format."
+}
