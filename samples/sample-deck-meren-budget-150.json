@@ -4,15 +4,10 @@
   "budget": "$150",
   "style": "default",
   "total_cards": 97,
-  "total_cost_display": "$37.68",
+  "total_cost_display": "$38.53",
   "deck": {
     "commander": "Meren of Clan Nel Toth",
     "creatures": [
-      {
-        "name": "Spore Frog",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/mh1/180/spore-frog"
-      },
       {
         "name": "Plaguecrafter",
         "price": "$0.30",
@@ -24,19 +19,9 @@
         "url": "https://manapool.com/card/dsc/194/sakura-tribe-elder"
       },
       {
-        "name": "Gray Merchant of Asphodel",
-        "price": "$0.71",
-        "url": "https://manapool.com/card/ths/89/gray-merchant-of-asphodel"
-      },
-      {
-        "name": "Viscera Seer",
-        "price": "$0.45",
-        "url": "https://manapool.com/card/lcc/213/viscera-seer"
-      },
-      {
-        "name": "Eternal Witness",
-        "price": "$0.85",
-        "url": "https://manapool.com/card/ddj/55/eternal-witness"
+        "name": "Cloudthresher",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/c15/179/cloudthresher"
       },
       {
         "name": "Grim Haruspex",
@@ -238,9 +223,19 @@
     ],
     "sorceries": [
       {
-        "name": "Buried Alive",
-        "price": "$0.88",
-        "url": "https://manapool.com/card/mh3/273/buried-alive"
+        "name": "Time Wipe",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/262/time-wipe"
+      },
+      {
+        "name": "Exterminatus",
+        "price": "$0.50",
+        "url": "https://manapool.com/card/40k/120/exterminatus"
+      },
+      {
+        "name": "Mizzium Mortars",
+        "price": "$0.36",
+        "url": "https://manapool.com/card/rtr/101/mizzium-mortars"
       },
       {
         "name": "Victimize",
@@ -301,7 +296,13 @@
         "url": "https://manapool.com/card/roe/176/awakening-zone"
       }
     ],
-    "planeswalkers": [],
+    "planeswalkers": [
+      {
+        "name": "Nicol Bolas, God-Pharaoh",
+        "price": "$2.70",
+        "url": "https://manapool.com/card/hou/140/nicol-bolas-god-pharaoh"
+      }
+    ],
     "lands": [
       {
         "name": "High Market",
@@ -479,11 +480,6 @@
         "url": "https://manapool.com/card/drc/145/aether-hub"
       },
       {
-        "name": "Swamp",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/10e/373/swamp"
-      },
-      {
         "name": "Forest",
         "price": "$0.15",
         "url": "https://manapool.com/card/4ed/378/forest"
@@ -502,36 +498,55 @@
         "name": "Swamp",
         "price": "$0.15",
         "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
       }
     ],
     "other": []
   },
-  "export_text": "1 Meren of Clan Nel Toth *CMDR*\n1 Spore Frog\n1 Plaguecrafter\n1 Sakura-Tribe Elder\n1 Gray Merchant of Asphodel\n1 Viscera Seer\n1 Eternal Witness\n1 Buried Alive\n1 Victimize\n1 Grim Haruspex\n1 Accursed Marauder\n1 Fleshbag Marauder\n1 Ravenous Chupacabra\n1 High Market\n1 Cankerbloom\n1 Blood Artist\n1 Shriekmaw\n1 Zulaport Cutthroat\n1 Haywire Mite\n1 Syr Konrad, the Grim\n1 Solemn Simulacrum\n1 Butcher of Malakir\n1 Wood Elves\n1 Living Death\n1 Reclamation Sage\n1 Wight of the Reliquary\n1 Phyrexian Tower\n1 Caustic Caterpillar\n1 Satyr Wayfinder\n1 Demon's Disciple\n1 Midnight Reaper\n1 Junji, the Midnight Sky\n1 Merciless Executioner\n1 Fauna Shaman\n1 Insidious Fungus\n1 Acidic Slime\n1 Umbral Collar Zealot\n1 Village Rites\n1 Jarad, Golgari Lich Lord\n1 Grisly Salvage\n1 Grim Backwoods\n1 Viridian Emissary\n1 Woe Strider\n1 Jarad's Orders\n1 Morbid Opportunist\n1 Stitcher's Supplier\n1 Rise of the Witch-king\n1 Dread Return\n1 Journey to Eternity\n1 Disciple of Bolas\n1 Farhaven Elf\n1 Primal Growth\n1 Evolutionary Leap\n1 Tainted Wood\n1 Llanowar Elves\n1 Corrupted Conviction\n1 Moldervine Reclamation\n1 Insidious Roots\n1 Awakening Zone\n1 Honest Rutstein\n1 Izoni, Thousand-Eyed\n1 Life // Death\n1 Pitiless Plunderer\n1 Command Tower\n1 Exotic Orchard\n1 Path of Ancestry\n1 Llanowar Wastes\n1 Noxious Bayou\n1 Svogthos, the Restless Tomb\n1 Twilight Mire\n1 Viridescent Bog\n1 Darkmoss Bridge\n1 Festering Gulch\n1 Festering Thicket\n1 Foggy Bottom Swamp\n1 Foul Orchard\n1 Gohn, Town of Ruin\n1 Golgari Guildgate\n1 Golgari Rot Farm\n1 Haunted Mire\n1 Hissing Quagmire\n1 Illegitimate Business\n1 Jungle Hollow\n1 Lounge\n1 Necroblossom Snarl\n1 Skemfar Elderhall\n1 Strangled Cemetery\n1 Temple of Malady\n1 Undergrowth Stadium\n1 Vernal Fen\n1 Access Tunnel\n1 Adventurer's Inn\n1 Aether Hub\n1 Swamp\n1 Forest\n1 Swamp\n1 Forest\n1 Swamp",
+  "export_text": "1 Meren of Clan Nel Toth *CMDR*\n1 Time Wipe\n1 Plaguecrafter\n1 Sakura-Tribe Elder\n1 Nicol Bolas, God-Pharaoh\n1 Exterminatus\n1 Cloudthresher\n1 Mizzium Mortars\n1 Victimize\n1 Grim Haruspex\n1 Accursed Marauder\n1 Fleshbag Marauder\n1 Ravenous Chupacabra\n1 High Market\n1 Cankerbloom\n1 Blood Artist\n1 Shriekmaw\n1 Zulaport Cutthroat\n1 Haywire Mite\n1 Syr Konrad, the Grim\n1 Solemn Simulacrum\n1 Butcher of Malakir\n1 Wood Elves\n1 Living Death\n1 Reclamation Sage\n1 Wight of the Reliquary\n1 Phyrexian Tower\n1 Caustic Caterpillar\n1 Satyr Wayfinder\n1 Demon's Disciple\n1 Midnight Reaper\n1 Junji, the Midnight Sky\n1 Merciless Executioner\n1 Fauna Shaman\n1 Insidious Fungus\n1 Acidic Slime\n1 Umbral Collar Zealot\n1 Village Rites\n1 Jarad, Golgari Lich Lord\n1 Grisly Salvage\n1 Grim Backwoods\n1 Viridian Emissary\n1 Woe Strider\n1 Jarad's Orders\n1 Morbid Opportunist\n1 Stitcher's Supplier\n1 Rise of the Witch-king\n1 Dread Return\n1 Journey to Eternity\n1 Disciple of Bolas\n1 Farhaven Elf\n1 Primal Growth\n1 Evolutionary Leap\n1 Tainted Wood\n1 Llanowar Elves\n1 Corrupted Conviction\n1 Moldervine Reclamation\n1 Insidious Roots\n1 Awakening Zone\n1 Honest Rutstein\n1 Izoni, Thousand-Eyed\n1 Life // Death\n1 Pitiless Plunderer\n1 Command Tower\n1 Exotic Orchard\n1 Path of Ancestry\n1 Llanowar Wastes\n1 Noxious Bayou\n1 Svogthos, the Restless Tomb\n1 Twilight Mire\n1 Viridescent Bog\n1 Darkmoss Bridge\n1 Festering Gulch\n1 Festering Thicket\n1 Foggy Bottom Swamp\n1 Foul Orchard\n1 Gohn, Town of Ruin\n1 Golgari Guildgate\n1 Golgari Rot Farm\n1 Haunted Mire\n1 Hissing Quagmire\n1 Illegitimate Business\n1 Jungle Hollow\n1 Lounge\n1 Necroblossom Snarl\n1 Skemfar Elderhall\n1 Strangled Cemetery\n1 Temple of Malady\n1 Undergrowth Stadium\n1 Vernal Fen\n1 Access Tunnel\n1 Adventurer's Inn\n1 Aether Hub\n1 Forest\n1 Swamp\n1 Forest\n1 Swamp\n1 Forest",
   "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
   "health_check": {
-    "passing": false,
+    "passing": true,
     "counts": {
       "lands": 39,
       "ramp": 11,
       "card_draw": 12,
       "targeted_removal": 15,
-      "mass_removal": 1,
-      "synergy": 18,
+      "mass_removal": 6,
+      "synergy": 13,
       "uncategorized": 1
     },
-    "gaps": {
-      "mass_removal": {
-        "actual": 1,
-        "target": 6,
-        "needed": 5,
-        "suggestions": [
-          "Siege Dragon",
-          "Fuel the Flames",
-          "Torrent of Lava",
-          "Terisiare's Devastation",
-          "Crush the Weak"
-        ]
-      }
+    "gaps": {}
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "mass_removal",
+      "added": "Time Wipe",
+      "removed": "Spore Frog"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Nicol Bolas, God-Pharaoh",
+      "removed": "Gray Merchant of Asphodel"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Exterminatus",
+      "removed": "Viscera Seer"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Cloudthresher",
+      "removed": "Eternal Witness"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Mizzium Mortars",
+      "removed": "Buried Alive"
     }
-  }
+  ]
 }

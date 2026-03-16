@@ -4,30 +4,10 @@
   "budget": "$100",
   "style": "hipster",
   "total_cards": 99,
-  "total_cost_display": "$35.03",
+  "total_cost_display": "$702.86",
   "deck": {
     "commander": "Najeela, the Blade-Blossom",
     "creatures": [
-      {
-        "name": "Rushblade Commander",
-        "price": "$0.18",
-        "url": "https://manapool.com/card/bbd/77/rushblade-commander"
-      },
-      {
-        "name": "Blood-Chin Rager",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/dtk/89/blood-chin-rager"
-      },
-      {
-        "name": "Herald of Dromoka",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/dtk/22/herald-of-dromoka"
-      },
-      {
-        "name": "Devilish Valet",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/blc/195/devilish-valet"
-      },
       {
         "name": "Grand Warlord Radha",
         "price": "$0.48",
@@ -39,44 +19,19 @@
         "url": "https://manapool.com/card/ice/270/tinder-wall"
       },
       {
-        "name": "Kargan Warleader",
+        "name": "Tishana, Voice of Thunder",
         "price": "$0.15",
-        "url": "https://manapool.com/card/znr/224/kargan-warleader"
+        "url": "https://manapool.com/card/lcc/291/tishana-voice-of-thunder"
       },
       {
-        "name": "Combat Celebrant",
-        "price": "$0.53",
-        "url": "https://manapool.com/card/j25/531/combat-celebrant"
+        "name": "Furnace Dragon",
+        "price": "$0.30",
+        "url": "https://manapool.com/card/wc04/mb62sb/furnace-dragon"
       },
       {
-        "name": "Brutal Hordechief",
-        "price": "$1.45",
-        "url": "https://manapool.com/card/frf/64/brutal-hordechief"
-      },
-      {
-        "name": "Isshin, Two Heavens as One",
-        "price": "$0.26",
-        "url": "https://manapool.com/card/aneo/69/isshin-two-heavens-as-one"
-      },
-      {
-        "name": "Chief of the Edge",
+        "name": "Rockcaster Platoon",
         "price": "$0.15",
-        "url": "https://manapool.com/card/ktk/169/chief-of-the-edge"
-      },
-      {
-        "name": "Lovisa Coldeyes",
-        "price": "$0.28",
-        "url": "https://manapool.com/card/csp/90/lovisa-coldeyes"
-      },
-      {
-        "name": "Aven Wind Guide",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/akh/195/aven-wind-guide"
-      },
-      {
-        "name": "Alesha, Who Smiles at Death",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/2x2/101/alesha-who-smiles-at-death"
+        "url": "https://manapool.com/card/ala/23/rockcaster-platoon"
       },
       {
         "name": "Shanna, Sisay's Legacy",
@@ -146,9 +101,14 @@
     ],
     "instants": [
       {
-        "name": "Flusterstorm",
-        "price": "$0.26",
-        "url": "https://manapool.com/card/amh3/54/flusterstorm"
+        "name": "Wail of War",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdm/98/wail-of-war"
+      },
+      {
+        "name": "Hurkyl's Recall",
+        "price": "$0.98",
+        "url": "https://manapool.com/card/4ed/77/hurkyls-recall"
       },
       {
         "name": "Abrupt Decay",
@@ -198,9 +158,19 @@
     ],
     "sorceries": [
       {
+        "name": "Needle Storm",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/9ed/259/needle-storm"
+      },
+      {
         "name": "Sevinne's Reclamation",
         "price": "$0.52",
         "url": "https://manapool.com/card/c19/5/sevinnes-reclamation"
+      },
+      {
+        "name": "Damnation",
+        "price": "$17.80",
+        "url": "https://manapool.com/card/2x2/353/damnation"
       },
       {
         "name": "Culling Ritual",
@@ -230,6 +200,36 @@
     ],
     "artifacts": [
       {
+        "name": "Exploration Broodship",
+        "price": "$2.24",
+        "url": "https://manapool.com/card/eoc/14/exploration-broodship"
+      },
+      {
+        "name": "Cryptex",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mkm/251/cryptex"
+      },
+      {
+        "name": "Mox Pearl",
+        "price": "$651.25",
+        "url": "https://manapool.com/card/ced/264/mox-pearl"
+      },
+      {
+        "name": "Bag of Holding",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/240/bag-of-holding"
+      },
+      {
+        "name": "Campfire",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/clb/304/campfire"
+      },
+      {
+        "name": "Ominous Lockbox",
+        "price": "N/A",
+        "url": ""
+      },
+      {
         "name": "Bident of Thassa",
         "price": "$0.40",
         "url": "https://manapool.com/card/blc/162/bident-of-thassa"
@@ -237,19 +237,14 @@
     ],
     "enchantments": [
       {
-        "name": "Collective Inferno",
-        "price": "$0.83",
-        "url": "https://manapool.com/card/ecl/132/collective-inferno"
+        "name": "Waking the Trolls",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/khm/234/waking-the-trolls"
       },
       {
-        "name": "Shared Animosity",
-        "price": "$1.19",
-        "url": "https://manapool.com/card/lcc/231/shared-animosity"
-      },
-      {
-        "name": "Warleader's Call",
-        "price": "$0.52",
-        "url": "https://manapool.com/card/amkm/23/warleaders-call"
+        "name": "Deadapult",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmr/115/deadapult"
       },
       {
         "name": "Raiders' Spoils",
@@ -282,7 +277,13 @@
         "url": "https://manapool.com/card/lcc/269/etchings-of-the-chosen"
       }
     ],
-    "planeswalkers": [],
+    "planeswalkers": [
+      {
+        "name": "Ajani Unyielding",
+        "price": "$0.39",
+        "url": "https://manapool.com/card/aer/127/ajani-unyielding"
+      }
+    ],
     "lands": [
       {
         "name": "Island",
@@ -490,9 +491,14 @@
         "url": "https://manapool.com/card/drc/145/aether-hub"
       },
       {
-        "name": "Mountain",
+        "name": "Island",
         "price": "$0.15",
-        "url": "https://manapool.com/card/40k/315/mountain"
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
       },
       {
         "name": "Plains",
@@ -505,80 +511,108 @@
         "url": "https://manapool.com/card/10e/373/swamp"
       },
       {
-        "name": "Forest",
+        "name": "Mountain",
         "price": "$0.15",
-        "url": "https://manapool.com/card/4ed/378/forest"
-      },
-      {
-        "name": "Island",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/ala/234/island"
+        "url": "https://manapool.com/card/40k/315/mountain"
       }
     ],
     "other": []
   },
-  "export_text": "1 Najeela, the Blade-Blossom *CMDR*\n1 Collective Inferno\n1 Rushblade Commander\n1 Blood-Chin Rager\n1 Herald of Dromoka\n1 Devilish Valet\n1 Grand Warlord Radha\n1 Flusterstorm\n1 Tinder Wall\n1 Kargan Warleader\n1 Combat Celebrant\n1 Brutal Hordechief\n1 Isshin, Two Heavens as One\n1 Sevinne's Reclamation\n1 Shared Animosity\n1 Chief of the Edge\n1 Lovisa Coldeyes\n1 Aven Wind Guide\n1 Warleader's Call\n1 Alesha, Who Smiles at Death\n1 Shanna, Sisay's Legacy\n1 Marneus Calgar\n1 Ogre Battledriver\n1 Suki, Kyoshi Captain\n1 Baylen, the Haymaker\n1 Raiders' Spoils\n1 Zurgo, Thunder's Decree\n1 Thrasher Brute\n1 Decorated Champion\n1 Culling Ritual\n1 Neoform\n1 Stadium Headliner\n1 Abrupt Decay\n1 Unbreakable Formation\n1 Moraug, Fury of Akoum\n1 Fire Covenant\n1 Will of the Mardu\n1 Finale of Devastation\n1 Carpet of Flowers\n1 Nature's Claim\n1 Harvest Season\n1 Within Range\n1 Dispel\n1 Bident of Thassa\n1 Simian Spirit Guide\n1 Selfless Safewright\n1 Heroic Intervention\n1 Shamanic Revelation\n1 Wild Growth\n1 Reconnaissance Mission\n1 Etchings of the Chosen\n1 Assassin's Trophy\n1 Curious Colossus\n1 Negate\n1 Island\n1 Plains\n1 Swamp\n1 Forest\n1 Mountain\n1 Island\n1 Plains\n1 Swamp\n1 Forest\n1 Command Tower\n1 Exotic Orchard\n1 Path of Ancestry\n1 Adarkar Wastes\n1 Aggressive Crag\n1 An-Havva Township\n1 Aysen Abbey\n1 Battlefield Forge\n1 Bountiful Landscape\n1 Brushland\n1 Calciform Pools\n1 Cascade Bluffs\n1 Castle Sengir\n1 Cinder Marsh\n1 Cloudcrest Lake\n1 Contaminated Landscape\n1 Contested Cliffs\n1 Crosis's Catacombs\n1 Crypt of the Eternals\n1 Crystal Quarry\n1 Darigaaz's Caldera\n1 Darkwater Catacombs\n1 Deceptive Landscape\n1 Desolate Lighthouse\n1 Desolate Mire\n1 Dreadship Reef\n1 Dromar's Cavern\n1 Abandoned Campground\n1 Abraded Bluffs\n1 Access Tunnel\n1 Adventurer's Inn\n1 Aether Hub\n1 Mountain\n1 Plains\n1 Swamp\n1 Forest\n1 Island",
+  "export_text": "1 Najeela, the Blade-Blossom *CMDR*\n1 Exploration Broodship\n1 Cryptex\n1 Mox Pearl\n1 Bag of Holding\n1 Campfire\n1 Grand Warlord Radha\n1 Ajani Unyielding\n1 Tinder Wall\n1 Tishana, Voice of Thunder\n1 Ominous Lockbox\n1 Needle Storm\n1 Waking the Trolls\n1 Sevinne's Reclamation\n1 Deadapult\n1 Wail of War\n1 Damnation\n1 Furnace Dragon\n1 Rockcaster Platoon\n1 Hurkyl's Recall\n1 Shanna, Sisay's Legacy\n1 Marneus Calgar\n1 Ogre Battledriver\n1 Suki, Kyoshi Captain\n1 Baylen, the Haymaker\n1 Raiders' Spoils\n1 Zurgo, Thunder's Decree\n1 Thrasher Brute\n1 Decorated Champion\n1 Culling Ritual\n1 Neoform\n1 Stadium Headliner\n1 Abrupt Decay\n1 Unbreakable Formation\n1 Moraug, Fury of Akoum\n1 Fire Covenant\n1 Will of the Mardu\n1 Finale of Devastation\n1 Carpet of Flowers\n1 Nature's Claim\n1 Harvest Season\n1 Within Range\n1 Dispel\n1 Bident of Thassa\n1 Simian Spirit Guide\n1 Selfless Safewright\n1 Heroic Intervention\n1 Shamanic Revelation\n1 Wild Growth\n1 Reconnaissance Mission\n1 Etchings of the Chosen\n1 Assassin's Trophy\n1 Curious Colossus\n1 Negate\n1 Island\n1 Plains\n1 Swamp\n1 Forest\n1 Mountain\n1 Island\n1 Plains\n1 Swamp\n1 Forest\n1 Command Tower\n1 Exotic Orchard\n1 Path of Ancestry\n1 Adarkar Wastes\n1 Aggressive Crag\n1 An-Havva Township\n1 Aysen Abbey\n1 Battlefield Forge\n1 Bountiful Landscape\n1 Brushland\n1 Calciform Pools\n1 Cascade Bluffs\n1 Castle Sengir\n1 Cinder Marsh\n1 Cloudcrest Lake\n1 Contaminated Landscape\n1 Contested Cliffs\n1 Crosis's Catacombs\n1 Crypt of the Eternals\n1 Crystal Quarry\n1 Darigaaz's Caldera\n1 Darkwater Catacombs\n1 Deceptive Landscape\n1 Desolate Lighthouse\n1 Desolate Mire\n1 Dreadship Reef\n1 Dromar's Cavern\n1 Abandoned Campground\n1 Abraded Bluffs\n1 Access Tunnel\n1 Adventurer's Inn\n1 Aether Hub\n1 Island\n1 Forest\n1 Plains\n1 Swamp\n1 Mountain",
   "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
   "health_check": {
-    "passing": false,
+    "passing": true,
     "counts": {
       "lands": 46,
-      "ramp": 7,
-      "card_draw": 5,
-      "targeted_removal": 7,
-      "mass_removal": 1,
-      "synergy": 33,
+      "ramp": 10,
+      "card_draw": 9,
+      "targeted_removal": 10,
+      "mass_removal": 7,
+      "synergy": 17,
       "uncategorized": 0
     },
-    "gaps": {
-      "ramp": {
-        "actual": 7,
-        "target": 10,
-        "needed": 3,
-        "suggestions": [
-          "Ordeal of Nylea",
-          "Krark-Clan Ironworks",
-          "Timeless Lotus",
-          "Drumhunter",
-          "Inherited Envelope"
-        ]
-      },
-      "card_draw": {
-        "actual": 5,
-        "target": 10,
-        "needed": 5,
-        "suggestions": [
-          "Dream Strix",
-          "Vivien Reid",
-          "Squee's Revenge",
-          "Gravelighter",
-          "Nezahal, Primal Tide"
-        ]
-      },
-      "targeted_removal": {
-        "actual": 7,
-        "target": 10,
-        "needed": 3,
-        "suggestions": [
-          "Lingering Death",
-          "Mortality Spear",
-          "Slaughter Pact",
-          "Acceptable Losses",
-          "Deepfire Elemental"
-        ]
-      },
-      "mass_removal": {
-        "actual": 1,
-        "target": 6,
-        "needed": 5,
-        "suggestions": [
-          "Harsh Mercy",
-          "Wildfire Cerberus",
-          "Battle of Frost and Fire",
-          "Seeds of Innocence",
-          "Avatar's Wrath"
-        ]
-      }
+    "gaps": {}
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "ramp",
+      "added": "Exploration Broodship",
+      "removed": "Collective Inferno"
+    },
+    {
+      "category": "ramp",
+      "added": "Cryptex",
+      "removed": "Rushblade Commander"
+    },
+    {
+      "category": "ramp",
+      "added": "Mox Pearl",
+      "removed": "Blood-Chin Rager"
+    },
+    {
+      "category": "card_draw",
+      "added": "Bag of Holding",
+      "removed": "Herald of Dromoka"
+    },
+    {
+      "category": "card_draw",
+      "added": "Campfire",
+      "removed": "Devilish Valet"
+    },
+    {
+      "category": "card_draw",
+      "added": "Ajani Unyielding",
+      "removed": "Flusterstorm"
+    },
+    {
+      "category": "card_draw",
+      "added": "Tishana, Voice of Thunder",
+      "removed": "Kargan Warleader"
+    },
+    {
+      "category": "card_draw",
+      "added": "Ominous Lockbox",
+      "removed": "Combat Celebrant"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Needle Storm",
+      "removed": "Brutal Hordechief"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Waking the Trolls",
+      "removed": "Isshin, Two Heavens as One"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Deadapult",
+      "removed": "Shared Animosity"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Wail of War",
+      "removed": "Chief of the Edge"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Damnation",
+      "removed": "Lovisa Coldeyes"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Furnace Dragon",
+      "removed": "Aven Wind Guide"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Rockcaster Platoon",
+      "removed": "Warleader's Call"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Hurkyl's Recall",
+      "removed": "Alesha, Who Smiles at Death"
     }
-  }
+  ]
 }

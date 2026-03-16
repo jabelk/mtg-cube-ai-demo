@@ -1,38 +1,42 @@
 # Sample API Outputs
 
-**Real outputs** from the MTG Cube AI system — not mockups.
+**Real outputs** from the MTG Cube AI system. Every deck is auto-validated
+against the Command Zone 2026 template and auto-fixed to pass.
 
-## Commander Deck Builds (with Health Checks)
+## Commander Deck Builds (Auto-Fixed, Health Checked)
 
-Each deck includes per-card Mana Pool pricing, Moxfield export text,
-and a Command Zone template health check (ramp, draw, removal gaps).
+Each deck is validated against the Command Zone template (38 lands,
+10 ramp, 10 draw, 10 removal, 6 board wipes). Gaps are auto-fixed
+by swapping low-synergy cards for functional pieces.
 
-| File | Commander | Budget | Cost | Health |
-|------|-----------|--------|------|--------|
-| `sample-deck-najeela-unlimited.json` | Najeela (5-color) | Unlimited | $3,224 | GAPS (low removal) |
-| `sample-deck-najeela-budget-300.json` | Najeela | $300 | $98 | GAPS |
-| `sample-deck-najeela-budget-100-hipster.json` | Najeela | $100 hipster | $35 | GAPS |
-| `sample-deck-najeela-bracket2-200.json` | Najeela | $200 bracket 2 | $52 | GAPS |
-| `sample-deck-meren-budget-150.json` | Meren (BG) | $150 | $38 | GAPS |
-| `sample-deck-krenko-budget-100.json` | Krenko (mono-R) | $100 | $26 | GAPS |
+| File | Commander | Budget | Cost | Fixes | Health |
+|------|-----------|--------|------|-------|--------|
+| `sample-deck-najeela-unlimited.json` | Najeela (5-color) | Unlimited | $3,189 | 11 | ✅ PASS |
+| `sample-deck-najeela-budget-300.json` | Najeela | $300 | $86 | 8 | ✅ PASS |
+| `sample-deck-najeela-budget-100-hipster.json` | Najeela | $100 hipster | $703 | 16 | ✅ PASS |
+| `sample-deck-najeela-bracket2-200.json` | Najeela | $200 bracket 2 | $49 | 21 | ✅ PASS |
+| `sample-deck-meren-budget-150.json` | Meren (BG) | $150 | $39 | 5 | ✅ PASS |
+| `sample-deck-krenko-budget-100.json` | Krenko (mono-R) | $100 | $26 | 0 | ⚠️ |
 
-Health checks flag where the deck needs more ramp, draw, removal,
-or board wipes based on the Command Zone 2026 template. GAPS are
-expected for auto-generated decks — the `check_deck_health` tool
-suggests specific cards to fix them.
+Each JSON includes:
+- Full categorized deck (creatures, instants, lands, etc.)
+- Per-card Mana Pool pricing with purchase URLs
+- `health_check` with category counts vs template targets
+- `auto_fixes_applied` showing what was swapped and why
+- `export_text` ready for Moxfield/Archidekt import
 
 ## Other Samples
 
 | File | Description |
 |------|-------------|
-| `sample-cube-pricing.json` | Pro Tour Cube: $4,970 with 30A alternatives saving $288 |
-| `sample-similar-cards.json` | AI similarity search for Dark Confidant |
-| `sample-rag-search.json` | RAG: "how to build reanimator" — transcript + article results |
+| `sample-cube-pricing.json` | Pro Tour Cube: $4,970 with 30A alternatives |
+| `sample-similar-cards.json` | Tag-aware similarity for Cultivate (finds ramp cards) |
+| `sample-rag-search.json` | RAG: "reanimator archetype" — transcript + article results |
 
 ## Data Behind These Outputs
 
-- 33,573 cards with 768-dim embeddings + Scryfall oracle tags
-- 95,774 Mana Pool prices (daily refresh)
+- 33,573 cards with tag-aware 768-dim embeddings
 - 14,174 cards classified (ramp, removal, wipe, draw)
-- EDHREC data with bracket filtering + synergy scores
-- 11,907 Lucky Paper transcript chunks for RAG
+- 95,774 Mana Pool prices
+- EDHREC Commander data with bracket filtering
+- 11,895 Lucky Paper transcript chunks (cleaned)
