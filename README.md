@@ -182,16 +182,19 @@ semantic search.
 ```
 > "What does Lucky Paper say about reanimator?"
 
-  [TRANSCRIPT] Analyzing Aquaone's Powered Cube (~77:19)
-    "Viagra brings the dead things back to life, and bombs
-     go off..."
+  [TRANSCRIPT] Going Against Your Intuition (~16:00)
+    "fell specter is a modern creature that has the same
+     meagre static text, and so I was looking at reanimator
+     as an archetype that ties together..."
 
   [TRANSCRIPT] Modern Horizons 2 Set Review (~306:40)
-    "priest of fell rites return target creature card from
-     your graveyard to the battlefield..."
+    "priest of fell rites — return target creature card
+     from your graveyard to the battlefield, activate
+     only as a sorcery..."
 
-  [ARTICLE] How Many Lands Should You Include in Your Cube?
-    Analysis drawing from retail limited format data...
+  [ARTICLE] Frequently Asked Questions About Cube
+    "Cube is a custom draft format. Designers choose and
+     assemble their favorite cards into a re-draftable set..."
 ```
 
 ---
