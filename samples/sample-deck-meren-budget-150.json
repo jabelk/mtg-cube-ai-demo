@@ -3,8 +3,8 @@
   "bracket": null,
   "budget": "$150",
   "style": "default",
-  "total_cards": 99,
-  "total_cost_display": "$36.04",
+  "total_cards": 97,
+  "total_cost_display": "$37.68",
   "deck": {
     "commander": "Meren of Clan Nel Toth",
     "creatures": [
@@ -329,164 +329,154 @@
         "url": "https://manapool.com/card/plst/TOR-143/tainted-wood"
       },
       {
-        "name": "Swamp",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/10e/373/swamp"
+        "name": "Command Tower",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/325/command-tower"
       },
       {
-        "name": "Forest",
+        "name": "Exotic Orchard",
         "price": "$0.15",
-        "url": "https://manapool.com/card/4ed/378/forest"
+        "url": "https://manapool.com/card/blc/131/exotic-orchard"
       },
       {
-        "name": "Swamp",
+        "name": "Path of Ancestry",
         "price": "$0.15",
-        "url": "https://manapool.com/card/10e/373/swamp"
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
       },
       {
-        "name": "Forest",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/4ed/378/forest"
+        "name": "Llanowar Wastes",
+        "price": "$0.47",
+        "url": "https://manapool.com/card/blc/315/llanowar-wastes"
       },
       {
-        "name": "Swamp",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/10e/373/swamp"
+        "name": "Noxious Bayou",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/cmb2/118/noxious-bayou"
       },
       {
-        "name": "Forest",
+        "name": "Svogthos, the Restless Tomb",
         "price": "$0.15",
-        "url": "https://manapool.com/card/4ed/378/forest"
+        "url": "https://manapool.com/card/cmd/289/svogthos-the-restless-tomb"
       },
       {
-        "name": "Swamp",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/10e/373/swamp"
+        "name": "Twilight Mire",
+        "price": "$0.36",
+        "url": "https://manapool.com/card/blc/351/twilight-mire"
       },
       {
-        "name": "Forest",
+        "name": "Viridescent Bog",
         "price": "$0.15",
-        "url": "https://manapool.com/card/4ed/378/forest"
+        "url": "https://manapool.com/card/blc/352/viridescent-bog"
       },
       {
-        "name": "Swamp",
+        "name": "Darkmoss Bridge",
         "price": "$0.15",
-        "url": "https://manapool.com/card/10e/373/swamp"
+        "url": "https://manapool.com/card/dsc/269/darkmoss-bridge"
       },
       {
-        "name": "Forest",
+        "name": "Festering Gulch",
         "price": "$0.15",
-        "url": "https://manapool.com/card/4ed/378/forest"
+        "url": "https://manapool.com/card/otj/257/festering-gulch"
       },
       {
-        "name": "Swamp",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/10e/373/swamp"
+        "name": "Festering Thicket",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/ecc/61/festering-thicket"
       },
       {
-        "name": "Forest",
+        "name": "Foggy Bottom Swamp",
         "price": "$0.15",
-        "url": "https://manapool.com/card/4ed/378/forest"
+        "url": "https://manapool.com/card/tla/269/foggy-bottom-swamp"
       },
       {
-        "name": "Swamp",
+        "name": "Foul Orchard",
         "price": "$0.15",
-        "url": "https://manapool.com/card/10e/373/swamp"
+        "url": "https://manapool.com/card/akh/279/foul-orchard"
       },
       {
-        "name": "Forest",
+        "name": "Gohn, Town of Ruin",
         "price": "$0.15",
-        "url": "https://manapool.com/card/4ed/378/forest"
+        "url": "https://manapool.com/card/fin/278/gohn-town-of-ruin"
       },
       {
-        "name": "Swamp",
+        "name": "Golgari Guildgate",
         "price": "$0.15",
-        "url": "https://manapool.com/card/10e/373/swamp"
+        "url": "https://manapool.com/card/c15/286/golgari-guildgate"
       },
       {
-        "name": "Forest",
+        "name": "Golgari Rot Farm",
         "price": "$0.15",
-        "url": "https://manapool.com/card/4ed/378/forest"
+        "url": "https://manapool.com/card/blc/308/golgari-rot-farm"
       },
       {
-        "name": "Swamp",
+        "name": "Haunted Mire",
         "price": "$0.15",
-        "url": "https://manapool.com/card/10e/373/swamp"
+        "url": "https://manapool.com/card/blc/311/haunted-mire"
       },
       {
-        "name": "Forest",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/4ed/378/forest"
+        "name": "Hissing Quagmire",
+        "price": "$0.23",
+        "url": "https://manapool.com/card/eos/19/hissing-quagmire"
       },
       {
-        "name": "Swamp",
+        "name": "Illegitimate Business",
         "price": "$0.15",
-        "url": "https://manapool.com/card/10e/373/swamp"
+        "url": "https://manapool.com/card/tmt/186/illegitimate-business"
       },
       {
-        "name": "Forest",
+        "name": "Jungle Hollow",
         "price": "$0.15",
-        "url": "https://manapool.com/card/4ed/378/forest"
+        "url": "https://manapool.com/card/blc/313/jungle-hollow"
       },
       {
-        "name": "Swamp",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/10e/373/swamp"
+        "name": "Lounge",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/clu/19/lounge"
       },
       {
-        "name": "Forest",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/4ed/378/forest"
+        "name": "Necroblossom Snarl",
+        "price": "$0.33",
+        "url": "https://manapool.com/card/stx/269/necroblossom-snarl"
       },
       {
-        "name": "Swamp",
+        "name": "Skemfar Elderhall",
         "price": "$0.15",
-        "url": "https://manapool.com/card/10e/373/swamp"
+        "url": "https://manapool.com/card/khm/268/skemfar-elderhall"
       },
       {
-        "name": "Forest",
+        "name": "Strangled Cemetery",
         "price": "$0.15",
-        "url": "https://manapool.com/card/4ed/378/forest"
+        "url": "https://manapool.com/card/dsk/268/strangled-cemetery"
       },
       {
-        "name": "Swamp",
+        "name": "Temple of Malady",
         "price": "$0.15",
-        "url": "https://manapool.com/card/10e/373/swamp"
+        "url": "https://manapool.com/card/blc/341/temple-of-malady"
       },
       {
-        "name": "Forest",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/4ed/378/forest"
+        "name": "Undergrowth Stadium",
+        "price": "$0.57",
+        "url": "https://manapool.com/card/acmm/49/undergrowth-stadium"
       },
       {
-        "name": "Swamp",
+        "name": "Vernal Fen",
         "price": "$0.15",
-        "url": "https://manapool.com/card/10e/373/swamp"
+        "url": "https://manapool.com/card/tmc/81/vernal-fen"
       },
       {
-        "name": "Forest",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/4ed/378/forest"
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
       },
       {
-        "name": "Swamp",
+        "name": "Adventurer's Inn",
         "price": "$0.15",
-        "url": "https://manapool.com/card/10e/373/swamp"
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
       },
       {
-        "name": "Forest",
+        "name": "Aether Hub",
         "price": "$0.15",
-        "url": "https://manapool.com/card/4ed/378/forest"
-      },
-      {
-        "name": "Swamp",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/10e/373/swamp"
-      },
-      {
-        "name": "Forest",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/4ed/378/forest"
+        "url": "https://manapool.com/card/drc/145/aether-hub"
       },
       {
         "name": "Swamp",
@@ -516,6 +506,32 @@
     ],
     "other": []
   },
-  "export_text": "1 Meren of Clan Nel Toth *CMDR*\n1 Spore Frog\n1 Plaguecrafter\n1 Sakura-Tribe Elder\n1 Gray Merchant of Asphodel\n1 Viscera Seer\n1 Eternal Witness\n1 Buried Alive\n1 Victimize\n1 Grim Haruspex\n1 Accursed Marauder\n1 Fleshbag Marauder\n1 Ravenous Chupacabra\n1 High Market\n1 Cankerbloom\n1 Blood Artist\n1 Shriekmaw\n1 Zulaport Cutthroat\n1 Haywire Mite\n1 Syr Konrad, the Grim\n1 Solemn Simulacrum\n1 Butcher of Malakir\n1 Wood Elves\n1 Living Death\n1 Reclamation Sage\n1 Wight of the Reliquary\n1 Phyrexian Tower\n1 Caustic Caterpillar\n1 Satyr Wayfinder\n1 Demon's Disciple\n1 Midnight Reaper\n1 Junji, the Midnight Sky\n1 Merciless Executioner\n1 Fauna Shaman\n1 Insidious Fungus\n1 Acidic Slime\n1 Umbral Collar Zealot\n1 Village Rites\n1 Jarad, Golgari Lich Lord\n1 Grisly Salvage\n1 Grim Backwoods\n1 Viridian Emissary\n1 Woe Strider\n1 Jarad's Orders\n1 Morbid Opportunist\n1 Stitcher's Supplier\n1 Rise of the Witch-king\n1 Dread Return\n1 Journey to Eternity\n1 Disciple of Bolas\n1 Farhaven Elf\n1 Primal Growth\n1 Evolutionary Leap\n1 Tainted Wood\n1 Llanowar Elves\n1 Corrupted Conviction\n1 Moldervine Reclamation\n1 Insidious Roots\n1 Awakening Zone\n1 Honest Rutstein\n1 Izoni, Thousand-Eyed\n1 Life // Death\n1 Pitiless Plunderer\n1 Swamp\n1 Forest\n1 Swamp\n1 Forest\n1 Swamp\n1 Forest\n1 Swamp\n1 Forest\n1 Swamp\n1 Forest\n1 Swamp\n1 Forest\n1 Swamp\n1 Forest\n1 Swamp\n1 Forest\n1 Swamp\n1 Forest\n1 Swamp\n1 Forest\n1 Swamp\n1 Forest\n1 Swamp\n1 Forest\n1 Swamp\n1 Forest\n1 Swamp\n1 Forest\n1 Swamp\n1 Forest\n1 Swamp\n1 Forest\n1 Swamp\n1 Forest\n1 Swamp\n1 Forest\n1 Swamp",
-  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format."
+  "export_text": "1 Meren of Clan Nel Toth *CMDR*\n1 Spore Frog\n1 Plaguecrafter\n1 Sakura-Tribe Elder\n1 Gray Merchant of Asphodel\n1 Viscera Seer\n1 Eternal Witness\n1 Buried Alive\n1 Victimize\n1 Grim Haruspex\n1 Accursed Marauder\n1 Fleshbag Marauder\n1 Ravenous Chupacabra\n1 High Market\n1 Cankerbloom\n1 Blood Artist\n1 Shriekmaw\n1 Zulaport Cutthroat\n1 Haywire Mite\n1 Syr Konrad, the Grim\n1 Solemn Simulacrum\n1 Butcher of Malakir\n1 Wood Elves\n1 Living Death\n1 Reclamation Sage\n1 Wight of the Reliquary\n1 Phyrexian Tower\n1 Caustic Caterpillar\n1 Satyr Wayfinder\n1 Demon's Disciple\n1 Midnight Reaper\n1 Junji, the Midnight Sky\n1 Merciless Executioner\n1 Fauna Shaman\n1 Insidious Fungus\n1 Acidic Slime\n1 Umbral Collar Zealot\n1 Village Rites\n1 Jarad, Golgari Lich Lord\n1 Grisly Salvage\n1 Grim Backwoods\n1 Viridian Emissary\n1 Woe Strider\n1 Jarad's Orders\n1 Morbid Opportunist\n1 Stitcher's Supplier\n1 Rise of the Witch-king\n1 Dread Return\n1 Journey to Eternity\n1 Disciple of Bolas\n1 Farhaven Elf\n1 Primal Growth\n1 Evolutionary Leap\n1 Tainted Wood\n1 Llanowar Elves\n1 Corrupted Conviction\n1 Moldervine Reclamation\n1 Insidious Roots\n1 Awakening Zone\n1 Honest Rutstein\n1 Izoni, Thousand-Eyed\n1 Life // Death\n1 Pitiless Plunderer\n1 Command Tower\n1 Exotic Orchard\n1 Path of Ancestry\n1 Llanowar Wastes\n1 Noxious Bayou\n1 Svogthos, the Restless Tomb\n1 Twilight Mire\n1 Viridescent Bog\n1 Darkmoss Bridge\n1 Festering Gulch\n1 Festering Thicket\n1 Foggy Bottom Swamp\n1 Foul Orchard\n1 Gohn, Town of Ruin\n1 Golgari Guildgate\n1 Golgari Rot Farm\n1 Haunted Mire\n1 Hissing Quagmire\n1 Illegitimate Business\n1 Jungle Hollow\n1 Lounge\n1 Necroblossom Snarl\n1 Skemfar Elderhall\n1 Strangled Cemetery\n1 Temple of Malady\n1 Undergrowth Stadium\n1 Vernal Fen\n1 Access Tunnel\n1 Adventurer's Inn\n1 Aether Hub\n1 Swamp\n1 Forest\n1 Swamp\n1 Forest\n1 Swamp",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": false,
+    "counts": {
+      "lands": 39,
+      "ramp": 11,
+      "card_draw": 12,
+      "targeted_removal": 15,
+      "mass_removal": 1,
+      "synergy": 18,
+      "uncategorized": 1
+    },
+    "gaps": {
+      "mass_removal": {
+        "actual": 1,
+        "target": 6,
+        "needed": 5,
+        "suggestions": [
+          "Siege Dragon",
+          "Fuel the Flames",
+          "Torrent of Lava",
+          "Terisiare's Devastation",
+          "Crush the Weak"
+        ]
+      }
+    }
+  }
 }

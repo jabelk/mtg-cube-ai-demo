@@ -3,8 +3,8 @@
   "bracket": null,
   "budget": "unlimited",
   "style": "default",
-  "total_cards": 99,
-  "total_cost_display": "$3224.24",
+  "total_cards": 96,
+  "total_cost_display": "$3223.79",
   "deck": {
     "commander": "Najeela, the Blade-Blossom",
     "creatures": [
@@ -495,28 +495,51 @@
         "url": "https://manapool.com/card/10e/373/swamp"
       },
       {
-        "name": "Swamp",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/10e/373/swamp"
-      },
-      {
-        "name": "Forest",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/4ed/378/forest"
-      },
-      {
         "name": "Mountain",
         "price": "$0.15",
         "url": "https://manapool.com/card/40k/315/mountain"
-      },
-      {
-        "name": "Island",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/ala/234/island"
       }
     ],
     "other": []
   },
-  "export_text": "1 Najeela, the Blade-Blossom *CMDR*\n1 Birds of Paradise\n1 Blood-Chin Rager\n1 Bramblewood Paragon\n1 Champion of Lambholt\n1 Chatterfang, Squirrel General\n1 Deathrite Shaman\n1 Delighted Halfling\n1 Derevi, Empyrial Tactician\n1 Devilish Valet\n1 Elvish Spirit Guide\n1 Esper Sentinel\n1 Gornog, the Red Reaper\n1 Grand Abolisher\n1 Grim Hireling\n1 Herald of Dromoka\n1 Ignoble Hierarch\n1 Kutzil, Malamet Exemplar\n1 Mindblade Render\n1 Mirri, Weatherlight Duelist\n1 Noble Hierarch\n1 Professional Face-Breaker\n1 Ragavan, Nimble Pilferer\n1 Rushblade Commander\n1 Samut, Vizier of Naktamun\n1 Simian Spirit Guide\n1 Thassa's Oracle\n1 Voice of Victory\n1 Cyclonic Rift\n1 Deflecting Swat\n1 Eladamri's Call\n1 Enlightened Tutor\n1 Fierce Guardianship\n1 Flusterstorm\n1 Force of Will\n1 Heroic Intervention\n1 Mental Misstep\n1 Path to Exile\n1 Silence\n1 Swan Song\n1 Swords to Plowshares\n1 Vampiric Tutor\n1 Worldly Tutor\n1 Cultivate\n1 Demonic Tutor\n1 Diabolic Intent\n1 Eldritch Evolution\n1 Farseek\n1 Nature's Lore\n1 Sevinne's Reclamation\n1 Arcane Signet\n1 Chromatic Lantern\n1 Chrome Mox\n1 Fellwar Stone\n1 Lightning Greaves\n1 Lotus Petal\n1 Mox Diamond\n1 Skullclamp\n1 Sol Ring\n1 Druids' Repository\n1 Mystic Remora\n1 Nature's Will\n1 Rhystic Study\n1 Shared Animosity\n1 Underworld Breach\n1 Warleader's Call\n1 Arid Mesa\n1 Bayou\n1 Blood Crypt\n1 Bloodstained Mire\n1 Breeding Pool\n1 City of Brass\n1 Command Tower\n1 Exotic Orchard\n1 Flooded Strand\n1 Mana Confluence\n1 Marsh Flats\n1 Misty Rainforest\n1 Overgrown Tomb\n1 Path of Ancestry\n1 Polluted Delta\n1 Sacred Foundry\n1 Scalding Tarn\n1 Stomping Ground\n1 Taiga\n1 Temple Garden\n1 Tropical Island\n1 Verdant Catacombs\n1 Volcanic Island\n1 Windswept Heath\n1 Wooded Foothills\n1 Forest\n1 Island\n1 Mountain\n1 Plains\n1 Swamp\n1 Swamp\n1 Forest\n1 Mountain\n1 Island",
-  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format."
+  "export_text": "1 Najeela, the Blade-Blossom *CMDR*\n1 Birds of Paradise\n1 Blood-Chin Rager\n1 Bramblewood Paragon\n1 Champion of Lambholt\n1 Chatterfang, Squirrel General\n1 Deathrite Shaman\n1 Delighted Halfling\n1 Derevi, Empyrial Tactician\n1 Devilish Valet\n1 Elvish Spirit Guide\n1 Esper Sentinel\n1 Gornog, the Red Reaper\n1 Grand Abolisher\n1 Grim Hireling\n1 Herald of Dromoka\n1 Ignoble Hierarch\n1 Kutzil, Malamet Exemplar\n1 Mindblade Render\n1 Mirri, Weatherlight Duelist\n1 Noble Hierarch\n1 Professional Face-Breaker\n1 Ragavan, Nimble Pilferer\n1 Rushblade Commander\n1 Samut, Vizier of Naktamun\n1 Simian Spirit Guide\n1 Thassa's Oracle\n1 Voice of Victory\n1 Cyclonic Rift\n1 Deflecting Swat\n1 Eladamri's Call\n1 Enlightened Tutor\n1 Fierce Guardianship\n1 Flusterstorm\n1 Force of Will\n1 Heroic Intervention\n1 Mental Misstep\n1 Path to Exile\n1 Silence\n1 Swan Song\n1 Swords to Plowshares\n1 Vampiric Tutor\n1 Worldly Tutor\n1 Cultivate\n1 Demonic Tutor\n1 Diabolic Intent\n1 Eldritch Evolution\n1 Farseek\n1 Nature's Lore\n1 Sevinne's Reclamation\n1 Arcane Signet\n1 Chromatic Lantern\n1 Chrome Mox\n1 Fellwar Stone\n1 Lightning Greaves\n1 Lotus Petal\n1 Mox Diamond\n1 Skullclamp\n1 Sol Ring\n1 Druids' Repository\n1 Mystic Remora\n1 Nature's Will\n1 Rhystic Study\n1 Shared Animosity\n1 Underworld Breach\n1 Warleader's Call\n1 Arid Mesa\n1 Bayou\n1 Blood Crypt\n1 Bloodstained Mire\n1 Breeding Pool\n1 City of Brass\n1 Command Tower\n1 Exotic Orchard\n1 Flooded Strand\n1 Mana Confluence\n1 Marsh Flats\n1 Misty Rainforest\n1 Overgrown Tomb\n1 Path of Ancestry\n1 Polluted Delta\n1 Sacred Foundry\n1 Scalding Tarn\n1 Stomping Ground\n1 Taiga\n1 Temple Garden\n1 Tropical Island\n1 Verdant Catacombs\n1 Volcanic Island\n1 Windswept Heath\n1 Wooded Foothills\n1 Forest\n1 Island\n1 Mountain\n1 Plains\n1 Swamp\n1 Mountain",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": false,
+    "counts": {
+      "lands": 31,
+      "ramp": 21,
+      "card_draw": 10,
+      "targeted_removal": 4,
+      "mass_removal": 1,
+      "synergy": 29,
+      "uncategorized": 0
+    },
+    "gaps": {
+      "targeted_removal": {
+        "actual": 4,
+        "target": 10,
+        "needed": 6,
+        "suggestions": [
+          "Into Thin Air",
+          "Chandra, Hope's Beacon",
+          "Woodfall Primus",
+          "Nessian Wilds Ravager",
+          "Join the Dead"
+        ]
+      },
+      "mass_removal": {
+        "actual": 1,
+        "target": 6,
+        "needed": 5,
+        "suggestions": [
+          "Sudden Demise",
+          "Engineered Explosives",
+          "Stick Together",
+          "Desolation Giant",
+          "Earthshaker"
+        ]
+      }
+    }
+  }
 }

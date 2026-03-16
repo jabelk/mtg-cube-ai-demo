@@ -1,46 +1,97 @@
 # MTG Cube AI — Demo Showcase
 
-An AI-powered deck building platform with live marketplace pricing.
-Built for cube designers and Commander players.
+An AI-powered deck building platform with live Mana Pool marketplace
+pricing, EDHREC Commander data, and cube design knowledge from Lucky
+Paper. 20+ MCP tools for conversational deck building via Claude.
 
 ## What It Does
 
-19 MCP tools that let you talk to Claude about Magic deck building
-with real data behind every answer.
+Talk to Claude about Magic deck building with real data behind every
+answer — 33,573 cards with AI embeddings, 95,774 Mana Pool prices,
+193 curated cubes, 11,907 Lucky Paper transcript chunks, and EDHREC
+Commander data with bracket filtering.
 
 ---
 
-## Card Intelligence
+## Commander Deck Builder
 
-**33,573 cards** with AI embeddings for semantic similarity search.
+Build complete 100-card Commander decks from natural language with
+budget constraints, bracket filtering, hipster mode, and automatic
+deck health validation.
 
 ```
-> "Find cards similar to Dark Confidant"
+> "Build me a bracket 2 Najeela deck for $300 using hipster cards"
 
-  Keen Duelist               — same effect, budget alternative
-  Novice Occultist           — pay life for cards theme
-  Disciple of Bolas          — sacrifice for card advantage
-  Pain Seer                  — inspired Dark Confidant variant
+  Commander: Najeela, the Blade-Blossom
+  Bracket: Core (2)
+  Style: Hipster — avoiding top EDHREC staples
+  Total Cards: 99 + commander
+  Total Cost: $94 on Mana Pool
+
+  Deck Health Check:
+    ✅ Lands: 38  |  ✅ Ramp: 10  |  ✅ Card Draw: 10
+    ⚠️ Targeted Removal: 4 (need 6 more)
+    ⚠️ Mass Removal: 1 (need 5 more)
+    Suggestions: Swords to Plowshares, Wrath of God, ...
+
+  Every card has a manapool.com purchase URL
+  Export text ready for Moxfield/Archidekt import
+```
+
+### Budget Scaling
+
+| Commander | Budget | Cost | Nonlands | Lands | Fixing |
+|-----------|--------|------|----------|-------|--------|
+| Najeela (5-color) | Unlimited | $3,224 | 65 | 34 | 25 nonbasic |
+| Najeela | $300 | $94 | 61 | 38 | 33 fixing |
+| Najeela | $100 hipster | $33 | 53 | 46 | 32 fixing |
+| Meren (BG) | $150 | $36 | 57 | 42 | 35 fixing |
+| Krenko (mono-R) | $100 | $25 | 59 | 40 | 13 fixing |
+
+### Commander Exploration
+
+```
+> "Show me top Izzet commanders"
+
+  Vivi Ornitier                (27,998 decks)
+  Ghyrson Starn, Kelermorph    (18,846 decks)
+  Niv-Mizzet, Parun            (15,798 decks)
+
+> "Tell me about Najeela"
+
+  Top synergy cards:
+    Samut, Vizier of Naktamun   58% synergy
+    Derevi, Empyrial Tactician  53% synergy
+    Druids' Repository          45% synergy
 ```
 
 ---
 
-## Cube Analysis
+## Deck Health Check
 
-**193 curated cubes** from CubeCon 2022-2025 with full card associations.
+Validates any deck against the **Command Zone 2026 template**
+using Scryfall oracle tags for card classification.
 
 ```
-> "Analyze the Pro Tour Cube"
+> "Check my deck's health"
 
-  Color Distribution:
-    White: 113 (21.5%)  |  Blue: 109 (20.7%)  |  Black: 116 (22.1%)
-    Red: 108 (20.5%)    |  Green: 110 (20.9%)
+  Template: 38 lands, 10 ramp, 10 draw, 10 removal, 6 mass removal
 
-  Mana Curve: Heavy at 1-3 CMC, classic powered cube shape
-  Type Split: 43% creatures, 15% instants, 12% sorcery, 12% artifacts
+  ✅ Lands:              31 (target: 38) — compensated by 21 ramp
+  ✅ Ramp:               21 (target: 10) — exceeds target
+  ✅ Card Draw:          10 (target: 10) — on target
+  ❌ Targeted Removal:    4 (target: 10) — need 6 more
+  ❌ Mass Removal:        1 (target: 6)  — need 5 more
 
-  → Verdict: Exceptionally well-balanced across all five colors
+  Suggestions for targeted removal:
+    Swords to Plowshares, Path to Exile, Beast Within...
 ```
+
+Card classification powered by Scryfall oracle tags:
+- 2,082 ramp cards
+- 6,203 removal cards
+- 902 board wipes
+- 4,987 card draw cards
 
 ---
 
@@ -58,7 +109,6 @@ with real data behind every answer.
   Most Expensive:
     Mox Diamond          $931.08   → manapool.com/card/sth/138/mox-diamond
     Tropical Island      $380.84   → manapool.com/card/cei/284/tropical-island
-    Volcanic Island      $343.90   → manapool.com/card/30a/282/volcanic-island
 
   💡 30th Anniversary Budget Alternatives:
     Volcanic Island: $486 → $344 (30A) — save $142
@@ -67,49 +117,59 @@ with real data behind every answer.
     Total Savings: $288 by switching to 30A printings
 ```
 
----
-
-## Commander Deck Builder (EDHREC Powered)
-
-Build complete Commander decks from natural language with bracket
-filtering, budget constraints, and style preferences.
+### Vendor Sourcing
 
 ```
-> "Build me a bracket 2 Najeela deck for $300 using hipster cards"
+> "Source these cards from Mana Pool"
 
-  Commander: Najeela, the Blade-Blossom
-  Bracket: Core (2)
-  Style: Hipster — avoiding top EDHREC staples
-  Budget: Under $300
+  Available: 45/50 cards ($234.56)
+  Missing: 5 cards
 
-  Generated 65+ nonland cards at $156.32
-  All cards priced on Mana Pool with purchase links
-  Exportable to Moxfield/Archidekt format
-```
-
-```
-> "Show me top Izzet commanders"
-
-  Vivi Ornitier                (27,998 decks)
-  Ghyrson Starn, Kelermorph    (18,846 decks)
-  Niv-Mizzet, Parun            (15,798 decks)
-  Stella Lee, Wild Card         (15,047 decks)
+  AI Substitutions for missing cards:
+    [Missing Card] → [Available Alternative] $2.50
+      "Similar effect, in stock on Mana Pool"
 ```
 
 ---
 
-## Archetype-Aware Card Suggestions
+## Card Intelligence
 
-Keyword search + AI embeddings find cards that fit specific archetypes.
+**33,573 cards** with AI embeddings for semantic similarity search.
 
 ```
-> "Suggest BG reanimator cards for my Pro Tour Cube"
+> "Find cards similar to Dark Confidant"
 
-  Reanimate         — the best reanimation spell, $X on Mana Pool
-  Necromancy         — enchantment-based, harder to interact with
-  Coffin Queen       — repeatable reanimation engine
-  Phyrexian Tower    — sacrifice outlet that ramps
-  Entomb             — instant-speed tutor to graveyard
+  Keen Duelist               distance=0.1974
+  Novice Occultist           distance=0.2526
+  Disciple of Bolas          distance=0.3020
+```
+
+### EDHREC-Enhanced Suggestions
+
+```
+> "Suggest Meren BG reanimator cards for my cube"
+
+  Reanimate             score=5  (keyword + EDHREC synergy)
+  Necromancy            score=4  (keyword + EDHREC synergy)
+  Dread Return          score=4  (keyword + EDHREC synergy)
+  Spore Frog            score=3  (EDHREC synergy for Meren)
+  Plaguecrafter         score=3  (EDHREC synergy for Meren)
+```
+
+---
+
+## Cube Analysis
+
+**193 curated cubes** from CubeCon 2022-2025 with full card associations.
+
+```
+> "Analyze the Pro Tour Cube"
+
+  Color Distribution: White 21.5% | Blue 20.7% | Black 22.1% |
+                      Red 20.5% | Green 20.9%
+  Mana Curve: Heavy 1-3 CMC, classic powered cube
+  Types: 43% creatures, 15% instants, 12% artifacts
+  Verdict: Exceptionally well-balanced
 ```
 
 ---
@@ -117,24 +177,21 @@ Keyword search + AI embeddings find cards that fit specific archetypes.
 ## Cube Design Knowledge (RAG)
 
 **57 Lucky Paper articles + 11,907 podcast transcript chunks** with
-semantic search. Ask "why" questions about cube design and get answers
-grounded in expert knowledge.
+semantic search.
 
 ```
-> "What does Lucky Paper say about how many lands to run?"
+> "What does Lucky Paper say about reanimator?"
 
-  [EPISODE] How Many Lands Should you Include in Your Cube?
-    Andy and Anthony discuss precedents from other formats...
-    → luckypaper.co/podcast/107
+  [TRANSCRIPT] Analyzing Aquaone's Powered Cube (~77:19)
+    "Viagra brings the dead things back to life, and bombs
+     go off..."
 
-  [TRANSCRIPT] The Cube Player's Guide to Manabases (~37:20)
-    "...if I'm playing a green white deck I might not actually
-    need 17 lands to be able to consistently cast my spells..."
-    → luckypaper.co/podcast/058
+  [TRANSCRIPT] Modern Horizons 2 Set Review (~306:40)
+    "priest of fell rites return target creature card from
+     your graveyard to the battlefield..."
 
   [ARTICLE] How Many Lands Should You Include in Your Cube?
     Analysis drawing from retail limited format data...
-    → luckypaper.co/articles/how-many-lands-should-you-include
 ```
 
 ---
@@ -146,13 +203,28 @@ deck builder tool.
 
 ```
 > "Import my Moxfield deck at moxfield.com/decks/abc123"
-  → Fetches all cards, resolves against our database
-  → Ready for analysis, pricing, suggestions
+  → Fetches all cards via API, resolves against our database
+  → Ready for analysis, pricing, health check, suggestions
 
 > "Export this deck for Moxfield"
-  → Generates "1 Card Name" format with *CMDR* tags
+  → "1 Najeela, the Blade-Blossom *CMDR*\n1 Sol Ring\n..."
   → Copy-paste into any deck building tool
 ```
+
+---
+
+## Smart Land Base Builder
+
+Budget decks get proper mana fixing — not just basic lands.
+
+| Budget | Before | After |
+|--------|--------|-------|
+| Najeela $300 | 1 fixing + 37 basics | 33 fixing + 5 basics |
+| Najeela $100 | 0 fixing + 46 basics | 32 fixing + 5 basics |
+| Meren $150 | 5 fixing + 37 basics | 35 fixing + 5 basics |
+
+Picks guildgates, painlands, temples, utility lands —
+all under $2 each.
 
 ---
 
@@ -161,6 +233,7 @@ deck builder tool.
 | Data | Count |
 |------|-------|
 | Cards (Scryfall, all with AI embeddings) | 33,573 |
+| Card Tags (ramp, removal, wipe, draw) | 14,174 classified |
 | Cubes (CubeCon 2022-2025 + user cubes) | 193 |
 | Cube-Card Associations | 36,032 |
 | Card Prices (Mana Pool, daily refresh) | 95,774 |
@@ -169,15 +242,14 @@ deck builder tool.
 | Transcript Chunks (RAG searchable) | 11,907 |
 | EDHREC Commander Data | Cached on-demand |
 
----
-
 ## Architecture
 
-- **MCP Server**: 19 tools, Claude connects directly
+- **MCP Server**: 20+ tools, Claude connects directly
 - **Database**: Supabase (PostgreSQL + pgvector)
 - **Embeddings**: OpenAI text-embedding-3-small (768-dim)
 - **Pricing**: Mana Pool public API (95K+ cards)
-- **Commander Data**: EDHREC JSON endpoints
+- **Commander Data**: EDHREC JSON endpoints with bracket filtering
+- **Deck Validation**: Scryfall oracle tags + Command Zone template
 - **Storage**: Cloudflare R2 (podcast audio + transcripts)
 
 ---
@@ -189,16 +261,15 @@ deck builder tool.
 - "Price my cube/deck" with per-card breakdown + purchase URLs
 - 30th Anniversary budget alternatives for expensive cards
 - AI finds substitute cards that ARE available on Mana Pool
+- Commander deck builder → price → export → buy
+- Deck health validation ensures playable decks before purchase
 
 ### What Andrew's team could add:
-- **Seller filter on optimizer API** → enables single-vendor sourcing
-  ("buy all 100 cards from one seller, one shipping fee")
-- **"Shop CubeCon Cubes"** → browse 193 curated cubes, one-click
-  price and buy on Mana Pool
-- **Commander deck → cart** → AI builds the deck, Mana Pool fills
-  the order
+- **Seller filter on optimizer API** → single-vendor sourcing
+- **"Shop CubeCon Cubes"** → browse 193 cubes, one-click buy
+- **Commander deck → cart** → AI builds, validates, prices, buys
 
 ### The pitch:
-AI builds the deck. Mana Pool sells the cards. Every suggestion is
-a potential sale. The AI becomes an acquisition funnel for the
-marketplace.
+AI builds the deck. Validates it against the Command Zone template.
+Prices it on Mana Pool. User buys with one click.
+Every suggestion is a potential sale.

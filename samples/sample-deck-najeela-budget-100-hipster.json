@@ -4,7 +4,7 @@
   "budget": "$100",
   "style": "hipster",
   "total_cards": 99,
-  "total_cost_display": "$33.27",
+  "total_cost_display": "$35.03",
   "deck": {
     "commander": "Najeela, the Blade-Blossom",
     "creatures": [
@@ -330,24 +330,169 @@
         "url": "https://manapool.com/card/4ed/378/forest"
       },
       {
-        "name": "Swamp",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/10e/373/swamp"
+        "name": "Command Tower",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/325/command-tower"
       },
       {
-        "name": "Forest",
+        "name": "Exotic Orchard",
         "price": "$0.15",
-        "url": "https://manapool.com/card/4ed/378/forest"
+        "url": "https://manapool.com/card/blc/131/exotic-orchard"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Adarkar Wastes",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/blc/291/adarkar-wastes"
+      },
+      {
+        "name": "Aggressive Crag",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/cmb2/112/aggressive-crag"
+      },
+      {
+        "name": "An-Havva Township",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/hml/111/an-havva-township"
+      },
+      {
+        "name": "Aysen Abbey",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/hml/112/aysen-abbey"
+      },
+      {
+        "name": "Battlefield Forge",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/blc/293/battlefield-forge"
+      },
+      {
+        "name": "Bountiful Landscape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/217/bountiful-landscape"
+      },
+      {
+        "name": "Brushland",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/fic/377/brushland"
+      },
+      {
+        "name": "Calciform Pools",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/tsp/270/calciform-pools"
+      },
+      {
+        "name": "Cascade Bluffs",
+        "price": "$0.51",
+        "url": "https://manapool.com/card/eoc/153/cascade-bluffs"
+      },
+      {
+        "name": "Castle Sengir",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/hml/113/castle-sengir"
+      },
+      {
+        "name": "Cinder Marsh",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/tmp/317/cinder-marsh"
+      },
+      {
+        "name": "Cloudcrest Lake",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/chk/274/cloudcrest-lake"
+      },
+      {
+        "name": "Contaminated Landscape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/218/contaminated-landscape"
+      },
+      {
+        "name": "Contested Cliffs",
+        "price": "$0.29",
+        "url": "https://manapool.com/card/c13/282/contested-cliffs"
+      },
+      {
+        "name": "Crosis's Catacombs",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmr/242/crosiss-catacombs"
+      },
+      {
+        "name": "Crypt of the Eternals",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/hou/169/crypt-of-the-eternals"
+      },
+      {
+        "name": "Crystal Quarry",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/eos/10/crystal-quarry"
+      },
+      {
+        "name": "Darigaaz's Caldera",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmr/243/darigaazs-caldera"
+      },
+      {
+        "name": "Darkwater Catacombs",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/c19/238/darkwater-catacombs"
+      },
+      {
+        "name": "Deceptive Landscape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/219/deceptive-landscape"
+      },
+      {
+        "name": "Desolate Lighthouse",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/avr/227/desolate-lighthouse"
+      },
+      {
+        "name": "Desolate Mire",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/386/desolate-mire"
+      },
+      {
+        "name": "Dreadship Reef",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/tsp/271/dreadship-reef"
+      },
+      {
+        "name": "Dromar's Cavern",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmr/246/dromars-cavern"
+      },
+      {
+        "name": "Abandoned Campground",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsk/255/abandoned-campground"
+      },
+      {
+        "name": "Abraded Bluffs",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/otj/251/abraded-bluffs"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Aether Hub",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/drc/145/aether-hub"
       },
       {
         "name": "Mountain",
         "price": "$0.15",
         "url": "https://manapool.com/card/40k/315/mountain"
-      },
-      {
-        "name": "Island",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/ala/234/island"
       },
       {
         "name": "Plains",
@@ -365,158 +510,75 @@
         "url": "https://manapool.com/card/4ed/378/forest"
       },
       {
-        "name": "Mountain",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/40k/315/mountain"
-      },
-      {
         "name": "Island",
         "price": "$0.15",
         "url": "https://manapool.com/card/ala/234/island"
-      },
-      {
-        "name": "Plains",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/afr/262/plains"
-      },
-      {
-        "name": "Swamp",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/10e/373/swamp"
-      },
-      {
-        "name": "Forest",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/4ed/378/forest"
-      },
-      {
-        "name": "Mountain",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/40k/315/mountain"
-      },
-      {
-        "name": "Island",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/ala/234/island"
-      },
-      {
-        "name": "Plains",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/afr/262/plains"
-      },
-      {
-        "name": "Swamp",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/10e/373/swamp"
-      },
-      {
-        "name": "Forest",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/4ed/378/forest"
-      },
-      {
-        "name": "Mountain",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/40k/315/mountain"
-      },
-      {
-        "name": "Island",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/ala/234/island"
-      },
-      {
-        "name": "Plains",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/afr/262/plains"
-      },
-      {
-        "name": "Swamp",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/10e/373/swamp"
-      },
-      {
-        "name": "Forest",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/4ed/378/forest"
-      },
-      {
-        "name": "Mountain",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/40k/315/mountain"
-      },
-      {
-        "name": "Island",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/ala/234/island"
-      },
-      {
-        "name": "Plains",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/afr/262/plains"
-      },
-      {
-        "name": "Swamp",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/10e/373/swamp"
-      },
-      {
-        "name": "Forest",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/4ed/378/forest"
-      },
-      {
-        "name": "Mountain",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/40k/315/mountain"
-      },
-      {
-        "name": "Island",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/ala/234/island"
-      },
-      {
-        "name": "Plains",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/afr/262/plains"
-      },
-      {
-        "name": "Swamp",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/10e/373/swamp"
-      },
-      {
-        "name": "Forest",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/4ed/378/forest"
-      },
-      {
-        "name": "Mountain",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/40k/315/mountain"
-      },
-      {
-        "name": "Island",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/ala/234/island"
-      },
-      {
-        "name": "Plains",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/afr/262/plains"
-      },
-      {
-        "name": "Swamp",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/10e/373/swamp"
-      },
-      {
-        "name": "Forest",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/4ed/378/forest"
       }
     ],
     "other": []
   },
-  "export_text": "1 Najeela, the Blade-Blossom *CMDR*\n1 Collective Inferno\n1 Rushblade Commander\n1 Blood-Chin Rager\n1 Herald of Dromoka\n1 Devilish Valet\n1 Grand Warlord Radha\n1 Flusterstorm\n1 Tinder Wall\n1 Kargan Warleader\n1 Combat Celebrant\n1 Brutal Hordechief\n1 Isshin, Two Heavens as One\n1 Sevinne's Reclamation\n1 Shared Animosity\n1 Chief of the Edge\n1 Lovisa Coldeyes\n1 Aven Wind Guide\n1 Warleader's Call\n1 Alesha, Who Smiles at Death\n1 Shanna, Sisay's Legacy\n1 Marneus Calgar\n1 Ogre Battledriver\n1 Suki, Kyoshi Captain\n1 Baylen, the Haymaker\n1 Raiders' Spoils\n1 Zurgo, Thunder's Decree\n1 Thrasher Brute\n1 Decorated Champion\n1 Culling Ritual\n1 Neoform\n1 Stadium Headliner\n1 Abrupt Decay\n1 Unbreakable Formation\n1 Moraug, Fury of Akoum\n1 Fire Covenant\n1 Will of the Mardu\n1 Finale of Devastation\n1 Carpet of Flowers\n1 Nature's Claim\n1 Harvest Season\n1 Within Range\n1 Dispel\n1 Bident of Thassa\n1 Simian Spirit Guide\n1 Selfless Safewright\n1 Heroic Intervention\n1 Shamanic Revelation\n1 Wild Growth\n1 Reconnaissance Mission\n1 Etchings of the Chosen\n1 Assassin's Trophy\n1 Curious Colossus\n1 Negate\n1 Island\n1 Plains\n1 Swamp\n1 Forest\n1 Mountain\n1 Island\n1 Plains\n1 Swamp\n1 Forest\n1 Swamp\n1 Forest\n1 Mountain\n1 Island\n1 Plains\n1 Swamp\n1 Forest\n1 Mountain\n1 Island\n1 Plains\n1 Swamp\n1 Forest\n1 Mountain\n1 Island\n1 Plains\n1 Swamp\n1 Forest\n1 Mountain\n1 Island\n1 Plains\n1 Swamp\n1 Forest\n1 Mountain\n1 Island\n1 Plains\n1 Swamp\n1 Forest\n1 Mountain\n1 Island\n1 Plains\n1 Swamp\n1 Forest\n1 Mountain\n1 Island\n1 Plains\n1 Swamp\n1 Forest",
-  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format."
+  "export_text": "1 Najeela, the Blade-Blossom *CMDR*\n1 Collective Inferno\n1 Rushblade Commander\n1 Blood-Chin Rager\n1 Herald of Dromoka\n1 Devilish Valet\n1 Grand Warlord Radha\n1 Flusterstorm\n1 Tinder Wall\n1 Kargan Warleader\n1 Combat Celebrant\n1 Brutal Hordechief\n1 Isshin, Two Heavens as One\n1 Sevinne's Reclamation\n1 Shared Animosity\n1 Chief of the Edge\n1 Lovisa Coldeyes\n1 Aven Wind Guide\n1 Warleader's Call\n1 Alesha, Who Smiles at Death\n1 Shanna, Sisay's Legacy\n1 Marneus Calgar\n1 Ogre Battledriver\n1 Suki, Kyoshi Captain\n1 Baylen, the Haymaker\n1 Raiders' Spoils\n1 Zurgo, Thunder's Decree\n1 Thrasher Brute\n1 Decorated Champion\n1 Culling Ritual\n1 Neoform\n1 Stadium Headliner\n1 Abrupt Decay\n1 Unbreakable Formation\n1 Moraug, Fury of Akoum\n1 Fire Covenant\n1 Will of the Mardu\n1 Finale of Devastation\n1 Carpet of Flowers\n1 Nature's Claim\n1 Harvest Season\n1 Within Range\n1 Dispel\n1 Bident of Thassa\n1 Simian Spirit Guide\n1 Selfless Safewright\n1 Heroic Intervention\n1 Shamanic Revelation\n1 Wild Growth\n1 Reconnaissance Mission\n1 Etchings of the Chosen\n1 Assassin's Trophy\n1 Curious Colossus\n1 Negate\n1 Island\n1 Plains\n1 Swamp\n1 Forest\n1 Mountain\n1 Island\n1 Plains\n1 Swamp\n1 Forest\n1 Command Tower\n1 Exotic Orchard\n1 Path of Ancestry\n1 Adarkar Wastes\n1 Aggressive Crag\n1 An-Havva Township\n1 Aysen Abbey\n1 Battlefield Forge\n1 Bountiful Landscape\n1 Brushland\n1 Calciform Pools\n1 Cascade Bluffs\n1 Castle Sengir\n1 Cinder Marsh\n1 Cloudcrest Lake\n1 Contaminated Landscape\n1 Contested Cliffs\n1 Crosis's Catacombs\n1 Crypt of the Eternals\n1 Crystal Quarry\n1 Darigaaz's Caldera\n1 Darkwater Catacombs\n1 Deceptive Landscape\n1 Desolate Lighthouse\n1 Desolate Mire\n1 Dreadship Reef\n1 Dromar's Cavern\n1 Abandoned Campground\n1 Abraded Bluffs\n1 Access Tunnel\n1 Adventurer's Inn\n1 Aether Hub\n1 Mountain\n1 Plains\n1 Swamp\n1 Forest\n1 Island",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": false,
+    "counts": {
+      "lands": 46,
+      "ramp": 7,
+      "card_draw": 5,
+      "targeted_removal": 7,
+      "mass_removal": 1,
+      "synergy": 33,
+      "uncategorized": 0
+    },
+    "gaps": {
+      "ramp": {
+        "actual": 7,
+        "target": 10,
+        "needed": 3,
+        "suggestions": [
+          "Ordeal of Nylea",
+          "Krark-Clan Ironworks",
+          "Timeless Lotus",
+          "Drumhunter",
+          "Inherited Envelope"
+        ]
+      },
+      "card_draw": {
+        "actual": 5,
+        "target": 10,
+        "needed": 5,
+        "suggestions": [
+          "Dream Strix",
+          "Vivien Reid",
+          "Squee's Revenge",
+          "Gravelighter",
+          "Nezahal, Primal Tide"
+        ]
+      },
+      "targeted_removal": {
+        "actual": 7,
+        "target": 10,
+        "needed": 3,
+        "suggestions": [
+          "Lingering Death",
+          "Mortality Spear",
+          "Slaughter Pact",
+          "Acceptable Losses",
+          "Deepfire Elemental"
+        ]
+      },
+      "mass_removal": {
+        "actual": 1,
+        "target": 6,
+        "needed": 5,
+        "suggestions": [
+          "Harsh Mercy",
+          "Wildfire Cerberus",
+          "Battle of Frost and Fire",
+          "Seeds of Innocence",
+          "Avatar's Wrath"
+        ]
+      }
+    }
+  }
 }

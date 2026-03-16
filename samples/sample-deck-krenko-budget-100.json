@@ -4,7 +4,7 @@
   "budget": "$100",
   "style": "default",
   "total_cards": 99,
-  "total_cost_display": "$25.12",
+  "total_cost_display": "$25.90",
   "deck": {
     "commander": "Krenko, Mob Boss",
     "creatures": [
@@ -330,54 +330,54 @@
         "url": "https://manapool.com/card/aafr/60/den-of-the-bugbear"
       },
       {
-        "name": "Mountain",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/40k/315/mountain"
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
       },
       {
-        "name": "Mountain",
+        "name": "Adventurer's Inn",
         "price": "$0.15",
-        "url": "https://manapool.com/card/40k/315/mountain"
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
       },
       {
-        "name": "Mountain",
+        "name": "Aether Hub",
         "price": "$0.15",
-        "url": "https://manapool.com/card/40k/315/mountain"
+        "url": "https://manapool.com/card/drc/145/aether-hub"
       },
       {
-        "name": "Mountain",
+        "name": "Amonkhet Raceway",
         "price": "$0.15",
-        "url": "https://manapool.com/card/40k/315/mountain"
+        "url": "https://manapool.com/card/dft/248/amonkhet-raceway"
       },
       {
-        "name": "Mountain",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/40k/315/mountain"
+        "name": "Ancient Ziggurat",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/ecc/144/ancient-ziggurat"
       },
       {
-        "name": "Mountain",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/40k/315/mountain"
+        "name": "Arch of Orazca",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/lcc/319/arch-of-orazca"
       },
       {
-        "name": "Mountain",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/40k/315/mountain"
+        "name": "Archaeological Dig",
+        "price": "$0.35",
+        "url": "https://manapool.com/card/inv/320/archaeological-dig"
       },
       {
-        "name": "Mountain",
+        "name": "Archway Commons",
         "price": "$0.15",
-        "url": "https://manapool.com/card/40k/315/mountain"
+        "url": "https://manapool.com/card/plst/STX-263/archway-commons"
       },
       {
-        "name": "Mountain",
-        "price": "$0.15",
-        "url": "https://manapool.com/card/40k/315/mountain"
+        "name": "Arid Archway",
+        "price": "$0.34",
+        "url": "https://manapool.com/card/otj/252/arid-archway"
       },
       {
-        "name": "Mountain",
+        "name": "Ash Barrens",
         "price": "$0.15",
-        "url": "https://manapool.com/card/40k/315/mountain"
+        "url": "https://manapool.com/card/40k/265/ash-barrens"
       },
       {
         "name": "Mountain",
@@ -517,6 +517,56 @@
     ],
     "other": []
   },
-  "export_text": "1 Krenko, Mob Boss *CMDR*\n1 Goblin Warchief\n1 Skirk Prospector\n1 Goblin Matron\n1 Pashalik Mons\n1 Siege-Gang Commander\n1 Goblin War Strike\n1 Krenko's Command\n1 Goblin Chirurgeon\n1 Goblin Ringleader\n1 Dragon Fodder\n1 Shared Animosity\n1 Goblin Instigator\n1 Hordeling Outburst\n1 Legion Warboss\n1 Battle Cry Goblin\n1 Massive Raid\n1 Gempalm Incinerator\n1 Goblin Grenade\n1 Beetleback Chief\n1 Mogg War Marshal\n1 Goro-Goro, Disciple of Ryusei\n1 Quest for the Goblin Lord\n1 Goblin Motivator\n1 Marvin, Murderous Mimic\n1 Raid Bombardment\n1 Searslicer Goblin\n1 Moria Marauder\n1 Volley Veteran\n1 Empty the Warrens\n1 Castle Embereth\n1 Path of Ancestry\n1 Grenzo, Havoc Raiser\n1 Treasure Nabber\n1 Squee, Dubious Monarch\n1 Goblin Lookout\n1 Goblin Surprise\n1 Mob Justice\n1 Torch Courier\n1 Battle Squadron\n1 Rising of the Day\n1 Fervor\n1 Den of the Bugbear\n1 Siege-Gang Lieutenant\n1 Goblin Wardriver\n1 Foundry Street Denizen\n1 Outnumber\n1 Goblin Negotiation\n1 Dark-Dweller Oracle\n1 You See a Pair of Goblins\n1 Goblin Rabblemaster\n1 Goblin War Drums\n1 Goblin Cratermaker\n1 Goblin War Party\n1 Hazoret's Monument\n1 Heraldic Banner\n1 Frenzied Goblin\n1 Goblin Rally\n1 Squee, the Immortal\n1 Goblin Sledder\n1 Reckless One\n1 Rummaging Goblin\n1 Last-Ditch Effort\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain",
-  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format."
+  "export_text": "1 Krenko, Mob Boss *CMDR*\n1 Goblin Warchief\n1 Skirk Prospector\n1 Goblin Matron\n1 Pashalik Mons\n1 Siege-Gang Commander\n1 Goblin War Strike\n1 Krenko's Command\n1 Goblin Chirurgeon\n1 Goblin Ringleader\n1 Dragon Fodder\n1 Shared Animosity\n1 Goblin Instigator\n1 Hordeling Outburst\n1 Legion Warboss\n1 Battle Cry Goblin\n1 Massive Raid\n1 Gempalm Incinerator\n1 Goblin Grenade\n1 Beetleback Chief\n1 Mogg War Marshal\n1 Goro-Goro, Disciple of Ryusei\n1 Quest for the Goblin Lord\n1 Goblin Motivator\n1 Marvin, Murderous Mimic\n1 Raid Bombardment\n1 Searslicer Goblin\n1 Moria Marauder\n1 Volley Veteran\n1 Empty the Warrens\n1 Castle Embereth\n1 Path of Ancestry\n1 Grenzo, Havoc Raiser\n1 Treasure Nabber\n1 Squee, Dubious Monarch\n1 Goblin Lookout\n1 Goblin Surprise\n1 Mob Justice\n1 Torch Courier\n1 Battle Squadron\n1 Rising of the Day\n1 Fervor\n1 Den of the Bugbear\n1 Siege-Gang Lieutenant\n1 Goblin Wardriver\n1 Foundry Street Denizen\n1 Outnumber\n1 Goblin Negotiation\n1 Dark-Dweller Oracle\n1 You See a Pair of Goblins\n1 Goblin Rabblemaster\n1 Goblin War Drums\n1 Goblin Cratermaker\n1 Goblin War Party\n1 Hazoret's Monument\n1 Heraldic Banner\n1 Frenzied Goblin\n1 Goblin Rally\n1 Squee, the Immortal\n1 Goblin Sledder\n1 Reckless One\n1 Rummaging Goblin\n1 Last-Ditch Effort\n1 Access Tunnel\n1 Adventurer's Inn\n1 Aether Hub\n1 Amonkhet Raceway\n1 Ancient Ziggurat\n1 Arch of Orazca\n1 Archaeological Dig\n1 Archway Commons\n1 Arid Archway\n1 Ash Barrens\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": false,
+    "counts": {
+      "lands": 40,
+      "ramp": 3,
+      "card_draw": 4,
+      "targeted_removal": 14,
+      "mass_removal": 0,
+      "synergy": 38,
+      "uncategorized": 0
+    },
+    "gaps": {
+      "ramp": {
+        "actual": 3,
+        "target": 10,
+        "needed": 7,
+        "suggestions": [
+          "Jaheira's Respite",
+          "Natural Connection",
+          "Xenagos, the Reveler",
+          "Sisters of the Flame",
+          "Bioengineered Future"
+        ]
+      },
+      "card_draw": {
+        "actual": 4,
+        "target": 10,
+        "needed": 6,
+        "suggestions": [
+          "Sicarian Infiltrator",
+          "Eviscerator's Insight",
+          "Underworld Connections",
+          "Treeshaker Chimera",
+          "Jennika, Bad Apple Big Sister"
+        ]
+      },
+      "mass_removal": {
+        "actual": 0,
+        "target": 6,
+        "needed": 6,
+        "suggestions": [
+          "Terror Tide",
+          "Extinction",
+          "Ifh-B\u00edff Efreet",
+          "Lavabrink Floodgates",
+          "Elspeth Tirel"
+        ]
+      }
+    }
+  }
 }
