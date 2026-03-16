@@ -8,7 +8,7 @@ Paper. 20+ MCP tools for conversational deck building via Claude.
 
 Talk to Claude about Magic deck building with real data behind every
 answer — 33,573 cards with AI embeddings, 95,774 Mana Pool prices,
-193 curated cubes, 11,907 Lucky Paper transcript chunks, and EDHREC
+193 curated cubes, 11,895 Lucky Paper transcript chunks, and EDHREC
 Commander data with bracket filtering.
 
 ---
@@ -134,14 +134,23 @@ Card classification powered by Scryfall oracle tags:
 
 ## Card Intelligence
 
-**33,573 cards** with AI embeddings for semantic similarity search.
+**33,573 cards** with tag-aware AI embeddings. Each card's embedding
+includes its function tags (ramp, removal, board wipe, card draw) so
+similarity search clusters cards by what they *do*, not just what
+they look like.
 
 ```
-> "Find cards similar to Dark Confidant"
+> "Find cards similar to Cultivate"  (ramp)
 
-  Keen Duelist               distance=0.1974
-  Novice Occultist           distance=0.2526
-  Disciple of Bolas          distance=0.3020
+  Rampant Growth             distance=0.2061
+  Explore                    distance=0.1969
+  Flare of Cultivation       distance=0.1371
+
+> "Find cards similar to Shock"  (removal)
+
+  Sudden Shock               distance=0.1673
+  Electrify                  distance=0.2775
+  Explosive Impact           distance=0.2674
 ```
 
 ### EDHREC-Enhanced Suggestions
@@ -242,14 +251,14 @@ all under $2 each.
 | Card Prices (Mana Pool, daily refresh) | 95,774 |
 | Lucky Paper Articles (with embeddings) | 57 |
 | Podcast Episodes (transcribed) | 303 |
-| Transcript Chunks (RAG searchable) | 11,907 |
+| Transcript Chunks (RAG, cleaned) | 11,895 |
 | EDHREC Commander Data | Cached on-demand |
 
 ## Architecture
 
 - **MCP Server**: 20+ tools, Claude connects directly
 - **Database**: Supabase (PostgreSQL + pgvector)
-- **Embeddings**: OpenAI text-embedding-3-small (768-dim)
+- **Embeddings**: OpenAI text-embedding-3-small (768-dim, tag-aware)
 - **Pricing**: Mana Pool public API (95K+ cards)
 - **Commander Data**: EDHREC JSON endpoints with bracket filtering
 - **Deck Validation**: Scryfall oracle tags + Command Zone template
