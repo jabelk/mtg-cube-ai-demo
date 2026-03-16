@@ -1,0 +1,91 @@
+{
+  "cube_name": "Clone of The Pro Tour Cube (540)",
+  "total_cards": 526,
+  "priced_cards": 526,
+  "unavailable_cards": [],
+  "total_cost_cents": 496980,
+  "total_cost_display": "$4969.80",
+  "average_card_price": "$9.45",
+  "top_10_most_expensive": [
+    {
+      "name": "Mox Diamond",
+      "price": "$931.08",
+      "url": "https://manapool.com/card/sth/138/mox-diamond"
+    },
+    {
+      "name": "Tropical Island",
+      "price": "$380.84",
+      "url": "https://manapool.com/card/cei/284/tropical-island"
+    },
+    {
+      "name": "Volcanic Island",
+      "price": "$343.90",
+      "url": "https://manapool.com/card/30a/282/volcanic-island"
+    },
+    {
+      "name": "Tundra",
+      "price": "$276.13",
+      "url": "https://manapool.com/card/30a/280/tundra"
+    },
+    {
+      "name": "Savannah",
+      "price": "$208.38",
+      "url": "https://manapool.com/card/30a/276/savannah"
+    },
+    {
+      "name": "Badlands",
+      "price": "$203.37",
+      "url": "https://manapool.com/card/cei/278/badlands"
+    },
+    {
+      "name": "Scrubland",
+      "price": "$202.52",
+      "url": "https://manapool.com/card/cei/282/scrubland"
+    },
+    {
+      "name": "Mox Opal",
+      "price": "$182.43",
+      "url": "https://manapool.com/card/som/179/mox-opal"
+    },
+    {
+      "name": "Tolarian Academy",
+      "price": "$105.24",
+      "url": "https://manapool.com/card/usg/330/tolarian-academy"
+    },
+    {
+      "name": "The One Ring",
+      "price": "$94.42",
+      "url": "https://manapool.com/card/ltr/451/the-one-ring"
+    }
+  ],
+  "budget_30a_alternatives": [
+    {
+      "name": "Volcanic Island",
+      "original_price": "$485.62",
+      "original_set": "CED",
+      "thirty_a_price": "$343.90",
+      "savings": "$141.72",
+      "thirty_a_set": "30A",
+      "thirty_a_url": "https://manapool.com/card/30a/282/volcanic-island"
+    },
+    {
+      "name": "Tundra",
+      "original_price": "$373.26",
+      "original_set": "3ED",
+      "thirty_a_price": "$276.13",
+      "savings": "$97.13",
+      "thirty_a_set": "30A",
+      "thirty_a_url": "https://manapool.com/card/30a/280/tundra"
+    },
+    {
+      "name": "Savannah",
+      "original_price": "$257.83",
+      "original_set": "3ED",
+      "thirty_a_price": "$208.38",
+      "savings": "$49.45",
+      "thirty_a_set": "30A",
+      "thirty_a_url": "https://manapool.com/card/30a/276/savannah"
+    }
+  ],
+  "potential_savings_with_30a": "$288.30"
+}

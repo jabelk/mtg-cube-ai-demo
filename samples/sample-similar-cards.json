@@ -1,0 +1,76 @@
+{
+  "query_card": "Dark Confidant",
+  "count": 10,
+  "similar_cards": [
+    {
+      "id": "66473ed4-a605-4860-a7e4-590618dd17f1",
+      "oracle_id": "b8602f19-6fc2-43c4-b0c4-2cd11d5dbda2",
+      "name": "Keen Duelist",
+      "type_line": "Creature \u2014 Human Wizard",
+      "distance": 0.197520076859006
+    },
+    {
+      "id": "30f64ff7-9d9f-4f73-9cad-9269eefe96ea",
+      "oracle_id": "e51f5b41-5465-4b1d-b96a-544762657ca5",
+      "name": "Novice Occultist",
+      "type_line": "Creature \u2014 Human Wizard",
+      "distance": 0.252688981672793
+    },
+    {
+      "id": "4efabe5e-5161-4e26-80d1-17b16763c1c5",
+      "oracle_id": "e21cc22b-d7d0-435d-a87f-6aa8e0b96c9b",
+      "name": "The Keeper of Dark Pacts",
+      "type_line": "Legendary Creature \u2014 Human Wizard",
+      "distance": 0.255015839346048
+    },
+    {
+      "id": "f1eeb25e-0ec9-4bab-8c5a-7841901be265",
+      "oracle_id": "6df57d67-2fd9-4e7a-b67b-f361fc30e496",
+      "name": "Distinguished Conjurer",
+      "type_line": "Creature \u2014 Human Wizard",
+      "distance": 0.27314978412781
+    },
+    {
+      "id": "12f0ffa2-e3b7-40b7-8d64-962293d7439b",
+      "oracle_id": "edbde032-4432-4610-83a2-a52f6ce199e1",
+      "name": "Death Cultist",
+      "type_line": "Creature \u2014 Human Wizard",
+      "distance": 0.284071150675286
+    },
+    {
+      "id": "18c4afca-30a0-4b40-a5cf-2b0da3f159af",
+      "oracle_id": "b78973fa-a4cb-4927-8a75-6b1c963c1c0c",
+      "name": "Confessor",
+      "type_line": "Creature \u2014 Human Cleric",
+      "distance": 0.284883715138531
+    },
+    {
+      "id": "430c3358-83a7-4dfa-8e9a-36accf8fba4c",
+      "oracle_id": "1c3105d2-21cf-47f1-a615-bb7a0d5e3d8d",
+      "name": "Gale, Abyssal Conduit",
+      "type_line": "Legendary Creature \u2014 Human Wizard",
+      "distance": 0.297483461656184
+    },
+    {
+      "id": "ddeeeb4d-eca7-45ab-9e8b-4875eccfe7aa",
+      "oracle_id": "877bfa3f-6e30-4cb3-831e-d56849b01334",
+      "name": "Orzhov Guildmage",
+      "type_line": "Creature \u2014 Human Wizard",
+      "distance": 0.298666838725095
+    },
+    {
+      "id": "11524024-0a1f-4710-ab73-ce30d6b3aa36",
+      "oracle_id": "8f2c8498-5b10-4ec7-8678-598c90987556",
+      "name": "Disciple of Bolas",
+      "type_line": "Creature \u2014 Human Wizard",
+      "distance": 0.302106359663795
+    },
+    {
+      "id": "20af4c1a-1365-4573-bddc-0a404adb9f51",
+      "oracle_id": "d696aba9-ef3e-4f81-821a-c1df51431b8a",
+      "name": "Cunning Lethemancer",
+      "type_line": "Creature \u2014 Human Wizard",
+      "distance": 0.303171435093028
+    }
+  ]
+}

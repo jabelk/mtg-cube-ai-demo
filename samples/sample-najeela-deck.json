@@ -1,0 +1,352 @@
+{
+  "commander": "Najeela, the Blade-Blossom",
+  "bracket": "2",
+  "budget": "$300",
+  "style": "hipster",
+  "total_cards": 65,
+  "total_cost_display": "$156.32",
+  "deck": {
+    "commander": "Najeela, the Blade-Blossom",
+    "creatures": [
+      {
+        "name": "Selfless Safewright",
+        "price": "$0.41",
+        "url": "https://manapool.com/card/ecl/193/selfless-safewright"
+      },
+      {
+        "name": "Scuzzback Scrounger",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ecl/153/scuzzback-scrounger"
+      },
+      {
+        "name": "Ignoble Hierarch",
+        "price": "$0.80",
+        "url": "https://manapool.com/card/ecc/52/ignoble-hierarch"
+      },
+      {
+        "name": "Vanguard Suppressor",
+        "price": "$0.66",
+        "url": "https://manapool.com/card/40k/27/vanguard-suppressor"
+      },
+      {
+        "name": "Samut, Voice of Dissent",
+        "price": "$2.03",
+        "url": "https://manapool.com/card/akh/205/samut-voice-of-dissent"
+      },
+      {
+        "name": "Oakhame Adversary",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/plst/ELD-167/oakhame-adversary"
+      },
+      {
+        "name": "Moraug, Fury of Akoum",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/aznr/66/moraug-fury-of-akoum"
+      },
+      {
+        "name": "Surrak Dragonclaw",
+        "price": "$1.39",
+        "url": "https://manapool.com/card/ktk/206/surrak-dragonclaw"
+      },
+      {
+        "name": "Jazal Goldmane",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/142/jazal-goldmane"
+      },
+      {
+        "name": "Zurgo Helmsmasher",
+        "price": "$0.30",
+        "url": "https://manapool.com/card/ktk/214/zurgo-helmsmasher"
+      },
+      {
+        "name": "Chief of the Scale",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ktk/170/chief-of-the-scale"
+      },
+      {
+        "name": "General Marhault Elsdragon",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmc/31/general-marhault-elsdragon"
+      },
+      {
+        "name": "Iroas, God of Victory",
+        "price": "$11.72",
+        "url": "https://manapool.com/card/plst/C16-205/iroas-god-of-victory"
+      },
+      {
+        "name": "Stadium Headliner",
+        "price": "$0.51",
+        "url": "https://manapool.com/card/tdm/122/stadium-headliner"
+      },
+      {
+        "name": "Rhys the Redeemed",
+        "price": "$1.81",
+        "url": "https://manapool.com/card/tle/52/rhys-the-redeemed"
+      },
+      {
+        "name": "Archetype of Aggression",
+        "price": "$2.59",
+        "url": "https://manapool.com/card/bng/88/archetype-of-aggression"
+      },
+      {
+        "name": "Space Marine Devastator",
+        "price": "$0.98",
+        "url": "https://manapool.com/card/40k/14/space-marine-devastator"
+      },
+      {
+        "name": "Ogre Battledriver",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdc/227/ogre-battledriver"
+      },
+      {
+        "name": "Isshin, Two Heavens as One",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/aneo/69/isshin-two-heavens-as-one"
+      },
+      {
+        "name": "Shanna, Sisay's Legacy",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dom/204/shanna-sisays-legacy"
+      },
+      {
+        "name": "Combat Celebrant",
+        "price": "$0.53",
+        "url": "https://manapool.com/card/j25/531/combat-celebrant"
+      },
+      {
+        "name": "Gornog, the Red Reaper",
+        "price": "$3.95",
+        "url": "https://manapool.com/card/j25/49/gornog-the-red-reaper"
+      },
+      {
+        "name": "Marneus Calgar",
+        "price": "N/A",
+        "url": "https://manapool.com/card/40k/175/marneus-calgar"
+      },
+      {
+        "name": "Alesha, Who Laughs at Fate",
+        "price": "$1.78",
+        "url": "https://manapool.com/card/fdn/115/alesha-who-laughs-at-fate"
+      },
+      {
+        "name": "Thrasher Brute",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/bbd/52/thrasher-brute"
+      },
+      {
+        "name": "Decorated Champion",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/bbd/69/decorated-champion"
+      },
+      {
+        "name": "Chatterfang, Squirrel General",
+        "price": "$2.60",
+        "url": "https://manapool.com/card/mh2/151/chatterfang-squirrel-general"
+      },
+      {
+        "name": "Vexilus Praetor",
+        "price": "$25.67",
+        "url": "https://manapool.com/card/40k/19/vexilus-praetor"
+      },
+      {
+        "name": "Suki, Kyoshi Captain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tle/85/suki-kyoshi-captain"
+      },
+      {
+        "name": "Baylen, the Haymaker",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blb/205/baylen-the-haymaker"
+      },
+      {
+        "name": "Maja, Bretagard Protector",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/khm/327/maja-bretagard-protector"
+      },
+      {
+        "name": "Ultramarines Honour Guard",
+        "price": "$3.05",
+        "url": "https://manapool.com/card/40k/18/ultramarines-honour-guard"
+      },
+      {
+        "name": "Derevi, Empyrial Tactician",
+        "price": "$7.13",
+        "url": "https://manapool.com/card/c13/186/derevi-empyrial-tactician"
+      },
+      {
+        "name": "Marisi, Breaker of the Coil",
+        "price": "$8.55",
+        "url": "https://manapool.com/card/plst/C19-46/marisi-breaker-of-the-coil"
+      },
+      {
+        "name": "Zurgo Stormrender",
+        "price": "$5.21",
+        "url": "https://manapool.com/card/tdc/10/zurgo-stormrender"
+      },
+      {
+        "name": "Mardu Woe-Reaper",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/frf/18/mardu-woe-reaper"
+      },
+      {
+        "name": "Mardu Strike Leader",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/frf/75/mardu-strike-leader"
+      },
+      {
+        "name": "Radha, Heir to Keld",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dds/53/radha-heir-to-keld"
+      },
+      {
+        "name": "Zurgo, Thunder's Decree",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdm/237/zurgo-thunders-decree"
+      },
+      {
+        "name": "Kargan Intimidator",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/j25/569/kargan-intimidator"
+      },
+      {
+        "name": "Honored Crop-Captain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/akh/200/honored-crop-captain"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Secure the Wastes",
+        "price": "$1.55",
+        "url": "https://manapool.com/card/dtk/36/secure-the-wastes"
+      },
+      {
+        "name": "Unbreakable Formation",
+        "price": "$0.62",
+        "url": "https://manapool.com/card/ltc/179/unbreakable-formation"
+      },
+      {
+        "name": "Boros Charm",
+        "price": "$4.09",
+        "url": "https://manapool.com/card/gtc/148/boros-charm"
+      },
+      {
+        "name": "Swords to Plowshares",
+        "price": "$1.27",
+        "url": "https://manapool.com/card/lcc/137/swords-to-plowshares"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Winnowing",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ecl/355/winnowing"
+      },
+      {
+        "name": "Rampant Growth",
+        "price": "$0.30",
+        "url": "https://manapool.com/card/m10/201/rampant-growth"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Chronicle of Victory",
+        "price": "$21.88",
+        "url": "https://manapool.com/card/ecl/253/chronicle-of-victory"
+      },
+      {
+        "name": "Skullclamp",
+        "price": "$5.05",
+        "url": "https://manapool.com/card/fic/355/skullclamp"
+      },
+      {
+        "name": "Swiftfoot Boots",
+        "price": "$1.87",
+        "url": "https://manapool.com/card/fdn/258/swiftfoot-boots"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "Collective Inferno",
+        "price": "$0.83",
+        "url": "https://manapool.com/card/ecl/132/collective-inferno"
+      },
+      {
+        "name": "Aura Shards",
+        "price": "$20.84",
+        "url": "https://manapool.com/card/plst/INV-233/aura-shards"
+      },
+      {
+        "name": "Shared Animosity",
+        "price": "$1.19",
+        "url": "https://manapool.com/card/lcc/231/shared-animosity"
+      },
+      {
+        "name": "Impact Tremors",
+        "price": "$2.26",
+        "url": "https://manapool.com/card/wot/44/impact-tremors"
+      },
+      {
+        "name": "Beastmaster Ascension",
+        "price": "$2.73",
+        "url": "https://manapool.com/card/c16/142/beastmaster-ascension"
+      },
+      {
+        "name": "Warleader's Call",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/amkm/23/warleaders-call"
+      },
+      {
+        "name": "Nature's Will",
+        "price": "$5.05",
+        "url": "https://manapool.com/card/wot/82/natures-will"
+      },
+      {
+        "name": "Etchings of the Chosen",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lcc/269/etchings-of-the-chosen"
+      }
+    ],
+    "planeswalkers": [],
+    "lands": [
+      {
+        "name": "Evolving Wilds",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/277/evolving-wilds"
+      },
+      {
+        "name": "Terramorphic Expanse",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/360/terramorphic-expanse"
+      },
+      {
+        "name": "Secluded Courtyard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fdn/267/secluded-courtyard"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Unclaimed Territory",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lcc/366/unclaimed-territory"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Jungle Shrine",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ecc/154/jungle-shrine"
+      }
+    ],
+    "other": []
+  },
+  "export_text": "1 Najeela, the Blade-Blossom *CMDR*\n1 Selfless Safewright\n1 Winnowing\n1 Chronicle of Victory\n1 Scuzzback Scrounger\n1 Collective Inferno\n1 Aura Shards\n1 Ignoble Hierarch\n1 Vanguard Suppressor\n1 Samut, Voice of Dissent\n1 Oakhame Adversary\n1 Moraug, Fury of Akoum\n1 Surrak Dragonclaw\n1 Jazal Goldmane\n1 Zurgo Helmsmasher\n1 Chief of the Scale\n1 General Marhault Elsdragon\n1 Iroas, God of Victory\n1 Stadium Headliner\n1 Rhys the Redeemed\n1 Archetype of Aggression\n1 Space Marine Devastator\n1 Ogre Battledriver\n1 Shared Animosity\n1 Isshin, Two Heavens as One\n1 Secure the Wastes\n1 Shanna, Sisay's Legacy\n1 Combat Celebrant\n1 Gornog, the Red Reaper\n1 Marneus Calgar\n1 Skullclamp\n1 Alesha, Who Laughs at Fate\n1 Thrasher Brute\n1 Impact Tremors\n1 Decorated Champion\n1 Beastmaster Ascension\n1 Unbreakable Formation\n1 Chatterfang, Squirrel General\n1 Vexilus Praetor\n1 Warleader's Call\n1 Suki, Kyoshi Captain\n1 Nature's Will\n1 Rampant Growth\n1 Baylen, the Haymaker\n1 Maja, Bretagard Protector\n1 Ultramarines Honour Guard\n1 Boros Charm\n1 Evolving Wilds\n1 Derevi, Empyrial Tactician\n1 Marisi, Breaker of the Coil\n1 Terramorphic Expanse\n1 Zurgo Stormrender\n1 Secluded Courtyard\n1 Mardu Woe-Reaper\n1 Swiftfoot Boots\n1 Path of Ancestry\n1 Unclaimed Territory\n1 Swords to Plowshares\n1 Mardu Strike Leader\n1 Radha, Heir to Keld\n1 Zurgo, Thunder's Decree\n1 Etchings of the Chosen\n1 Mountain\n1 Jungle Shrine\n1 Kargan Intimidator\n1 Honored Crop-Captain",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format."
+}
