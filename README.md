@@ -2,7 +2,7 @@
 
 An AI-powered deck building platform with live Mana Pool marketplace
 pricing, EDHREC Commander data, and cube design knowledge from Lucky
-Paper. 23+ MCP tools for conversational deck building via Claude.
+Paper. 25+ MCP tools for conversational deck building via Claude.
 
 ## What It Does
 
@@ -227,32 +227,43 @@ deck builder tool.
 
 ## Content Creator Decklists
 
-Browse decks from your favorite Commander content creators, priced
-on Mana Pool.
+Browse decks from your favorite Commander content creators on
+**Moxfield** and **Archidekt**, priced on Mana Pool.
 
 ```
-> "Show me Commander's Quarters decks"
+> "Show me Command Zone decks"
 
-  Creator: Mitch (Commander's Quarters)
-  Profile: moxfield.com/users/commandersquarters
+  Creator: The Command Zone (Game Knights)
+  Platform: Archidekt (862+ decks)
 
-  1. Budget Staples You Should Be Buying Right Now
-  2. Jasmine Boreal of the Seven — $25.40
-  3. Why These 7 Commander Cards Are Seriously Underrated
+  1. Maralen, Fae Ascendant
+  2. Ellivere Finds The Ramble
+  3. Dungeon Diver
+  ...
+
+> "Show me SaffronOlive's decks"
+
+  Creator: Seth (MTGGoldfish Commander Clash)
+  Platform: Moxfield
+
+  1. Mardu Mobilize
+  2. Aetherspark
   ...
 ```
 
-### Known Creators
+### Known Creators (10 profiles)
 
-| Creator | Show | Moxfield |
-|---------|------|----------|
-| Brian Kibler | Commander at Home | @Kibler |
-| Olivia Gobert-Hicks | Commander at Home | @affinityartifacts |
-| Seth (SaffronOlive) | MTGGoldfish Commander Clash | @SaffronOlive |
-| Crim | MTGGoldfish Commander Clash | @TheAsianAvenger |
-| Mitch | Commander's Quarters | @commandersquarters |
-| Playing With Power | Playing With Power MTG | @playingwithpowermtg |
-| MTGMuddstah | MTGMuddstah | @MTG_Muddstah |
+| Creator | Show | Platform | Profile |
+|---------|------|----------|---------|
+| The Command Zone | Game Knights | **Archidekt** | GameKnights (862 decks) |
+| Rachel Weeks | Game Knights | Archidekt | wachelreeks |
+| Brian Kibler | Commander at Home | Moxfield | @Kibler |
+| Olivia Gobert-Hicks | Commander at Home | Moxfield | @affinityartifacts |
+| Seth (SaffronOlive) | MTGGoldfish Commander Clash | Moxfield | @SaffronOlive |
+| Crim | MTGGoldfish Commander Clash | Moxfield | @TheAsianAvenger |
+| Mitch | Commander's Quarters | Moxfield | @commandersquarters |
+| Playing With Power | Playing With Power MTG | Moxfield | @playingwithpowermtg |
+| MTGMuddstah | MTGMuddstah | Moxfield | @MTG_Muddstah |
 
 ---
 
