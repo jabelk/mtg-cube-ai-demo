@@ -2,7 +2,7 @@
 
 An AI-powered deck building platform with live Mana Pool marketplace
 pricing, EDHREC Commander data, and cube design knowledge from Lucky
-Paper. 20+ MCP tools for conversational deck building via Claude.
+Paper. 23+ MCP tools for conversational deck building via Claude.
 
 ## What It Does
 
@@ -222,6 +222,67 @@ deck builder tool.
   → "1 Najeela, the Blade-Blossom *CMDR*\n1 Sol Ring\n..."
   → Copy-paste into any deck building tool
 ```
+
+---
+
+## Content Creator Decklists
+
+Browse decks from your favorite Commander content creators, priced
+on Mana Pool.
+
+```
+> "Show me Commander's Quarters decks"
+
+  Creator: Mitch (Commander's Quarters)
+  Profile: moxfield.com/users/commandersquarters
+
+  1. Budget Staples You Should Be Buying Right Now
+  2. Jasmine Boreal of the Seven — $25.40
+  3. Why These 7 Commander Cards Are Seriously Underrated
+  ...
+```
+
+### Known Creators
+
+| Creator | Show | Moxfield |
+|---------|------|----------|
+| Brian Kibler | Commander at Home | @Kibler |
+| Olivia Gobert-Hicks | Commander at Home | @affinityartifacts |
+| Seth (SaffronOlive) | MTGGoldfish Commander Clash | @SaffronOlive |
+| Crim | MTGGoldfish Commander Clash | @TheAsianAvenger |
+| Mitch | Commander's Quarters | @commandersquarters |
+| Playing With Power | Playing With Power MTG | @playingwithpowermtg |
+| MTGMuddstah | MTGMuddstah | @MTG_Muddstah |
+
+---
+
+## Precon Upgrades
+
+Upgrade recommendations for Commander precons with Mana Pool pricing.
+
+```
+> "Upgrade my Bloomburrow precon for $30"
+
+  Upgrades to add (12 cards, $28.50):
+    Beast Whisperer        $2.50  — card draw for creature decks
+    Heroic Intervention    $5.00  — protection
+    ...
+
+  Export text ready for Mana Pool purchase
+```
+
+Buy the precon + upgrade pieces from Mana Pool = one shipment.
+
+---
+
+## Top 100 Commander Decks
+
+AI-generated $200 budget decks for EDHREC's top 100 commanders.
+See the `top100-decks/` folder — each includes health check,
+Mana Pool pricing, and Moxfield export.
+
+**84% pass** the Command Zone template health check. Every card
+has a `manapool.com` purchase URL.
 
 ---
 
