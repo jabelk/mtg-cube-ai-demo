@@ -1,0 +1,635 @@
+{
+  "commander": "Giada, Font of Hope",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 99,
+  "total_cost_display": "$60.67",
+  "deck": {
+    "commander": "Giada, Font of Hope",
+    "creatures": [
+      {
+        "name": "Spawnsire of Ulamog",
+        "price": "$5.47",
+        "url": "https://manapool.com/card/roe/11/spawnsire-of-ulamog"
+      },
+      {
+        "name": "Crystalline Crawler",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/eoc/133/crystalline-crawler"
+      },
+      {
+        "name": "Exemplar of Light",
+        "price": "$2.07",
+        "url": "https://manapool.com/card/fdn/11/exemplar-of-light"
+      },
+      {
+        "name": "Inspiring Overseer",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/141/inspiring-overseer"
+      },
+      {
+        "name": "Mine Bearer",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/pcy/16/mine-bearer"
+      },
+      {
+        "name": "Baneslayer Angel",
+        "price": "$0.88",
+        "url": "https://manapool.com/card/m21/6/baneslayer-angel"
+      },
+      {
+        "name": "Sunblast Angel",
+        "price": "$0.50",
+        "url": "https://manapool.com/card/c20/102/sunblast-angel"
+      },
+      {
+        "name": "Angelic Skirmisher",
+        "price": "$1.78",
+        "url": "https://manapool.com/card/gtc/3/angelic-skirmisher"
+      },
+      {
+        "name": "Angel of the Ruins",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/134/angel-of-the-ruins"
+      },
+      {
+        "name": "Speaker of the Heavens",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/m21/38/speaker-of-the-heavens"
+      },
+      {
+        "name": "Wojek Investigator",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mkm/340/wojek-investigator"
+      },
+      {
+        "name": "Herald of Eternal Dawn",
+        "price": "$0.61",
+        "url": "https://manapool.com/card/fdn/17/herald-of-eternal-dawn"
+      },
+      {
+        "name": "Steel Seraph",
+        "price": "$0.37",
+        "url": "https://manapool.com/card/bro/38/steel-seraph"
+      },
+      {
+        "name": "Breathkeeper Seraph",
+        "price": "$1.22",
+        "url": "https://manapool.com/card/voc/31/breathkeeper-seraph"
+      },
+      {
+        "name": "Sigarda's Vanguard",
+        "price": "$0.97",
+        "url": "https://manapool.com/card/mic/8/sigardas-vanguard"
+      },
+      {
+        "name": "Starfield Shepherd",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/eoe/37/starfield-shepherd"
+      },
+      {
+        "name": "Shattered Angel",
+        "price": "$0.27",
+        "url": "https://manapool.com/card/plst/NPH-23/shattered-angel"
+      },
+      {
+        "name": "Angel of Serenity",
+        "price": "$0.67",
+        "url": "https://manapool.com/card/c21/83/angel-of-serenity"
+      },
+      {
+        "name": "Sanctuary Warden",
+        "price": "$0.83",
+        "url": "https://manapool.com/card/snc/343/sanctuary-warden"
+      },
+      {
+        "name": "Karmic Guide",
+        "price": "$0.88",
+        "url": "https://manapool.com/card/mh2/263/karmic-guide"
+      },
+      {
+        "name": "Angelic Arbiter",
+        "price": "$3.00",
+        "url": "https://manapool.com/card/jmp/86/angelic-arbiter"
+      },
+      {
+        "name": "Resplendent Marshal",
+        "price": "$0.44",
+        "url": "https://manapool.com/card/khm/22/resplendent-marshal"
+      },
+      {
+        "name": "Serra Avenger",
+        "price": "$0.38",
+        "url": "https://manapool.com/card/m13/33/serra-avenger"
+      },
+      {
+        "name": "Akroma, Angel of Wrath",
+        "price": "$2.49",
+        "url": "https://manapool.com/card/plst/DVD-1/akroma-angel-of-wrath"
+      },
+      {
+        "name": "Angel of the Dire Hour",
+        "price": "$1.21",
+        "url": "https://manapool.com/card/c14/1/angel-of-the-dire-hour"
+      },
+      {
+        "name": "Holy Cow",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/otj/16/holy-cow"
+      },
+      {
+        "name": "Angelic Sleuth",
+        "price": "$0.42",
+        "url": "https://manapool.com/card/ncc/12/angelic-sleuth"
+      },
+      {
+        "name": "Angel of Invention",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdc/109/angel-of-invention"
+      },
+      {
+        "name": "Herald of the Host",
+        "price": "$0.29",
+        "url": "https://manapool.com/card/cmm/30/herald-of-the-host"
+      },
+      {
+        "name": "Lightstall Inquisitor",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/eoe/24/lightstall-inquisitor"
+      },
+      {
+        "name": "Serra's Guardian",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/m19/284/serras-guardian"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Emergency Eject",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/eoe/14/emergency-eject"
+      },
+      {
+        "name": "Deadly Riposte",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/bro/5/deadly-riposte"
+      },
+      {
+        "name": "Brave the Elements",
+        "price": "$0.30",
+        "url": "https://manapool.com/card/m14/10/brave-the-elements"
+      },
+      {
+        "name": "Heliod's Intervention",
+        "price": "$2.63",
+        "url": "https://manapool.com/card/thb/19/heliods-intervention"
+      },
+      {
+        "name": "Path to Exile",
+        "price": "$1.20",
+        "url": "https://manapool.com/card/fic/248/path-to-exile"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Day of Judgment",
+        "price": "$0.60",
+        "url": "https://manapool.com/card/fdn/140/day-of-judgment"
+      },
+      {
+        "name": "Entreat the Angels",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsc/99/entreat-the-angels"
+      },
+      {
+        "name": "Cleansing Nova",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/fic/235/cleansing-nova"
+      },
+      {
+        "name": "Austere Command",
+        "price": "$0.40",
+        "url": "https://manapool.com/card/lcc/126/austere-command"
+      },
+      {
+        "name": "Starnheim Unleashed",
+        "price": "$0.89",
+        "url": "https://manapool.com/card/khm/294/starnheim-unleashed"
+      },
+      {
+        "name": "Wrath of God",
+        "price": "$0.93",
+        "url": "https://manapool.com/card/ptc/shr58/wrath-of-god"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Lantern of Revealing",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/clb/318/lantern-of-revealing"
+      },
+      {
+        "name": "Mox Jasper",
+        "price": "$0.67",
+        "url": "https://manapool.com/card/atdm/28/mox-jasper"
+      },
+      {
+        "name": "Lotus Blossom",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmr/230/lotus-blossom"
+      },
+      {
+        "name": "Aetheric Amplifier",
+        "price": "$0.75",
+        "url": "https://manapool.com/card/drc/18/aetheric-amplifier"
+      },
+      {
+        "name": "Strength Bobblehead",
+        "price": "$3.81",
+        "url": "https://manapool.com/card/pip/143/strength-bobblehead"
+      },
+      {
+        "name": "Sarevok's Tome",
+        "price": "$5.04",
+        "url": "https://manapool.com/card/clb/645/sarevoks-tome"
+      },
+      {
+        "name": "Reckoner Bankbuster",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/neo/255/reckoner-bankbuster"
+      },
+      {
+        "name": "Moonsilver Spear",
+        "price": "$0.58",
+        "url": "https://manapool.com/card/avr/217/moonsilver-spear"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "The Night of the Doctor",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/who/24/the-night-of-the-doctor"
+      },
+      {
+        "name": "Sigarda's Splendor",
+        "price": "$0.36",
+        "url": "https://manapool.com/card/mid/33/sigardas-splendor"
+      }
+    ],
+    "planeswalkers": [
+      {
+        "name": "Serra the Benevolent",
+        "price": "$2.86",
+        "url": "https://manapool.com/card/mb2/17/serra-the-benevolent"
+      }
+    ],
+    "lands": [
+      {
+        "name": "Spawning Bed",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/bfz/248/spawning-bed"
+      },
+      {
+        "name": "Seraph Sanctuary",
+        "price": "$0.39",
+        "url": "https://manapool.com/card/avr/228/seraph-sanctuary"
+      },
+      {
+        "name": "Legion's Landing // Adanto, the First Fort",
+        "price": "$2.55",
+        "url": "https://manapool.com/card/xln/22/legions-landing-adanto-the-first-fort"
+      },
+      {
+        "name": "Cryptic Caves",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fdn/686/cryptic-caves"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Bonders' Enclave",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/fic/376/bonders-enclave"
+      },
+      {
+        "name": "Minas Tirith",
+        "price": "$0.40",
+        "url": "https://manapool.com/card/altr/55/minas-tirith"
+      },
+      {
+        "name": "Emeria's Call",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Aether Hub",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/drc/145/aether-hub"
+      },
+      {
+        "name": "Ally Encampment",
+        "price": "$0.68",
+        "url": "https://manapool.com/card/bfz/228/ally-encampment"
+      },
+      {
+        "name": "Amonkhet Raceway",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dft/248/amonkhet-raceway"
+      },
+      {
+        "name": "Ancient Ziggurat",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/ecc/144/ancient-ziggurat"
+      },
+      {
+        "name": "Arch of Orazca",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/lcc/319/arch-of-orazca"
+      },
+      {
+        "name": "Archaeological Dig",
+        "price": "$0.35",
+        "url": "https://manapool.com/card/inv/320/archaeological-dig"
+      },
+      {
+        "name": "Archway Commons",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/plst/STX-263/archway-commons"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      }
+    ],
+    "other": [
+      {
+        "name": "Undercity Reaches",
+        "price": "$0.36",
+        "url": "https://manapool.com/card/moc/163/undercity-reaches"
+      }
+    ]
+  },
+  "export_text": "1 Giada, Font of Hope *CMDR*\n1 Lantern of Revealing\n1 Spawning Bed\n1 Seraph Sanctuary\n1 Mox Jasper\n1 Lotus Blossom\n1 Aetheric Amplifier\n1 Spawnsire of Ulamog\n1 Strength Bobblehead\n1 Sarevok's Tome\n1 Crystalline Crawler\n1 Exemplar of Light\n1 Legion's Landing // Adanto, the First Fort\n1 Reckoner Bankbuster\n1 Inspiring Overseer\n1 Cryptic Caves\n1 Undercity Reaches\n1 Day of Judgment\n1 Path of Ancestry\n1 Emergency Eject\n1 The Night of the Doctor\n1 Mine Bearer\n1 Deadly Riposte\n1 Baneslayer Angel\n1 Sunblast Angel\n1 Angelic Skirmisher\n1 Serra the Benevolent\n1 Angel of the Ruins\n1 Entreat the Angels\n1 Speaker of the Heavens\n1 Wojek Investigator\n1 Herald of Eternal Dawn\n1 Steel Seraph\n1 Bonders' Enclave\n1 Breathkeeper Seraph\n1 Sigarda's Vanguard\n1 Cleansing Nova\n1 Starfield Shepherd\n1 Shattered Angel\n1 Angel of Serenity\n1 Sanctuary Warden\n1 Karmic Guide\n1 Angelic Arbiter\n1 Resplendent Marshal\n1 Serra Avenger\n1 Austere Command\n1 Starnheim Unleashed\n1 Sigarda's Splendor\n1 Akroma, Angel of Wrath\n1 Angel of the Dire Hour\n1 Holy Cow\n1 Angelic Sleuth\n1 Brave the Elements\n1 Angel of Invention\n1 Herald of the Host\n1 Wrath of God\n1 Minas Tirith\n1 Lightstall Inquisitor\n1 Serra's Guardian\n1 Moonsilver Spear\n1 Heliod's Intervention\n1 Path to Exile\n1 Emeria's Call\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Aether Hub\n1 Ally Encampment\n1 Amonkhet Raceway\n1 Ancient Ziggurat\n1 Arch of Orazca\n1 Archaeological Dig\n1 Archway Commons\n1 Plains\n1 Plains\n1 Plains\n1 Plains\n1 Plains\n1 Plains\n1 Plains\n1 Plains\n1 Plains\n1 Plains\n1 Plains\n1 Plains\n1 Plains\n1 Plains\n1 Plains\n1 Plains\n1 Plains\n1 Plains\n1 Plains\n1 Plains\n1 Plains\n1 Plains\n1 Plains\n1 Plains\n1 Plains\n1 Plains\n1 Plains",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": false,
+    "counts": {
+      "lands": 44,
+      "ramp": 7,
+      "card_draw": 9,
+      "targeted_removal": 9,
+      "mass_removal": 6,
+      "synergy": 23,
+      "uncategorized": 1
+    },
+    "gaps": {
+      "ramp": {
+        "actual": 7,
+        "target": 10,
+        "needed": 3
+      }
+    }
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "ramp",
+      "added": "Lantern of Revealing",
+      "removed": "Lyra Dawnbringer"
+    },
+    {
+      "category": "ramp",
+      "added": "Spawning Bed",
+      "removed": "Herald of War"
+    },
+    {
+      "category": "ramp",
+      "added": "Mox Jasper",
+      "removed": "Youthful Valkyrie"
+    },
+    {
+      "category": "ramp",
+      "added": "Lotus Blossom",
+      "removed": "Resplendent Angel"
+    },
+    {
+      "category": "ramp",
+      "added": "Aetheric Amplifier",
+      "removed": "Valkyrie Harbinger"
+    },
+    {
+      "category": "ramp",
+      "added": "Spawnsire of Ulamog",
+      "removed": "Angel of Vitality"
+    },
+    {
+      "category": "ramp",
+      "added": "Strength Bobblehead",
+      "removed": "Bishop of Wings"
+    },
+    {
+      "category": "ramp",
+      "added": "Sarevok's Tome",
+      "removed": "Bruna, the Fading Light"
+    },
+    {
+      "category": "ramp",
+      "added": "Crystalline Crawler",
+      "removed": "Gisela, the Broken Blade"
+    },
+    {
+      "category": "ramp",
+      "added": "Legion's Landing // Adanto, the First Fort",
+      "removed": "Emeria Shepherd"
+    },
+    {
+      "category": "card_draw",
+      "added": "Reckoner Bankbuster",
+      "removed": "Angelic Field Marshal"
+    },
+    {
+      "category": "card_draw",
+      "added": "Cryptic Caves",
+      "removed": "Thraben Watcher"
+    },
+    {
+      "category": "card_draw",
+      "added": "Undercity Reaches",
+      "removed": "Segovian Angel"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Day of Judgment",
+      "removed": "Court of Grace"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Emergency Eject",
+      "removed": "Angel of Finality"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "The Night of the Doctor",
+      "removed": "Angelic Accord"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Mine Bearer",
+      "removed": "Dazzling Angel"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Deadly Riposte",
+      "removed": "Metropolis Reformer"
+    }
+  ]
+}

@@ -1,0 +1,564 @@
+{
+  "commander": "Ulalek, Fused Atrocity",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 95,
+  "total_cost_display": "$47.50",
+  "deck": {
+    "commander": "Ulalek, Fused Atrocity",
+    "creatures": [
+      {
+        "name": "Glaring Fleshraker",
+        "price": "$0.29",
+        "url": "https://manapool.com/card/mh3/7/glaring-fleshraker"
+      },
+      {
+        "name": "Sire of Stagnation",
+        "price": "$0.57",
+        "url": "https://manapool.com/card/bfz/206/sire-of-stagnation"
+      },
+      {
+        "name": "Spawnbed Protector",
+        "price": "$1.94",
+        "url": "https://manapool.com/card/m3c/36/spawnbed-protector"
+      },
+      {
+        "name": "Snapping Voidcraw",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/204/snapping-voidcraw"
+      },
+      {
+        "name": "Hideous Taskmaster",
+        "price": "$1.81",
+        "url": "https://manapool.com/card/m3c/57/hideous-taskmaster"
+      },
+      {
+        "name": "Artisan of Kozilek",
+        "price": "$0.45",
+        "url": "https://manapool.com/card/ddp/42/artisan-of-kozilek"
+      },
+      {
+        "name": "Oblivion Sower",
+        "price": "$0.34",
+        "url": "https://manapool.com/card/bfz/11/oblivion-sower"
+      },
+      {
+        "name": "World Breaker",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/eoc/112/world-breaker"
+      },
+      {
+        "name": "Endbringer",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/m3c/156/endbringer"
+      },
+      {
+        "name": "Wastescape Battlemage",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/17/wastescape-battlemage"
+      },
+      {
+        "name": "Chittering Dispatcher",
+        "price": "$0.44",
+        "url": "https://manapool.com/card/m3c/63/chittering-dispatcher"
+      },
+      {
+        "name": "Sowing Mycospawn",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/amh3/40/sowing-mycospawn"
+      },
+      {
+        "name": "Cavalier of Flame",
+        "price": "$6.72",
+        "url": "https://manapool.com/card/m20/125/cavalier-of-flame"
+      },
+      {
+        "name": "Deepfathom Skulker",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/m3c/180/deepfathom-skulker"
+      },
+      {
+        "name": "Augur of Bolas",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/j25/286/augur-of-bolas"
+      },
+      {
+        "name": "Ulamog's Dreadsire",
+        "price": "$2.03",
+        "url": "https://manapool.com/card/m3c/38/ulamogs-dreadsire"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Spark Spray",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmr/141/spark-spray"
+      },
+      {
+        "name": "Ugin's Binding",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/mh3/76/ugins-binding"
+      },
+      {
+        "name": "Null Elemental Blast",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/12/null-elemental-blast"
+      },
+      {
+        "name": "Puppet's Verdict",
+        "price": "$4.58",
+        "url": "https://manapool.com/card/mmq/208/puppets-verdict"
+      },
+      {
+        "name": "Kozilek's Return",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/m3c/214/kozileks-return"
+      },
+      {
+        "name": "Warping Wail",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/ogw/12/warping-wail"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Diresight",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blb/91/diresight"
+      },
+      {
+        "name": "Tales of the Ancestors",
+        "price": "$0.29",
+        "url": "https://manapool.com/card/khc/8/tales-of-the-ancestors"
+      },
+      {
+        "name": "Selective Obliteration",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/m3c/35/selective-obliteration"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Thief's Knife",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/81/thiefs-knife"
+      },
+      {
+        "name": "Talisman of Curiosity",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/drc/140/talisman-of-curiosity"
+      },
+      {
+        "name": "Talisman of Impulse",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdc/332/talisman-of-impulse"
+      },
+      {
+        "name": "Thran Dynamo",
+        "price": "$1.97",
+        "url": "https://manapool.com/card/wc00/jf139b/thran-dynamo"
+      },
+      {
+        "name": "Talisman of Resilience",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/mh1/234/talisman-of-resilience"
+      },
+      {
+        "name": "Hedron Archive",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/275/hedron-archive"
+      },
+      {
+        "name": "Talisman of Dominance",
+        "price": "$0.53",
+        "url": "https://manapool.com/card/40k/254/talisman-of-dominance"
+      },
+      {
+        "name": "The Aetherspark",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/adft/29/the-aetherspark"
+      },
+      {
+        "name": "Everflowing Chalice",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/fic/343/everflowing-chalice"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "Kozilek's Unsealing",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/65/kozileks-unsealing"
+      },
+      {
+        "name": "Awakening Zone",
+        "price": "$0.57",
+        "url": "https://manapool.com/card/roe/176/awakening-zone"
+      },
+      {
+        "name": "Path of Annihilation",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/165/path-of-annihilation"
+      },
+      {
+        "name": "Garruk's Uprising",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/fdn/220/garruks-uprising"
+      }
+    ],
+    "planeswalkers": [
+      {
+        "name": "Ugin, the Ineffable",
+        "price": "$1.04",
+        "url": "https://manapool.com/card/war/2/ugin-the-ineffable"
+      },
+      {
+        "name": "Ugin, Eye of the Storms",
+        "price": "$0.47",
+        "url": "https://manapool.com/card/atdm/48/ugin-eye-of-the-storms"
+      }
+    ],
+    "lands": [
+      {
+        "name": "Eldrazi Temple",
+        "price": "$1.80",
+        "url": "https://manapool.com/card/m3c/339/eldrazi-temple"
+      },
+      {
+        "name": "Shrine of the Forsaken Gods",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/bfz/245/shrine-of-the-forsaken-gods"
+      },
+      {
+        "name": "Yavimaya Coast",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/drc/184/yavimaya-coast"
+      },
+      {
+        "name": "Shivan Reef",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/dmu/255/shivan-reef"
+      },
+      {
+        "name": "Karplusan Forest",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/drc/163/karplusan-forest"
+      },
+      {
+        "name": "Llanowar Wastes",
+        "price": "$0.47",
+        "url": "https://manapool.com/card/blc/315/llanowar-wastes"
+      },
+      {
+        "name": "Underground River",
+        "price": "$1.33",
+        "url": "https://manapool.com/card/drc/181/underground-river"
+      },
+      {
+        "name": "Corrupted Crossroads",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/m3c/332/corrupted-crossroads"
+      },
+      {
+        "name": "Brushland",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/fic/377/brushland"
+      },
+      {
+        "name": "Adarkar Wastes",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/blc/291/adarkar-wastes"
+      },
+      {
+        "name": "Tomb of the Spirit Dragon",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/ktk/245/tomb-of-the-spirit-dragon"
+      },
+      {
+        "name": "Sulfurous Springs",
+        "price": "$1.61",
+        "url": "https://manapool.com/card/eoc/185/sulfurous-springs"
+      },
+      {
+        "name": "Battlefield Forge",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/blc/293/battlefield-forge"
+      },
+      {
+        "name": "Caves of Koilos",
+        "price": "$0.80",
+        "url": "https://manapool.com/card/m15/241/caves-of-koilos"
+      },
+      {
+        "name": "Secluded Courtyard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fdn/267/secluded-courtyard"
+      },
+      {
+        "name": "Unclaimed Territory",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lcc/366/unclaimed-territory"
+      },
+      {
+        "name": "Bonders' Enclave",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/fic/376/bonders-enclave"
+      },
+      {
+        "name": "Cascading Cataracts",
+        "price": "$1.35",
+        "url": "https://manapool.com/card/akh/240/cascading-cataracts"
+      },
+      {
+        "name": "Wastes",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/309/wastes"
+      },
+      {
+        "name": "Urza's Tower",
+        "price": "$0.32",
+        "url": "https://manapool.com/card/chr/116b/urzas-tower"
+      },
+      {
+        "name": "Urza's Power Plant",
+        "price": "$0.29",
+        "url": "https://manapool.com/card/chr/115c/urzas-power-plant"
+      },
+      {
+        "name": "Urza's Mine",
+        "price": "$0.35",
+        "url": "https://manapool.com/card/5ed/427/urzas-mine"
+      },
+      {
+        "name": "Command Tower",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/325/command-tower"
+      },
+      {
+        "name": "Exotic Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/131/exotic-orchard"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Aggressive Crag",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/cmb2/112/aggressive-crag"
+      },
+      {
+        "name": "Alchemist's Refuge",
+        "price": "$0.65",
+        "url": "https://manapool.com/card/lcc/318/alchemists-refuge"
+      },
+      {
+        "name": "An-Havva Township",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/hml/111/an-havva-township"
+      },
+      {
+        "name": "Aysen Abbey",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/hml/112/aysen-abbey"
+      },
+      {
+        "name": "Bountiful Landscape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/217/bountiful-landscape"
+      },
+      {
+        "name": "Calciform Pools",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/tsp/270/calciform-pools"
+      },
+      {
+        "name": "Cascade Bluffs",
+        "price": "$0.51",
+        "url": "https://manapool.com/card/eoc/153/cascade-bluffs"
+      },
+      {
+        "name": "Castle Sengir",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/hml/113/castle-sengir"
+      },
+      {
+        "name": "Cinder Marsh",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/tmp/317/cinder-marsh"
+      },
+      {
+        "name": "Cloudcrest Lake",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/chk/274/cloudcrest-lake"
+      },
+      {
+        "name": "Contaminated Landscape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/218/contaminated-landscape"
+      },
+      {
+        "name": "Contested Cliffs",
+        "price": "$0.29",
+        "url": "https://manapool.com/card/c13/282/contested-cliffs"
+      },
+      {
+        "name": "Crosis's Catacombs",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmr/242/crosiss-catacombs"
+      },
+      {
+        "name": "Crypt of the Eternals",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/hou/169/crypt-of-the-eternals"
+      },
+      {
+        "name": "Crystal Quarry",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/eos/10/crystal-quarry"
+      },
+      {
+        "name": "Darigaaz's Caldera",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmr/243/darigaazs-caldera"
+      },
+      {
+        "name": "Darkwater Catacombs",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/c19/238/darkwater-catacombs"
+      },
+      {
+        "name": "Deceptive Landscape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/219/deceptive-landscape"
+      },
+      {
+        "name": "Desolate Lighthouse",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/avr/227/desolate-lighthouse"
+      },
+      {
+        "name": "Desolate Mire",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/386/desolate-mire"
+      },
+      {
+        "name": "Abandoned Campground",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsk/255/abandoned-campground"
+      },
+      {
+        "name": "Abraded Bluffs",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/otj/251/abraded-bluffs"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      }
+    ],
+    "other": []
+  },
+  "export_text": "1 Ulalek, Fused Atrocity *CMDR*\n1 Eldrazi Temple\n1 Glaring Fleshraker\n1 Thief's Knife\n1 Shrine of the Forsaken Gods\n1 Ugin, the Ineffable\n1 Sire of Stagnation\n1 Spawnbed Protector\n1 Snapping Voidcraw\n1 Hideous Taskmaster\n1 Yavimaya Coast\n1 Artisan of Kozilek\n1 Spark Spray\n1 Kozilek's Unsealing\n1 Shivan Reef\n1 Karplusan Forest\n1 Llanowar Wastes\n1 Underground River\n1 Oblivion Sower\n1 Corrupted Crossroads\n1 Brushland\n1 Adarkar Wastes\n1 Tomb of the Spirit Dragon\n1 Awakening Zone\n1 Diresight\n1 World Breaker\n1 Sulfurous Springs\n1 Talisman of Curiosity\n1 Tales of the Ancestors\n1 Endbringer\n1 Ugin's Binding\n1 Battlefield Forge\n1 Caves of Koilos\n1 Wastescape Battlemage\n1 Chittering Dispatcher\n1 Path of Annihilation\n1 Talisman of Impulse\n1 Secluded Courtyard\n1 Thran Dynamo\n1 Talisman of Resilience\n1 Hedron Archive\n1 Unclaimed Territory\n1 Sowing Mycospawn\n1 Bonders' Enclave\n1 Null Elemental Blast\n1 Selective Obliteration\n1 Cavalier of Flame\n1 Deepfathom Skulker\n1 Talisman of Dominance\n1 Cascading Cataracts\n1 Wastes\n1 Augur of Bolas\n1 Garruk's Uprising\n1 Ugin, Eye of the Storms\n1 The Aetherspark\n1 Urza's Tower\n1 Ulamog's Dreadsire\n1 Urza's Power Plant\n1 Urza's Mine\n1 Everflowing Chalice\n1 Puppet's Verdict\n1 Kozilek's Return\n1 Warping Wail\n1 Command Tower\n1 Exotic Orchard\n1 Path of Ancestry\n1 Aggressive Crag\n1 Alchemist's Refuge\n1 An-Havva Township\n1 Aysen Abbey\n1 Bountiful Landscape\n1 Calciform Pools\n1 Cascade Bluffs\n1 Castle Sengir\n1 Cinder Marsh\n1 Cloudcrest Lake\n1 Contaminated Landscape\n1 Contested Cliffs\n1 Crosis's Catacombs\n1 Crypt of the Eternals\n1 Crystal Quarry\n1 Darigaaz's Caldera\n1 Darkwater Catacombs\n1 Deceptive Landscape\n1 Desolate Lighthouse\n1 Desolate Mire\n1 Abandoned Campground\n1 Abraded Bluffs\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Forest\n1 Plains\n1 Mountain\n1 Island\n1 Swamp",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": false,
+    "counts": {
+      "lands": 55,
+      "ramp": 16,
+      "card_draw": 7,
+      "targeted_removal": 12,
+      "mass_removal": 5,
+      "synergy": 0,
+      "uncategorized": 0
+    },
+    "gaps": {
+      "card_draw": {
+        "actual": 7,
+        "target": 10,
+        "needed": 3
+      }
+    }
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "card_draw",
+      "added": "Thief's Knife",
+      "removed": "Echoes of Eternity"
+    },
+    {
+      "category": "card_draw",
+      "added": "Spark Spray",
+      "removed": "It That Heralds the End"
+    },
+    {
+      "category": "card_draw",
+      "added": "Diresight",
+      "removed": "Benthic Anomaly"
+    },
+    {
+      "category": "card_draw",
+      "added": "Tales of the Ancestors",
+      "removed": "Mystic Forge"
+    },
+    {
+      "category": "card_draw",
+      "added": "Cavalier of Flame",
+      "removed": "Herald of Kozilek"
+    },
+    {
+      "category": "card_draw",
+      "added": "Augur of Bolas",
+      "removed": "Twins of Discord"
+    },
+    {
+      "category": "card_draw",
+      "added": "The Aetherspark",
+      "removed": "Bismuth Mindrender"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Puppet's Verdict",
+      "removed": "Titans' Vanguard"
+    }
+  ]
+}

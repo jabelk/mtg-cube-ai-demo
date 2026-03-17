@@ -1,0 +1,608 @@
+{
+  "commander": "Aminatou, Veil Piercer",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 97,
+  "total_cost_display": "$40.31",
+  "deck": {
+    "commander": "Aminatou, Veil Piercer",
+    "creatures": [
+      {
+        "name": "Dauntless Scrapbot",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/eoe/237/dauntless-scrapbot"
+      },
+      {
+        "name": "Manakin",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/tmp/296/manakin"
+      },
+      {
+        "name": "Azula, Ruthless Firebender",
+        "price": "$1.02",
+        "url": "https://manapool.com/card/tle/101/azula-ruthless-firebender"
+      },
+      {
+        "name": "Carrier Thrall",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/2x2/72/carrier-thrall"
+      },
+      {
+        "name": "Zhentarim Bandit",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/clb/158/zhentarim-bandit"
+      },
+      {
+        "name": "Mesa Enchantress",
+        "price": "$0.38",
+        "url": "https://manapool.com/card/plc/26/mesa-enchantress"
+      },
+      {
+        "name": "Doomwake Giant",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsc/138/doomwake-giant"
+      },
+      {
+        "name": "Fear of Sleep Paralysis",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/dsc/12/fear-of-sleep-paralysis"
+      },
+      {
+        "name": "Spawnsire of Ulamog",
+        "price": "$5.47",
+        "url": "https://manapool.com/card/roe/11/spawnsire-of-ulamog"
+      },
+      {
+        "name": "Entity Tracker",
+        "price": "$0.41",
+        "url": "https://manapool.com/card/dsk/53/entity-tracker"
+      },
+      {
+        "name": "Zur, Eternal Schemer",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/admu/81/zur-eternal-schemer"
+      },
+      {
+        "name": "Archon of Sun's Grace",
+        "price": "$0.53",
+        "url": "https://manapool.com/card/thb/3/archon-of-suns-grace"
+      },
+      {
+        "name": "Nightmare Shepherd",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsc/149/nightmare-shepherd"
+      },
+      {
+        "name": "Auramancer",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/a25/6/auramancer"
+      },
+      {
+        "name": "Heliod, the Radiant Dawn",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Ghostly Dancers",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsk/13/ghostly-dancers"
+      },
+      {
+        "name": "Arvinox, the Mind Flail",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/dsc/130/arvinox-the-mind-flail"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Grave Birthing",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/bfz/93/grave-birthing"
+      },
+      {
+        "name": "Brainstorm",
+        "price": "$0.61",
+        "url": "https://manapool.com/card/wc00/jf61/brainstorm"
+      },
+      {
+        "name": "Expel from Orazca",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/plst/RIX-37/expel-from-orazca"
+      },
+      {
+        "name": "Tempest of Light",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/51/tempest-of-light"
+      },
+      {
+        "name": "Arcane Denial",
+        "price": "$2.05",
+        "url": "https://manapool.com/card/m3c/176/arcane-denial"
+      },
+      {
+        "name": "Telling Time",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c18/105/telling-time"
+      },
+      {
+        "name": "Otherworldly Gaze",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsc/122/otherworldly-gaze"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Terminus",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/avr/38/terminus"
+      },
+      {
+        "name": "Solar Tide",
+        "price": "$0.45",
+        "url": "https://manapool.com/card/mrd/24/solar-tide"
+      },
+      {
+        "name": "Tragic Trajectory",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/eoe/122/tragic-trajectory"
+      },
+      {
+        "name": "Calamity of the Titans",
+        "price": "$3.90",
+        "url": "https://manapool.com/card/cmm/713/calamity-of-the-titans"
+      },
+      {
+        "name": "Portent",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsc/74/portent"
+      },
+      {
+        "name": "Final Revels",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lrw/113/final-revels"
+      },
+      {
+        "name": "Ponder",
+        "price": "$1.54",
+        "url": "https://manapool.com/card/dsc/73/ponder"
+      },
+      {
+        "name": "Stick Together",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/plst/CLB-661/stick-together"
+      },
+      {
+        "name": "Diabolic Vision",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsc/87/diabolic-vision"
+      },
+      {
+        "name": "Time Wipe",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/262/time-wipe"
+      },
+      {
+        "name": "Entreat the Angels",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsc/99/entreat-the-angels"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Manascape Refractor",
+        "price": "$1.30",
+        "url": "https://manapool.com/card/c20/68/manascape-refractor"
+      },
+      {
+        "name": "Bespoke B\u014d",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmt/31/bespoke-bo"
+      },
+      {
+        "name": "Mind Stone",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/40k/245/mind-stone"
+      },
+      {
+        "name": "Azorius Signet",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdc/312/azorius-signet"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "Shark Typhoon",
+        "price": "$0.70",
+        "url": "https://manapool.com/card/dsc/127/shark-typhoon"
+      },
+      {
+        "name": "Omniscience",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afdn/32/omniscience"
+      },
+      {
+        "name": "The Eldest Reborn",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/c19/131/the-eldest-reborn"
+      },
+      {
+        "name": "Cramped Vents // Access Maze",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsc/17/cramped-vents-access-maze"
+      },
+      {
+        "name": "Estrid's Invocation",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/mh3/269/estrids-invocation"
+      },
+      {
+        "name": "Cast Out",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c20/79/cast-out"
+      },
+      {
+        "name": "Shadow of the Second Sun",
+        "price": "$1.07",
+        "url": "https://manapool.com/card/mh3/70/shadow-of-the-second-sun"
+      },
+      {
+        "name": "Bottomless Pool // Locker Room",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsk/43/bottomless-pool-locker-room"
+      }
+    ],
+    "planeswalkers": [
+      {
+        "name": "Aminatou, the Fateshifter",
+        "price": "$2.70",
+        "url": "https://manapool.com/card/plst/2X2-169/aminatou-the-fateshifter"
+      }
+    ],
+    "lands": [
+      {
+        "name": "Halimar Depths",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/ddm/36/halimar-depths"
+      },
+      {
+        "name": "Tainted Field",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/356/tainted-field"
+      },
+      {
+        "name": "Temple of Enlightenment",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/339/temple-of-enlightenment"
+      },
+      {
+        "name": "Tainted Isle",
+        "price": "$0.45",
+        "url": "https://manapool.com/card/dsc/303/tainted-isle"
+      },
+      {
+        "name": "Temple of Deceit",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsc/307/temple-of-deceit"
+      },
+      {
+        "name": "Temple of Silence",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmc/237/temple-of-silence"
+      },
+      {
+        "name": "Bojuka Bog",
+        "price": "$0.98",
+        "url": "https://manapool.com/card/lcc/320/bojuka-bog"
+      },
+      {
+        "name": "Adarkar Wastes",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/blc/291/adarkar-wastes"
+      },
+      {
+        "name": "Obscura Storefront",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsc/291/obscura-storefront"
+      },
+      {
+        "name": "Caves of Koilos",
+        "price": "$0.80",
+        "url": "https://manapool.com/card/m15/241/caves-of-koilos"
+      },
+      {
+        "name": "Underground River",
+        "price": "$1.33",
+        "url": "https://manapool.com/card/drc/181/underground-river"
+      },
+      {
+        "name": "Azorius Chancery",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mkc/249/azorius-chancery"
+      },
+      {
+        "name": "Dimir Aqueduct",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/clu/233/dimir-aqueduct"
+      },
+      {
+        "name": "Orzhov Basilica",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsc/292/orzhov-basilica"
+      },
+      {
+        "name": "Command Tower",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/325/command-tower"
+      },
+      {
+        "name": "Exotic Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/131/exotic-orchard"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Calciform Pools",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/tsp/270/calciform-pools"
+      },
+      {
+        "name": "Cloudcrest Lake",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/chk/274/cloudcrest-lake"
+      },
+      {
+        "name": "Contaminated Landscape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/218/contaminated-landscape"
+      },
+      {
+        "name": "Darkwater Catacombs",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/c19/238/darkwater-catacombs"
+      },
+      {
+        "name": "Desolate Mire",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/386/desolate-mire"
+      },
+      {
+        "name": "Dreadship Reef",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/tsp/271/dreadship-reef"
+      },
+      {
+        "name": "Dromar's Cavern",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmr/246/dromars-cavern"
+      },
+      {
+        "name": "Duskmantle, House of Shadow",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/plst/RAV-277/duskmantle-house-of-shadow"
+      },
+      {
+        "name": "Fetid Heath",
+        "price": "$0.39",
+        "url": "https://manapool.com/card/fic/391/fetid-heath"
+      },
+      {
+        "name": "Land Cap",
+        "price": "$0.39",
+        "url": "https://manapool.com/card/ice/357/land-cap"
+      },
+      {
+        "name": "Moorland Haunt",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/isd/244/moorland-haunt"
+      },
+      {
+        "name": "Nephalia Drownyard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lcc/344/nephalia-drownyard"
+      },
+      {
+        "name": "Orzhova, the Church of Deals",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/gpt/162/orzhova-the-church-of-deals"
+      },
+      {
+        "name": "Prahv, Spires of Order",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/dis/177/prahv-spires-of-order"
+      },
+      {
+        "name": "Processing Plant",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mb2/617/processing-plant"
+      },
+      {
+        "name": "Profane Procession // Tomb of the Dusk Rose",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/rix/166/profane-procession-tomb-of-the-dusk-rose"
+      },
+      {
+        "name": "River Delta",
+        "price": "$0.38",
+        "url": "https://manapool.com/card/ice/359/river-delta"
+      },
+      {
+        "name": "River of Tears",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/clb/912/river-of-tears"
+      },
+      {
+        "name": "Rootwater Depths",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmp/323/rootwater-depths"
+      },
+      {
+        "name": "Seaside Haven",
+        "price": "$0.46",
+        "url": "https://manapool.com/card/ons/323/seaside-haven"
+      },
+      {
+        "name": "Silent Clearing",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/amh1/51/silent-clearing"
+      },
+      {
+        "name": "Skycloud Expanse",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/294/skycloud-expanse"
+      },
+      {
+        "name": "Abandoned Campground",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsk/255/abandoned-campground"
+      },
+      {
+        "name": "Ancient Spring",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/inv/319/ancient-spring"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      }
+    ],
+    "other": []
+  },
+  "export_text": "1 Aminatou, Veil Piercer *CMDR*\n1 Dauntless Scrapbot\n1 Grave Birthing\n1 Manakin\n1 Azula, Ruthless Firebender\n1 Shark Typhoon\n1 Carrier Thrall\n1 Zhentarim Bandit\n1 Mesa Enchantress\n1 Doomwake Giant\n1 Manascape Refractor\n1 Fear of Sleep Paralysis\n1 Brainstorm\n1 Spawnsire of Ulamog\n1 Halimar Depths\n1 Terminus\n1 Solar Tide\n1 Tragic Trajectory\n1 Bespoke B\u014d\n1 Calamity of the Titans\n1 Portent\n1 Expel from Orazca\n1 Final Revels\n1 Ponder\n1 Stick Together\n1 Tempest of Light\n1 Arcane Denial\n1 Entity Tracker\n1 Zur, Eternal Schemer\n1 Diabolic Vision\n1 Tainted Field\n1 Telling Time\n1 Omniscience\n1 Temple of Enlightenment\n1 Tainted Isle\n1 The Eldest Reborn\n1 Temple of Deceit\n1 Cramped Vents // Access Maze\n1 Temple of Silence\n1 Bojuka Bog\n1 Adarkar Wastes\n1 Obscura Storefront\n1 Archon of Sun's Grace\n1 Aminatou, the Fateshifter\n1 Nightmare Shepherd\n1 Estrid's Invocation\n1 Time Wipe\n1 Entreat the Angels\n1 Caves of Koilos\n1 Underground River\n1 Otherworldly Gaze\n1 Mind Stone\n1 Cast Out\n1 Azorius Signet\n1 Azorius Chancery\n1 Auramancer\n1 Heliod, the Radiant Dawn\n1 Shadow of the Second Sun\n1 Dimir Aqueduct\n1 Ghostly Dancers\n1 Orzhov Basilica\n1 Arvinox, the Mind Flail\n1 Bottomless Pool // Locker Room\n1 Command Tower\n1 Exotic Orchard\n1 Path of Ancestry\n1 Calciform Pools\n1 Cloudcrest Lake\n1 Contaminated Landscape\n1 Darkwater Catacombs\n1 Desolate Mire\n1 Dreadship Reef\n1 Dromar's Cavern\n1 Duskmantle, House of Shadow\n1 Fetid Heath\n1 Land Cap\n1 Moorland Haunt\n1 Nephalia Drownyard\n1 Orzhova, the Church of Deals\n1 Prahv, Spires of Order\n1 Processing Plant\n1 Profane Procession // Tomb of the Dusk Rose\n1 River Delta\n1 River of Tears\n1 Rootwater Depths\n1 Seaside Haven\n1 Silent Clearing\n1 Skycloud Expanse\n1 Abandoned Campground\n1 Ancient Spring\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Swamp\n1 Plains\n1 Island\n1 Swamp\n1 Plains",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": true,
+    "counts": {
+      "lands": 49,
+      "ramp": 9,
+      "card_draw": 10,
+      "targeted_removal": 9,
+      "mass_removal": 8,
+      "synergy": 11,
+      "uncategorized": 1
+    },
+    "gaps": {}
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "ramp",
+      "added": "Dauntless Scrapbot",
+      "removed": "One with the Multiverse"
+    },
+    {
+      "category": "ramp",
+      "added": "Grave Birthing",
+      "removed": "Sphere of Safety"
+    },
+    {
+      "category": "ramp",
+      "added": "Manakin",
+      "removed": "Extravagant Replication"
+    },
+    {
+      "category": "ramp",
+      "added": "Azula, Ruthless Firebender",
+      "removed": "Redress Fate"
+    },
+    {
+      "category": "ramp",
+      "added": "Carrier Thrall",
+      "removed": "Sigil of the Empty Throne"
+    },
+    {
+      "category": "ramp",
+      "added": "Zhentarim Bandit",
+      "removed": "Demon of Fate's Design"
+    },
+    {
+      "category": "ramp",
+      "added": "Manascape Refractor",
+      "removed": "Moon-Blessed Cleric"
+    },
+    {
+      "category": "ramp",
+      "added": "Spawnsire of Ulamog",
+      "removed": "Secret Arcade // Dusty Parlor"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Solar Tide",
+      "removed": "Soaring Lightbringer"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Tragic Trajectory",
+      "removed": "Mirrormade"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Bespoke B\u014d",
+      "removed": "Athreos, Shroud-Veiled"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Calamity of the Titans",
+      "removed": "Starfield Mystic"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Expel from Orazca",
+      "removed": "The Master of Keys"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Final Revels",
+      "removed": "Archetype of Imagination"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Stick Together",
+      "removed": "Inquisitive Glimmer"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Tempest of Light",
+      "removed": "Timely Ward"
+    }
+  ]
+}

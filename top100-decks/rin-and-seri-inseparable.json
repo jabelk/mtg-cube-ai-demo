@@ -1,0 +1,623 @@
+{
+  "commander": "Rin and Seri, Inseparable",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 98,
+  "total_cost_display": "$56.88",
+  "deck": {
+    "commander": "Rin and Seri, Inseparable",
+    "creatures": [
+      {
+        "name": "Goldspan Dragon",
+        "price": "$9.71",
+        "url": "https://manapool.com/card/m3c/212/goldspan-dragon"
+      },
+      {
+        "name": "Feline Sovereign",
+        "price": "$1.04",
+        "url": "https://manapool.com/card/m21/180/feline-sovereign"
+      },
+      {
+        "name": "Beastcaller Savant",
+        "price": "$0.53",
+        "url": "https://manapool.com/card/bfz/170/beastcaller-savant"
+      },
+      {
+        "name": "Spirited Companion",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/155/spirited-companion"
+      },
+      {
+        "name": "Keeper of Fables",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/eld/163/keeper-of-fables"
+      },
+      {
+        "name": "Zhur-Taa Ancient",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/dgm/119/zhur-taa-ancient"
+      },
+      {
+        "name": "Loyal Warhound",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/blc/107/loyal-warhound"
+      },
+      {
+        "name": "Manticore of the Gauntlet",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/akh/142/manticore-of-the-gauntlet"
+      },
+      {
+        "name": "Shivan Hellkite",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/231/shivan-hellkite"
+      },
+      {
+        "name": "Combustion Man",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tla/127/combustion-man"
+      },
+      {
+        "name": "Kutzil, Malamet Exemplar",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/alci/50/kutzil-malamet-exemplar"
+      },
+      {
+        "name": "Stalwart Speartail",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Kaheera, the Orphanguard",
+        "price": "$0.34",
+        "url": "https://manapool.com/card/iko/224/kaheera-the-orphanguard"
+      },
+      {
+        "name": "Helpful Hunter",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fdn/16/helpful-hunter"
+      },
+      {
+        "name": "Ajani, Nacatl Pariah",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Novablast Wurm",
+        "price": "$1.09",
+        "url": "https://manapool.com/card/wwk/119/novablast-wurm"
+      },
+      {
+        "name": "Prowling Serpopard",
+        "price": "$1.30",
+        "url": "https://manapool.com/card/akh/180/prowling-serpopard"
+      },
+      {
+        "name": "Prava of the Steel Legion",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/cmr/38/prava-of-the-steel-legion"
+      },
+      {
+        "name": "Phelia, Exuberant Shepherd",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/amh3/46/phelia-exuberant-shepherd"
+      },
+      {
+        "name": "Masked Vandal",
+        "price": "$2.71",
+        "url": "https://manapool.com/card/khm/184/masked-vandal"
+      },
+      {
+        "name": "Lion Sash",
+        "price": "$2.21",
+        "url": "https://manapool.com/card/neo/26/lion-sash"
+      },
+      {
+        "name": "Alms Collector",
+        "price": "$0.70",
+        "url": "https://manapool.com/card/cmm/10/alms-collector"
+      },
+      {
+        "name": "Skyhunter Strike Force",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/aone/9/skyhunter-strike-force"
+      },
+      {
+        "name": "Qasali Pridemage",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/2x2/267/qasali-pridemage"
+      },
+      {
+        "name": "Skyknight Squire",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/fdn/23/skyknight-squire"
+      },
+      {
+        "name": "Pridemalkin",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/j25/700/pridemalkin"
+      },
+      {
+        "name": "Felidar Sovereign",
+        "price": "$2.03",
+        "url": "https://manapool.com/card/bfz/26/felidar-sovereign"
+      },
+      {
+        "name": "Temur Sabertooth",
+        "price": "$0.57",
+        "url": "https://manapool.com/card/plst/FRF-141/temur-sabertooth"
+      },
+      {
+        "name": "Oreskos Explorer",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c21/98/oreskos-explorer"
+      },
+      {
+        "name": "Sovereign Okinec Ahau",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/alci/53/sovereign-okinec-ahau"
+      },
+      {
+        "name": "Phabine, Boss's Confidant",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/asnc/46/phabine-bosss-confidant"
+      },
+      {
+        "name": "Tesak, Judith's Hellhound",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mkc/36/tesak-judiths-hellhound"
+      },
+      {
+        "name": "Bolt Hound",
+        "price": "$0.23",
+        "url": "https://manapool.com/card/m21/131/bolt-hound"
+      },
+      {
+        "name": "Bloodline Pretender",
+        "price": "$1.12",
+        "url": "https://manapool.com/card/khm/235/bloodline-pretender"
+      },
+      {
+        "name": "Ajani's Pridemate",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/clu/52/ajanis-pridemate"
+      },
+      {
+        "name": "Faithful Watchdog",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/185/faithful-watchdog"
+      },
+      {
+        "name": "Universal Automaton",
+        "price": "$0.45",
+        "url": "https://manapool.com/card/mh1/235/universal-automaton"
+      },
+      {
+        "name": "Bronzehide Lion",
+        "price": "$0.29",
+        "url": "https://manapool.com/card/thb/210/bronzehide-lion"
+      },
+      {
+        "name": "Resolute Watchdog",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/rna/19/resolute-watchdog"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Spawning Breath",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/roe/164/spawning-breath"
+      },
+      {
+        "name": "Skred",
+        "price": "$1.92",
+        "url": "https://manapool.com/card/csp/97/skred"
+      },
+      {
+        "name": "Just Desserts",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ust/90/just-desserts"
+      },
+      {
+        "name": "Jennika's Technique",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmt/236/jennikas-technique"
+      },
+      {
+        "name": "Crib Swap",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/2xm/12/crib-swap"
+      },
+      {
+        "name": "White Sun's Zenith",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/scd/41/white-suns-zenith"
+      },
+      {
+        "name": "Second Harvest",
+        "price": "$0.88",
+        "url": "https://manapool.com/card/inr/213/second-harvest"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Disorder",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/7ed/179/disorder"
+      },
+      {
+        "name": "Mizzium Mortars",
+        "price": "$0.36",
+        "url": "https://manapool.com/card/rtr/101/mizzium-mortars"
+      },
+      {
+        "name": "Release the Dogs",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fdn/580/release-the-dogs"
+      },
+      {
+        "name": "Shamanic Revelation",
+        "price": "$0.77",
+        "url": "https://manapool.com/card/afc/171/shamanic-revelation"
+      },
+      {
+        "name": "Titanic Ultimatum",
+        "price": "$1.61",
+        "url": "https://manapool.com/card/ala/204/titanic-ultimatum"
+      },
+      {
+        "name": "Cultivate",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmc/50/cultivate"
+      },
+      {
+        "name": "Farseek",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/rvr/138/farseek"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Replicating Ring",
+        "price": "$0.46",
+        "url": "https://manapool.com/card/khm/244/replicating-ring"
+      },
+      {
+        "name": "Rod of Ruin",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/341/rod-of-ruin"
+      },
+      {
+        "name": "Esika's Chariot",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/blc/215/esikas-chariot"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "Frontier Siege",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdc/256/frontier-siege"
+      },
+      {
+        "name": "Warleader's Call",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/amkm/23/warleaders-call"
+      },
+      {
+        "name": "Intangible Virtue",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmm/31/intangible-virtue"
+      }
+    ],
+    "planeswalkers": [
+      {
+        "name": "Ajani, Strength of the Pride",
+        "price": "$9.07",
+        "url": "https://manapool.com/card/m20/2/ajani-strength-of-the-pride"
+      }
+    ],
+    "lands": [
+      {
+        "name": "Animal Sanctuary",
+        "price": "$2.12",
+        "url": "https://manapool.com/card/m21/242/animal-sanctuary"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Command Tower",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/325/command-tower"
+      },
+      {
+        "name": "Exotic Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/131/exotic-orchard"
+      },
+      {
+        "name": "Aggressive Crag",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/cmb2/112/aggressive-crag"
+      },
+      {
+        "name": "An-Havva Township",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/hml/111/an-havva-township"
+      },
+      {
+        "name": "Battlefield Forge",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/blc/293/battlefield-forge"
+      },
+      {
+        "name": "Brushland",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/fic/377/brushland"
+      },
+      {
+        "name": "Contested Cliffs",
+        "price": "$0.29",
+        "url": "https://manapool.com/card/c13/282/contested-cliffs"
+      },
+      {
+        "name": "Fetching Garden",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/mb2/611/fetching-garden"
+      },
+      {
+        "name": "Fungal Reaches",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tsr/279/fungal-reaches"
+      },
+      {
+        "name": "Grove of the Guardian",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/rtr/240/grove-of-the-guardian"
+      },
+      {
+        "name": "Hushwood Verge",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/adsk/26/hushwood-verge"
+      },
+      {
+        "name": "Karplusan Forest",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/drc/163/karplusan-forest"
+      },
+      {
+        "name": "Kessig Wolf Run",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mkc/269/kessig-wolf-run"
+      },
+      {
+        "name": "Mogg Hollows",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/tmp/320/mogg-hollows"
+      },
+      {
+        "name": "Mossfire Valley",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/316/mossfire-valley"
+      },
+      {
+        "name": "Nantuko Monastery",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmr/252/nantuko-monastery"
+      },
+      {
+        "name": "Omenpath to Naya",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mb2/616/omenpath-to-naya"
+      },
+      {
+        "name": "Path of Mettle // Metzali, Tower of Triumph",
+        "price": "$0.27",
+        "url": "https://manapool.com/card/rix/165/path-of-mettle-metzali-tower-of-triumph"
+      },
+      {
+        "name": "Pinecrest Ridge",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/chk/281/pinecrest-ridge"
+      },
+      {
+        "name": "Rith's Grove",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmr/255/riths-grove"
+      },
+      {
+        "name": "Rugged Prairie",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdc/389/rugged-prairie"
+      },
+      {
+        "name": "Saltcrusted Steppe",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tsp/277/saltcrusted-steppe"
+      },
+      {
+        "name": "Sheltering Landscape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/227/sheltering-landscape"
+      },
+      {
+        "name": "Skarrg, the Rage Pits",
+        "price": "$0.62",
+        "url": "https://manapool.com/card/gpt/163/skarrg-the-rage-pits"
+      },
+      {
+        "name": "Slayers' Stronghold",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/424/slayers-stronghold"
+      },
+      {
+        "name": "Sungrass Prairie",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/334/sungrass-prairie"
+      },
+      {
+        "name": "Abraded Bluffs",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/otj/251/abraded-bluffs"
+      },
+      {
+        "name": "Alpine Meadow",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/khm/248/alpine-meadow"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      }
+    ],
+    "other": []
+  },
+  "export_text": "1 Rin and Seri, Inseparable *CMDR*\n1 Goldspan Dragon\n1 Feline Sovereign\n1 Frontier Siege\n1 Spawning Breath\n1 Beastcaller Savant\n1 Replicating Ring\n1 Spirited Companion\n1 Keeper of Fables\n1 Zhur-Taa Ancient\n1 Loyal Warhound\n1 Manticore of the Gauntlet\n1 Shivan Hellkite\n1 Animal Sanctuary\n1 Combustion Man\n1 Skred\n1 Just Desserts\n1 Kutzil, Malamet Exemplar\n1 Rod of Ruin\n1 Stalwart Speartail\n1 Jennika's Technique\n1 Ajani, Strength of the Pride\n1 Disorder\n1 Kaheera, the Orphanguard\n1 Mizzium Mortars\n1 Helpful Hunter\n1 Ajani, Nacatl Pariah\n1 Novablast Wurm\n1 Prowling Serpopard\n1 Crib Swap\n1 Prava of the Steel Legion\n1 White Sun's Zenith\n1 Phelia, Exuberant Shepherd\n1 Path of Ancestry\n1 Masked Vandal\n1 Lion Sash\n1 Alms Collector\n1 Release the Dogs\n1 Skyhunter Strike Force\n1 Qasali Pridemage\n1 Skyknight Squire\n1 Pridemalkin\n1 Second Harvest\n1 Felidar Sovereign\n1 Temur Sabertooth\n1 Shamanic Revelation\n1 Titanic Ultimatum\n1 Warleader's Call\n1 Oreskos Explorer\n1 Cultivate\n1 Sovereign Okinec Ahau\n1 Phabine, Boss's Confidant\n1 Tesak, Judith's Hellhound\n1 Bolt Hound\n1 Bloodline Pretender\n1 Ajani's Pridemate\n1 Faithful Watchdog\n1 Esika's Chariot\n1 Intangible Virtue\n1 Farseek\n1 Universal Automaton\n1 Bronzehide Lion\n1 Resolute Watchdog\n1 Command Tower\n1 Exotic Orchard\n1 Aggressive Crag\n1 An-Havva Township\n1 Battlefield Forge\n1 Brushland\n1 Contested Cliffs\n1 Fetching Garden\n1 Fungal Reaches\n1 Grove of the Guardian\n1 Hushwood Verge\n1 Karplusan Forest\n1 Kessig Wolf Run\n1 Mogg Hollows\n1 Mossfire Valley\n1 Nantuko Monastery\n1 Omenpath to Naya\n1 Path of Mettle // Metzali, Tower of Triumph\n1 Pinecrest Ridge\n1 Rith's Grove\n1 Rugged Prairie\n1 Saltcrusted Steppe\n1 Sheltering Landscape\n1 Skarrg, the Rage Pits\n1 Slayers' Stronghold\n1 Sungrass Prairie\n1 Abraded Bluffs\n1 Alpine Meadow\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Forest\n1 Plains\n1 Mountain\n1 Forest\n1 Plains",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": true,
+    "counts": {
+      "lands": 38,
+      "ramp": 8,
+      "card_draw": 9,
+      "targeted_removal": 12,
+      "mass_removal": 6,
+      "synergy": 24,
+      "uncategorized": 1
+    },
+    "gaps": {}
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "ramp",
+      "added": "Goldspan Dragon",
+      "removed": "Regal Caracal"
+    },
+    {
+      "category": "ramp",
+      "added": "Frontier Siege",
+      "removed": "Pack Leader"
+    },
+    {
+      "category": "ramp",
+      "added": "Spawning Breath",
+      "removed": "King of the Pride"
+    },
+    {
+      "category": "ramp",
+      "added": "Beastcaller Savant",
+      "removed": "Jinnie Fay, Jetmir's Second"
+    },
+    {
+      "category": "ramp",
+      "added": "Replicating Ring",
+      "removed": "Arahbo, the First Fang"
+    },
+    {
+      "category": "ramp",
+      "added": "Zhur-Taa Ancient",
+      "removed": "Selfless Savior"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Manticore of the Gauntlet",
+      "removed": "Maskwood Nexus"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Shivan Hellkite",
+      "removed": "Felidar Retreat"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Combustion Man",
+      "removed": "Mirror Entity"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Skred",
+      "removed": "Pride Sovereign"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Just Desserts",
+      "removed": "Realmwalker"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Rod of Ruin",
+      "removed": "Whitemane Lion"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Stalwart Speartail",
+      "removed": "Hungry Lynx"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Jennika's Technique",
+      "removed": "Beastmaster Ascension"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Ajani, Strength of the Pride",
+      "removed": "Jazal Goldmane"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Disorder",
+      "removed": "Taurean Mauler"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Mizzium Mortars",
+      "removed": "Enduring Courage"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Novablast Wurm",
+      "removed": "Impact Tremors"
+    }
+  ]
+}

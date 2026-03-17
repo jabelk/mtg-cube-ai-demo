@@ -1,0 +1,582 @@
+{
+  "commander": "Mr. House, President and CEO",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 99,
+  "total_cost_display": "$46.23",
+  "deck": {
+    "commander": "Mr. House, President and CEO",
+    "creatures": [
+      {
+        "name": "Phyrexian Gargantua",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/apc/48/phyrexian-gargantua"
+      },
+      {
+        "name": "Hoarding Ogre",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/146/hoarding-ogre"
+      },
+      {
+        "name": "Jan Jansen, Chaos Crafter",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/clb/277/jan-jansen-chaos-crafter"
+      },
+      {
+        "name": "Losheel, Clockwork Scholar",
+        "price": "$2.44",
+        "url": "https://manapool.com/card/cmm/38/losheel-clockwork-scholar"
+      },
+      {
+        "name": "Mirkwood Bats",
+        "price": "$0.76",
+        "url": "https://manapool.com/card/ltr/95/mirkwood-bats"
+      },
+      {
+        "name": "Reckless Fireweaver",
+        "price": "$0.34",
+        "url": "https://manapool.com/card/drc/106/reckless-fireweaver"
+      },
+      {
+        "name": "Ancient Copper Dragon",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/aclb/4/ancient-copper-dragon"
+      },
+      {
+        "name": "Securitron Squadron",
+        "price": "$1.02",
+        "url": "https://manapool.com/card/pip/23/securitron-squadron"
+      },
+      {
+        "name": "Ancient Gold Dragon",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/aclb/5/ancient-gold-dragon"
+      },
+      {
+        "name": "Crime Novelist",
+        "price": "$0.58",
+        "url": "https://manapool.com/card/mkm/121/crime-novelist"
+      },
+      {
+        "name": "Earth-Cult Elemental",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/141/earth-cult-elemental"
+      },
+      {
+        "name": "Ingenious Artillerist",
+        "price": "$0.42",
+        "url": "https://manapool.com/card/clb/182/ingenious-artillerist"
+      },
+      {
+        "name": "Steel Overseer",
+        "price": "$0.30",
+        "url": "https://manapool.com/card/eoc/144/steel-overseer"
+      },
+      {
+        "name": "Vihaan, Goldwaker",
+        "price": "$1.09",
+        "url": "https://manapool.com/card/otc/44/vihaan-goldwaker"
+      },
+      {
+        "name": "Monoxa, Midway Manager",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/unf/173/monoxa-midway-manager"
+      },
+      {
+        "name": "Magda, Brazen Outlaw",
+        "price": "$1.04",
+        "url": "https://manapool.com/card/khm/142/magda-brazen-outlaw"
+      },
+      {
+        "name": "Nadier's Nightblade",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/184/nadiers-nightblade"
+      },
+      {
+        "name": "Marionette Master",
+        "price": "$1.30",
+        "url": "https://manapool.com/card/kld/90/marionette-master"
+      },
+      {
+        "name": "Herald of Hadar",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/108/herald-of-hadar"
+      },
+      {
+        "name": "Swarming Goblins",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/162/swarming-goblins"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Contraband Livestock",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/clb/12/contraband-livestock"
+      },
+      {
+        "name": "Revivify",
+        "price": "$2.08",
+        "url": "https://manapool.com/card/afc/10/revivify"
+      },
+      {
+        "name": "Berserker's Frenzy",
+        "price": "$1.45",
+        "url": "https://manapool.com/card/afc/29/berserkers-frenzy"
+      },
+      {
+        "name": "Six-Sided Die",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/unf/92/six-sided-die"
+      },
+      {
+        "name": "Grave Endeavor",
+        "price": "$2.49",
+        "url": "https://manapool.com/card/afc/24/grave-endeavor"
+      },
+      {
+        "name": "Deadly Dispute",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/blc/181/deadly-dispute"
+      },
+      {
+        "name": "Dispatch",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/eoc/64/dispatch"
+      },
+      {
+        "name": "Farideh's Fireball",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/142/faridehs-fireball"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Razaketh's Rite",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/hou/74/razakeths-rite"
+      },
+      {
+        "name": "Myrkul's Edict",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/clb/135/myrkuls-edict"
+      },
+      {
+        "name": "Grab the Prize",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsk/138/grab-the-prize"
+      },
+      {
+        "name": "Rising Miasma",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/bfz/122/rising-miasma"
+      },
+      {
+        "name": "Mizzium Mortars",
+        "price": "$0.36",
+        "url": "https://manapool.com/card/rtr/101/mizzium-mortars"
+      },
+      {
+        "name": "Danse Macabre",
+        "price": "$2.69",
+        "url": "https://manapool.com/card/afc/22/danse-macabre"
+      },
+      {
+        "name": "Corpse Explosion",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/psnc/179p/corpse-explosion"
+      },
+      {
+        "name": "Attempted Murder",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/unf/66/attempted-murder"
+      },
+      {
+        "name": "Circuits Act",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/unf/103/circuits-act"
+      },
+      {
+        "name": "Recruitment Drive",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/clb/38/recruitment-drive"
+      },
+      {
+        "name": "Thunderwave",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/clb/201/thunderwave"
+      },
+      {
+        "name": "Valiant Endeavor",
+        "price": "$0.57",
+        "url": "https://manapool.com/card/afc/282/valiant-endeavor"
+      },
+      {
+        "name": "Organic Extinction",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/eoc/66/organic-extinction"
+      },
+      {
+        "name": "Clowning Around",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/unf/6/clowning-around"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Urza's Hot Tub",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/unh/131/urzas-hot-tub"
+      },
+      {
+        "name": "Heirloom Blade",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/j22/775/heirloom-blade"
+      },
+      {
+        "name": "The Deck of Many Things",
+        "price": "$0.98",
+        "url": "https://manapool.com/card/sld/2460/the-deck-of-many-things"
+      },
+      {
+        "name": "Metalspinner's Puzzleknot",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/2xm/273/metalspinners-puzzleknot"
+      },
+      {
+        "name": "Treasure Chest",
+        "price": "$0.36",
+        "url": "https://manapool.com/card/afr/252/treasure-chest"
+      },
+      {
+        "name": "Luck Bobblehead",
+        "price": "$2.54",
+        "url": "https://manapool.com/card/pip/135/luck-bobblehead"
+      },
+      {
+        "name": "Strength-Testing Hammer",
+        "price": "$1.11",
+        "url": "https://manapool.com/card/unf/193/strength-testing-hammer"
+      },
+      {
+        "name": "Idol of Oblivion",
+        "price": "$0.79",
+        "url": "https://manapool.com/card/blc/277/idol-of-oblivion"
+      },
+      {
+        "name": "Charisma Bobblehead",
+        "price": "$0.84",
+        "url": "https://manapool.com/card/pip/130/charisma-bobblehead"
+      },
+      {
+        "name": "Perception Bobblehead",
+        "price": "$0.97",
+        "url": "https://manapool.com/card/pip/139/perception-bobblehead"
+      },
+      {
+        "name": "Intelligence Bobblehead",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/pip/134/intelligence-bobblehead"
+      },
+      {
+        "name": "Endurance Bobblehead",
+        "price": "$0.29",
+        "url": "https://manapool.com/card/pip/132/endurance-bobblehead"
+      },
+      {
+        "name": "Agility Bobblehead",
+        "price": "$0.98",
+        "url": "https://manapool.com/card/pip/126/agility-bobblehead"
+      },
+      {
+        "name": "Ebony Fly",
+        "price": "$2.33",
+        "url": "https://manapool.com/card/afc/60/ebony-fly"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "Night Shift of the Living Dead",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/unf/81/night-shift-of-the-living-dead"
+      },
+      {
+        "name": "Priority Boarding",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/unf/119/priority-boarding"
+      },
+      {
+        "name": "Intangible Virtue",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmm/31/intangible-virtue"
+      },
+      {
+        "name": "Tempered Steel",
+        "price": "$1.04",
+        "url": "https://manapool.com/card/som/24/tempered-steel"
+      }
+    ],
+    "planeswalkers": [],
+    "lands": [
+      {
+        "name": "Underdark Rift",
+        "price": "$0.50",
+        "url": "https://manapool.com/card/afc/62/underdark-rift"
+      },
+      {
+        "name": "Treasure Vault",
+        "price": "$0.80",
+        "url": "https://manapool.com/card/drc/180/treasure-vault"
+      },
+      {
+        "name": "Command Tower",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/325/command-tower"
+      },
+      {
+        "name": "Exotic Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/131/exotic-orchard"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Aggressive Crag",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/cmb2/112/aggressive-crag"
+      },
+      {
+        "name": "Battlefield Forge",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/blc/293/battlefield-forge"
+      },
+      {
+        "name": "Caves of Koilos",
+        "price": "$0.80",
+        "url": "https://manapool.com/card/m15/241/caves-of-koilos"
+      },
+      {
+        "name": "Cinder Marsh",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/tmp/317/cinder-marsh"
+      },
+      {
+        "name": "Desolate Mire",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/386/desolate-mire"
+      },
+      {
+        "name": "Fetid Heath",
+        "price": "$0.39",
+        "url": "https://manapool.com/card/fic/391/fetid-heath"
+      },
+      {
+        "name": "Lantern-Lit Graveyard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/chk/278/lantern-lit-graveyard"
+      },
+      {
+        "name": "Lava Tubes",
+        "price": "$0.30",
+        "url": "https://manapool.com/card/ptc/gb358/lava-tubes"
+      },
+      {
+        "name": "Madlands",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mb2/614/madlands"
+      },
+      {
+        "name": "Molten Slagheap",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/284/molten-slagheap"
+      },
+      {
+        "name": "Orzhova, the Church of Deals",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/gpt/162/orzhova-the-church-of-deals"
+      },
+      {
+        "name": "Path of Mettle // Metzali, Tower of Triumph",
+        "price": "$0.27",
+        "url": "https://manapool.com/card/rix/165/path-of-mettle-metzali-tower-of-triumph"
+      },
+      {
+        "name": "Profane Procession // Tomb of the Dusk Rose",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/rix/166/profane-procession-tomb-of-the-dusk-rose"
+      },
+      {
+        "name": "Rix Maadi, Dungeon Palace",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c19/269/rix-maadi-dungeon-palace"
+      },
+      {
+        "name": "Rugged Prairie",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdc/389/rugged-prairie"
+      },
+      {
+        "name": "Shadowblood Ridge",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/who/303/shadowblood-ridge"
+      },
+      {
+        "name": "Shattered Landscape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/226/shattered-landscape"
+      },
+      {
+        "name": "Silent Clearing",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/amh1/51/silent-clearing"
+      },
+      {
+        "name": "Slayers' Stronghold",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/424/slayers-stronghold"
+      },
+      {
+        "name": "Starlit Sanctum",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ons/325/starlit-sanctum"
+      },
+      {
+        "name": "Stensia Bloodhall",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/isd/247/stensia-bloodhall"
+      },
+      {
+        "name": "Sunhome, Fortress of the Legion",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mkc/298/sunhome-fortress-of-the-legion"
+      },
+      {
+        "name": "Sunscorched Divide",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/433/sunscorched-divide"
+      },
+      {
+        "name": "Tainted Field",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/356/tainted-field"
+      },
+      {
+        "name": "Abraded Bluffs",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/otj/251/abraded-bluffs"
+      },
+      {
+        "name": "Akoum Refuge",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ddk/73/akoum-refuge"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      }
+    ],
+    "other": []
+  },
+  "export_text": "1 Mr. House, President and CEO *CMDR*\n1 Phyrexian Gargantua\n1 Razaketh's Rite\n1 Contraband Livestock\n1 Hoarding Ogre\n1 Urza's Hot Tub\n1 Heirloom Blade\n1 Myrkul's Edict\n1 The Deck of Many Things\n1 Metalspinner's Puzzleknot\n1 Grab the Prize\n1 Jan Jansen, Chaos Crafter\n1 Rising Miasma\n1 Mizzium Mortars\n1 Danse Macabre\n1 Corpse Explosion\n1 Losheel, Clockwork Scholar\n1 Attempted Murder\n1 Mirkwood Bats\n1 Treasure Chest\n1 Revivify\n1 Reckless Fireweaver\n1 Berserker's Frenzy\n1 Circuits Act\n1 Luck Bobblehead\n1 Six-Sided Die\n1 Night Shift of the Living Dead\n1 Ancient Copper Dragon\n1 Securitron Squadron\n1 Recruitment Drive\n1 Thunderwave\n1 Ancient Gold Dragon\n1 Grave Endeavor\n1 Crime Novelist\n1 Earth-Cult Elemental\n1 Ingenious Artillerist\n1 Strength-Testing Hammer\n1 Underdark Rift\n1 Steel Overseer\n1 Deadly Dispute\n1 Dispatch\n1 Treasure Vault\n1 Valiant Endeavor\n1 Idol of Oblivion\n1 Priority Boarding\n1 Intangible Virtue\n1 Organic Extinction\n1 Vihaan, Goldwaker\n1 Monoxa, Midway Manager\n1 Farideh's Fireball\n1 Magda, Brazen Outlaw\n1 Nadier's Nightblade\n1 Charisma Bobblehead\n1 Perception Bobblehead\n1 Intelligence Bobblehead\n1 Marionette Master\n1 Herald of Hadar\n1 Clowning Around\n1 Endurance Bobblehead\n1 Agility Bobblehead\n1 Swarming Goblins\n1 Ebony Fly\n1 Tempered Steel\n1 Command Tower\n1 Exotic Orchard\n1 Path of Ancestry\n1 Aggressive Crag\n1 Battlefield Forge\n1 Caves of Koilos\n1 Cinder Marsh\n1 Desolate Mire\n1 Fetid Heath\n1 Lantern-Lit Graveyard\n1 Lava Tubes\n1 Madlands\n1 Molten Slagheap\n1 Orzhova, the Church of Deals\n1 Path of Mettle // Metzali, Tower of Triumph\n1 Profane Procession // Tomb of the Dusk Rose\n1 Rix Maadi, Dungeon Palace\n1 Rugged Prairie\n1 Shadowblood Ridge\n1 Shattered Landscape\n1 Silent Clearing\n1 Slayers' Stronghold\n1 Starlit Sanctum\n1 Stensia Bloodhall\n1 Sunhome, Fortress of the Legion\n1 Sunscorched Divide\n1 Tainted Field\n1 Abraded Bluffs\n1 Akoum Refuge\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Swamp\n1 Plains\n1 Mountain\n1 Swamp\n1 Plains",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": true,
+    "counts": {
+      "lands": 39,
+      "ramp": 15,
+      "card_draw": 10,
+      "targeted_removal": 8,
+      "mass_removal": 6,
+      "synergy": 21,
+      "uncategorized": 0
+    },
+    "gaps": {}
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "card_draw",
+      "added": "Phyrexian Gargantua",
+      "removed": "Barbarian Class"
+    },
+    {
+      "category": "card_draw",
+      "added": "Razaketh's Rite",
+      "removed": "Wyll, Blade of Frontiers"
+    },
+    {
+      "category": "card_draw",
+      "added": "Urza's Hot Tub",
+      "removed": "Wyll's Reversal"
+    },
+    {
+      "category": "card_draw",
+      "added": "Heirloom Blade",
+      "removed": "Wand of Wonder"
+    },
+    {
+      "category": "card_draw",
+      "added": "Metalspinner's Puzzleknot",
+      "removed": "Lightfoot Rogue"
+    },
+    {
+      "category": "card_draw",
+      "added": "Grab the Prize",
+      "removed": "Chaos Dragon"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Rising Miasma",
+      "removed": "Brazen Dwarf"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Mizzium Mortars",
+      "removed": "Iron Mastiff"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Corpse Explosion",
+      "removed": "Chaos Channeler"
+    }
+  ]
+}

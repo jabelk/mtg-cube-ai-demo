@@ -1,0 +1,633 @@
+{
+  "commander": "Urza, Lord High Artificer",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 99,
+  "total_cost_display": "$67.11",
+  "deck": {
+    "commander": "Urza, Lord High Artificer",
+    "creatures": [
+      {
+        "name": "Sai, Master Thopterist",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/drc/82/sai-master-thopterist"
+      },
+      {
+        "name": "Forensic Gadgeteer",
+        "price": "$2.14",
+        "url": "https://manapool.com/card/mkm/57/forensic-gadgeteer"
+      },
+      {
+        "name": "Tempest Trapper",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Padeem, Consul of Innovation",
+        "price": "$1.25",
+        "url": "https://manapool.com/card/j25/62/padeem-consul-of-innovation"
+      },
+      {
+        "name": "Floodgate",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmr/49/floodgate"
+      },
+      {
+        "name": "Lockjaw Snapper",
+        "price": "$0.42",
+        "url": "https://manapool.com/card/shm/255/lockjaw-snapper"
+      },
+      {
+        "name": "Jin-Gitaxias // The Great Synthesis",
+        "price": "$11.71",
+        "url": "https://manapool.com/card/mom/65/jin-gitaxias-the-great-synthesis"
+      },
+      {
+        "name": "Thought Monitor",
+        "price": "$0.39",
+        "url": "https://manapool.com/card/eoc/79/thought-monitor"
+      },
+      {
+        "name": "Trinket Mage",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/som/48/trinket-mage"
+      },
+      {
+        "name": "Tribute Mage",
+        "price": "$0.45",
+        "url": "https://manapool.com/card/mh1/73/tribute-mage"
+      },
+      {
+        "name": "Tidespout Tyrant",
+        "price": "$1.04",
+        "url": "https://manapool.com/card/rvr/63/tidespout-tyrant"
+      },
+      {
+        "name": "Trophy Mage",
+        "price": "$0.36",
+        "url": "https://manapool.com/card/aer/48/trophy-mage"
+      },
+      {
+        "name": "Jhoira's Familiar",
+        "price": "$1.30",
+        "url": "https://manapool.com/card/dom/220/jhoiras-familiar"
+      },
+      {
+        "name": "Myr Battlesphere",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/c16/263/myr-battlesphere"
+      },
+      {
+        "name": "Drafna, Founder of Lat-Nam",
+        "price": "$0.39",
+        "url": "https://manapool.com/card/bro/47/drafna-founder-of-lat-nam"
+      },
+      {
+        "name": "Memnite",
+        "price": "$1.25",
+        "url": "https://manapool.com/card/som/174/memnite"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Stern Dismissal",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/thb/68/stern-dismissal"
+      },
+      {
+        "name": "Muddle the Mixture",
+        "price": "$2.08",
+        "url": "https://manapool.com/card/rav/60/muddle-the-mixture"
+      },
+      {
+        "name": "Command of Unsummoning",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/plst/POR-48/command-of-unsummoning"
+      },
+      {
+        "name": "Scour for Scrap",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/eoe/73/scour-for-scrap"
+      },
+      {
+        "name": "Filter Out",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mat/7/filter-out"
+      },
+      {
+        "name": "Aetherspouts",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/m15/44/aetherspouts"
+      },
+      {
+        "name": "An Offer You Can't Refuse",
+        "price": "$2.49",
+        "url": "https://manapool.com/card/snc/51/an-offer-you-cant-refuse"
+      },
+      {
+        "name": "Dispel",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/bfz/76/dispel"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Blatant Thievery",
+        "price": "$2.33",
+        "url": "https://manapool.com/card/ons/71/blatant-thievery"
+      },
+      {
+        "name": "Thoughtcast",
+        "price": "$1.86",
+        "url": "https://manapool.com/card/wc04/ap54/thoughtcast"
+      },
+      {
+        "name": "Whelming Wave",
+        "price": "$0.57",
+        "url": "https://manapool.com/card/plst/DDO-44/whelming-wave"
+      },
+      {
+        "name": "Solve the Equation",
+        "price": "$1.79",
+        "url": "https://manapool.com/card/stx/54/solve-the-equation"
+      },
+      {
+        "name": "Polymorph",
+        "price": "$0.67",
+        "url": "https://manapool.com/card/m10/67/polymorph"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Charisma Bobblehead",
+        "price": "$0.84",
+        "url": "https://manapool.com/card/pip/130/charisma-bobblehead"
+      },
+      {
+        "name": "Basalt Monolith",
+        "price": "$2.92",
+        "url": "https://manapool.com/card/ltc/274/basalt-monolith"
+      },
+      {
+        "name": "Mishra's Bauble",
+        "price": "$1.46",
+        "url": "https://manapool.com/card/brr/34/mishras-bauble"
+      },
+      {
+        "name": "Everflowing Chalice",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/fic/343/everflowing-chalice"
+      },
+      {
+        "name": "Aether Spellbomb",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/j22/752/aether-spellbomb"
+      },
+      {
+        "name": "A-Spell Satchel",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Solar Array",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/eoc/18/solar-array"
+      },
+      {
+        "name": "Invasion Submersible",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tla/57/invasion-submersible"
+      },
+      {
+        "name": "Worldslayer",
+        "price": "$1.82",
+        "url": "https://manapool.com/card/m12/222/worldslayer"
+      },
+      {
+        "name": "Uthros Research Craft",
+        "price": "$1.17",
+        "url": "https://manapool.com/card/eoc/7/uthros-research-craft"
+      },
+      {
+        "name": "Cloud Key",
+        "price": "$1.36",
+        "url": "https://manapool.com/card/eoc/54/cloud-key"
+      },
+      {
+        "name": "Sculpting Steel",
+        "price": "$1.32",
+        "url": "https://manapool.com/card/brr/50/sculpting-steel"
+      },
+      {
+        "name": "Sewer-veillance Cam",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmt/53/sewer-veillance-cam"
+      },
+      {
+        "name": "Repurposing Bay",
+        "price": "$0.38",
+        "url": "https://manapool.com/card/dft/56/repurposing-bay"
+      },
+      {
+        "name": "Winter Moon",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/mh3/213/winter-moon"
+      },
+      {
+        "name": "Proteus Staff",
+        "price": "$0.84",
+        "url": "https://manapool.com/card/mb2/140/proteus-staff"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "Copy Land",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/m3c/99/copy-land"
+      },
+      {
+        "name": "Confiscate",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/7ed/65/confiscate"
+      },
+      {
+        "name": "Thopter Spy Network",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/drc/83/thopter-spy-network"
+      },
+      {
+        "name": "Mechanized Production",
+        "price": "$1.31",
+        "url": "https://manapool.com/card/pip/178/mechanized-production"
+      }
+    ],
+    "planeswalkers": [
+      {
+        "name": "Narset, Parter of Veils",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/war/61/narset-parter-of-veils"
+      },
+      {
+        "name": "Tezzeret, Cruel Captain",
+        "price": "$2.00",
+        "url": "https://manapool.com/card/aeoe/1/tezzeret-cruel-captain"
+      }
+    ],
+    "lands": [
+      {
+        "name": "Seat of the Synod",
+        "price": "$0.62",
+        "url": "https://manapool.com/card/j25/773/seat-of-the-synod"
+      },
+      {
+        "name": "Golden Guardian // Gold-Forge Garrison",
+        "price": "$1.33",
+        "url": "https://manapool.com/card/rix/179/golden-guardian-gold-forge-garrison"
+      },
+      {
+        "name": "Darksteel Citadel",
+        "price": "$0.92",
+        "url": "https://manapool.com/card/wc04/mb164/darksteel-citadel"
+      },
+      {
+        "name": "Buried Ruin",
+        "price": "$0.32",
+        "url": "https://manapool.com/card/pip/254/buried-ruin"
+      },
+      {
+        "name": "Urza's Power Plant",
+        "price": "$0.29",
+        "url": "https://manapool.com/card/chr/115c/urzas-power-plant"
+      },
+      {
+        "name": "Blast Zone",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/m3c/322/blast-zone"
+      },
+      {
+        "name": "Urza's Mine",
+        "price": "$0.35",
+        "url": "https://manapool.com/card/5ed/427/urzas-mine"
+      },
+      {
+        "name": "Urza's Tower",
+        "price": "$0.32",
+        "url": "https://manapool.com/card/chr/116b/urzas-tower"
+      },
+      {
+        "name": "Flooded Strand",
+        "price": "$2.08",
+        "url": "https://manapool.com/card/aznr/29/flooded-strand"
+      },
+      {
+        "name": "Archway of Innovation",
+        "price": "$0.77",
+        "url": "https://manapool.com/card/mh3/214/archway-of-innovation"
+      },
+      {
+        "name": "Cephalid Coliseum",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/300/cephalid-coliseum"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Aether Hub",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/drc/145/aether-hub"
+      },
+      {
+        "name": "Ally Encampment",
+        "price": "$0.68",
+        "url": "https://manapool.com/card/bfz/228/ally-encampment"
+      },
+      {
+        "name": "Amonkhet Raceway",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dft/248/amonkhet-raceway"
+      },
+      {
+        "name": "Ancient Ziggurat",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/ecc/144/ancient-ziggurat"
+      },
+      {
+        "name": "Arch of Orazca",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/lcc/319/arch-of-orazca"
+      },
+      {
+        "name": "Archaeological Dig",
+        "price": "$0.35",
+        "url": "https://manapool.com/card/inv/320/archaeological-dig"
+      },
+      {
+        "name": "Archway Commons",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/plst/STX-263/archway-commons"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      }
+    ],
+    "other": []
+  },
+  "export_text": "1 Urza, Lord High Artificer *CMDR*\n1 Charisma Bobblehead\n1 Basalt Monolith\n1 Copy Land\n1 Seat of the Synod\n1 Mishra's Bauble\n1 Confiscate\n1 Everflowing Chalice\n1 Sai, Master Thopterist\n1 Forensic Gadgeteer\n1 Aether Spellbomb\n1 A-Spell Satchel\n1 Golden Guardian // Gold-Forge Garrison\n1 Tempest Trapper\n1 Darksteel Citadel\n1 Blatant Thievery\n1 Solar Array\n1 Invasion Submersible\n1 Padeem, Consul of Innovation\n1 Stern Dismissal\n1 Muddle the Mixture\n1 Floodgate\n1 Command of Unsummoning\n1 Lockjaw Snapper\n1 Jin-Gitaxias // The Great Synthesis\n1 Narset, Parter of Veils\n1 Buried Ruin\n1 Tezzeret, Cruel Captain\n1 Worldslayer\n1 Thoughtcast\n1 Urza's Power Plant\n1 Whelming Wave\n1 Blast Zone\n1 Urza's Mine\n1 Urza's Tower\n1 Thought Monitor\n1 Trinket Mage\n1 Tribute Mage\n1 Scour for Scrap\n1 Filter Out\n1 Uthros Research Craft\n1 Aetherspouts\n1 Tidespout Tyrant\n1 Cloud Key\n1 Thopter Spy Network\n1 Flooded Strand\n1 Trophy Mage\n1 Sculpting Steel\n1 Sewer-veillance Cam\n1 An Offer You Can't Refuse\n1 Jhoira's Familiar\n1 Myr Battlesphere\n1 Drafna, Founder of Lat-Nam\n1 Solve the Equation\n1 Repurposing Bay\n1 Mechanized Production\n1 Memnite\n1 Dispel\n1 Polymorph\n1 Winter Moon\n1 Proteus Staff\n1 Archway of Innovation\n1 Cephalid Coliseum\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Aether Hub\n1 Ally Encampment\n1 Amonkhet Raceway\n1 Ancient Ziggurat\n1 Arch of Orazca\n1 Archaeological Dig\n1 Archway Commons\n1 Island\n1 Island\n1 Island\n1 Island\n1 Island\n1 Island\n1 Island\n1 Island\n1 Island\n1 Island\n1 Island\n1 Island\n1 Island\n1 Island\n1 Island\n1 Island\n1 Island\n1 Island\n1 Island\n1 Island\n1 Island\n1 Island\n1 Island\n1 Island\n1 Island\n1 Island\n1 Island",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": true,
+    "counts": {
+      "lands": 48,
+      "ramp": 9,
+      "card_draw": 17,
+      "targeted_removal": 8,
+      "mass_removal": 7,
+      "synergy": 10,
+      "uncategorized": 0
+    },
+    "gaps": {}
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "ramp",
+      "added": "Charisma Bobblehead",
+      "removed": "Dramatic Reversal"
+    },
+    {
+      "category": "ramp",
+      "added": "Copy Land",
+      "removed": "Tormod's Crypt"
+    },
+    {
+      "category": "ramp",
+      "added": "Confiscate",
+      "removed": "Etherium Sculptor"
+    },
+    {
+      "category": "ramp",
+      "added": "A-Spell Satchel",
+      "removed": "Foundry Inspector"
+    },
+    {
+      "category": "ramp",
+      "added": "Golden Guardian // Gold-Forge Garrison",
+      "removed": "Mystic Forge"
+    },
+    {
+      "category": "ramp",
+      "added": "Tempest Trapper",
+      "removed": "Static Orb"
+    },
+    {
+      "category": "ramp",
+      "added": "Blatant Thievery",
+      "removed": "Manifold Key"
+    },
+    {
+      "category": "ramp",
+      "added": "Solar Array",
+      "removed": "Welding Jar"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Invasion Submersible",
+      "removed": "Emry, Lurker of the Loch"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Stern Dismissal",
+      "removed": "Ornithopter"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Floodgate",
+      "removed": "Voltaic Key"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Command of Unsummoning",
+      "removed": "Phyrexian Metamorph"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Lockjaw Snapper",
+      "removed": "Flusterstorm"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Jin-Gitaxias // The Great Synthesis",
+      "removed": "Codex Shredder"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Worldslayer",
+      "removed": "Shimmer Myr"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Whelming Wave",
+      "removed": "Grafdigger's Cage"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Blast Zone",
+      "removed": "Efficient Construction"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Filter Out",
+      "removed": "Spellbook"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Aetherspouts",
+      "removed": "Pithing Needle"
+    }
+  ]
+}

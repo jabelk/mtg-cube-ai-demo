@@ -1,0 +1,588 @@
+{
+  "commander": "Stella Lee, Wild Card",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 94,
+  "total_cost_display": "$62.62",
+  "deck": {
+    "commander": "Stella Lee, Wild Card",
+    "creatures": [
+      {
+        "name": "Firemaw Kavu",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tsp/153/firemaw-kavu"
+      },
+      {
+        "name": "Storm-Kiln Artist",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/astx/13/storm-kiln-artist"
+      },
+      {
+        "name": "Archmage Emeritus",
+        "price": "$2.00",
+        "url": "https://manapool.com/card/tdc/145/archmage-emeritus"
+      },
+      {
+        "name": "Kamahl, Pit Fighter",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ddl/16/kamahl-pit-fighter"
+      },
+      {
+        "name": "Magus of the Scroll",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tsp/169/magus-of-the-scroll"
+      },
+      {
+        "name": "Voldaren Thrillseeker",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mom/171/voldaren-thrillseeker"
+      },
+      {
+        "name": "Simian Spirit Guide",
+        "price": "$2.28",
+        "url": "https://manapool.com/card/plc/122/simian-spirit-guide"
+      },
+      {
+        "name": "Crackling Spellslinger",
+        "price": "$0.28",
+        "url": "https://manapool.com/card/otc/25/crackling-spellslinger"
+      },
+      {
+        "name": "Murmuring Mystic",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/cmm/107/murmuring-mystic"
+      },
+      {
+        "name": "Marvin, Murderous Mimic",
+        "price": "$0.41",
+        "url": "https://manapool.com/card/adsk/45/marvin-murderous-mimic"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Refocus",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/frf/47/refocus"
+      },
+      {
+        "name": "Cerulean Wisps",
+        "price": "$0.96",
+        "url": "https://manapool.com/card/plst/SHM-31/cerulean-wisps"
+      },
+      {
+        "name": "Twitch",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmp/99/twitch"
+      },
+      {
+        "name": "Opt",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdc/158/opt"
+      },
+      {
+        "name": "Pongify",
+        "price": "$1.45",
+        "url": "https://manapool.com/card/tdc/160/pongify"
+      },
+      {
+        "name": "Flick a Coin",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/woe/128/flick-a-coin"
+      },
+      {
+        "name": "Weight of Spires",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dis/78/weight-of-spires"
+      },
+      {
+        "name": "Expedite",
+        "price": "$0.23",
+        "url": "https://manapool.com/card/ogw/108/expedite"
+      },
+      {
+        "name": "Crimson Wisps",
+        "price": "$1.02",
+        "url": "https://manapool.com/card/j25/533/crimson-wisps"
+      },
+      {
+        "name": "Consider",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/tle/157/consider"
+      },
+      {
+        "name": "Think Twice",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c19/99/think-twice"
+      },
+      {
+        "name": "Arcane Denial",
+        "price": "$2.05",
+        "url": "https://manapool.com/card/m3c/176/arcane-denial"
+      },
+      {
+        "name": "Radical Idea",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/grn/52/radical-idea"
+      },
+      {
+        "name": "Muddle the Mixture",
+        "price": "$2.08",
+        "url": "https://manapool.com/card/rav/60/muddle-the-mixture"
+      },
+      {
+        "name": "Big Score",
+        "price": "$0.92",
+        "url": "https://manapool.com/card/snc/102/big-score"
+      },
+      {
+        "name": "Dig Through Time",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/fic/263/dig-through-time"
+      },
+      {
+        "name": "Brainstorm",
+        "price": "$0.61",
+        "url": "https://manapool.com/card/wc00/jf61/brainstorm"
+      },
+      {
+        "name": "Tidal Bore",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mmq/109/tidal-bore"
+      },
+      {
+        "name": "Flusterstorm",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/amh3/54/flusterstorm"
+      },
+      {
+        "name": "Magic Damper",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/61/magic-damper"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Serum Visions",
+        "price": "$0.39",
+        "url": "https://manapool.com/card/wc04/ap36sb/serum-visions"
+      },
+      {
+        "name": "Ponder",
+        "price": "$1.54",
+        "url": "https://manapool.com/card/dsc/73/ponder"
+      },
+      {
+        "name": "Preordain",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/m11/70/preordain"
+      },
+      {
+        "name": "Lock and Load",
+        "price": "$0.79",
+        "url": "https://manapool.com/card/otc/51/lock-and-load"
+      },
+      {
+        "name": "Expressive Iteration",
+        "price": "$0.36",
+        "url": "https://manapool.com/card/tdc/288/expressive-iteration"
+      },
+      {
+        "name": "Winter Sky",
+        "price": "$0.50",
+        "url": "https://manapool.com/card/hml/80/winter-sky"
+      },
+      {
+        "name": "Faithless Looting",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/inr/151/faithless-looting"
+      },
+      {
+        "name": "Solve the Equation",
+        "price": "$1.79",
+        "url": "https://manapool.com/card/stx/54/solve-the-equation"
+      },
+      {
+        "name": "Vandalblast",
+        "price": "$2.06",
+        "url": "https://manapool.com/card/fic/298/vandalblast"
+      },
+      {
+        "name": "Melt Terrain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/som/97/melt-terrain"
+      },
+      {
+        "name": "Flame Fusillade",
+        "price": "$2.09",
+        "url": "https://manapool.com/card/rav/123/flame-fusillade"
+      },
+      {
+        "name": "Strike It Rich",
+        "price": "$0.82",
+        "url": "https://manapool.com/card/mh2/143/strike-it-rich"
+      },
+      {
+        "name": "Draconic Intervention",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/stx/309/draconic-intervention"
+      },
+      {
+        "name": "Shadowstorm",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmp/202/shadowstorm"
+      },
+      {
+        "name": "Rousing Refrain",
+        "price": "$2.45",
+        "url": "https://manapool.com/card/c21/56/rousing-refrain"
+      },
+      {
+        "name": "Baral's Expertise",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/otc/91/barals-expertise"
+      },
+      {
+        "name": "Sweltering Suns",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/akh/149/sweltering-suns"
+      },
+      {
+        "name": "Tectonic Hazard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lci/169/tectonic-hazard"
+      },
+      {
+        "name": "Volcanic Torrent",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmr/208/volcanic-torrent"
+      },
+      {
+        "name": "Hidden Strings",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/dgm/12/hidden-strings"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Nuka-Cola Vending Machine",
+        "price": "$16.88",
+        "url": "https://manapool.com/card/sld/2462/nuka-cola-vending-machine"
+      },
+      {
+        "name": "Ichor Elixir",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/moc/46/ichor-elixir"
+      },
+      {
+        "name": "Forger's Foundry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/otc/14/forgers-foundry"
+      },
+      {
+        "name": "Cursed Mirror",
+        "price": "$1.14",
+        "url": "https://manapool.com/card/mh3/279/cursed-mirror"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "Propaganda",
+        "price": "$2.88",
+        "url": "https://manapool.com/card/c13/53/propaganda"
+      },
+      {
+        "name": "Shark Typhoon",
+        "price": "$0.70",
+        "url": "https://manapool.com/card/dsc/127/shark-typhoon"
+      }
+    ],
+    "planeswalkers": [],
+    "lands": [
+      {
+        "name": "Ferrous Lake",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/pip/148/ferrous-lake"
+      },
+      {
+        "name": "Exotic Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/131/exotic-orchard"
+      },
+      {
+        "name": "Shivan Reef",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/dmu/255/shivan-reef"
+      },
+      {
+        "name": "Cascade Bluffs",
+        "price": "$0.51",
+        "url": "https://manapool.com/card/eoc/153/cascade-bluffs"
+      },
+      {
+        "name": "Frostboil Snarl",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/drc/158/frostboil-snarl"
+      },
+      {
+        "name": "Command Tower",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/325/command-tower"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Desolate Lighthouse",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/avr/227/desolate-lighthouse"
+      },
+      {
+        "name": "Nivix, Aerie of the Firemind",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ddj/36/nivix-aerie-of-the-firemind"
+      },
+      {
+        "name": "Value Town // Take a Trip to...",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/mb2/621/value-town-take-a-trip-to"
+      },
+      {
+        "name": "Airship Engine Room",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tla/265/airship-engine-room"
+      },
+      {
+        "name": "Baron, Airship Kingdom",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/273/baron-airship-kingdom"
+      },
+      {
+        "name": "Caldera Lake",
+        "price": "$0.59",
+        "url": "https://manapool.com/card/tmp/316/caldera-lake"
+      },
+      {
+        "name": "Eroded Canyon",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/otj/256/eroded-canyon"
+      },
+      {
+        "name": "Highland Lake",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/akh/282/highland-lake"
+      },
+      {
+        "name": "Izzet Boilerworks",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/c19/252/izzet-boilerworks"
+      },
+      {
+        "name": "Izzet Guildgate",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c13/297/izzet-guildgate"
+      },
+      {
+        "name": "Library",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/clu/18/library"
+      },
+      {
+        "name": "Molten Tributary",
+        "price": "$0.40",
+        "url": "https://manapool.com/card/dmu/251/molten-tributary"
+      },
+      {
+        "name": "Peculiar Lighthouse",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsk/265/peculiar-lighthouse"
+      },
+      {
+        "name": "Prismari Campus",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/stx/270/prismari-campus"
+      },
+      {
+        "name": "Restless Spire",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/woe/260/restless-spire"
+      },
+      {
+        "name": "Rush of Inspiration // Crackling Falls",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/257/rush-of-inspiration-crackling-falls"
+      },
+      {
+        "name": "Silverbluff Bridge",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh2/255/silverbluff-bridge"
+      },
+      {
+        "name": "Sulfur Falls",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/drc/173/sulfur-falls"
+      },
+      {
+        "name": "Surtland Frostpyre",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/khm/271/surtland-frostpyre"
+      },
+      {
+        "name": "Swiftwater Cliffs",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/296/swiftwater-cliffs"
+      },
+      {
+        "name": "TCRI Building",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmt/189/tcri-building"
+      },
+      {
+        "name": "Temple of Epiphany",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/340/temple-of-epiphany"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      }
+    ],
+    "other": [
+      {
+        "name": "Lightning Bolt",
+        "price": "$0.51",
+        "url": "https://manapool.com/card/fca/40/lightning-bolt"
+      }
+    ]
+  },
+  "export_text": "1 Stella Lee, Wild Card *CMDR*\n1 Nuka-Cola Vending Machine\n1 Refocus\n1 Cerulean Wisps\n1 Twitch\n1 Opt\n1 Serum Visions\n1 Ponder\n1 Preordain\n1 Ichor Elixir\n1 Lock and Load\n1 Pongify\n1 Expressive Iteration\n1 Flick a Coin\n1 Weight of Spires\n1 Winter Sky\n1 Faithless Looting\n1 Expedite\n1 Firemaw Kavu\n1 Storm-Kiln Artist\n1 Archmage Emeritus\n1 Kamahl, Pit Fighter\n1 Crimson Wisps\n1 Solve the Equation\n1 Ferrous Lake\n1 Vandalblast\n1 Magus of the Scroll\n1 Consider\n1 Think Twice\n1 Forger's Foundry\n1 Melt Terrain\n1 Exotic Orchard\n1 Arcane Denial\n1 Flame Fusillade\n1 Voldaren Thrillseeker\n1 Simian Spirit Guide\n1 Strike It Rich\n1 Draconic Intervention\n1 Shivan Reef\n1 Shadowstorm\n1 Radical Idea\n1 Rousing Refrain\n1 Baral's Expertise\n1 Sweltering Suns\n1 Muddle the Mixture\n1 Cursed Mirror\n1 Tectonic Hazard\n1 Crackling Spellslinger\n1 Big Score\n1 Volcanic Torrent\n1 Cascade Bluffs\n1 Propaganda\n1 Shark Typhoon\n1 Murmuring Mystic\n1 Dig Through Time\n1 Frostboil Snarl\n1 Brainstorm\n1 Marvin, Murderous Mimic\n1 Tidal Bore\n1 Hidden Strings\n1 Lightning Bolt\n1 Flusterstorm\n1 Magic Damper\n1 Command Tower\n1 Path of Ancestry\n1 Desolate Lighthouse\n1 Nivix, Aerie of the Firemind\n1 Value Town // Take a Trip to...\n1 Airship Engine Room\n1 Baron, Airship Kingdom\n1 Caldera Lake\n1 Eroded Canyon\n1 Highland Lake\n1 Izzet Boilerworks\n1 Izzet Guildgate\n1 Library\n1 Molten Tributary\n1 Peculiar Lighthouse\n1 Prismari Campus\n1 Restless Spire\n1 Rush of Inspiration // Crackling Falls\n1 Silverbluff Bridge\n1 Sulfur Falls\n1 Surtland Frostpyre\n1 Swiftwater Cliffs\n1 TCRI Building\n1 Temple of Epiphany\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Island\n1 Mountain\n1 Island\n1 Mountain\n1 Island",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": true,
+    "counts": {
+      "lands": 37,
+      "ramp": 9,
+      "card_draw": 22,
+      "targeted_removal": 10,
+      "mass_removal": 7,
+      "synergy": 8,
+      "uncategorized": 1
+    },
+    "gaps": {}
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "ramp",
+      "added": "Nuka-Cola Vending Machine",
+      "removed": "Twisted Fealty"
+    },
+    {
+      "category": "ramp",
+      "added": "Ichor Elixir",
+      "removed": "Galvanic Iteration"
+    },
+    {
+      "category": "ramp",
+      "added": "Flick a Coin",
+      "removed": "Dramatic Reversal"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Weight of Spires",
+      "removed": "Shore Up"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Winter Sky",
+      "removed": "Finale of Promise"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Firemaw Kavu",
+      "removed": "Haughty Djinn"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Kamahl, Pit Fighter",
+      "removed": "Eris, Roar of the Storm"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Magus of the Scroll",
+      "removed": "Mizzix's Mastery"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Melt Terrain",
+      "removed": "Elemental Eruption"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Flame Fusillade",
+      "removed": "Goblin Electromancer"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Voldaren Thrillseeker",
+      "removed": "Electrostatic Field"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Draconic Intervention",
+      "removed": "Guttersnipe"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Shadowstorm",
+      "removed": "Talrand, Sky Summoner"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Sweltering Suns",
+      "removed": "Young Pyromancer"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Tectonic Hazard",
+      "removed": "Third Path Iconoclast"
+    }
+  ]
+}

@@ -1,0 +1,643 @@
+{
+  "commander": "Isshin, Two Heavens as One",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 99,
+  "total_cost_display": "$37.46",
+  "deck": {
+    "commander": "Isshin, Two Heavens as One",
+    "creatures": [
+      {
+        "name": "Impulsive Pilferer",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmm/234/impulsive-pilferer"
+      },
+      {
+        "name": "Zell Dincht",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/170/zell-dincht"
+      },
+      {
+        "name": "Captain Lannery Storm",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fca/38/captain-lannery-storm"
+      },
+      {
+        "name": "Scorpion, Seething Striker",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/spm/64/scorpion-seething-striker"
+      },
+      {
+        "name": "Aurelia, the Law Above",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/amkm/36/aurelia-the-law-above"
+      },
+      {
+        "name": "Audacious Thief",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/j25/401/audacious-thief"
+      },
+      {
+        "name": "Sun Titan",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afc/73/sun-titan"
+      },
+      {
+        "name": "Shardless Outlander",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/j25/28/shardless-outlander"
+      },
+      {
+        "name": "Auratouched Mage",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/rav/1/auratouched-mage"
+      },
+      {
+        "name": "Hellrider",
+        "price": "$0.40",
+        "url": "https://manapool.com/card/dka/93/hellrider"
+      },
+      {
+        "name": "Caustic Bronco",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/otj/82/caustic-bronco"
+      },
+      {
+        "name": "Pestilence Demon",
+        "price": "$0.29",
+        "url": "https://manapool.com/card/c14/153/pestilence-demon"
+      },
+      {
+        "name": "Rakdos, the Showstopper",
+        "price": "$1.89",
+        "url": "https://manapool.com/card/clu/205/rakdos-the-showstopper"
+      },
+      {
+        "name": "Tori D'Avenant, Fury Rider",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmu/223/tori-davenant-fury-rider"
+      },
+      {
+        "name": "Mardu Siegebreaker",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/tdm/206/mardu-siegebreaker"
+      },
+      {
+        "name": "Laelia, the Blade Reforged",
+        "price": "$0.81",
+        "url": "https://manapool.com/card/mh3/281/laelia-the-blade-reforged"
+      },
+      {
+        "name": "Godo, Bandit Warlord",
+        "price": "$0.51",
+        "url": "https://manapool.com/card/cmm/227/godo-bandit-warlord"
+      },
+      {
+        "name": "Selfless Samurai",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/neo/312/selfless-samurai"
+      },
+      {
+        "name": "Kinscaer Sentry",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/ecl/22/kinscaer-sentry"
+      },
+      {
+        "name": "Ankle Shanker",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/ktk/164/ankle-shanker"
+      },
+      {
+        "name": "Thundering Raiju",
+        "price": "$0.30",
+        "url": "https://manapool.com/card/neo/166/thundering-raiju"
+      },
+      {
+        "name": "Heiko Yamazaki, the General",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/neo/146/heiko-yamazaki-the-general"
+      },
+      {
+        "name": "Peerless Samurai",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/neo/156/peerless-samurai"
+      },
+      {
+        "name": "Asari Captain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/neo/215/asari-captain"
+      },
+      {
+        "name": "Star Athlete",
+        "price": "$0.27",
+        "url": "https://manapool.com/card/dsc/29/star-athlete"
+      },
+      {
+        "name": "Norika Yamazaki, the Poet",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/neo/31/norika-yamazaki-the-poet"
+      },
+      {
+        "name": "Bone-Cairn Butcher",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdm/173/bone-cairn-butcher"
+      },
+      {
+        "name": "Drakuseth, Maw of Flames",
+        "price": "$0.75",
+        "url": "https://manapool.com/card/fdn/193/drakuseth-maw-of-flames"
+      },
+      {
+        "name": "Emberwilde Captain",
+        "price": "$1.74",
+        "url": "https://manapool.com/card/cmr/175/emberwilde-captain"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Reaping the Rewards",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/exo/16/reaping-the-rewards"
+      },
+      {
+        "name": "Roku's Mastery",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tle/243/rokus-mastery"
+      },
+      {
+        "name": "Trostani's Judgment",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c19/77/trostanis-judgment"
+      },
+      {
+        "name": "Unbreakable Formation",
+        "price": "$0.62",
+        "url": "https://manapool.com/card/ltc/179/unbreakable-formation"
+      },
+      {
+        "name": "Despark",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/drc/115/despark"
+      },
+      {
+        "name": "Path to Exile",
+        "price": "$1.20",
+        "url": "https://manapool.com/card/fic/248/path-to-exile"
+      },
+      {
+        "name": "Two-Handed Axe",
+        "price": "N/A",
+        "url": ""
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Diabolic Revelation",
+        "price": "$0.69",
+        "url": "https://manapool.com/card/m13/87/diabolic-revelation"
+      },
+      {
+        "name": "Extinction",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/tmp/135/extinction"
+      },
+      {
+        "name": "Strangle",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/snc/125/strangle"
+      },
+      {
+        "name": "Malicious Malfunction",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/neo/110/malicious-malfunction"
+      },
+      {
+        "name": "Gates Ablaze",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/rna/102/gates-ablaze"
+      },
+      {
+        "name": "Bite of the Black Rose",
+        "price": "$0.39",
+        "url": "https://manapool.com/card/cns/26/bite-of-the-black-rose"
+      },
+      {
+        "name": "Rolling Temblor",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c19/151/rolling-temblor"
+      },
+      {
+        "name": "Unquenchable Fury",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/nec/23/unquenchable-fury"
+      },
+      {
+        "name": "Relentless Assault",
+        "price": "$3.02",
+        "url": "https://manapool.com/card/ddt/54/relentless-assault"
+      },
+      {
+        "name": "Banishing Slash",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/neo/3/banishing-slash"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Blitzball",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/254/blitzball"
+      },
+      {
+        "name": "Rakdos Signet",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/dis/165/rakdos-signet"
+      },
+      {
+        "name": "Diamond Pick-Axe",
+        "price": "$0.53",
+        "url": "https://manapool.com/card/lci/143/diamond-pick-axe"
+      },
+      {
+        "name": "Swiftfoot Boots",
+        "price": "$1.87",
+        "url": "https://manapool.com/card/fdn/258/swiftfoot-boots"
+      },
+      {
+        "name": "And\u00faril, Narsil Reforged",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/altc/1/anduril-narsil-reforged"
+      },
+      {
+        "name": "Greatsword of Tyr",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/clb/22/greatsword-of-tyr"
+      },
+      {
+        "name": "Horn of the Mark",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/ltr/241/horn-of-the-mark"
+      },
+      {
+        "name": "Blade of Selves",
+        "price": "$2.43",
+        "url": "https://manapool.com/card/tdc/313/blade-of-selves"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "Demonic Lore",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmr/118/demonic-lore"
+      },
+      {
+        "name": "Firebender Ascension",
+        "price": "$0.78",
+        "url": "https://manapool.com/card/tla/137/firebender-ascension"
+      },
+      {
+        "name": "Curse of Opulence",
+        "price": "$1.08",
+        "url": "https://manapool.com/card/c17/24/curse-of-opulence"
+      },
+      {
+        "name": "Duelist's Heritage",
+        "price": "$0.83",
+        "url": "https://manapool.com/card/tle/153/duelists-heritage"
+      },
+      {
+        "name": "Revenge of Ravens",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/eld/104/revenge-of-ravens"
+      },
+      {
+        "name": "Within Range",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdc/32/within-range"
+      }
+    ],
+    "planeswalkers": [
+      {
+        "name": "Chandra, Torch of Defiance",
+        "price": "$2.15",
+        "url": "https://manapool.com/card/kld/110/chandra-torch-of-defiance"
+      }
+    ],
+    "lands": [
+      {
+        "name": "Hanweir Battlements",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Command Tower",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/325/command-tower"
+      },
+      {
+        "name": "Exotic Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/131/exotic-orchard"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Aggressive Crag",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/cmb2/112/aggressive-crag"
+      },
+      {
+        "name": "Battlefield Forge",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/blc/293/battlefield-forge"
+      },
+      {
+        "name": "Caves of Koilos",
+        "price": "$0.80",
+        "url": "https://manapool.com/card/m15/241/caves-of-koilos"
+      },
+      {
+        "name": "Cinder Marsh",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/tmp/317/cinder-marsh"
+      },
+      {
+        "name": "Desolate Mire",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/386/desolate-mire"
+      },
+      {
+        "name": "Fetid Heath",
+        "price": "$0.39",
+        "url": "https://manapool.com/card/fic/391/fetid-heath"
+      },
+      {
+        "name": "Lantern-Lit Graveyard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/chk/278/lantern-lit-graveyard"
+      },
+      {
+        "name": "Lava Tubes",
+        "price": "$0.30",
+        "url": "https://manapool.com/card/ptc/gb358/lava-tubes"
+      },
+      {
+        "name": "Madlands",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mb2/614/madlands"
+      },
+      {
+        "name": "Molten Slagheap",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/284/molten-slagheap"
+      },
+      {
+        "name": "Orzhova, the Church of Deals",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/gpt/162/orzhova-the-church-of-deals"
+      },
+      {
+        "name": "Path of Mettle // Metzali, Tower of Triumph",
+        "price": "$0.27",
+        "url": "https://manapool.com/card/rix/165/path-of-mettle-metzali-tower-of-triumph"
+      },
+      {
+        "name": "Profane Procession // Tomb of the Dusk Rose",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/rix/166/profane-procession-tomb-of-the-dusk-rose"
+      },
+      {
+        "name": "Rix Maadi, Dungeon Palace",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c19/269/rix-maadi-dungeon-palace"
+      },
+      {
+        "name": "Rugged Prairie",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdc/389/rugged-prairie"
+      },
+      {
+        "name": "Shadowblood Ridge",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/who/303/shadowblood-ridge"
+      },
+      {
+        "name": "Shattered Landscape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/226/shattered-landscape"
+      },
+      {
+        "name": "Silent Clearing",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/amh1/51/silent-clearing"
+      },
+      {
+        "name": "Slayers' Stronghold",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/424/slayers-stronghold"
+      },
+      {
+        "name": "Starlit Sanctum",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ons/325/starlit-sanctum"
+      },
+      {
+        "name": "Stensia Bloodhall",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/isd/247/stensia-bloodhall"
+      },
+      {
+        "name": "Sunhome, Fortress of the Legion",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mkc/298/sunhome-fortress-of-the-legion"
+      },
+      {
+        "name": "Sunscorched Divide",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/433/sunscorched-divide"
+      },
+      {
+        "name": "Tainted Field",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/356/tainted-field"
+      },
+      {
+        "name": "Abraded Bluffs",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/otj/251/abraded-bluffs"
+      },
+      {
+        "name": "Akoum Refuge",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ddk/73/akoum-refuge"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      }
+    ],
+    "other": []
+  },
+  "export_text": "1 Isshin, Two Heavens as One *CMDR*\n1 Impulsive Pilferer\n1 Zell Dincht\n1 Blitzball\n1 Chandra, Torch of Defiance\n1 Rakdos Signet\n1 Captain Lannery Storm\n1 Scorpion, Seething Striker\n1 Demonic Lore\n1 Aurelia, the Law Above\n1 Diabolic Revelation\n1 Audacious Thief\n1 Sun Titan\n1 Reaping the Rewards\n1 Shardless Outlander\n1 Auratouched Mage\n1 Extinction\n1 Hellrider\n1 Strangle\n1 Roku's Mastery\n1 Trostani's Judgment\n1 Diamond Pick-Axe\n1 Malicious Malfunction\n1 Caustic Bronco\n1 Firebender Ascension\n1 Curse of Opulence\n1 Hanweir Battlements\n1 Gates Ablaze\n1 Bite of the Black Rose\n1 Rolling Temblor\n1 Pestilence Demon\n1 Rakdos, the Showstopper\n1 Tori D'Avenant, Fury Rider\n1 Swiftfoot Boots\n1 Mardu Siegebreaker\n1 Laelia, the Blade Reforged\n1 Godo, Bandit Warlord\n1 Selfless Samurai\n1 Duelist's Heritage\n1 Revenge of Ravens\n1 Unbreakable Formation\n1 And\u00faril, Narsil Reforged\n1 Kinscaer Sentry\n1 Ankle Shanker\n1 Thundering Raiju\n1 Heiko Yamazaki, the General\n1 Peerless Samurai\n1 Within Range\n1 Asari Captain\n1 Star Athlete\n1 Norika Yamazaki, the Poet\n1 Despark\n1 Greatsword of Tyr\n1 Bone-Cairn Butcher\n1 Drakuseth, Maw of Flames\n1 Emberwilde Captain\n1 Horn of the Mark\n1 Unquenchable Fury\n1 Path to Exile\n1 Relentless Assault\n1 Banishing Slash\n1 Blade of Selves\n1 Two-Handed Axe\n1 Command Tower\n1 Exotic Orchard\n1 Path of Ancestry\n1 Aggressive Crag\n1 Battlefield Forge\n1 Caves of Koilos\n1 Cinder Marsh\n1 Desolate Mire\n1 Fetid Heath\n1 Lantern-Lit Graveyard\n1 Lava Tubes\n1 Madlands\n1 Molten Slagheap\n1 Orzhova, the Church of Deals\n1 Path of Mettle // Metzali, Tower of Triumph\n1 Profane Procession // Tomb of the Dusk Rose\n1 Rix Maadi, Dungeon Palace\n1 Rugged Prairie\n1 Shadowblood Ridge\n1 Shattered Landscape\n1 Silent Clearing\n1 Slayers' Stronghold\n1 Starlit Sanctum\n1 Stensia Bloodhall\n1 Sunhome, Fortress of the Legion\n1 Sunscorched Divide\n1 Tainted Field\n1 Abraded Bluffs\n1 Akoum Refuge\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Swamp\n1 Plains\n1 Mountain\n1 Swamp\n1 Plains",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": true,
+    "counts": {
+      "lands": 38,
+      "ramp": 9,
+      "card_draw": 10,
+      "targeted_removal": 10,
+      "mass_removal": 7,
+      "synergy": 24,
+      "uncategorized": 1
+    },
+    "gaps": {}
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "ramp",
+      "added": "Impulsive Pilferer",
+      "removed": "Etali, Primal Storm"
+    },
+    {
+      "category": "ramp",
+      "added": "Zell Dincht",
+      "removed": "Fervent Charge"
+    },
+    {
+      "category": "ramp",
+      "added": "Blitzball",
+      "removed": "Mardu Ascendancy"
+    },
+    {
+      "category": "ramp",
+      "added": "Chandra, Torch of Defiance",
+      "removed": "Adeline, Resplendent Cathar"
+    },
+    {
+      "category": "ramp",
+      "added": "Rakdos Signet",
+      "removed": "Skyknight Vanguard"
+    },
+    {
+      "category": "card_draw",
+      "added": "Scorpion, Seething Striker",
+      "removed": "Hero of Bladehold"
+    },
+    {
+      "category": "card_draw",
+      "added": "Demonic Lore",
+      "removed": "Brutal Hordechief"
+    },
+    {
+      "category": "card_draw",
+      "added": "Diabolic Revelation",
+      "removed": "Alesha, Who Laughs at Fate"
+    },
+    {
+      "category": "card_draw",
+      "added": "Reaping the Rewards",
+      "removed": "Mishra, Claimed by Gix"
+    },
+    {
+      "category": "card_draw",
+      "added": "Shardless Outlander",
+      "removed": "Tectonic Giant"
+    },
+    {
+      "category": "card_draw",
+      "added": "Auratouched Mage",
+      "removed": "Rising of the Day"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Extinction",
+      "removed": "Hanweir Garrison"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Strangle",
+      "removed": "Adriana, Captain of the Guard"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Roku's Mastery",
+      "removed": "Hammers of Moradin"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Trostani's Judgment",
+      "removed": "Skyhunter Strike Force"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Malicious Malfunction",
+      "removed": "Raiyuu, Storm's Edge"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Gates Ablaze",
+      "removed": "Arabella, Abandoned Doll"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Bite of the Black Rose",
+      "removed": "Kazuul, Tyrant of the Cliffs"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Rolling Temblor",
+      "removed": "Goro-Goro, Disciple of Ryusei"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Pestilence Demon",
+      "removed": "Ainok Strike Leader"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Rakdos, the Showstopper",
+      "removed": "Zurgo, Thunder's Decree"
+    }
+  ]
+}

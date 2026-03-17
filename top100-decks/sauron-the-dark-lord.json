@@ -1,0 +1,607 @@
+{
+  "commander": "Sauron, the Dark Lord",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 99,
+  "total_cost_display": "$35.44",
+  "deck": {
+    "commander": "Sauron, the Dark Lord",
+    "creatures": [
+      {
+        "name": "Bronze Walrus",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/clb/302/bronze-walrus"
+      },
+      {
+        "name": "Orvar, the All-Form",
+        "price": "$2.34",
+        "url": "https://manapool.com/card/khm/305/orvar-the-all-form"
+      },
+      {
+        "name": "Undercity Dire Rat",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/123/undercity-dire-rat"
+      },
+      {
+        "name": "Fatestitcher",
+        "price": "$0.53",
+        "url": "https://manapool.com/card/plst/ALA-43/fatestitcher"
+      },
+      {
+        "name": "Myr Convert",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/one/234/myr-convert"
+      },
+      {
+        "name": "Micromancer",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmu/57/micromancer"
+      },
+      {
+        "name": "Rona, Herald of Invasion // Rona, Tolarian Obliterator",
+        "price": "$0.40",
+        "url": "https://manapool.com/card/mom/295/rona-herald-of-invasion-rona-tolarian-obliterator"
+      },
+      {
+        "name": "Hypnotic Grifter",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/snc/45/hypnotic-grifter"
+      },
+      {
+        "name": "Kumano, Master Yamabushi",
+        "price": "$0.23",
+        "url": "https://manapool.com/card/chk/176/kumano-master-yamabushi"
+      },
+      {
+        "name": "Shrike Harpy",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/bng/83/shrike-harpy"
+      },
+      {
+        "name": "Moria Scavenger",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltc/63/moria-scavenger"
+      },
+      {
+        "name": "Sauron, the Necromancer",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltr/106/sauron-the-necromancer"
+      },
+      {
+        "name": "The Balrog of Moria",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltc/46/the-balrog-of-moria"
+      },
+      {
+        "name": "Bilbo, Retired Burglar",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltr/196/bilbo-retired-burglar"
+      },
+      {
+        "name": "Gollum, Patient Plotter",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltr/309/gollum-patient-plotter"
+      },
+      {
+        "name": "Saruman the White",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltr/67/saruman-the-white"
+      },
+      {
+        "name": "Archfiend of Ifnir",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ecc/70/archfiend-of-ifnir"
+      },
+      {
+        "name": "Wonder",
+        "price": "$1.28",
+        "url": "https://manapool.com/card/mh2/271/wonder"
+      },
+      {
+        "name": "Gr\u00edma, Saruman's Footman",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/altr/63/grima-sarumans-footman"
+      },
+      {
+        "name": "Ringwraiths",
+        "price": "$0.51",
+        "url": "https://manapool.com/card/ltr/284/ringwraiths"
+      },
+      {
+        "name": "Dunland Crebain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltr/411/dunland-crebain"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Vex",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dst/36/vex"
+      },
+      {
+        "name": "Ravaging Blaze",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmm/250/ravaging-blaze"
+      },
+      {
+        "name": "Sauron's Ransom",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltr/225/saurons-ransom"
+      },
+      {
+        "name": "Orcish Medicine",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltr/104/orcish-medicine"
+      },
+      {
+        "name": "Soothing of Sm\u00e9agol",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltr/70/soothing-of-smeagol"
+      },
+      {
+        "name": "Arcane Denial",
+        "price": "$2.05",
+        "url": "https://manapool.com/card/m3c/176/arcane-denial"
+      },
+      {
+        "name": "Lazotep Plating",
+        "price": "$0.27",
+        "url": "https://manapool.com/card/plst/WAR-59/lazotep-plating"
+      },
+      {
+        "name": "Glorious Gale",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltr/51/glorious-gale"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Ringsight",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltr/220/ringsight"
+      },
+      {
+        "name": "Petty Larceny",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/acr/28/petty-larceny"
+      },
+      {
+        "name": "Claim the Precious",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltr/81/claim-the-precious"
+      },
+      {
+        "name": "Summons of Saruman",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/ltc/70/summons-of-saruman"
+      },
+      {
+        "name": "Treason of Isengard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltr/74/treason-of-isengard"
+      },
+      {
+        "name": "Foray of Orcs",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltr/128/foray-of-orcs"
+      },
+      {
+        "name": "Living Death",
+        "price": "$1.85",
+        "url": "https://manapool.com/card/a25/96/living-death"
+      },
+      {
+        "name": "Birthday Escape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltr/43/birthday-escape"
+      },
+      {
+        "name": "Widespread Brutality",
+        "price": "$0.40",
+        "url": "https://manapool.com/card/war/226/widespread-brutality"
+      },
+      {
+        "name": "Too Greedily, Too Deep",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltc/72/too-greedily-too-deep"
+      },
+      {
+        "name": "Sam's Desperate Rescue",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltr/105/sams-desperate-rescue"
+      },
+      {
+        "name": "Feed the Swarm",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltc/200/feed-the-swarm"
+      },
+      {
+        "name": "Blasphemous Act",
+        "price": "$0.38",
+        "url": "https://manapool.com/card/tmc/47/blasphemous-act"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Inherited Envelope",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltr/242/inherited-envelope"
+      },
+      {
+        "name": "Commander's Sphere",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afc/203/commanders-sphere"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "Call of the Ring",
+        "price": "$2.87",
+        "url": "https://manapool.com/card/ltr/79/call-of-the-ring"
+      },
+      {
+        "name": "Conquer",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/5ed/216/conquer"
+      },
+      {
+        "name": "One Ring to Rule Them All",
+        "price": "$1.37",
+        "url": "https://manapool.com/card/ltr/102/one-ring-to-rule-them-all"
+      },
+      {
+        "name": "Dreadhorde Invasion",
+        "price": "$0.36",
+        "url": "https://manapool.com/card/drc/91/dreadhorde-invasion"
+      },
+      {
+        "name": "Fiery Inscription",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltr/126/fiery-inscription"
+      },
+      {
+        "name": "Fall of Cair Andros",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltr/124/fall-of-cair-andros"
+      },
+      {
+        "name": "Book of Mazarbul",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltr/116/book-of-mazarbul"
+      }
+    ],
+    "planeswalkers": [],
+    "lands": [
+      {
+        "name": "Barad-d\u00fbr",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/altr/54/barad-dur"
+      },
+      {
+        "name": "Minas Morgul, Dark Fortress",
+        "price": "$0.55",
+        "url": "https://manapool.com/card/altc/24/minas-morgul-dark-fortress"
+      },
+      {
+        "name": "Rogue's Passage",
+        "price": "$0.35",
+        "url": "https://manapool.com/card/fdn/264/rogues-passage"
+      },
+      {
+        "name": "Sulfurous Springs",
+        "price": "$1.61",
+        "url": "https://manapool.com/card/eoc/185/sulfurous-springs"
+      },
+      {
+        "name": "Underground River",
+        "price": "$1.33",
+        "url": "https://manapool.com/card/drc/181/underground-river"
+      },
+      {
+        "name": "Mines of Moria",
+        "price": "$0.51",
+        "url": "https://manapool.com/card/altr/56/mines-of-moria"
+      },
+      {
+        "name": "Choked Estuary",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lcc/322/choked-estuary"
+      },
+      {
+        "name": "Dragonskull Summit",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmc/64/dragonskull-summit"
+      },
+      {
+        "name": "Drowned Catacomb",
+        "price": "$2.03",
+        "url": "https://manapool.com/card/m10/224/drowned-catacomb"
+      },
+      {
+        "name": "Foreboding Ruins",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/394/foreboding-ruins"
+      },
+      {
+        "name": "Frostboil Snarl",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/drc/158/frostboil-snarl"
+      },
+      {
+        "name": "Command Tower",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/325/command-tower"
+      },
+      {
+        "name": "Exotic Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/131/exotic-orchard"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Cascade Bluffs",
+        "price": "$0.51",
+        "url": "https://manapool.com/card/eoc/153/cascade-bluffs"
+      },
+      {
+        "name": "Castle Sengir",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/hml/113/castle-sengir"
+      },
+      {
+        "name": "Cinder Marsh",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/tmp/317/cinder-marsh"
+      },
+      {
+        "name": "Crosis's Catacombs",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmr/242/crosiss-catacombs"
+      },
+      {
+        "name": "Crypt of the Eternals",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/hou/169/crypt-of-the-eternals"
+      },
+      {
+        "name": "Darkwater Catacombs",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/c19/238/darkwater-catacombs"
+      },
+      {
+        "name": "Desolate Lighthouse",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/avr/227/desolate-lighthouse"
+      },
+      {
+        "name": "Dreadship Reef",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/tsp/271/dreadship-reef"
+      },
+      {
+        "name": "Duskmantle, House of Shadow",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/plst/RAV-277/duskmantle-house-of-shadow"
+      },
+      {
+        "name": "Ferrous Lake",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/pip/148/ferrous-lake"
+      },
+      {
+        "name": "Lantern-Lit Graveyard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/chk/278/lantern-lit-graveyard"
+      },
+      {
+        "name": "Lava Tubes",
+        "price": "$0.30",
+        "url": "https://manapool.com/card/ptc/gb358/lava-tubes"
+      },
+      {
+        "name": "Madlands",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mb2/614/madlands"
+      },
+      {
+        "name": "Maestros' Totally Safe Hideout",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mb2/615/maestros-totally-safe-hideout"
+      },
+      {
+        "name": "Molten Slagheap",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/284/molten-slagheap"
+      },
+      {
+        "name": "Nephalia Drownyard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lcc/344/nephalia-drownyard"
+      },
+      {
+        "name": "Nivix, Aerie of the Firemind",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ddj/36/nivix-aerie-of-the-firemind"
+      },
+      {
+        "name": "River Delta",
+        "price": "$0.38",
+        "url": "https://manapool.com/card/ice/359/river-delta"
+      },
+      {
+        "name": "River of Tears",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/clb/912/river-of-tears"
+      },
+      {
+        "name": "Rix Maadi, Dungeon Palace",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c19/269/rix-maadi-dungeon-palace"
+      },
+      {
+        "name": "Rootwater Depths",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmp/323/rootwater-depths"
+      },
+      {
+        "name": "Seething Landscape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/225/seething-landscape"
+      },
+      {
+        "name": "Shadowblood Ridge",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/who/303/shadowblood-ridge"
+      },
+      {
+        "name": "Shivan Reef",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/dmu/255/shivan-reef"
+      },
+      {
+        "name": "Airship Engine Room",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tla/265/airship-engine-room"
+      },
+      {
+        "name": "Akoum Refuge",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ddk/73/akoum-refuge"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      }
+    ],
+    "other": []
+  },
+  "export_text": "1 Sauron, the Dark Lord *CMDR*\n1 Call of the Ring\n1 Bronze Walrus\n1 Barad-d\u00fbr\n1 Ringsight\n1 Petty Larceny\n1 Orvar, the All-Form\n1 Undercity Dire Rat\n1 Fatestitcher\n1 Conquer\n1 Myr Convert\n1 Micromancer\n1 Rona, Herald of Invasion // Rona, Tolarian Obliterator\n1 Hypnotic Grifter\n1 One Ring to Rule Them All\n1 Vex\n1 Kumano, Master Yamabushi\n1 Shrike Harpy\n1 Ravaging Blaze\n1 Claim the Precious\n1 Moria Scavenger\n1 Sauron's Ransom\n1 Orcish Medicine\n1 Summons of Saruman\n1 Sauron, the Necromancer\n1 Treason of Isengard\n1 Foray of Orcs\n1 The Balrog of Moria\n1 Living Death\n1 Minas Morgul, Dark Fortress\n1 Rogue's Passage\n1 Inherited Envelope\n1 Bilbo, Retired Burglar\n1 Soothing of Sm\u00e9agol\n1 Birthday Escape\n1 Dreadhorde Invasion\n1 Gollum, Patient Plotter\n1 Arcane Denial\n1 Widespread Brutality\n1 Saruman the White\n1 Too Greedily, Too Deep\n1 Lazotep Plating\n1 Sam's Desperate Rescue\n1 Sulfurous Springs\n1 Underground River\n1 Fiery Inscription\n1 Mines of Moria\n1 Choked Estuary\n1 Feed the Swarm\n1 Glorious Gale\n1 Fall of Cair Andros\n1 Commander's Sphere\n1 Dragonskull Summit\n1 Drowned Catacomb\n1 Foreboding Ruins\n1 Archfiend of Ifnir\n1 Wonder\n1 Gr\u00edma, Saruman's Footman\n1 Ringwraiths\n1 Frostboil Snarl\n1 Dunland Crebain\n1 Book of Mazarbul\n1 Blasphemous Act\n1 Command Tower\n1 Exotic Orchard\n1 Path of Ancestry\n1 Cascade Bluffs\n1 Castle Sengir\n1 Cinder Marsh\n1 Crosis's Catacombs\n1 Crypt of the Eternals\n1 Darkwater Catacombs\n1 Desolate Lighthouse\n1 Dreadship Reef\n1 Duskmantle, House of Shadow\n1 Ferrous Lake\n1 Lantern-Lit Graveyard\n1 Lava Tubes\n1 Madlands\n1 Maestros' Totally Safe Hideout\n1 Molten Slagheap\n1 Nephalia Drownyard\n1 Nivix, Aerie of the Firemind\n1 River Delta\n1 River of Tears\n1 Rix Maadi, Dungeon Palace\n1 Rootwater Depths\n1 Seething Landscape\n1 Shadowblood Ridge\n1 Shivan Reef\n1 Airship Engine Room\n1 Akoum Refuge\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Swamp\n1 Island\n1 Mountain\n1 Swamp\n1 Island",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": true,
+    "counts": {
+      "lands": 48,
+      "ramp": 10,
+      "card_draw": 10,
+      "targeted_removal": 10,
+      "mass_removal": 6,
+      "synergy": 15,
+      "uncategorized": 0
+    },
+    "gaps": {}
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "ramp",
+      "added": "Bronze Walrus",
+      "removed": "Saruman, the White Hand"
+    },
+    {
+      "category": "ramp",
+      "added": "Petty Larceny",
+      "removed": "Nazg\u00fbl"
+    },
+    {
+      "category": "ramp",
+      "added": "Orvar, the All-Form",
+      "removed": "In the Darkness Bind Them"
+    },
+    {
+      "category": "ramp",
+      "added": "Undercity Dire Rat",
+      "removed": "Mauh\u00far, Uruk-hai Captain"
+    },
+    {
+      "category": "ramp",
+      "added": "Fatestitcher",
+      "removed": "Sauron, Lord of the Rings"
+    },
+    {
+      "category": "ramp",
+      "added": "Conquer",
+      "removed": "Orcish Siegemaster"
+    },
+    {
+      "category": "ramp",
+      "added": "Myr Convert",
+      "removed": "Lord of the Nazg\u00fbl"
+    },
+    {
+      "category": "card_draw",
+      "added": "Micromancer",
+      "removed": "Saruman's Trickery"
+    },
+    {
+      "category": "card_draw",
+      "added": "Rona, Herald of Invasion // Rona, Tolarian Obliterator",
+      "removed": "March from the Black Gate"
+    },
+    {
+      "category": "card_draw",
+      "added": "Hypnotic Grifter",
+      "removed": "Grishn\u00e1kh, Brash Instigator"
+    },
+    {
+      "category": "card_draw",
+      "added": "Vex",
+      "removed": "Anger"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Kumano, Master Yamabushi",
+      "removed": "Corsairs of Umbar"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Shrike Harpy",
+      "removed": "Gothmog, Morgul Lieutenant"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Ravaging Blaze",
+      "removed": "The Mouth of Sauron"
+    }
+  ]
+}

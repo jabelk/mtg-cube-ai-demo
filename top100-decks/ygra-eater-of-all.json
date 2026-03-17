@@ -1,0 +1,547 @@
+{
+  "commander": "Ygra, Eater of All",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 98,
+  "total_cost_display": "$49.64",
+  "deck": {
+    "commander": "Ygra, Eater of All",
+    "creatures": [
+      {
+        "name": "Peregrin Took",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltr/181/peregrin-took"
+      },
+      {
+        "name": "Savvy Hunter",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/eld/200/savvy-hunter"
+      },
+      {
+        "name": "Gilded Goose",
+        "price": "$0.36",
+        "url": "https://manapool.com/card/ltc/246/gilded-goose"
+      },
+      {
+        "name": "Chatterfang, Squirrel General",
+        "price": "$2.60",
+        "url": "https://manapool.com/card/mh2/151/chatterfang-squirrel-general"
+      },
+      {
+        "name": "Greta, Sweettooth Scourge",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/woe/205/greta-sweettooth-scourge"
+      },
+      {
+        "name": "Manglehorn",
+        "price": "$0.83",
+        "url": "https://manapool.com/card/akh/175/manglehorn"
+      },
+      {
+        "name": "Marionette Apprentice",
+        "price": "$0.98",
+        "url": "https://manapool.com/card/mh3/100/marionette-apprentice"
+      },
+      {
+        "name": "Tireless Provisioner",
+        "price": "$2.56",
+        "url": "https://manapool.com/card/mh2/180/tireless-provisioner"
+      },
+      {
+        "name": "Hazel's Brewmaster",
+        "price": "$1.11",
+        "url": "https://manapool.com/card/blc/17/hazels-brewmaster"
+      },
+      {
+        "name": "Elanor Gardner",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/altr/32/elanor-gardner"
+      },
+      {
+        "name": "Thornvault Forager",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blb/197/thornvault-forager"
+      },
+      {
+        "name": "Bane of Progress",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/ecc/99/bane-of-progress"
+      },
+      {
+        "name": "Pitiless Plunderer",
+        "price": "$2.11",
+        "url": "https://manapool.com/card/fic/281/pitiless-plunderer"
+      },
+      {
+        "name": "Ravenous Squirrel",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/258/ravenous-squirrel"
+      },
+      {
+        "name": "Disciple of the Vault",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/mrd/62/disciple-of-the-vault"
+      },
+      {
+        "name": "Mirkwood Bats",
+        "price": "$0.76",
+        "url": "https://manapool.com/card/ltr/95/mirkwood-bats"
+      },
+      {
+        "name": "Viscera Seer",
+        "price": "$0.45",
+        "url": "https://manapool.com/card/lcc/213/viscera-seer"
+      },
+      {
+        "name": "Honored Dreyleader",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blb/178/honored-dreyleader"
+      },
+      {
+        "name": "Blood Artist",
+        "price": "$2.08",
+        "url": "https://manapool.com/card/2x2/70/blood-artist"
+      },
+      {
+        "name": "Vinereap Mentor",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blb/238/vinereap-mentor"
+      },
+      {
+        "name": "Pippin, Warden of Isengard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltc/65/pippin-warden-of-isengard"
+      },
+      {
+        "name": "Syr Ginger, the Meal Ender",
+        "price": "$1.04",
+        "url": "https://manapool.com/card/pwoe/252p/syr-ginger-the-meal-ender"
+      },
+      {
+        "name": "Sakura-Tribe Elder",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/dsc/194/sakura-tribe-elder"
+      },
+      {
+        "name": "Osteomancer Adept",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blb/103/osteomancer-adept"
+      },
+      {
+        "name": "Feasting Hobbit",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/ltc/37/feasting-hobbit"
+      },
+      {
+        "name": "Accursed Marauder",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/80/accursed-marauder"
+      },
+      {
+        "name": "Bristlebud Farmer",
+        "price": "$0.66",
+        "url": "https://manapool.com/card/big/17/bristlebud-farmer"
+      },
+      {
+        "name": "Marionette Master",
+        "price": "$1.30",
+        "url": "https://manapool.com/card/kld/90/marionette-master"
+      },
+      {
+        "name": "Unlucky Cabbage Merchant",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tla/201/unlucky-cabbage-merchant"
+      },
+      {
+        "name": "Zulaport Cutthroat",
+        "price": "$1.40",
+        "url": "https://manapool.com/card/bfz/126/zulaport-cutthroat"
+      },
+      {
+        "name": "Feasting Troll King",
+        "price": "$0.29",
+        "url": "https://manapool.com/card/eld/152/feasting-troll-king"
+      },
+      {
+        "name": "Fangren Marauder",
+        "price": "$0.42",
+        "url": "https://manapool.com/card/mbs/79/fangren-marauder"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Collective Resistance",
+        "price": "$1.23",
+        "url": "https://manapool.com/card/mh3/147/collective-resistance"
+      },
+      {
+        "name": "Deadly Dispute",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/blc/181/deadly-dispute"
+      },
+      {
+        "name": "Nature's Claim",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fca/47/natures-claim"
+      },
+      {
+        "name": "Overprotect",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/blb/185/overprotect"
+      },
+      {
+        "name": "Feed the Cycle",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blb/94/feed-the-cycle"
+      },
+      {
+        "name": "Savor",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blb/109/savor"
+      },
+      {
+        "name": "Curious Herd",
+        "price": "$0.41",
+        "url": "https://manapool.com/card/c20/59/curious-herd"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Drag to the Bottom",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmu/401/drag-to-the-bottom"
+      },
+      {
+        "name": "Fade from History",
+        "price": "$2.42",
+        "url": "https://manapool.com/card/bro/177/fade-from-history"
+      },
+      {
+        "name": "Living End",
+        "price": "$1.79",
+        "url": "https://manapool.com/card/tsr/121/living-end"
+      },
+      {
+        "name": "Creeping Corrosion",
+        "price": "$1.03",
+        "url": "https://manapool.com/card/mbs/78/creeping-corrosion"
+      },
+      {
+        "name": "Many Partings",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltr/176/many-partings"
+      },
+      {
+        "name": "Pest Infestation",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/eoc/103/pest-infestation"
+      },
+      {
+        "name": "Revive the Shire",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltr/185/revive-the-shire"
+      },
+      {
+        "name": "Lich-Knights' Conquest",
+        "price": "$1.30",
+        "url": "https://manapool.com/card/woe/96/lich-knights-conquest"
+      },
+      {
+        "name": "Cultivate",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmc/50/cultivate"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Witch's Oven",
+        "price": "$0.46",
+        "url": "https://manapool.com/card/eld/237/witchs-oven"
+      },
+      {
+        "name": "Heaped Harvest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blb/175/heaped-harvest"
+      },
+      {
+        "name": "Inspiring Statuary",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/347/inspiring-statuary"
+      },
+      {
+        "name": "Kill Switch",
+        "price": "$0.65",
+        "url": "https://manapool.com/card/nem/133/kill-switch"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "Genesis of the Daleks",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/who/69/genesis-of-the-daleks"
+      },
+      {
+        "name": "Night of the Sweets' Revenge",
+        "price": "$0.46",
+        "url": "https://manapool.com/card/woe/178/night-of-the-sweets-revenge"
+      },
+      {
+        "name": "Viridian Revel",
+        "price": "$1.96",
+        "url": "https://manapool.com/card/som/132/viridian-revel"
+      },
+      {
+        "name": "Scavenger's Talent",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/blb/111/scavengers-talent"
+      },
+      {
+        "name": "Trail of Crumbs",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/j25/732/trail-of-crumbs"
+      },
+      {
+        "name": "Welcome to Sweettooth",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/woe/198/welcome-to-sweettooth"
+      }
+    ],
+    "planeswalkers": [],
+    "lands": [
+      {
+        "name": "The Shire",
+        "price": "$2.44",
+        "url": "https://manapool.com/card/ltr/260/the-shire"
+      },
+      {
+        "name": "Rogue's Passage",
+        "price": "$0.35",
+        "url": "https://manapool.com/card/fdn/264/rogues-passage"
+      },
+      {
+        "name": "Restless Cottage",
+        "price": "$1.04",
+        "url": "https://manapool.com/card/woe/304/restless-cottage"
+      },
+      {
+        "name": "Gingerbread Cabin",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/eld/245/gingerbread-cabin"
+      },
+      {
+        "name": "Command Tower",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/325/command-tower"
+      },
+      {
+        "name": "Exotic Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/131/exotic-orchard"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Grim Backwoods",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/309/grim-backwoods"
+      },
+      {
+        "name": "Llanowar Wastes",
+        "price": "$0.47",
+        "url": "https://manapool.com/card/blc/315/llanowar-wastes"
+      },
+      {
+        "name": "Noxious Bayou",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/cmb2/118/noxious-bayou"
+      },
+      {
+        "name": "Svogthos, the Restless Tomb",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmd/289/svogthos-the-restless-tomb"
+      },
+      {
+        "name": "Tainted Wood",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/plst/TOR-143/tainted-wood"
+      },
+      {
+        "name": "Twilight Mire",
+        "price": "$0.36",
+        "url": "https://manapool.com/card/blc/351/twilight-mire"
+      },
+      {
+        "name": "Viridescent Bog",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/352/viridescent-bog"
+      },
+      {
+        "name": "Darkmoss Bridge",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsc/269/darkmoss-bridge"
+      },
+      {
+        "name": "Festering Gulch",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/otj/257/festering-gulch"
+      },
+      {
+        "name": "Festering Thicket",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/ecc/61/festering-thicket"
+      },
+      {
+        "name": "Foggy Bottom Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tla/269/foggy-bottom-swamp"
+      },
+      {
+        "name": "Foul Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/akh/279/foul-orchard"
+      },
+      {
+        "name": "Gohn, Town of Ruin",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/278/gohn-town-of-ruin"
+      },
+      {
+        "name": "Golgari Guildgate",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c15/286/golgari-guildgate"
+      },
+      {
+        "name": "Golgari Rot Farm",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/308/golgari-rot-farm"
+      },
+      {
+        "name": "Haunted Mire",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/311/haunted-mire"
+      },
+      {
+        "name": "Hissing Quagmire",
+        "price": "$0.23",
+        "url": "https://manapool.com/card/eos/19/hissing-quagmire"
+      },
+      {
+        "name": "Illegitimate Business",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmt/186/illegitimate-business"
+      },
+      {
+        "name": "Jungle Hollow",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/313/jungle-hollow"
+      },
+      {
+        "name": "Lounge",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/clu/19/lounge"
+      },
+      {
+        "name": "Necroblossom Snarl",
+        "price": "$0.33",
+        "url": "https://manapool.com/card/stx/269/necroblossom-snarl"
+      },
+      {
+        "name": "Pine Barrens",
+        "price": "$1.04",
+        "url": "https://manapool.com/card/tmp/321/pine-barrens"
+      },
+      {
+        "name": "Revitalizing Repast // Old-Growth Grove",
+        "price": "$0.95",
+        "url": "https://manapool.com/card/mh3/256/revitalizing-repast-old-growth-grove"
+      },
+      {
+        "name": "Skemfar Elderhall",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/khm/268/skemfar-elderhall"
+      },
+      {
+        "name": "Strangled Cemetery",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsk/268/strangled-cemetery"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      }
+    ],
+    "other": []
+  },
+  "export_text": "1 Ygra, Eater of All *CMDR*\n1 Drag to the Bottom\n1 Genesis of the Daleks\n1 Peregrin Took\n1 Savvy Hunter\n1 Night of the Sweets' Revenge\n1 Gilded Goose\n1 Viridian Revel\n1 Chatterfang, Squirrel General\n1 Greta, Sweettooth Scourge\n1 Fade from History\n1 Manglehorn\n1 Living End\n1 Marionette Apprentice\n1 Tireless Provisioner\n1 Creeping Corrosion\n1 Hazel's Brewmaster\n1 Elanor Gardner\n1 The Shire\n1 Thornvault Forager\n1 Witch's Oven\n1 Bane of Progress\n1 Scavenger's Talent\n1 Rogue's Passage\n1 Pitiless Plunderer\n1 Trail of Crumbs\n1 Ravenous Squirrel\n1 Disciple of the Vault\n1 Mirkwood Bats\n1 Many Partings\n1 Restless Cottage\n1 Pest Infestation\n1 Viscera Seer\n1 Honored Dreyleader\n1 Collective Resistance\n1 Heaped Harvest\n1 Gingerbread Cabin\n1 Blood Artist\n1 Deadly Dispute\n1 Vinereap Mentor\n1 Pippin, Warden of Isengard\n1 Syr Ginger, the Meal Ender\n1 Sakura-Tribe Elder\n1 Osteomancer Adept\n1 Feasting Hobbit\n1 Nature's Claim\n1 Revive the Shire\n1 Lich-Knights' Conquest\n1 Welcome to Sweettooth\n1 Accursed Marauder\n1 Bristlebud Farmer\n1 Marionette Master\n1 Unlucky Cabbage Merchant\n1 Overprotect\n1 Inspiring Statuary\n1 Zulaport Cutthroat\n1 Feed the Cycle\n1 Savor\n1 Curious Herd\n1 Kill Switch\n1 Cultivate\n1 Feasting Troll King\n1 Fangren Marauder\n1 Command Tower\n1 Exotic Orchard\n1 Path of Ancestry\n1 Grim Backwoods\n1 Llanowar Wastes\n1 Noxious Bayou\n1 Svogthos, the Restless Tomb\n1 Tainted Wood\n1 Twilight Mire\n1 Viridescent Bog\n1 Darkmoss Bridge\n1 Festering Gulch\n1 Festering Thicket\n1 Foggy Bottom Swamp\n1 Foul Orchard\n1 Gohn, Town of Ruin\n1 Golgari Guildgate\n1 Golgari Rot Farm\n1 Haunted Mire\n1 Hissing Quagmire\n1 Illegitimate Business\n1 Jungle Hollow\n1 Lounge\n1 Necroblossom Snarl\n1 Pine Barrens\n1 Revitalizing Repast // Old-Growth Grove\n1 Skemfar Elderhall\n1 Strangled Cemetery\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Forest\n1 Swamp\n1 Forest\n1 Swamp\n1 Forest",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": true,
+    "counts": {
+      "lands": 40,
+      "ramp": 11,
+      "card_draw": 8,
+      "targeted_removal": 8,
+      "mass_removal": 6,
+      "synergy": 25,
+      "uncategorized": 0
+    },
+    "gaps": {}
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "mass_removal",
+      "added": "Drag to the Bottom",
+      "removed": "Camellia, the Seedmiser"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Genesis of the Daleks",
+      "removed": "Cauldron Familiar"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Living End",
+      "removed": "Rapacious Guest"
+    }
+  ]
+}

@@ -1,0 +1,563 @@
+{
+  "commander": "Valgavoth, Harrower of Souls",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 91,
+  "total_cost_display": "$47.88",
+  "deck": {
+    "commander": "Valgavoth, Harrower of Souls",
+    "creatures": [
+      {
+        "name": "Fate Unraveler",
+        "price": "$1.51",
+        "url": "https://manapool.com/card/bng/68/fate-unraveler"
+      },
+      {
+        "name": "Baeloth Barrityl, Entertainer",
+        "price": "$3.09",
+        "url": "https://manapool.com/card/aclb/33/baeloth-barrityl-entertainer"
+      },
+      {
+        "name": "Razorkin Needlehead",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/adsk/39/razorkin-needlehead"
+      },
+      {
+        "name": "Marching Duodrone",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/clb/321/marching-duodrone"
+      },
+      {
+        "name": "Marketback Walker",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/dft/235/marketback-walker"
+      },
+      {
+        "name": "Kaervek the Merciless",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/2x2/236/kaervek-the-merciless"
+      },
+      {
+        "name": "Iron Spider, Stark Upgrade",
+        "price": "$0.35",
+        "url": "https://manapool.com/card/spm/166/iron-spider-stark-upgrade"
+      },
+      {
+        "name": "Brash Taunter",
+        "price": "$1.93",
+        "url": "https://manapool.com/card/m21/133/brash-taunter"
+      },
+      {
+        "name": "Vial Smasher the Fierce",
+        "price": "$0.75",
+        "url": "https://manapool.com/card/dsc/239/vial-smasher-the-fierce"
+      },
+      {
+        "name": "Rakdos, Lord of Riots",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/rvr/379/rakdos-lord-of-riots"
+      },
+      {
+        "name": "Stormfist Crusader",
+        "price": "$0.46",
+        "url": "https://manapool.com/card/scd/247/stormfist-crusader"
+      },
+      {
+        "name": "Zo-Zu the Punisher",
+        "price": "$1.94",
+        "url": "https://manapool.com/card/slc/26/zo-zu-the-punisher"
+      },
+      {
+        "name": "Mai, Scornful Striker",
+        "price": "$0.65",
+        "url": "https://manapool.com/card/tla/109/mai-scornful-striker"
+      },
+      {
+        "name": "Star Athlete",
+        "price": "$0.27",
+        "url": "https://manapool.com/card/dsc/29/star-athlete"
+      },
+      {
+        "name": "Massacre Girl",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/war/99/massacre-girl"
+      },
+      {
+        "name": "Mayhem Devil",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/eoc/121/mayhem-devil"
+      },
+      {
+        "name": "Magebane Lizard",
+        "price": "$0.28",
+        "url": "https://manapool.com/card/otj/134/magebane-lizard"
+      },
+      {
+        "name": "Falkenrath Noble",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsc/140/falkenrath-noble"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Chain Assassination",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/acr/23/chain-assassination"
+      },
+      {
+        "name": "Infernal Grasp",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/ecc/77/infernal-grasp"
+      },
+      {
+        "name": "Rakdos Charm",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/eoc/125/rakdos-charm"
+      },
+      {
+        "name": "Suspended Sentence",
+        "price": "$0.36",
+        "url": "https://manapool.com/card/dsc/25/suspended-sentence"
+      },
+      {
+        "name": "Blood Pact",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mid/88/blood-pact"
+      },
+      {
+        "name": "Bedevil",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/dmc/144/bedevil"
+      },
+      {
+        "name": "Chaos Warp",
+        "price": "$0.38",
+        "url": "https://manapool.com/card/lcc/221/chaos-warp"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Smoke Spirits' Aid",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/nec/22/smoke-spirits-aid"
+      },
+      {
+        "name": "Blight Grenade",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/40k/31/blight-grenade"
+      },
+      {
+        "name": "Ultimate Magic: Meteor",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/62/ultimate-magic-meteor"
+      },
+      {
+        "name": "Sadistic Shell Game",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/dsc/24/sadistic-shell-game"
+      },
+      {
+        "name": "Blasphemous Act",
+        "price": "$0.38",
+        "url": "https://manapool.com/card/tmc/47/blasphemous-act"
+      },
+      {
+        "name": "Sign in Blood",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/m15/114/sign-in-blood"
+      },
+      {
+        "name": "Decree of Pain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltc/199/decree-of-pain"
+      },
+      {
+        "name": "Feed the Swarm",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltc/200/feed-the-swarm"
+      },
+      {
+        "name": "Grab the Prize",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsk/138/grab-the-prize"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Magmatic Galleon",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lci/157/magmatic-galleon"
+      },
+      {
+        "name": "Caged Sun",
+        "price": "$2.71",
+        "url": "https://manapool.com/card/sld/2461/caged-sun"
+      },
+      {
+        "name": "Thought Vessel",
+        "price": "$2.32",
+        "url": "https://manapool.com/card/pip/251/thought-vessel"
+      },
+      {
+        "name": "Fellwar Stone",
+        "price": "$1.02",
+        "url": "https://manapool.com/card/nec/150/fellwar-stone"
+      },
+      {
+        "name": "Talisman of Indulgence",
+        "price": "$2.19",
+        "url": "https://manapool.com/card/m3c/312/talisman-of-indulgence"
+      },
+      {
+        "name": "Mind Stone",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/40k/245/mind-stone"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "Spiteful Visions",
+        "price": "$0.48",
+        "url": "https://manapool.com/card/c13/233/spiteful-visions"
+      },
+      {
+        "name": "Night Out in Vegas",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Underworld Dreams",
+        "price": "$1.38",
+        "url": "https://manapool.com/card/thb/121/underworld-dreams"
+      },
+      {
+        "name": "Curse of Death's Hold",
+        "price": "$0.62",
+        "url": "https://manapool.com/card/isd/94/curse-of-deaths-hold"
+      },
+      {
+        "name": "Painful Quandary",
+        "price": "$0.98",
+        "url": "https://manapool.com/card/bro/111/painful-quandary"
+      },
+      {
+        "name": "Polluted Bonds",
+        "price": "$3.02",
+        "url": "https://manapool.com/card/wot/34/polluted-bonds"
+      }
+    ],
+    "planeswalkers": [
+      {
+        "name": "Chandra, Flameshaper",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/fdn/81/chandra-flameshaper"
+      }
+    ],
+    "lands": [
+      {
+        "name": "Leechridden Swamp",
+        "price": "$0.40",
+        "url": "https://manapool.com/card/dsc/286/leechridden-swamp"
+      },
+      {
+        "name": "Shivan Gorge",
+        "price": "$0.27",
+        "url": "https://manapool.com/card/dsc/297/shivan-gorge"
+      },
+      {
+        "name": "Graven Cairns",
+        "price": "$2.81",
+        "url": "https://manapool.com/card/fic/401/graven-cairns"
+      },
+      {
+        "name": "Blackcleave Cliffs",
+        "price": "$1.04",
+        "url": "https://manapool.com/card/one/248/blackcleave-cliffs"
+      },
+      {
+        "name": "Spinerock Knoll",
+        "price": "$0.72",
+        "url": "https://manapool.com/card/lrw/274/spinerock-knoll"
+      },
+      {
+        "name": "Tainted Peak",
+        "price": "$0.60",
+        "url": "https://manapool.com/card/dsc/304/tainted-peak"
+      },
+      {
+        "name": "Sulfurous Springs",
+        "price": "$1.61",
+        "url": "https://manapool.com/card/eoc/185/sulfurous-springs"
+      },
+      {
+        "name": "Canyon Slough",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsc/266/canyon-slough"
+      },
+      {
+        "name": "Exotic Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/131/exotic-orchard"
+      },
+      {
+        "name": "Shadowblood Ridge",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/who/303/shadowblood-ridge"
+      },
+      {
+        "name": "Geothermal Bog",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmu/247/geothermal-bog"
+      },
+      {
+        "name": "Dragonskull Summit",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmc/64/dragonskull-summit"
+      },
+      {
+        "name": "Temple of the False God",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c13/327/temple-of-the-false-god"
+      },
+      {
+        "name": "Ash Barrens",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/265/ash-barrens"
+      },
+      {
+        "name": "Bloodfell Caves",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c17/236/bloodfell-caves"
+      },
+      {
+        "name": "Command Tower",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/325/command-tower"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Cinder Marsh",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/tmp/317/cinder-marsh"
+      },
+      {
+        "name": "Lantern-Lit Graveyard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/chk/278/lantern-lit-graveyard"
+      },
+      {
+        "name": "Lava Tubes",
+        "price": "$0.30",
+        "url": "https://manapool.com/card/ptc/gb358/lava-tubes"
+      },
+      {
+        "name": "Madlands",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mb2/614/madlands"
+      },
+      {
+        "name": "Molten Slagheap",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/284/molten-slagheap"
+      },
+      {
+        "name": "Rix Maadi, Dungeon Palace",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c19/269/rix-maadi-dungeon-palace"
+      },
+      {
+        "name": "Stensia Bloodhall",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/isd/247/stensia-bloodhall"
+      },
+      {
+        "name": "Akoum Refuge",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ddk/73/akoum-refuge"
+      },
+      {
+        "name": "Billiard Room",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/clu/13/billiard-room"
+      },
+      {
+        "name": "Bloodsoaked Insight // Sanguine Morass",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/252/bloodsoaked-insight-sanguine-morass"
+      },
+      {
+        "name": "Boiling Rock Prison",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tla/267/boiling-rock-prison"
+      },
+      {
+        "name": "Cinder Barrens",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/akh/280/cinder-barrens"
+      },
+      {
+        "name": "Drossforge Bridge",
+        "price": "$0.83",
+        "url": "https://manapool.com/card/mh2/246/drossforge-bridge"
+      },
+      {
+        "name": "Foreboding Ruins",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/394/foreboding-ruins"
+      },
+      {
+        "name": "Immersturm Skullcairn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/khm/263/immersturm-skullcairn"
+      },
+      {
+        "name": "Jagged Barrens",
+        "price": "$0.45",
+        "url": "https://manapool.com/card/otj/259/jagged-barrens"
+      },
+      {
+        "name": "Lavaclaw Reaches",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/eos/22/lavaclaw-reaches"
+      },
+      {
+        "name": "Ominous Asylum",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/spm/181/ominous-asylum"
+      },
+      {
+        "name": "Rakdos Carnarium",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ecc/161/rakdos-carnarium"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      }
+    ],
+    "other": []
+  },
+  "export_text": "1 Valgavoth, Harrower of Souls *CMDR*\n1 Fate Unraveler\n1 Baeloth Barrityl, Entertainer\n1 Magmatic Galleon\n1 Smoke Spirits' Aid\n1 Razorkin Needlehead\n1 Marching Duodrone\n1 Caged Sun\n1 Leechridden Swamp\n1 Spiteful Visions\n1 Shivan Gorge\n1 Chandra, Flameshaper\n1 Thought Vessel\n1 Night Out in Vegas\n1 Underworld Dreams\n1 Marketback Walker\n1 Kaervek the Merciless\n1 Graven Cairns\n1 Chain Assassination\n1 Iron Spider, Stark Upgrade\n1 Infernal Grasp\n1 Curse of Death's Hold\n1 Brash Taunter\n1 Blackcleave Cliffs\n1 Rakdos Charm\n1 Blight Grenade\n1 Suspended Sentence\n1 Ultimate Magic: Meteor\n1 Vial Smasher the Fierce\n1 Blood Pact\n1 Spinerock Knoll\n1 Bedevil\n1 Sadistic Shell Game\n1 Blasphemous Act\n1 Fellwar Stone\n1 Tainted Peak\n1 Painful Quandary\n1 Rakdos, Lord of Riots\n1 Sulfurous Springs\n1 Canyon Slough\n1 Stormfist Crusader\n1 Zo-Zu the Punisher\n1 Sign in Blood\n1 Exotic Orchard\n1 Mai, Scornful Striker\n1 Decree of Pain\n1 Shadowblood Ridge\n1 Feed the Swarm\n1 Star Athlete\n1 Talisman of Indulgence\n1 Mind Stone\n1 Geothermal Bog\n1 Grab the Prize\n1 Polluted Bonds\n1 Dragonskull Summit\n1 Chaos Warp\n1 Massacre Girl\n1 Mayhem Devil\n1 Magebane Lizard\n1 Temple of the False God\n1 Ash Barrens\n1 Falkenrath Noble\n1 Bloodfell Caves\n1 Command Tower\n1 Path of Ancestry\n1 Cinder Marsh\n1 Lantern-Lit Graveyard\n1 Lava Tubes\n1 Madlands\n1 Molten Slagheap\n1 Rix Maadi, Dungeon Palace\n1 Stensia Bloodhall\n1 Akoum Refuge\n1 Billiard Room\n1 Bloodsoaked Insight // Sanguine Morass\n1 Boiling Rock Prison\n1 Cinder Barrens\n1 Drossforge Bridge\n1 Foreboding Ruins\n1 Immersturm Skullcairn\n1 Jagged Barrens\n1 Lavaclaw Reaches\n1 Ominous Asylum\n1 Rakdos Carnarium\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Swamp\n1 Mountain\n1 Swamp\n1 Mountain\n1 Swamp",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": true,
+    "counts": {
+      "lands": 44,
+      "ramp": 8,
+      "card_draw": 9,
+      "targeted_removal": 15,
+      "mass_removal": 6,
+      "synergy": 9,
+      "uncategorized": 0
+    },
+    "gaps": {}
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "ramp",
+      "added": "Baeloth Barrityl, Entertainer",
+      "removed": "Blood Seeker"
+    },
+    {
+      "category": "ramp",
+      "added": "Magmatic Galleon",
+      "removed": "Gleeful Arsonist"
+    },
+    {
+      "category": "ramp",
+      "added": "Smoke Spirits' Aid",
+      "removed": "Rampaging Ferocidon"
+    },
+    {
+      "category": "ramp",
+      "added": "Marching Duodrone",
+      "removed": "Nightshade Harvester"
+    },
+    {
+      "category": "ramp",
+      "added": "Caged Sun",
+      "removed": "Roiling Vortex"
+    },
+    {
+      "category": "ramp",
+      "added": "Chandra, Flameshaper",
+      "removed": "Harsh Mentor"
+    },
+    {
+      "category": "card_draw",
+      "added": "Night Out in Vegas",
+      "removed": "Kardur, Doomscourge"
+    },
+    {
+      "category": "card_draw",
+      "added": "Marketback Walker",
+      "removed": "Basilisk Collar"
+    },
+    {
+      "category": "card_draw",
+      "added": "Chain Assassination",
+      "removed": "Blood Artist"
+    },
+    {
+      "category": "card_draw",
+      "added": "Iron Spider, Stark Upgrade",
+      "removed": "Rug of Smothering"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Curse of Death's Hold",
+      "removed": "Gray Merchant of Asphodel"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Blight Grenade",
+      "removed": "Syr Konrad, the Grim"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Ultimate Magic: Meteor",
+      "removed": "Sulfuric Vortex"
+    }
+  ]
+}

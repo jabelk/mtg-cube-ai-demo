@@ -1,0 +1,624 @@
+{
+  "commander": "Etali, Primal Conqueror",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 98,
+  "total_cost_display": "$46.60",
+  "deck": {
+    "commander": "Etali, Primal Conqueror",
+    "creatures": [
+      {
+        "name": "Jaxis, the Troublemaker",
+        "price": "$1.17",
+        "url": "https://manapool.com/card/snc/425/jaxis-the-troublemaker"
+      },
+      {
+        "name": "Orcish Lumberjack",
+        "price": "$0.48",
+        "url": "https://manapool.com/card/ice/210/orcish-lumberjack"
+      },
+      {
+        "name": "Tinder Wall",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/ice/270/tinder-wall"
+      },
+      {
+        "name": "Simian Spirit Guide",
+        "price": "$2.28",
+        "url": "https://manapool.com/card/plc/122/simian-spirit-guide"
+      },
+      {
+        "name": "Elvish Spirit Guide",
+        "price": "$2.39",
+        "url": "https://manapool.com/card/dmr/157/elvish-spirit-guide"
+      },
+      {
+        "name": "Razorkin Needlehead",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/adsk/39/razorkin-needlehead"
+      },
+      {
+        "name": "Birgi, God of Storytelling",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "________ Goblin",
+        "price": "$0.46",
+        "url": "https://manapool.com/card/unf/107/________-goblin"
+      },
+      {
+        "name": "Wandering Archaic",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Reckless Barbarian",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/clb/193/reckless-barbarian"
+      },
+      {
+        "name": "Goblin Dynamo",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/lgn/97/goblin-dynamo"
+      },
+      {
+        "name": "Elvish Mystic",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/cmm/648/elvish-mystic"
+      },
+      {
+        "name": "Fury",
+        "price": "$0.83",
+        "url": "https://manapool.com/card/ecc/50/fury"
+      },
+      {
+        "name": "Llanowar Elves",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fdn/227/llanowar-elves"
+      },
+      {
+        "name": "Somberwald Sage",
+        "price": "$0.35",
+        "url": "https://manapool.com/card/inr/215/somberwald-sage"
+      },
+      {
+        "name": "Herigast, Erupting Nullkite",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/amh3/44/herigast-erupting-nullkite"
+      },
+      {
+        "name": "Thundermaw Hellkite",
+        "price": "$0.72",
+        "url": "https://manapool.com/card/scd/164/thundermaw-hellkite"
+      },
+      {
+        "name": "Fyndhorn Elves",
+        "price": "$1.86",
+        "url": "https://manapool.com/card/cmr/228/fyndhorn-elves"
+      },
+      {
+        "name": "Topiary Stomper",
+        "price": "$0.37",
+        "url": "https://manapool.com/card/snc/160/topiary-stomper"
+      },
+      {
+        "name": "Wild Cantor",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/rvr/239/wild-cantor"
+      },
+      {
+        "name": "Invasion of Ikoria",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Eternal Scourge",
+        "price": "$1.22",
+        "url": "https://manapool.com/card/emn/7/eternal-scourge"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Red Elemental Blast",
+        "price": "$3.04",
+        "url": "https://manapool.com/card/4ed/218/red-elemental-blast"
+      },
+      {
+        "name": "Ghostfire",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ddg/69/ghostfire"
+      },
+      {
+        "name": "Duel for Dominance",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dbl/184/duel-for-dominance"
+      },
+      {
+        "name": "Pyrokinesis",
+        "price": "$1.66",
+        "url": "https://manapool.com/card/ddl/32/pyrokinesis"
+      },
+      {
+        "name": "Nature's Claim",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fca/47/natures-claim"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Explore",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ddo/45/explore"
+      },
+      {
+        "name": "Bloody Betrayal",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/vow/147/bloody-betrayal"
+      },
+      {
+        "name": "Metamorphosis",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/chr/66/metamorphosis"
+      },
+      {
+        "name": "Geosurge",
+        "price": "$2.86",
+        "url": "https://manapool.com/card/nph/85/geosurge"
+      },
+      {
+        "name": "Mana Geyser",
+        "price": "$1.79",
+        "url": "https://manapool.com/card/5dn/75/mana-geyser"
+      },
+      {
+        "name": "Glimpse the Impossible",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/124/glimpse-the-impossible"
+      },
+      {
+        "name": "Shatterstorm",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/3ed/176/shatterstorm"
+      },
+      {
+        "name": "Infernal Plunge",
+        "price": "$0.40",
+        "url": "https://manapool.com/card/isd/148/infernal-plunge"
+      },
+      {
+        "name": "Thunder of Hooves",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ons/242/thunder-of-hooves"
+      },
+      {
+        "name": "Collision of Realms",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/nec/19/collision-of-realms"
+      },
+      {
+        "name": "Boom // Bust",
+        "price": "$0.68",
+        "url": "https://manapool.com/card/tsr/156/boom-bust"
+      },
+      {
+        "name": "Strike It Rich",
+        "price": "$0.82",
+        "url": "https://manapool.com/card/mh2/143/strike-it-rich"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Cursed Mirror",
+        "price": "$1.14",
+        "url": "https://manapool.com/card/mh3/279/cursed-mirror"
+      },
+      {
+        "name": "Tapestry of the Ages",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dtk/246/tapestry-of-the-ages"
+      },
+      {
+        "name": "Talisman of Impulse",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdc/332/talisman-of-impulse"
+      },
+      {
+        "name": "Fellwar Stone",
+        "price": "$1.02",
+        "url": "https://manapool.com/card/nec/150/fellwar-stone"
+      },
+      {
+        "name": "A-The One Ring",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Arcane Signet",
+        "price": "$0.37",
+        "url": "https://manapool.com/card/tmc/57/arcane-signet"
+      },
+      {
+        "name": "Brittle Effigy",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/m11/202/brittle-effigy"
+      },
+      {
+        "name": "Sol Ring",
+        "price": "$1.22",
+        "url": "https://manapool.com/card/tmc/59/sol-ring"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "Historian's Wisdom",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/neo/192/historians-wisdom"
+      },
+      {
+        "name": "Wild Growth",
+        "price": "$0.28",
+        "url": "https://manapool.com/card/ice/277/wild-growth"
+      },
+      {
+        "name": "Carpet of Flowers",
+        "price": "$1.44",
+        "url": "https://manapool.com/card/who/229/carpet-of-flowers"
+      },
+      {
+        "name": "Utopia Sprawl",
+        "price": "$1.16",
+        "url": "https://manapool.com/card/wot/63/utopia-sprawl"
+      }
+    ],
+    "planeswalkers": [
+      {
+        "name": "Chandra, Flameshaper",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/fdn/81/chandra-flameshaper"
+      },
+      {
+        "name": "Chandra, Flame's Fury",
+        "price": "$0.41",
+        "url": "https://manapool.com/card/j22/511/chandra-flames-fury"
+      }
+    ],
+    "lands": [
+      {
+        "name": "Disciple of Freyalise",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Tranquil Thicket",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/350/tranquil-thicket"
+      },
+      {
+        "name": "Pinnacle Monk",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Crystal Vein",
+        "price": "$1.39",
+        "url": "https://manapool.com/card/wc00/jf322/crystal-vein"
+      },
+      {
+        "name": "Karplusan Forest",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/drc/163/karplusan-forest"
+      },
+      {
+        "name": "Snow-Covered Forest",
+        "price": "$0.71",
+        "url": "https://manapool.com/card/khm/284/snow-covered-forest"
+      },
+      {
+        "name": "Snow-Covered Mountain",
+        "price": "$0.41",
+        "url": "https://manapool.com/card/khm/282/snow-covered-mountain"
+      },
+      {
+        "name": "Command Tower",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/325/command-tower"
+      },
+      {
+        "name": "Exotic Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/131/exotic-orchard"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Contested Cliffs",
+        "price": "$0.29",
+        "url": "https://manapool.com/card/c13/282/contested-cliffs"
+      },
+      {
+        "name": "Fungal Reaches",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tsr/279/fungal-reaches"
+      },
+      {
+        "name": "Kessig Wolf Run",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mkc/269/kessig-wolf-run"
+      },
+      {
+        "name": "Mogg Hollows",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/tmp/320/mogg-hollows"
+      },
+      {
+        "name": "Mossfire Valley",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/316/mossfire-valley"
+      },
+      {
+        "name": "Pinecrest Ridge",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/chk/281/pinecrest-ridge"
+      },
+      {
+        "name": "Skarrg, the Rage Pits",
+        "price": "$0.62",
+        "url": "https://manapool.com/card/gpt/163/skarrg-the-rage-pits"
+      },
+      {
+        "name": "Timberline Ridge",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/ice/361/timberline-ridge"
+      },
+      {
+        "name": "Bleeding Woods",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsk/257/bleeding-woods"
+      },
+      {
+        "name": "Bristling Backwoods",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/otj/253/bristling-backwoods"
+      },
+      {
+        "name": "Cinder Glade",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/299/cinder-glade"
+      },
+      {
+        "name": "Copperline Gorge",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/one/249/copperline-gorge"
+      },
+      {
+        "name": "Dining Room",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/clu/15/dining-room"
+      },
+      {
+        "name": "Game Trail",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/282/game-trail"
+      },
+      {
+        "name": "Gnottvold Slumbermound",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/khm/258/gnottvold-slumbermound"
+      },
+      {
+        "name": "Gongaga, Reactor Town",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/280/gongaga-reactor-town"
+      },
+      {
+        "name": "Gruul Guildgate",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c13/294/gruul-guildgate"
+      },
+      {
+        "name": "Gruul Turf",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/310/gruul-turf"
+      },
+      {
+        "name": "Highland Forest",
+        "price": "$0.33",
+        "url": "https://manapool.com/card/khm/261/highland-forest"
+      },
+      {
+        "name": "Highland Weald",
+        "price": "$0.23",
+        "url": "https://manapool.com/card/csp/147/highland-weald"
+      },
+      {
+        "name": "Kazandu Refuge",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c13/301/kazandu-refuge"
+      },
+      {
+        "name": "Omashu City",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tla/275/omashu-city"
+      },
+      {
+        "name": "Racers' Ring",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/snc/253/racers-ring"
+      },
+      {
+        "name": "Raging Ravine",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/324/raging-ravine"
+      },
+      {
+        "name": "Restless Ridgeline",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lci/283/restless-ridgeline"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      }
+    ],
+    "other": [
+      {
+        "name": "Lightning Bolt",
+        "price": "$0.51",
+        "url": "https://manapool.com/card/fca/40/lightning-bolt"
+      },
+      {
+        "name": "High Noon At Thunder Junction",
+        "price": "N/A",
+        "url": ""
+      }
+    ]
+  },
+  "export_text": "1 Etali, Primal Conqueror *CMDR*\n1 Explore\n1 Jaxis, the Troublemaker\n1 Cursed Mirror\n1 Bloody Betrayal\n1 Historian's Wisdom\n1 Orcish Lumberjack\n1 Tinder Wall\n1 Simian Spirit Guide\n1 Elvish Spirit Guide\n1 Razorkin Needlehead\n1 Red Elemental Blast\n1 Tapestry of the Ages\n1 Chandra, Flameshaper\n1 Talisman of Impulse\n1 Fellwar Stone\n1 A-The One Ring\n1 Metamorphosis\n1 Disciple of Freyalise\n1 Lightning Bolt\n1 Birgi, God of Storytelling\n1 Wild Growth\n1 Geosurge\n1 Carpet of Flowers\n1 Tranquil Thicket\n1 ________ Goblin\n1 Wandering Archaic\n1 High Noon At Thunder Junction\n1 Reckless Barbarian\n1 Arcane Signet\n1 Ghostfire\n1 Pinnacle Monk\n1 Duel for Dominance\n1 Crystal Vein\n1 Karplusan Forest\n1 Goblin Dynamo\n1 Pyrokinesis\n1 Utopia Sprawl\n1 Elvish Mystic\n1 Fury\n1 Llanowar Elves\n1 Somberwald Sage\n1 Brittle Effigy\n1 Mana Geyser\n1 Herigast, Erupting Nullkite\n1 Nature's Claim\n1 Thundermaw Hellkite\n1 Glimpse the Impossible\n1 Shatterstorm\n1 Fyndhorn Elves\n1 Infernal Plunge\n1 Sol Ring\n1 Topiary Stomper\n1 Wild Cantor\n1 Thunder of Hooves\n1 Snow-Covered Forest\n1 Chandra, Flame's Fury\n1 Collision of Realms\n1 Boom // Bust\n1 Invasion of Ikoria\n1 Eternal Scourge\n1 Strike It Rich\n1 Snow-Covered Mountain\n1 Command Tower\n1 Exotic Orchard\n1 Path of Ancestry\n1 Contested Cliffs\n1 Fungal Reaches\n1 Kessig Wolf Run\n1 Mogg Hollows\n1 Mossfire Valley\n1 Pinecrest Ridge\n1 Skarrg, the Rage Pits\n1 Timberline Ridge\n1 Bleeding Woods\n1 Bristling Backwoods\n1 Cinder Glade\n1 Copperline Gorge\n1 Dining Room\n1 Game Trail\n1 Gnottvold Slumbermound\n1 Gongaga, Reactor Town\n1 Gruul Guildgate\n1 Gruul Turf\n1 Highland Forest\n1 Highland Weald\n1 Kazandu Refuge\n1 Omashu City\n1 Racers' Ring\n1 Raging Ravine\n1 Restless Ridgeline\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Forest\n1 Mountain\n1 Forest\n1 Mountain\n1 Forest",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": true,
+    "counts": {
+      "lands": 41,
+      "ramp": 26,
+      "card_draw": 8,
+      "targeted_removal": 10,
+      "mass_removal": 6,
+      "synergy": 1,
+      "uncategorized": 6
+    },
+    "gaps": {}
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "card_draw",
+      "added": "Explore",
+      "removed": "Electroduplicate"
+    },
+    {
+      "category": "card_draw",
+      "added": "Bloody Betrayal",
+      "removed": "Hellkite Courser"
+    },
+    {
+      "category": "card_draw",
+      "added": "Historian's Wisdom",
+      "removed": "Squee, the Immortal"
+    },
+    {
+      "category": "card_draw",
+      "added": "Razorkin Needlehead",
+      "removed": "Eternal Witness"
+    },
+    {
+      "category": "card_draw",
+      "added": "Tapestry of the Ages",
+      "removed": "Eldritch Evolution"
+    },
+    {
+      "category": "card_draw",
+      "added": "A-The One Ring",
+      "removed": "Flare of Duplication"
+    },
+    {
+      "category": "card_draw",
+      "added": "Tranquil Thicket",
+      "removed": "Conjurer's Closet"
+    },
+    {
+      "category": "card_draw",
+      "added": "High Noon At Thunder Junction",
+      "removed": "Kindle the Inner Flame"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Ghostfire",
+      "removed": "Temur Sabertooth"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Duel for Dominance",
+      "removed": "Blade of Selves"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Goblin Dynamo",
+      "removed": "Destiny Spinner"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Brittle Effigy",
+      "removed": "Mirage Phalanx"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Thundermaw Hellkite",
+      "removed": "Devastating Onslaught"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Shatterstorm",
+      "removed": "Etali, Primal Storm"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Thunder of Hooves",
+      "removed": "Autumn's Veil"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Chandra, Flame's Fury",
+      "removed": "Finale of Devastation"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Collision of Realms",
+      "removed": "Voyager Staff"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Boom // Bust",
+      "removed": "Mirror March"
+    }
+  ]
+}

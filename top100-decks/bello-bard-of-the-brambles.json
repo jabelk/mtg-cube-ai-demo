@@ -1,0 +1,542 @@
+{
+  "commander": "Bello, Bard of the Brambles",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 92,
+  "total_cost_display": "$38.44",
+  "deck": {
+    "commander": "Bello, Bard of the Brambles",
+    "creatures": [
+      {
+        "name": "Boseiju Reaches Skyward // Branch of Boseiju",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/neo/177/boseiju-reaches-skyward-branch-of-boseiju"
+      },
+      {
+        "name": "Nessian Game Warden",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/jou/132/nessian-game-warden"
+      },
+      {
+        "name": "Nantuko Cultivator",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/j22/694/nantuko-cultivator"
+      },
+      {
+        "name": "Kumano Faces Kakkazan // Etching of Kumano",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/neo/152/kumano-faces-kakkazan-etching-of-kumano"
+      },
+      {
+        "name": "Trailtracker Scout",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/35/trailtracker-scout"
+      },
+      {
+        "name": "Kodama of the East Tree",
+        "price": "$2.54",
+        "url": "https://manapool.com/card/blc/227/kodama-of-the-east-tree"
+      },
+      {
+        "name": "Wandertale Mentor",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blb/240/wandertale-mentor"
+      },
+      {
+        "name": "Fire Ants",
+        "price": "$0.36",
+        "url": "https://manapool.com/card/usg/187/fire-ants"
+      },
+      {
+        "name": "Eidolon of Blossoms",
+        "price": "$3.02",
+        "url": "https://manapool.com/card/jou/122/eidolon-of-blossoms"
+      },
+      {
+        "name": "Pyreswipe Hawk",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/26/pyreswipe-hawk"
+      },
+      {
+        "name": "Garruk's Packleader",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/218/garruks-packleader"
+      },
+      {
+        "name": "Sakura-Tribe Elder",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/dsc/194/sakura-tribe-elder"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Chaos Warp",
+        "price": "$0.38",
+        "url": "https://manapool.com/card/lcc/221/chaos-warp"
+      },
+      {
+        "name": "Abrade",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/2xm/114/abrade"
+      },
+      {
+        "name": "Starstorm",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/203/starstorm"
+      },
+      {
+        "name": "Beast Within",
+        "price": "$0.59",
+        "url": "https://manapool.com/card/blc/206/beast-within"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Path of the Pyromancer",
+        "price": "$3.94",
+        "url": "https://manapool.com/card/moc/34/path-of-the-pyromancer"
+      },
+      {
+        "name": "Planetary Annihilation",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/eoc/12/planetary-annihilation"
+      },
+      {
+        "name": "Blasphemous Act",
+        "price": "$0.38",
+        "url": "https://manapool.com/card/tmc/47/blasphemous-act"
+      },
+      {
+        "name": "Farseek",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/rvr/138/farseek"
+      },
+      {
+        "name": "Explore",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ddo/45/explore"
+      },
+      {
+        "name": "Decimate",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/251/decimate"
+      },
+      {
+        "name": "Rampant Growth",
+        "price": "$0.30",
+        "url": "https://manapool.com/card/m10/201/rampant-growth"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Thran Dynamo",
+        "price": "$1.97",
+        "url": "https://manapool.com/card/wc00/jf139b/thran-dynamo"
+      },
+      {
+        "name": "Gilded Lotus",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/blc/271/gilded-lotus"
+      },
+      {
+        "name": "Hedron Archive",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/275/hedron-archive"
+      },
+      {
+        "name": "Rolling Hamsphere",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/39/rolling-hamsphere"
+      },
+      {
+        "name": "Thought Vessel",
+        "price": "$2.32",
+        "url": "https://manapool.com/card/pip/251/thought-vessel"
+      },
+      {
+        "name": "Talisman of Impulse",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdc/332/talisman-of-impulse"
+      },
+      {
+        "name": "Fellwar Stone",
+        "price": "$1.02",
+        "url": "https://manapool.com/card/nec/150/fellwar-stone"
+      },
+      {
+        "name": "Bootleggers' Stash",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/207/bootleggers-stash"
+      },
+      {
+        "name": "Mind Stone",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/40k/245/mind-stone"
+      },
+      {
+        "name": "Nevinyrral's Disk",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/mh2/298/nevinyrrals-disk"
+      },
+      {
+        "name": "Gruul Signet",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/rvr/259/gruul-signet"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "Concord with the Kami",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/nec/65/concord-with-the-kami"
+      },
+      {
+        "name": "Warstorm Surge",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/m12/160/warstorm-surge"
+      },
+      {
+        "name": "Thickest in the Thicket",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/blc/34/thickest-in-the-thicket"
+      },
+      {
+        "name": "Garruk's Uprising",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/fdn/220/garruks-uprising"
+      },
+      {
+        "name": "Glorious Sunrise",
+        "price": "$1.61",
+        "url": "https://manapool.com/card/vow/200/glorious-sunrise"
+      },
+      {
+        "name": "Path of Discovery",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/231/path-of-discovery"
+      },
+      {
+        "name": "Gruul War Chant",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cn2/203/gruul-war-chant"
+      },
+      {
+        "name": "Case of the Locked Hothouse",
+        "price": "$3.02",
+        "url": "https://manapool.com/card/mkm/155/case-of-the-locked-hothouse"
+      },
+      {
+        "name": "Rain of Riches",
+        "price": "$0.40",
+        "url": "https://manapool.com/card/blc/200/rain-of-riches"
+      },
+      {
+        "name": "Outpost Siege",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afc/135/outpost-siege"
+      },
+      {
+        "name": "Raiding Schemes",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ecl/239/raiding-schemes"
+      },
+      {
+        "name": "Sight of the Scalelords",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/dtk/207/sight-of-the-scalelords"
+      },
+      {
+        "name": "Collective Inferno",
+        "price": "$0.83",
+        "url": "https://manapool.com/card/ecl/132/collective-inferno"
+      },
+      {
+        "name": "Gimli's Reckless Might",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/altc/4/gimlis-reckless-might"
+      }
+    ],
+    "planeswalkers": [],
+    "lands": [
+      {
+        "name": "Copperline Gorge",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/one/249/copperline-gorge"
+      },
+      {
+        "name": "Mosswort Bridge",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mkc/275/mosswort-bridge"
+      },
+      {
+        "name": "Exotic Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/131/exotic-orchard"
+      },
+      {
+        "name": "Karplusan Forest",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/drc/163/karplusan-forest"
+      },
+      {
+        "name": "Raging Ravine",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/324/raging-ravine"
+      },
+      {
+        "name": "Sheltered Thicket",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/330/sheltered-thicket"
+      },
+      {
+        "name": "Rootbound Crag",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/326/rootbound-crag"
+      },
+      {
+        "name": "Mossfire Valley",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/316/mossfire-valley"
+      },
+      {
+        "name": "Wooded Ridgeline",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/353/wooded-ridgeline"
+      },
+      {
+        "name": "Tranquil Thicket",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/350/tranquil-thicket"
+      },
+      {
+        "name": "Forgotten Cave",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/280/forgotten-cave"
+      },
+      {
+        "name": "Game Trail",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/282/game-trail"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Temple of Abandon",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/338/temple-of-abandon"
+      },
+      {
+        "name": "Command Tower",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/325/command-tower"
+      },
+      {
+        "name": "Contested Cliffs",
+        "price": "$0.29",
+        "url": "https://manapool.com/card/c13/282/contested-cliffs"
+      },
+      {
+        "name": "Fungal Reaches",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tsr/279/fungal-reaches"
+      },
+      {
+        "name": "Kessig Wolf Run",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mkc/269/kessig-wolf-run"
+      },
+      {
+        "name": "Mogg Hollows",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/tmp/320/mogg-hollows"
+      },
+      {
+        "name": "Pinecrest Ridge",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/chk/281/pinecrest-ridge"
+      },
+      {
+        "name": "Skarrg, the Rage Pits",
+        "price": "$0.62",
+        "url": "https://manapool.com/card/gpt/163/skarrg-the-rage-pits"
+      },
+      {
+        "name": "Timberline Ridge",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/ice/361/timberline-ridge"
+      },
+      {
+        "name": "Bleeding Woods",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsk/257/bleeding-woods"
+      },
+      {
+        "name": "Bristling Backwoods",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/otj/253/bristling-backwoods"
+      },
+      {
+        "name": "Cinder Glade",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/299/cinder-glade"
+      },
+      {
+        "name": "Dining Room",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/clu/15/dining-room"
+      },
+      {
+        "name": "Gnottvold Slumbermound",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/khm/258/gnottvold-slumbermound"
+      },
+      {
+        "name": "Gongaga, Reactor Town",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/280/gongaga-reactor-town"
+      },
+      {
+        "name": "Gruul Guildgate",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c13/294/gruul-guildgate"
+      },
+      {
+        "name": "Gruul Turf",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/310/gruul-turf"
+      },
+      {
+        "name": "Highland Forest",
+        "price": "$0.33",
+        "url": "https://manapool.com/card/khm/261/highland-forest"
+      },
+      {
+        "name": "Highland Weald",
+        "price": "$0.23",
+        "url": "https://manapool.com/card/csp/147/highland-weald"
+      },
+      {
+        "name": "Kazandu Refuge",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c13/301/kazandu-refuge"
+      },
+      {
+        "name": "Omashu City",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tla/275/omashu-city"
+      },
+      {
+        "name": "Racers' Ring",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/snc/253/racers-ring"
+      },
+      {
+        "name": "Restless Ridgeline",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lci/283/restless-ridgeline"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      }
+    ],
+    "other": []
+  },
+  "export_text": "1 Bello, Bard of the Brambles *CMDR*\n1 Boseiju Reaches Skyward // Branch of Boseiju\n1 Nessian Game Warden\n1 Nantuko Cultivator\n1 Concord with the Kami\n1 Thran Dynamo\n1 Gilded Lotus\n1 Warstorm Surge\n1 Path of the Pyromancer\n1 Kumano Faces Kakkazan // Etching of Kumano\n1 Trailtracker Scout\n1 Thickest in the Thicket\n1 Hedron Archive\n1 Rolling Hamsphere\n1 Planetary Annihilation\n1 Garruk's Uprising\n1 Kodama of the East Tree\n1 Thought Vessel\n1 Wandertale Mentor\n1 Glorious Sunrise\n1 Fire Ants\n1 Copperline Gorge\n1 Blasphemous Act\n1 Path of Discovery\n1 Gruul War Chant\n1 Mosswort Bridge\n1 Exotic Orchard\n1 Farseek\n1 Eidolon of Blossoms\n1 Karplusan Forest\n1 Pyreswipe Hawk\n1 Chaos Warp\n1 Raging Ravine\n1 Talisman of Impulse\n1 Sheltered Thicket\n1 Rootbound Crag\n1 Abrade\n1 Starstorm\n1 Case of the Locked Hothouse\n1 Mossfire Valley\n1 Wooded Ridgeline\n1 Fellwar Stone\n1 Explore\n1 Rain of Riches\n1 Outpost Siege\n1 Bootleggers' Stash\n1 Tranquil Thicket\n1 Raiding Schemes\n1 Beast Within\n1 Sight of the Scalelords\n1 Forgotten Cave\n1 Mind Stone\n1 Game Trail\n1 Path of Ancestry\n1 Garruk's Packleader\n1 Decimate\n1 Temple of Abandon\n1 Collective Inferno\n1 Rampant Growth\n1 Sakura-Tribe Elder\n1 Nevinyrral's Disk\n1 Gruul Signet\n1 Gimli's Reckless Might\n1 Command Tower\n1 Contested Cliffs\n1 Fungal Reaches\n1 Kessig Wolf Run\n1 Mogg Hollows\n1 Pinecrest Ridge\n1 Skarrg, the Rage Pits\n1 Timberline Ridge\n1 Bleeding Woods\n1 Bristling Backwoods\n1 Cinder Glade\n1 Dining Room\n1 Gnottvold Slumbermound\n1 Gongaga, Reactor Town\n1 Gruul Guildgate\n1 Gruul Turf\n1 Highland Forest\n1 Highland Weald\n1 Kazandu Refuge\n1 Omashu City\n1 Racers' Ring\n1 Restless Ridgeline\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Forest\n1 Mountain\n1 Forest\n1 Mountain\n1 Forest",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": true,
+    "counts": {
+      "lands": 44,
+      "ramp": 20,
+      "card_draw": 9,
+      "targeted_removal": 8,
+      "mass_removal": 6,
+      "synergy": 5,
+      "uncategorized": 0
+    },
+    "gaps": {}
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "card_draw",
+      "added": "Boseiju Reaches Skyward // Branch of Boseiju",
+      "removed": "Berserkers' Onslaught"
+    },
+    {
+      "category": "card_draw",
+      "added": "Nessian Game Warden",
+      "removed": "Gratuitous Violence"
+    },
+    {
+      "category": "card_draw",
+      "added": "Nantuko Cultivator",
+      "removed": "Sunbird's Invocation"
+    },
+    {
+      "category": "card_draw",
+      "added": "Concord with the Kami",
+      "removed": "Unnatural Growth"
+    },
+    {
+      "category": "card_draw",
+      "added": "Path of the Pyromancer",
+      "removed": "Wildsear, Scouring Maw"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Kumano Faces Kakkazan // Etching of Kumano",
+      "removed": "Esika's Chariot"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Planetary Annihilation",
+      "removed": "Asceticism"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Fire Ants",
+      "removed": "Primeval Bounty"
+    }
+  ]
+}

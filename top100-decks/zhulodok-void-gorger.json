@@ -1,0 +1,462 @@
+{
+  "commander": "Zhulodok, Void Gorger",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 72,
+  "total_cost_display": "$48.11",
+  "deck": {
+    "commander": "Zhulodok, Void Gorger",
+    "creatures": [
+      {
+        "name": "Artisan of Kozilek",
+        "price": "$0.45",
+        "url": "https://manapool.com/card/ddp/42/artisan-of-kozilek"
+      },
+      {
+        "name": "Erratic Visionary",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/clu/85/erratic-visionary"
+      },
+      {
+        "name": "Bane of Bala Ged",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/bfz/1/bane-of-bala-ged"
+      },
+      {
+        "name": "Oblivion Sower",
+        "price": "$0.34",
+        "url": "https://manapool.com/card/bfz/11/oblivion-sower"
+      },
+      {
+        "name": "Pathrazer of Ulamog",
+        "price": "$0.82",
+        "url": "https://manapool.com/card/roe/9/pathrazer-of-ulamog"
+      },
+      {
+        "name": "Endbringer",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/m3c/156/endbringer"
+      },
+      {
+        "name": "Matter Reshaper",
+        "price": "$0.33",
+        "url": "https://manapool.com/card/ogw/6/matter-reshaper"
+      },
+      {
+        "name": "Soaring Show-Off",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/bbd/40/soaring-show-off"
+      },
+      {
+        "name": "Spawnbed Protector",
+        "price": "$1.94",
+        "url": "https://manapool.com/card/m3c/36/spawnbed-protector"
+      },
+      {
+        "name": "Ulamog's Crusher",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmm/6/ulamogs-crusher"
+      },
+      {
+        "name": "Breaker of Creation",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/1/breaker-of-creation"
+      },
+      {
+        "name": "Moonstone Eulogist",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/19/moonstone-eulogist"
+      },
+      {
+        "name": "Lord of Change",
+        "price": "$3.44",
+        "url": "https://manapool.com/card/40k/24/lord-of-change"
+      },
+      {
+        "name": "Plague Spitter",
+        "price": "$0.45",
+        "url": "https://manapool.com/card/wc01/tvdl119/plague-spitter"
+      },
+      {
+        "name": "Ultima, Origin of Oblivion",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/fin/2/ultima-origin-of-oblivion"
+      },
+      {
+        "name": "Devourer of Destiny",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/mh3/2/devourer-of-destiny"
+      },
+      {
+        "name": "Kozilek's Channeler",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/bfz/10/kozileks-channeler"
+      },
+      {
+        "name": "Ulamog's Dreadsire",
+        "price": "$2.03",
+        "url": "https://manapool.com/card/m3c/38/ulamogs-dreadsire"
+      },
+      {
+        "name": "Krazy Kow",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/ugl/48/krazy-kow"
+      },
+      {
+        "name": "Wandering Archaic",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Burnished Hart",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afc/200/burnished-hart"
+      },
+      {
+        "name": "Realm-Cloaked Giant // Cast Off",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/149/realm-cloaked-giant-cast-off"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Titan's Presence",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/bfz/14/titans-presence"
+      },
+      {
+        "name": "Booster Tutor",
+        "price": "$4.88",
+        "url": "https://manapool.com/card/und/33/booster-tutor"
+      },
+      {
+        "name": "Cease // Desist",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mkm/246/cease-desist"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Swiftspear's Teachings",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Wave Goodbye",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/tmc/46/wave-goodbye"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Hedron Archive",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/275/hedron-archive"
+      },
+      {
+        "name": "Dreamstone Hedron",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c14/236/dreamstone-hedron"
+      },
+      {
+        "name": "Worn Powerstone",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltc/293/worn-powerstone"
+      },
+      {
+        "name": "Thran Dynamo",
+        "price": "$1.97",
+        "url": "https://manapool.com/card/wc00/jf139b/thran-dynamo"
+      },
+      {
+        "name": "Thought Vessel",
+        "price": "$2.32",
+        "url": "https://manapool.com/card/pip/251/thought-vessel"
+      },
+      {
+        "name": "Perilous Vault",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/cmm/968/perilous-vault"
+      },
+      {
+        "name": "Mazemind Tome",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fdn/676/mazemind-tome"
+      },
+      {
+        "name": "Basalt Monolith",
+        "price": "$2.92",
+        "url": "https://manapool.com/card/ltc/274/basalt-monolith"
+      },
+      {
+        "name": "Endless Atlas",
+        "price": "$2.44",
+        "url": "https://manapool.com/card/c18/55/endless-atlas"
+      },
+      {
+        "name": "Transmogrifying Wand",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/m19/247/transmogrifying-wand"
+      },
+      {
+        "name": "Investigator's Journal",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmm/956/investigators-journal"
+      },
+      {
+        "name": "Unstable Obelisk",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afc/220/unstable-obelisk"
+      }
+    ],
+    "enchantments": [],
+    "planeswalkers": [
+      {
+        "name": "Ajani, Mentor of Heroes",
+        "price": "$2.81",
+        "url": "https://manapool.com/card/jou/145/ajani-mentor-of-heroes"
+      },
+      {
+        "name": "Ugin, Eye of the Storms",
+        "price": "$0.47",
+        "url": "https://manapool.com/card/atdm/48/ugin-eye-of-the-storms"
+      },
+      {
+        "name": "Ugin, the Ineffable",
+        "price": "$1.04",
+        "url": "https://manapool.com/card/war/2/ugin-the-ineffable"
+      }
+    ],
+    "lands": [
+      {
+        "name": "Eldrazi Temple",
+        "price": "$1.80",
+        "url": "https://manapool.com/card/m3c/339/eldrazi-temple"
+      },
+      {
+        "name": "Mirrorpool",
+        "price": "$2.08",
+        "url": "https://manapool.com/card/ogw/174/mirrorpool"
+      },
+      {
+        "name": "Bonders' Enclave",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/fic/376/bonders-enclave"
+      },
+      {
+        "name": "Sanctum of Ugin",
+        "price": "$1.07",
+        "url": "https://manapool.com/card/bfz/242/sanctum-of-ugin"
+      },
+      {
+        "name": "Sea Gate Wreckage",
+        "price": "$0.27",
+        "url": "https://manapool.com/card/ogw/177/sea-gate-wreckage"
+      },
+      {
+        "name": "Scavenger Grounds",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/fic/419/scavenger-grounds"
+      },
+      {
+        "name": "Mage-Ring Network",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/ori/249/mage-ring-network"
+      },
+      {
+        "name": "Guildless Commons",
+        "price": "$1.99",
+        "url": "https://manapool.com/card/cmr/351/guildless-commons"
+      },
+      {
+        "name": "Geier Reach Sanitarium",
+        "price": "$0.69",
+        "url": "https://manapool.com/card/lcc/335/geier-reach-sanitarium"
+      },
+      {
+        "name": "Tyrite Sanctum",
+        "price": "$1.04",
+        "url": "https://manapool.com/card/khm/372/tyrite-sanctum"
+      },
+      {
+        "name": "Blast Zone",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/m3c/322/blast-zone"
+      },
+      {
+        "name": "Arch of Orazca",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/lcc/319/arch-of-orazca"
+      },
+      {
+        "name": "Forge of Heroes",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/395/forge-of-heroes"
+      },
+      {
+        "name": "Tomb of the Spirit Dragon",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/ktk/245/tomb-of-the-spirit-dragon"
+      },
+      {
+        "name": "Ruins of Oran-Rief",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmm/1023/ruins-of-oran-rief"
+      },
+      {
+        "name": "Urza's Mine",
+        "price": "$0.35",
+        "url": "https://manapool.com/card/5ed/427/urzas-mine"
+      },
+      {
+        "name": "Urza's Power Plant",
+        "price": "$0.29",
+        "url": "https://manapool.com/card/chr/115c/urzas-power-plant"
+      },
+      {
+        "name": "Urza's Tower",
+        "price": "$0.32",
+        "url": "https://manapool.com/card/chr/116b/urzas-tower"
+      },
+      {
+        "name": "Shrine of the Forsaken Gods",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/bfz/245/shrine-of-the-forsaken-gods"
+      },
+      {
+        "name": "Rogue's Passage",
+        "price": "$0.35",
+        "url": "https://manapool.com/card/fdn/264/rogues-passage"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Aether Hub",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/drc/145/aether-hub"
+      },
+      {
+        "name": "Ally Encampment",
+        "price": "$0.68",
+        "url": "https://manapool.com/card/bfz/228/ally-encampment"
+      },
+      {
+        "name": "Amonkhet Raceway",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dft/248/amonkhet-raceway"
+      },
+      {
+        "name": "Ancient Ziggurat",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/ecc/144/ancient-ziggurat"
+      },
+      {
+        "name": "Archaeological Dig",
+        "price": "$0.35",
+        "url": "https://manapool.com/card/inv/320/archaeological-dig"
+      },
+      {
+        "name": "Archway Commons",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/plst/STX-263/archway-commons"
+      },
+      {
+        "name": "Wastes",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/309/wastes"
+      }
+    ],
+    "other": []
+  },
+  "export_text": "1 Zhulodok, Void Gorger *CMDR*\n1 Eldrazi Temple\n1 Artisan of Kozilek\n1 Erratic Visionary\n1 Bane of Bala Ged\n1 Oblivion Sower\n1 Mirrorpool\n1 Pathrazer of Ulamog\n1 Ajani, Mentor of Heroes\n1 Titan's Presence\n1 Endbringer\n1 Booster Tutor\n1 Bonders' Enclave\n1 Sanctum of Ugin\n1 Sea Gate Wreckage\n1 Scavenger Grounds\n1 Matter Reshaper\n1 Soaring Show-Off\n1 Mage-Ring Network\n1 Hedron Archive\n1 Dreamstone Hedron\n1 Spawnbed Protector\n1 Guildless Commons\n1 Geier Reach Sanitarium\n1 Worn Powerstone\n1 Tyrite Sanctum\n1 Ulamog's Crusher\n1 Blast Zone\n1 Arch of Orazca\n1 Thran Dynamo\n1 Thought Vessel\n1 Breaker of Creation\n1 Swiftspear's Teachings\n1 Moonstone Eulogist\n1 Lord of Change\n1 Ugin, Eye of the Storms\n1 Forge of Heroes\n1 Plague Spitter\n1 Perilous Vault\n1 Ultima, Origin of Oblivion\n1 Devourer of Destiny\n1 Tomb of the Spirit Dragon\n1 Ugin, the Ineffable\n1 Kozilek's Channeler\n1 Mazemind Tome\n1 Ruins of Oran-Rief\n1 Basalt Monolith\n1 Wave Goodbye\n1 Ulamog's Dreadsire\n1 Krazy Kow\n1 Endless Atlas\n1 Transmogrifying Wand\n1 Investigator's Journal\n1 Urza's Mine\n1 Urza's Power Plant\n1 Urza's Tower\n1 Shrine of the Forsaken Gods\n1 Wandering Archaic\n1 Rogue's Passage\n1 Unstable Obelisk\n1 Cease // Desist\n1 Burnished Hart\n1 Realm-Cloaked Giant // Cast Off\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Aether Hub\n1 Ally Encampment\n1 Amonkhet Raceway\n1 Ancient Ziggurat\n1 Archaeological Dig\n1 Archway Commons\n1 Wastes",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": true,
+    "counts": {
+      "lands": 30,
+      "ramp": 12,
+      "card_draw": 10,
+      "targeted_removal": 13,
+      "mass_removal": 6,
+      "synergy": 0,
+      "uncategorized": 1
+    },
+    "gaps": {}
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "card_draw",
+      "added": "Erratic Visionary",
+      "removed": "Not of This World"
+    },
+    {
+      "category": "card_draw",
+      "added": "Ajani, Mentor of Heroes",
+      "removed": "Abstruse Archaic"
+    },
+    {
+      "category": "card_draw",
+      "added": "Booster Tutor",
+      "removed": "It That Heralds the End"
+    },
+    {
+      "category": "card_draw",
+      "added": "Soaring Show-Off",
+      "removed": "Mirage Mirror"
+    },
+    {
+      "category": "card_draw",
+      "added": "Swiftspear's Teachings",
+      "removed": "Desolation Twin"
+    },
+    {
+      "category": "card_draw",
+      "added": "Moonstone Eulogist",
+      "removed": "Echoes of Eternity"
+    },
+    {
+      "category": "card_draw",
+      "added": "Lord of Change",
+      "removed": "Crashing Drawbridge"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Plague Spitter",
+      "removed": "Deceiver of Form"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Wave Goodbye",
+      "removed": "Geode Golem"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Krazy Kow",
+      "removed": "Breaker of Armies"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Cease // Desist",
+      "removed": "Mystic Forge"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Realm-Cloaked Giant // Cast Off",
+      "removed": "Eldrazi Mimic"
+    }
+  ]
+}

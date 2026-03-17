@@ -1,0 +1,603 @@
+{
+  "commander": "Wilhelt, the Rotcleaver",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 95,
+  "total_cost_display": "$61.54",
+  "deck": {
+    "commander": "Wilhelt, the Rotcleaver",
+    "creatures": [
+      {
+        "name": "Undead Augur",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/drc/100/undead-augur"
+      },
+      {
+        "name": "Prosperous Pirates",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmr/85/prosperous-pirates"
+      },
+      {
+        "name": "Malcolm, Keen-Eyed Navigator",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmr/79/malcolm-keen-eyed-navigator"
+      },
+      {
+        "name": "Princess Lucrezia",
+        "price": "$1.44",
+        "url": "https://manapool.com/card/leg/249/princess-lucrezia"
+      },
+      {
+        "name": "Midnight Reaper",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/fdn/609/midnight-reaper"
+      },
+      {
+        "name": "Solemn Simulacrum",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/fdn/257/solemn-simulacrum"
+      },
+      {
+        "name": "Metalworker",
+        "price": "$25.41",
+        "url": "https://manapool.com/card/wc00/jf135/metalworker"
+      },
+      {
+        "name": "Fleshbag Marauder",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/drc/92/fleshbag-marauder"
+      },
+      {
+        "name": "Noxious Ghoul",
+        "price": "$1.56",
+        "url": "https://manapool.com/card/plst/LGN-77/noxious-ghoul"
+      },
+      {
+        "name": "Cryptbreaker",
+        "price": "$0.42",
+        "url": "https://manapool.com/card/drc/41/cryptbreaker"
+      },
+      {
+        "name": "The Blue Spirit",
+        "price": "$1.43",
+        "url": "https://manapool.com/card/tle/90/the-blue-spirit"
+      },
+      {
+        "name": "The Ancient One",
+        "price": "$1.61",
+        "url": "https://manapool.com/card/lci/222/the-ancient-one"
+      },
+      {
+        "name": "Wizards of the _____",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/unf/64/wizards-of-the-_____"
+      },
+      {
+        "name": "Poppet Stitcher",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Archfiend of Depravity",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/fic/273/archfiend-of-depravity"
+      },
+      {
+        "name": "Ravenous Rotbelly",
+        "price": "$0.62",
+        "url": "https://manapool.com/card/mic/22/ravenous-rotbelly"
+      },
+      {
+        "name": "Death-Rattle Oni",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mat/13/death-rattle-oni"
+      },
+      {
+        "name": "Accursed Marauder",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/80/accursed-marauder"
+      },
+      {
+        "name": "Archghoul of Thraben",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/inr/370/archghoul-of-thraben"
+      },
+      {
+        "name": "Eternal Skylord",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/drc/76/eternal-skylord"
+      },
+      {
+        "name": "Grimgrin, Corpse-Born",
+        "price": "$0.98",
+        "url": "https://manapool.com/card/isd/214/grimgrin-corpse-born"
+      },
+      {
+        "name": "Geralf, Visionary Stitcher",
+        "price": "$0.68",
+        "url": "https://manapool.com/card/vow/319/geralf-visionary-stitcher"
+      },
+      {
+        "name": "Ghoulcaller Gisa",
+        "price": "$2.24",
+        "url": "https://manapool.com/card/c14/23/ghoulcaller-gisa"
+      },
+      {
+        "name": "Gravespawn Sovereign",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/scd/79/gravespawn-sovereign"
+      },
+      {
+        "name": "Murderous Rider",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Bladestitched Skaab",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/inr/231/bladestitched-skaab"
+      },
+      {
+        "name": "Grave Titan",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ecc/74/grave-titan"
+      },
+      {
+        "name": "Overcharged Amalgam",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/vow/71/overcharged-amalgam"
+      },
+      {
+        "name": "Acererak the Archlich",
+        "price": "$2.60",
+        "url": "https://manapool.com/card/afr/87/acererak-the-archlich"
+      },
+      {
+        "name": "Lost Monarch of Ifnir",
+        "price": "$0.68",
+        "url": "https://manapool.com/card/drc/11/lost-monarch-of-ifnir"
+      },
+      {
+        "name": "Corpse Augur",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c17/106/corpse-augur"
+      },
+      {
+        "name": "Rot Hulk",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/drc/98/rot-hulk"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Keep Safe",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/iko/56/keep-safe"
+      },
+      {
+        "name": "Hideous Laughter",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/chk/115/hideous-laughter"
+      },
+      {
+        "name": "Lazotep Plating",
+        "price": "$0.27",
+        "url": "https://manapool.com/card/plst/WAR-59/lazotep-plating"
+      },
+      {
+        "name": "Go for the Throat",
+        "price": "$0.36",
+        "url": "https://manapool.com/card/mbs/43/go-for-the-throat"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Zombie Apocalypse",
+        "price": "$0.48",
+        "url": "https://manapool.com/card/scd/121/zombie-apocalypse"
+      },
+      {
+        "name": "Mitotic Manipulation",
+        "price": "$0.27",
+        "url": "https://manapool.com/card/mbs/27/mitotic-manipulation"
+      },
+      {
+        "name": "Victimize",
+        "price": "$0.50",
+        "url": "https://manapool.com/card/mh3/278/victimize"
+      },
+      {
+        "name": "Feed the Swarm",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltc/200/feed-the-swarm"
+      },
+      {
+        "name": "Distant Melody",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/ecc/45/distant-melody"
+      },
+      {
+        "name": "Dark Salvation",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/emn/87/dark-salvation"
+      },
+      {
+        "name": "Ghouls' Night Out",
+        "price": "$0.46",
+        "url": "https://manapool.com/card/mic/19/ghouls-night-out"
+      },
+      {
+        "name": "Dread Summons",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/drc/90/dread-summons"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Black Mana Battery",
+        "price": "$0.23",
+        "url": "https://manapool.com/card/4ed/298/black-mana-battery"
+      },
+      {
+        "name": "Wickersmith's Tools",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ecc/21/wickersmiths-tools"
+      },
+      {
+        "name": "Prismatic Geoscope",
+        "price": "$1.04",
+        "url": "https://manapool.com/card/c16/55/prismatic-geoscope"
+      },
+      {
+        "name": "Crowded Crypt",
+        "price": "$0.44",
+        "url": "https://manapool.com/card/drc/88/crowded-crypt"
+      },
+      {
+        "name": "Idol of Oblivion",
+        "price": "$0.79",
+        "url": "https://manapool.com/card/blc/277/idol-of-oblivion"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "Open the Graves",
+        "price": "$0.36",
+        "url": "https://manapool.com/card/m19/112/open-the-graves"
+      },
+      {
+        "name": "Liliana's Mastery",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/scd/86/lilianas-mastery"
+      },
+      {
+        "name": "Bastion of Remembrance",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/plst/IKO-73/bastion-of-remembrance"
+      }
+    ],
+    "planeswalkers": [
+      {
+        "name": "Liliana, Death's Majesty",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/drc/94/liliana-deaths-majesty"
+      }
+    ],
+    "lands": [
+      {
+        "name": "Unclaimed Territory",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lcc/366/unclaimed-territory"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Unholy Grotto",
+        "price": "$0.77",
+        "url": "https://manapool.com/card/drc/182/unholy-grotto"
+      },
+      {
+        "name": "Mortuary Mire",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/bfz/240/mortuary-mire"
+      },
+      {
+        "name": "Tainted Isle",
+        "price": "$0.45",
+        "url": "https://manapool.com/card/dsc/303/tainted-isle"
+      },
+      {
+        "name": "Bojuka Bog",
+        "price": "$0.98",
+        "url": "https://manapool.com/card/lcc/320/bojuka-bog"
+      },
+      {
+        "name": "Phyrexian Tower",
+        "price": "$0.82",
+        "url": "https://manapool.com/card/amh3/23/phyrexian-tower"
+      },
+      {
+        "name": "Choked Estuary",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lcc/322/choked-estuary"
+      },
+      {
+        "name": "Darkwater Catacombs",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/c19/238/darkwater-catacombs"
+      },
+      {
+        "name": "Command Tower",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/325/command-tower"
+      },
+      {
+        "name": "Exotic Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/131/exotic-orchard"
+      },
+      {
+        "name": "Dreadship Reef",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/tsp/271/dreadship-reef"
+      },
+      {
+        "name": "Duskmantle, House of Shadow",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/plst/RAV-277/duskmantle-house-of-shadow"
+      },
+      {
+        "name": "Nephalia Drownyard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lcc/344/nephalia-drownyard"
+      },
+      {
+        "name": "River Delta",
+        "price": "$0.38",
+        "url": "https://manapool.com/card/ice/359/river-delta"
+      },
+      {
+        "name": "River of Tears",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/clb/912/river-of-tears"
+      },
+      {
+        "name": "Rootwater Depths",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmp/323/rootwater-depths"
+      },
+      {
+        "name": "Waterveil Cavern",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/chk/286/waterveil-cavern"
+      },
+      {
+        "name": "Contaminated Aquifer",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmu/245/contaminated-aquifer"
+      },
+      {
+        "name": "Creeping Tar Pit",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/who/267/creeping-tar-pit"
+      },
+      {
+        "name": "Darkslick Shores",
+        "price": "$0.93",
+        "url": "https://manapool.com/card/one/250/darkslick-shores"
+      },
+      {
+        "name": "Dimir Aqueduct",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/clu/233/dimir-aqueduct"
+      },
+      {
+        "name": "Dimir Guildgate",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c13/284/dimir-guildgate"
+      },
+      {
+        "name": "Dismal Backwater",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/276/dismal-backwater"
+      },
+      {
+        "name": "Domesticated Watercourse",
+        "price": "$0.30",
+        "url": "https://manapool.com/card/cmb2/114/domesticated-watercourse"
+      },
+      {
+        "name": "Fetid Pools",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/drc/156/fetid-pools"
+      },
+      {
+        "name": "Frost Marsh",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/plst/CSP-146/frost-marsh"
+      },
+      {
+        "name": "Ice Tunnel",
+        "price": "$0.46",
+        "url": "https://manapool.com/card/khm/262/ice-tunnel"
+      },
+      {
+        "name": "Jwar Isle Refuge",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c13/300/jwar-isle-refuge"
+      },
+      {
+        "name": "Mistvault Bridge",
+        "price": "$0.39",
+        "url": "https://manapool.com/card/mh2/249/mistvault-bridge"
+      },
+      {
+        "name": "Murky Sewer",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsk/263/murky-sewer"
+      },
+      {
+        "name": "Port of Karfell",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/clb/908/port-of-karfell"
+      },
+      {
+        "name": "Salt Marsh",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/scd/316/salt-marsh"
+      },
+      {
+        "name": "Secret Passage",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/clu/20/secret-passage"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      }
+    ],
+    "other": []
+  },
+  "export_text": "1 Wilhelt, the Rotcleaver *CMDR*\n1 Black Mana Battery\n1 Wickersmith's Tools\n1 Prismatic Geoscope\n1 Undead Augur\n1 Prosperous Pirates\n1 Malcolm, Keen-Eyed Navigator\n1 Princess Lucrezia\n1 Zombie Apocalypse\n1 Midnight Reaper\n1 Solemn Simulacrum\n1 Metalworker\n1 Mitotic Manipulation\n1 Fleshbag Marauder\n1 Noxious Ghoul\n1 Cryptbreaker\n1 Crowded Crypt\n1 Idol of Oblivion\n1 The Blue Spirit\n1 The Ancient One\n1 Wizards of the _____\n1 Keep Safe\n1 Poppet Stitcher\n1 Archfiend of Depravity\n1 Ravenous Rotbelly\n1 Death-Rattle Oni\n1 Unclaimed Territory\n1 Path of Ancestry\n1 Liliana, Death's Majesty\n1 Unholy Grotto\n1 Accursed Marauder\n1 Archghoul of Thraben\n1 Hideous Laughter\n1 Mortuary Mire\n1 Open the Graves\n1 Victimize\n1 Liliana's Mastery\n1 Feed the Swarm\n1 Eternal Skylord\n1 Distant Melody\n1 Grimgrin, Corpse-Born\n1 Geralf, Visionary Stitcher\n1 Lazotep Plating\n1 Tainted Isle\n1 Ghoulcaller Gisa\n1 Dark Salvation\n1 Bojuka Bog\n1 Phyrexian Tower\n1 Gravespawn Sovereign\n1 Go for the Throat\n1 Bastion of Remembrance\n1 Murderous Rider\n1 Bladestitched Skaab\n1 Ghouls' Night Out\n1 Grave Titan\n1 Overcharged Amalgam\n1 Dread Summons\n1 Acererak the Archlich\n1 Choked Estuary\n1 Darkwater Catacombs\n1 Lost Monarch of Ifnir\n1 Corpse Augur\n1 Rot Hulk\n1 Command Tower\n1 Exotic Orchard\n1 Dreadship Reef\n1 Duskmantle, House of Shadow\n1 Nephalia Drownyard\n1 River Delta\n1 River of Tears\n1 Rootwater Depths\n1 Waterveil Cavern\n1 Contaminated Aquifer\n1 Creeping Tar Pit\n1 Darkslick Shores\n1 Dimir Aqueduct\n1 Dimir Guildgate\n1 Dismal Backwater\n1 Domesticated Watercourse\n1 Fetid Pools\n1 Frost Marsh\n1 Ice Tunnel\n1 Jwar Isle Refuge\n1 Mistvault Bridge\n1 Murky Sewer\n1 Port of Karfell\n1 Salt Marsh\n1 Secret Passage\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Swamp\n1 Island\n1 Swamp\n1 Island\n1 Swamp",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": true,
+    "counts": {
+      "lands": 42,
+      "ramp": 10,
+      "card_draw": 10,
+      "targeted_removal": 8,
+      "mass_removal": 6,
+      "synergy": 17,
+      "uncategorized": 2
+    },
+    "gaps": {}
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "ramp",
+      "added": "Black Mana Battery",
+      "removed": "Diregraf Captain"
+    },
+    {
+      "category": "ramp",
+      "added": "Wickersmith's Tools",
+      "removed": "Rooftop Storm"
+    },
+    {
+      "category": "ramp",
+      "added": "Prismatic Geoscope",
+      "removed": "Gravecrawler"
+    },
+    {
+      "category": "ramp",
+      "added": "Prosperous Pirates",
+      "removed": "Cemetery Reaper"
+    },
+    {
+      "category": "ramp",
+      "added": "Malcolm, Keen-Eyed Navigator",
+      "removed": "Lord of the Accursed"
+    },
+    {
+      "category": "ramp",
+      "added": "Princess Lucrezia",
+      "removed": "Gray Merchant of Asphodel"
+    },
+    {
+      "category": "ramp",
+      "added": "Solemn Simulacrum",
+      "removed": "Plague Belcher"
+    },
+    {
+      "category": "ramp",
+      "added": "Metalworker",
+      "removed": "Empty the Laboratory"
+    },
+    {
+      "category": "ramp",
+      "added": "Mitotic Manipulation",
+      "removed": "Gisa and Geralf"
+    },
+    {
+      "category": "card_draw",
+      "added": "Idol of Oblivion",
+      "removed": "Zul Ashur, Lich Lord"
+    },
+    {
+      "category": "card_draw",
+      "added": "The Blue Spirit",
+      "removed": "Champion of the Perished"
+    },
+    {
+      "category": "card_draw",
+      "added": "The Ancient One",
+      "removed": "Tomb Tyrant"
+    },
+    {
+      "category": "card_draw",
+      "added": "Wizards of the _____",
+      "removed": "Dreadhorde Invasion"
+    },
+    {
+      "category": "card_draw",
+      "added": "Keep Safe",
+      "removed": "Gleaming Overseer"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Archfiend of Depravity",
+      "removed": "Vengeful Dead"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Death-Rattle Oni",
+      "removed": "Army of the Damned"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Hideous Laughter",
+      "removed": "Zombie Master"
+    }
+  ]
+}

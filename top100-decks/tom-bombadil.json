@@ -1,0 +1,552 @@
+{
+  "commander": "Tom Bombadil",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 99,
+  "total_cost_display": "$116.23",
+  "deck": {
+    "commander": "Tom Bombadil",
+    "creatures": [
+      {
+        "name": "The Kami War",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Goldberry, River-Daughter",
+        "price": "$0.51",
+        "url": "https://manapool.com/card/ltr/52/goldberry-river-daughter"
+      },
+      {
+        "name": "Sigurd, Jarl of Ravensthorpe",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/acr/66/sigurd-jarl-of-ravensthorpe"
+      },
+      {
+        "name": "Summon: Primal Odin",
+        "price": "$0.94",
+        "url": "https://manapool.com/card/fin/121/summon-primal-odin"
+      },
+      {
+        "name": "Eidolon of Blossoms",
+        "price": "$3.02",
+        "url": "https://manapool.com/card/jou/122/eidolon-of-blossoms"
+      },
+      {
+        "name": "Terra, Magical Adept",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Azusa's Many Journeys",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Weaver of Harmony",
+        "price": "$2.33",
+        "url": "https://manapool.com/card/neo/213/weaver-of-harmony"
+      },
+      {
+        "name": "Summon: Fenrir",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/203/summon-fenrir"
+      },
+      {
+        "name": "Garnet, Princess of Alexandria",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/222/garnet-princess-of-alexandria"
+      },
+      {
+        "name": "Summon: Yojimbo",
+        "price": "$1.36",
+        "url": "https://manapool.com/card/fic/28/summon-yojimbo"
+      },
+      {
+        "name": "Scholar of New Horizons",
+        "price": "$0.34",
+        "url": "https://manapool.com/card/fic/252/scholar-of-new-horizons"
+      },
+      {
+        "name": "Barbara Wright",
+        "price": "$0.39",
+        "url": "https://manapool.com/card/who/14/barbara-wright"
+      },
+      {
+        "name": "Jugan Defends the Temple",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Michiko's Reign of Truth",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "O'aka, Traveling Merchant",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/fic/39/oaka-traveling-merchant"
+      },
+      {
+        "name": "Archon of Sun's Grace",
+        "price": "$0.53",
+        "url": "https://manapool.com/card/thb/3/archon-of-suns-grace"
+      },
+      {
+        "name": "Ghen, Arcanum Weaver",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmr/275/ghen-arcanum-weaver"
+      },
+      {
+        "name": "Summon: Titan",
+        "price": "$1.34",
+        "url": "https://manapool.com/card/fin/204/summon-titan"
+      },
+      {
+        "name": "Glissa Sunslayer",
+        "price": "$0.23",
+        "url": "https://manapool.com/card/ecc/122/glissa-sunslayer"
+      },
+      {
+        "name": "Fable of the Mirror-Breaker",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Jin-Gitaxias",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Inventive Iteration",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Summon: Valefor",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/42/summon-valefor"
+      },
+      {
+        "name": "Herald of the Pantheon",
+        "price": "$2.36",
+        "url": "https://manapool.com/card/ori/180/herald-of-the-pantheon"
+      },
+      {
+        "name": "Starfield Mystic",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/dsc/105/starfield-mystic"
+      },
+      {
+        "name": "The Restoration of Eiganjo",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Satyr Enchanter",
+        "price": "$0.67",
+        "url": "https://manapool.com/card/m19/223/satyr-enchanter"
+      },
+      {
+        "name": "Rydia, Summoner of Mist",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/239/rydia-summoner-of-mist"
+      },
+      {
+        "name": "Summon: Kujata",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/61/summon-kujata"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Clockspinning",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/who/215/clockspinning"
+      },
+      {
+        "name": "Flicker of Fate",
+        "price": "$0.28",
+        "url": "https://manapool.com/card/thb/16/flicker-of-fate"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Resurgent Belief",
+        "price": "$0.67",
+        "url": "https://manapool.com/card/mh2/443/resurgent-belief"
+      },
+      {
+        "name": "Dance of the Manse",
+        "price": "$0.57",
+        "url": "https://manapool.com/card/nec/136/dance-of-the-manse"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Mox Amber",
+        "price": "$72.75",
+        "url": "https://manapool.com/card/dom/224/mox-amber"
+      },
+      {
+        "name": "White Mana Battery",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/357/white-mana-battery"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "Binding the Old Gods",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/248/binding-the-old-gods"
+      },
+      {
+        "name": "There and Back Again",
+        "price": "$2.86",
+        "url": "https://manapool.com/card/ltr/151/there-and-back-again"
+      },
+      {
+        "name": "The Eldest Reborn",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/c19/131/the-eldest-reborn"
+      },
+      {
+        "name": "The Bath Song",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltr/40/the-bath-song"
+      },
+      {
+        "name": "Elspeth Conquers Death",
+        "price": "$0.76",
+        "url": "https://manapool.com/card/thb/13/elspeth-conquers-death"
+      },
+      {
+        "name": "Scroll of Isildur",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/ltr/69/scroll-of-isildur"
+      },
+      {
+        "name": "The Cruelty of Gix",
+        "price": "$0.54",
+        "url": "https://manapool.com/card/dmu/87/the-cruelty-of-gix"
+      },
+      {
+        "name": "Birth of the Imperium",
+        "price": "$2.35",
+        "url": "https://manapool.com/card/40k/107/birth-of-the-imperium"
+      },
+      {
+        "name": "In the Darkness Bind Them",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/ltc/58/in-the-darkness-bind-them"
+      },
+      {
+        "name": "The Horus Heresy",
+        "price": "$0.98",
+        "url": "https://manapool.com/card/40k/126/the-horus-heresy"
+      },
+      {
+        "name": "The First Iroan Games",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/thb/170/the-first-iroan-games"
+      },
+      {
+        "name": "One Ring to Rule Them All",
+        "price": "$1.37",
+        "url": "https://manapool.com/card/ltr/102/one-ring-to-rule-them-all"
+      },
+      {
+        "name": "Enchantress's Presence",
+        "price": "$1.22",
+        "url": "https://manapool.com/card/mh2/283/enchantresss-presence"
+      },
+      {
+        "name": "The Weatherseed Treaty",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmu/188/the-weatherseed-treaty"
+      },
+      {
+        "name": "The Akroan War",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/thb/124/the-akroan-war"
+      },
+      {
+        "name": "Song of E\u00e4rendil",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltc/69/song-of-earendil"
+      },
+      {
+        "name": "The Elder Dragon War",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmu/121/the-elder-dragon-war"
+      },
+      {
+        "name": "War of the Last Alliance",
+        "price": "$1.10",
+        "url": "https://manapool.com/card/ltr/36/war-of-the-last-alliance"
+      },
+      {
+        "name": "Ballad of the Black Flag",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/acr/13/ballad-of-the-black-flag"
+      },
+      {
+        "name": "Phyrexian Scriptures",
+        "price": "$0.64",
+        "url": "https://manapool.com/card/plst/DOM-100/phyrexian-scriptures"
+      },
+      {
+        "name": "Estrid's Invocation",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/mh3/269/estrids-invocation"
+      },
+      {
+        "name": "The Aesir Escape Valhalla",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/acr/39/the-aesir-escape-valhalla"
+      },
+      {
+        "name": "The Phasing of Zhalfir",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmu/59/the-phasing-of-zhalfir"
+      }
+    ],
+    "planeswalkers": [],
+    "lands": [
+      {
+        "name": "A-Hall of Tagsin",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Nesting Grounds",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ecc/155/nesting-grounds"
+      },
+      {
+        "name": "Karn's Bastion",
+        "price": "$2.08",
+        "url": "https://manapool.com/card/moc/409/karns-bastion"
+      },
+      {
+        "name": "Command Tower",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/325/command-tower"
+      },
+      {
+        "name": "Exotic Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/131/exotic-orchard"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Adarkar Wastes",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/blc/291/adarkar-wastes"
+      },
+      {
+        "name": "Aggressive Crag",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/cmb2/112/aggressive-crag"
+      },
+      {
+        "name": "Alchemist's Refuge",
+        "price": "$0.65",
+        "url": "https://manapool.com/card/lcc/318/alchemists-refuge"
+      },
+      {
+        "name": "An-Havva Township",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/hml/111/an-havva-township"
+      },
+      {
+        "name": "Aysen Abbey",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/hml/112/aysen-abbey"
+      },
+      {
+        "name": "Battlefield Forge",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/blc/293/battlefield-forge"
+      },
+      {
+        "name": "Bountiful Landscape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/217/bountiful-landscape"
+      },
+      {
+        "name": "Brushland",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/fic/377/brushland"
+      },
+      {
+        "name": "Calciform Pools",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/tsp/270/calciform-pools"
+      },
+      {
+        "name": "Cascade Bluffs",
+        "price": "$0.51",
+        "url": "https://manapool.com/card/eoc/153/cascade-bluffs"
+      },
+      {
+        "name": "Castle Sengir",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/hml/113/castle-sengir"
+      },
+      {
+        "name": "Caves of Koilos",
+        "price": "$0.80",
+        "url": "https://manapool.com/card/m15/241/caves-of-koilos"
+      },
+      {
+        "name": "Cinder Marsh",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/tmp/317/cinder-marsh"
+      },
+      {
+        "name": "Cloudcrest Lake",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/chk/274/cloudcrest-lake"
+      },
+      {
+        "name": "Contaminated Landscape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/218/contaminated-landscape"
+      },
+      {
+        "name": "Contested Cliffs",
+        "price": "$0.29",
+        "url": "https://manapool.com/card/c13/282/contested-cliffs"
+      },
+      {
+        "name": "Crosis's Catacombs",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmr/242/crosiss-catacombs"
+      },
+      {
+        "name": "Crypt of the Eternals",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/hou/169/crypt-of-the-eternals"
+      },
+      {
+        "name": "Crystal Quarry",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/eos/10/crystal-quarry"
+      },
+      {
+        "name": "Darigaaz's Caldera",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmr/243/darigaazs-caldera"
+      },
+      {
+        "name": "Darkwater Catacombs",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/c19/238/darkwater-catacombs"
+      },
+      {
+        "name": "Deceptive Landscape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/219/deceptive-landscape"
+      },
+      {
+        "name": "Desolate Lighthouse",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/avr/227/desolate-lighthouse"
+      },
+      {
+        "name": "Desolate Mire",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/386/desolate-mire"
+      },
+      {
+        "name": "Abandoned Campground",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsk/255/abandoned-campground"
+      },
+      {
+        "name": "Abraded Bluffs",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/otj/251/abraded-bluffs"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      }
+    ],
+    "other": []
+  },
+  "export_text": "1 Tom Bombadil *CMDR*\n1 Binding the Old Gods\n1 There and Back Again\n1 A-Hall of Tagsin\n1 The Eldest Reborn\n1 The Kami War\n1 The Bath Song\n1 Goldberry, River-Daughter\n1 Elspeth Conquers Death\n1 Scroll of Isildur\n1 The Cruelty of Gix\n1 Mox Amber\n1 White Mana Battery\n1 Birth of the Imperium\n1 In the Darkness Bind Them\n1 Sigurd, Jarl of Ravensthorpe\n1 The Horus Heresy\n1 Summon: Primal Odin\n1 The First Iroan Games\n1 Eidolon of Blossoms\n1 Terra, Magical Adept\n1 Nesting Grounds\n1 Resurgent Belief\n1 Azusa's Many Journeys\n1 Weaver of Harmony\n1 Summon: Fenrir\n1 One Ring to Rule Them All\n1 Garnet, Princess of Alexandria\n1 Enchantress's Presence\n1 Summon: Yojimbo\n1 Scholar of New Horizons\n1 The Weatherseed Treaty\n1 Barbara Wright\n1 The Akroan War\n1 Song of E\u00e4rendil\n1 Clockspinning\n1 Dance of the Manse\n1 Jugan Defends the Temple\n1 The Elder Dragon War\n1 Michiko's Reign of Truth\n1 O'aka, Traveling Merchant\n1 War of the Last Alliance\n1 Archon of Sun's Grace\n1 Ghen, Arcanum Weaver\n1 Summon: Titan\n1 Glissa Sunslayer\n1 Fable of the Mirror-Breaker\n1 Jin-Gitaxias\n1 Ballad of the Black Flag\n1 Inventive Iteration\n1 Phyrexian Scriptures\n1 Estrid's Invocation\n1 Summon: Valefor\n1 Flicker of Fate\n1 Karn's Bastion\n1 The Aesir Escape Valhalla\n1 Herald of the Pantheon\n1 Starfield Mystic\n1 The Restoration of Eiganjo\n1 Satyr Enchanter\n1 The Phasing of Zhalfir\n1 Rydia, Summoner of Mist\n1 Summon: Kujata\n1 Command Tower\n1 Exotic Orchard\n1 Path of Ancestry\n1 Adarkar Wastes\n1 Aggressive Crag\n1 Alchemist's Refuge\n1 An-Havva Township\n1 Aysen Abbey\n1 Battlefield Forge\n1 Bountiful Landscape\n1 Brushland\n1 Calciform Pools\n1 Cascade Bluffs\n1 Castle Sengir\n1 Caves of Koilos\n1 Cinder Marsh\n1 Cloudcrest Lake\n1 Contaminated Landscape\n1 Contested Cliffs\n1 Crosis's Catacombs\n1 Crypt of the Eternals\n1 Crystal Quarry\n1 Darigaaz's Caldera\n1 Darkwater Catacombs\n1 Deceptive Landscape\n1 Desolate Lighthouse\n1 Desolate Mire\n1 Abandoned Campground\n1 Abraded Bluffs\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Forest\n1 Plains\n1 Mountain\n1 Island\n1 Swamp",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": true,
+    "counts": {
+      "lands": 40,
+      "ramp": 9,
+      "card_draw": 12,
+      "targeted_removal": 10,
+      "mass_removal": 5,
+      "synergy": 14,
+      "uncategorized": 9
+    },
+    "gaps": {}
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "ramp",
+      "added": "A-Hall of Tagsin",
+      "removed": "Satsuki, the Living Lore"
+    },
+    {
+      "category": "ramp",
+      "added": "Mox Amber",
+      "removed": "Historian's Boon"
+    },
+    {
+      "category": "ramp",
+      "added": "White Mana Battery",
+      "removed": "Jukai Naturalist"
+    }
+  ]
+}

@@ -1,0 +1,587 @@
+{
+  "commander": "Lathril, Blade of the Elves",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 97,
+  "total_cost_display": "$46.60",
+  "deck": {
+    "commander": "Lathril, Blade of the Elves",
+    "creatures": [
+      {
+        "name": "Elvish Archdruid",
+        "price": "$0.23",
+        "url": "https://manapool.com/card/fdn/219/elvish-archdruid"
+      },
+      {
+        "name": "Priest of Titania",
+        "price": "$0.92",
+        "url": "https://manapool.com/card/mh3/286/priest-of-titania"
+      },
+      {
+        "name": "Groaaaaag, Hungry Monster",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Elvish Mystic",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/cmm/648/elvish-mystic"
+      },
+      {
+        "name": "Skittering Surveyor",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dom/230/skittering-surveyor"
+      },
+      {
+        "name": "Reclamation Sage",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmr/248/reclamation-sage"
+      },
+      {
+        "name": "Llanowar Elves",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fdn/227/llanowar-elves"
+      },
+      {
+        "name": "Devourer of Destiny",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/mh3/2/devourer-of-destiny"
+      },
+      {
+        "name": "Wirewood Channeler",
+        "price": "$1.82",
+        "url": "https://manapool.com/card/lgn/144/wirewood-channeler"
+      },
+      {
+        "name": "Fyndhorn Elves",
+        "price": "$1.86",
+        "url": "https://manapool.com/card/cmr/228/fyndhorn-elves"
+      },
+      {
+        "name": "Circle of Dreams Druid",
+        "price": "$1.04",
+        "url": "https://manapool.com/card/aafr/66/circle-of-dreams-druid"
+      },
+      {
+        "name": "Scavenger Regent // Exude Toxin",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdm/90/scavenger-regent-exude-toxin"
+      },
+      {
+        "name": "High Perfect Morcant",
+        "price": "$1.04",
+        "url": "https://manapool.com/card/ecl/229/high-perfect-morcant"
+      },
+      {
+        "name": "Llanowar Tribe",
+        "price": "$0.59",
+        "url": "https://manapool.com/card/mh1/170/llanowar-tribe"
+      },
+      {
+        "name": "Miara, Thorn of the Glade",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmr/133/miara-thorn-of-the-glade"
+      },
+      {
+        "name": "Rhys the Exiled",
+        "price": "$1.25",
+        "url": "https://manapool.com/card/khc/73/rhys-the-exiled"
+      },
+      {
+        "name": "Realmwalker",
+        "price": "$0.66",
+        "url": "https://manapool.com/card/lcc/250/realmwalker"
+      },
+      {
+        "name": "Wood Elves",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/ltc/263/wood-elves"
+      },
+      {
+        "name": "Eladamri, Korvecdal",
+        "price": "$0.33",
+        "url": "https://manapool.com/card/amh3/9/eladamri-korvecdal"
+      },
+      {
+        "name": "Nullmage Shepherd",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/scd/200/nullmage-shepherd"
+      },
+      {
+        "name": "Arbor Elf",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/m13/160/arbor-elf"
+      },
+      {
+        "name": "Harald, King of Skemfar",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/khm/212/harald-king-of-skemfar"
+      },
+      {
+        "name": "Elves of Deep Shadow",
+        "price": "$2.58",
+        "url": "https://manapool.com/card/rav/161/elves-of-deep-shadow"
+      },
+      {
+        "name": "Skemfar Avenger",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/khm/109/skemfar-avenger"
+      },
+      {
+        "name": "Glissa Sunslayer",
+        "price": "$0.23",
+        "url": "https://manapool.com/card/ecc/122/glissa-sunslayer"
+      },
+      {
+        "name": "Wellwisher",
+        "price": "$1.58",
+        "url": "https://manapool.com/card/ons/300/wellwisher"
+      },
+      {
+        "name": "Morcant's Loyalist",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ecl/236/morcants-loyalist"
+      },
+      {
+        "name": "Champions of the Perfect",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ecl/171/champions-of-the-perfect"
+      },
+      {
+        "name": "Copperhorn Scout",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cn2/179/copperhorn-scout"
+      },
+      {
+        "name": "Heritage Druid",
+        "price": "$2.81",
+        "url": "https://manapool.com/card/ema/171/heritage-druid"
+      },
+      {
+        "name": "Wirewood Symbiote",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/288/wirewood-symbiote"
+      },
+      {
+        "name": "Selfless Safewright",
+        "price": "$0.41",
+        "url": "https://manapool.com/card/ecl/193/selfless-safewright"
+      },
+      {
+        "name": "Jagged-Scar Archers",
+        "price": "$0.23",
+        "url": "https://manapool.com/card/lrw/222/jagged-scar-archers"
+      },
+      {
+        "name": "Elvish Visionary",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/130/elvish-visionary"
+      },
+      {
+        "name": "Farhaven Elf",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmr/225/farhaven-elf"
+      },
+      {
+        "name": "Golgari Findbroker",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/grn/175/golgari-findbroker"
+      },
+      {
+        "name": "Dwynen's Elite",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ddu/3/dwynens-elite"
+      },
+      {
+        "name": "Sylvan Messenger",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/apc/87/sylvan-messenger"
+      },
+      {
+        "name": "Quirion Ranger",
+        "price": "$1.50",
+        "url": "https://manapool.com/card/mh2/285/quirion-ranger"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Natural Reclamation",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/clb/829/natural-reclamation"
+      },
+      {
+        "name": "Clear Shot",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/2xm/159/clear-shot"
+      },
+      {
+        "name": "Vitalize",
+        "price": "$0.87",
+        "url": "https://manapool.com/card/wth/145/vitalize"
+      },
+      {
+        "name": "Heroic Intervention",
+        "price": "$1.07",
+        "url": "https://manapool.com/card/altr/73/heroic-intervention"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Tranquility",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/3ed/221/tranquility"
+      },
+      {
+        "name": "Needle Storm",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/9ed/259/needle-storm"
+      },
+      {
+        "name": "Nuclear Fallout",
+        "price": "$5.68",
+        "url": "https://manapool.com/card/pip/47/nuclear-fallout"
+      },
+      {
+        "name": "Famine",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c13/77/famine"
+      },
+      {
+        "name": "Harvest Season",
+        "price": "$1.03",
+        "url": "https://manapool.com/card/khc/63/harvest-season"
+      },
+      {
+        "name": "Bounty of Skemfar",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/j25/638/bounty-of-skemfar"
+      },
+      {
+        "name": "Shamanic Revelation",
+        "price": "$0.77",
+        "url": "https://manapool.com/card/afc/171/shamanic-revelation"
+      },
+      {
+        "name": "Casualties of War",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/125/casualties-of-war"
+      },
+      {
+        "name": "Return Upon the Tide",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/khm/106/return-upon-the-tide"
+      },
+      {
+        "name": "Eyeblight Massacre",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmr/125/eyeblight-massacre"
+      }
+    ],
+    "artifacts": [],
+    "enchantments": [
+      {
+        "name": "Elvish Guidance",
+        "price": "$0.45",
+        "url": "https://manapool.com/card/ons/255/elvish-guidance"
+      }
+    ],
+    "planeswalkers": [
+      {
+        "name": "Tyvar, Jubilant Brawler",
+        "price": "$1.28",
+        "url": "https://manapool.com/card/one/218/tyvar-jubilant-brawler"
+      }
+    ],
+    "lands": [
+      {
+        "name": "Ash Barrens",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/265/ash-barrens"
+      },
+      {
+        "name": "Ghost Quarter",
+        "price": "$0.23",
+        "url": "https://manapool.com/card/altr/78/ghost-quarter"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Growing Rites of Itlimoc",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Skemfar Elderhall",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/khm/268/skemfar-elderhall"
+      },
+      {
+        "name": "Rogue's Passage",
+        "price": "$0.35",
+        "url": "https://manapool.com/card/fdn/264/rogues-passage"
+      },
+      {
+        "name": "Secluded Courtyard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fdn/267/secluded-courtyard"
+      },
+      {
+        "name": "Command Tower",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/325/command-tower"
+      },
+      {
+        "name": "Exotic Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/131/exotic-orchard"
+      },
+      {
+        "name": "Grim Backwoods",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/309/grim-backwoods"
+      },
+      {
+        "name": "Llanowar Wastes",
+        "price": "$0.47",
+        "url": "https://manapool.com/card/blc/315/llanowar-wastes"
+      },
+      {
+        "name": "Noxious Bayou",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/cmb2/118/noxious-bayou"
+      },
+      {
+        "name": "Svogthos, the Restless Tomb",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmd/289/svogthos-the-restless-tomb"
+      },
+      {
+        "name": "Tainted Wood",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/plst/TOR-143/tainted-wood"
+      },
+      {
+        "name": "Twilight Mire",
+        "price": "$0.36",
+        "url": "https://manapool.com/card/blc/351/twilight-mire"
+      },
+      {
+        "name": "Viridescent Bog",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/352/viridescent-bog"
+      },
+      {
+        "name": "Darkmoss Bridge",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsc/269/darkmoss-bridge"
+      },
+      {
+        "name": "Festering Gulch",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/otj/257/festering-gulch"
+      },
+      {
+        "name": "Festering Thicket",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/ecc/61/festering-thicket"
+      },
+      {
+        "name": "Foggy Bottom Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tla/269/foggy-bottom-swamp"
+      },
+      {
+        "name": "Foul Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/akh/279/foul-orchard"
+      },
+      {
+        "name": "Gohn, Town of Ruin",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/278/gohn-town-of-ruin"
+      },
+      {
+        "name": "Golgari Guildgate",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c15/286/golgari-guildgate"
+      },
+      {
+        "name": "Golgari Rot Farm",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/308/golgari-rot-farm"
+      },
+      {
+        "name": "Haunted Mire",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/311/haunted-mire"
+      },
+      {
+        "name": "Hissing Quagmire",
+        "price": "$0.23",
+        "url": "https://manapool.com/card/eos/19/hissing-quagmire"
+      },
+      {
+        "name": "Illegitimate Business",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmt/186/illegitimate-business"
+      },
+      {
+        "name": "Jungle Hollow",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/313/jungle-hollow"
+      },
+      {
+        "name": "Lounge",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/clu/19/lounge"
+      },
+      {
+        "name": "Necroblossom Snarl",
+        "price": "$0.33",
+        "url": "https://manapool.com/card/stx/269/necroblossom-snarl"
+      },
+      {
+        "name": "Pine Barrens",
+        "price": "$1.04",
+        "url": "https://manapool.com/card/tmp/321/pine-barrens"
+      },
+      {
+        "name": "Restless Cottage",
+        "price": "$1.04",
+        "url": "https://manapool.com/card/woe/304/restless-cottage"
+      },
+      {
+        "name": "Revitalizing Repast // Old-Growth Grove",
+        "price": "$0.95",
+        "url": "https://manapool.com/card/mh3/256/revitalizing-repast-old-growth-grove"
+      },
+      {
+        "name": "Strangled Cemetery",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsk/268/strangled-cemetery"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      }
+    ],
+    "other": []
+  },
+  "export_text": "1 Lathril, Blade of the Elves *CMDR*\n1 Elvish Archdruid\n1 Ash Barrens\n1 Priest of Titania\n1 Groaaaaag, Hungry Monster\n1 Elvish Mystic\n1 Skittering Surveyor\n1 Reclamation Sage\n1 Ghost Quarter\n1 Llanowar Elves\n1 Devourer of Destiny\n1 Wirewood Channeler\n1 Natural Reclamation\n1 Fyndhorn Elves\n1 Clear Shot\n1 Tranquility\n1 Circle of Dreams Druid\n1 Path of Ancestry\n1 Needle Storm\n1 Nuclear Fallout\n1 Scavenger Regent // Exude Toxin\n1 High Perfect Morcant\n1 Llanowar Tribe\n1 Miara, Thorn of the Glade\n1 Famine\n1 Rhys the Exiled\n1 Realmwalker\n1 Wood Elves\n1 Eladamri, Korvecdal\n1 Nullmage Shepherd\n1 Arbor Elf\n1 Harald, King of Skemfar\n1 Elves of Deep Shadow\n1 Harvest Season\n1 Skemfar Avenger\n1 Glissa Sunslayer\n1 Wellwisher\n1 Bounty of Skemfar\n1 Morcant's Loyalist\n1 Champions of the Perfect\n1 Copperhorn Scout\n1 Heritage Druid\n1 Wirewood Symbiote\n1 Vitalize\n1 Selfless Safewright\n1 Jagged-Scar Archers\n1 Heroic Intervention\n1 Growing Rites of Itlimoc\n1 Elvish Guidance\n1 Shamanic Revelation\n1 Casualties of War\n1 Skemfar Elderhall\n1 Elvish Visionary\n1 Tyvar, Jubilant Brawler\n1 Rogue's Passage\n1 Secluded Courtyard\n1 Farhaven Elf\n1 Return Upon the Tide\n1 Golgari Findbroker\n1 Dwynen's Elite\n1 Sylvan Messenger\n1 Quirion Ranger\n1 Eyeblight Massacre\n1 Command Tower\n1 Exotic Orchard\n1 Grim Backwoods\n1 Llanowar Wastes\n1 Noxious Bayou\n1 Svogthos, the Restless Tomb\n1 Tainted Wood\n1 Twilight Mire\n1 Viridescent Bog\n1 Darkmoss Bridge\n1 Festering Gulch\n1 Festering Thicket\n1 Foggy Bottom Swamp\n1 Foul Orchard\n1 Gohn, Town of Ruin\n1 Golgari Guildgate\n1 Golgari Rot Farm\n1 Haunted Mire\n1 Hissing Quagmire\n1 Illegitimate Business\n1 Jungle Hollow\n1 Lounge\n1 Necroblossom Snarl\n1 Pine Barrens\n1 Restless Cottage\n1 Revitalizing Repast // Old-Growth Grove\n1 Strangled Cemetery\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Forest\n1 Swamp\n1 Forest\n1 Swamp\n1 Forest",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": true,
+    "counts": {
+      "lands": 41,
+      "ramp": 16,
+      "card_draw": 9,
+      "targeted_removal": 9,
+      "mass_removal": 6,
+      "synergy": 15,
+      "uncategorized": 1
+    },
+    "gaps": {}
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "card_draw",
+      "added": "Ash Barrens",
+      "removed": "Imperious Perfect"
+    },
+    {
+      "category": "card_draw",
+      "added": "Groaaaaag, Hungry Monster",
+      "removed": "Dwynen, Gilt-Leaf Daen"
+    },
+    {
+      "category": "card_draw",
+      "added": "Skittering Surveyor",
+      "removed": "Shaman of the Pack"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Ghost Quarter",
+      "removed": "Lys Alana Huntmaster"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Devourer of Destiny",
+      "removed": "Skemfar Shadowsage"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Natural Reclamation",
+      "removed": "Timberwatch Elf"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Clear Shot",
+      "removed": "Immaculate Magistrate"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Tranquility",
+      "removed": "Abomination of Llanowar"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Needle Storm",
+      "removed": "Poison-Tip Archer"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Nuclear Fallout",
+      "removed": "Pact of the Serpent"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Scavenger Regent // Exude Toxin",
+      "removed": "Crown of Skemfar"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Famine",
+      "removed": "Galadhrim Brigade"
+    }
+  ]
+}

@@ -1,0 +1,618 @@
+{
+  "commander": "Zur the Enchanter",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 99,
+  "total_cost_display": "$43.11",
+  "deck": {
+    "commander": "Zur the Enchanter",
+    "creatures": [
+      {
+        "name": "Scholar of New Horizons",
+        "price": "$0.34",
+        "url": "https://manapool.com/card/fic/252/scholar-of-new-horizons"
+      },
+      {
+        "name": "Burdened Aerialist",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh2/38/burdened-aerialist"
+      },
+      {
+        "name": "Dauntless Scrapbot",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/eoe/237/dauntless-scrapbot"
+      },
+      {
+        "name": "Great Desert Prospector",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/bro/7/great-desert-prospector"
+      },
+      {
+        "name": "Plague Mare",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/m19/114/plague-mare"
+      },
+      {
+        "name": "Planar Guide",
+        "price": "$0.87",
+        "url": "https://manapool.com/card/lgn/18/planar-guide"
+      },
+      {
+        "name": "Sun Titan",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afc/73/sun-titan"
+      },
+      {
+        "name": "Mesa Enchantress",
+        "price": "$0.38",
+        "url": "https://manapool.com/card/plc/26/mesa-enchantress"
+      },
+      {
+        "name": "Archon of Sun's Grace",
+        "price": "$0.53",
+        "url": "https://manapool.com/card/thb/3/archon-of-suns-grace"
+      },
+      {
+        "name": "Hanna, Ship's Navigator",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/nec/139/hanna-ships-navigator"
+      },
+      {
+        "name": "Aegis of the Gods",
+        "price": "$0.57",
+        "url": "https://manapool.com/card/jou/1/aegis-of-the-gods"
+      },
+      {
+        "name": "Entity Tracker",
+        "price": "$0.41",
+        "url": "https://manapool.com/card/dsk/53/entity-tracker"
+      },
+      {
+        "name": "Grim Guardian",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/jou/73/grim-guardian"
+      },
+      {
+        "name": "Spirit of the Labyrinth",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/bng/27/spirit-of-the-labyrinth"
+      },
+      {
+        "name": "Callaphe, Beloved of the Sea",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/thb/260/callaphe-beloved-of-the-sea"
+      },
+      {
+        "name": "Inquisitive Glimmer",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsk/217/inquisitive-glimmer"
+      },
+      {
+        "name": "Zur, Eternal Schemer",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/admu/81/zur-eternal-schemer"
+      },
+      {
+        "name": "Aven Mindcensor",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/akh/5/aven-mindcensor"
+      },
+      {
+        "name": "Lavinia, Azorius Renegade",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/rvr/370/lavinia-azorius-renegade"
+      },
+      {
+        "name": "Alseid of Life's Bounty",
+        "price": "$0.29",
+        "url": "https://manapool.com/card/plst/THB-1/alseid-of-lifes-bounty"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Negate",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cn2/117/negate"
+      },
+      {
+        "name": "Dovin's Veto",
+        "price": "$2.02",
+        "url": "https://manapool.com/card/fca/51/dovins-veto"
+      },
+      {
+        "name": "Dispel",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/bfz/76/dispel"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Jolted Awake",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/33/jolted-awake"
+      },
+      {
+        "name": "Expel the Interlopers",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdc/115/expel-the-interlopers"
+      },
+      {
+        "name": "Winds of Rath",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/cmr/392/winds-of-rath"
+      },
+      {
+        "name": "Bite of the Black Rose",
+        "price": "$0.39",
+        "url": "https://manapool.com/card/cns/26/bite-of-the-black-rose"
+      },
+      {
+        "name": "Poison the Waters",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/111/poison-the-waters"
+      },
+      {
+        "name": "Resurgent Belief",
+        "price": "$0.67",
+        "url": "https://manapool.com/card/mh2/443/resurgent-belief"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Raiders' Karve",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/j22/793/raiders-karve"
+      },
+      {
+        "name": "Rotating Fireplace",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/who/183/rotating-fireplace"
+      },
+      {
+        "name": "Azorius Signet",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdc/312/azorius-signet"
+      },
+      {
+        "name": "Swiftfoot Boots",
+        "price": "$1.87",
+        "url": "https://manapool.com/card/fdn/258/swiftfoot-boots"
+      },
+      {
+        "name": "Dimir Signet",
+        "price": "$0.67",
+        "url": "https://manapool.com/card/lcc/302/dimir-signet"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "Grasp of Fate",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/wot/3/grasp-of-fate"
+      },
+      {
+        "name": "Imprisoned in the Moon",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fdn/156/imprisoned-in-the-moon"
+      },
+      {
+        "name": "Darksteel Mutation",
+        "price": "$2.49",
+        "url": "https://manapool.com/card/cmm/623/darksteel-mutation"
+      },
+      {
+        "name": "Security Bypass",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/snc/59/security-bypass"
+      },
+      {
+        "name": "Central Elevator // Promising Stairs",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsk/44/central-elevator-promising-stairs"
+      },
+      {
+        "name": "Curator's Ward",
+        "price": "$0.36",
+        "url": "https://manapool.com/card/dom/49/curators-ward"
+      },
+      {
+        "name": "Karmic Justice",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/awoe/62/karmic-justice"
+      },
+      {
+        "name": "Phyresis",
+        "price": "$1.08",
+        "url": "https://manapool.com/card/mbs/49/phyresis"
+      },
+      {
+        "name": "Staggering Insight",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/thb/228/staggering-insight"
+      },
+      {
+        "name": "Timely Ward",
+        "price": "$0.84",
+        "url": "https://manapool.com/card/dsc/107/timely-ward"
+      },
+      {
+        "name": "Combat Research",
+        "price": "$0.51",
+        "url": "https://manapool.com/card/dmu/44/combat-research"
+      },
+      {
+        "name": "Solitary Confinement",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/mh2/265/solitary-confinement"
+      },
+      {
+        "name": "Vanishing",
+        "price": "$0.46",
+        "url": "https://manapool.com/card/vis/48/vanishing"
+      },
+      {
+        "name": "Phyrexian Arena",
+        "price": "$3.06",
+        "url": "https://manapool.com/card/aone/22/phyrexian-arena"
+      },
+      {
+        "name": "Kaya's Ghostform",
+        "price": "$1.25",
+        "url": "https://manapool.com/card/war/94/kayas-ghostform"
+      },
+      {
+        "name": "Banishing Light",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blb/1/banishing-light"
+      },
+      {
+        "name": "Oblivion Ring",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/20/oblivion-ring"
+      },
+      {
+        "name": "Arcane Laboratory",
+        "price": "$0.38",
+        "url": "https://manapool.com/card/plst/7ED-60/arcane-laboratory"
+      },
+      {
+        "name": "Energy Field",
+        "price": "$0.48",
+        "url": "https://manapool.com/card/plst/USG-73/energy-field"
+      },
+      {
+        "name": "Sphere of Safety",
+        "price": "$1.97",
+        "url": "https://manapool.com/card/c16/77/sphere-of-safety"
+      },
+      {
+        "name": "Hyena Umbra",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/roe/26/hyena-umbra"
+      },
+      {
+        "name": "Seal from Existence",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mom/35/seal-from-existence"
+      },
+      {
+        "name": "Detention Sphere",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/otp/43/detention-sphere"
+      },
+      {
+        "name": "Spirit Mantle",
+        "price": "$1.95",
+        "url": "https://manapool.com/card/plst/M12-35/spirit-mantle"
+      }
+    ],
+    "planeswalkers": [],
+    "lands": [
+      {
+        "name": "Myriad Landscape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lcc/343/myriad-landscape"
+      },
+      {
+        "name": "Command Tower",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/325/command-tower"
+      },
+      {
+        "name": "Exotic Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/131/exotic-orchard"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Adarkar Wastes",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/blc/291/adarkar-wastes"
+      },
+      {
+        "name": "Calciform Pools",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/tsp/270/calciform-pools"
+      },
+      {
+        "name": "Caves of Koilos",
+        "price": "$0.80",
+        "url": "https://manapool.com/card/m15/241/caves-of-koilos"
+      },
+      {
+        "name": "Cloudcrest Lake",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/chk/274/cloudcrest-lake"
+      },
+      {
+        "name": "Contaminated Landscape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/218/contaminated-landscape"
+      },
+      {
+        "name": "Darkwater Catacombs",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/c19/238/darkwater-catacombs"
+      },
+      {
+        "name": "Desolate Mire",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/386/desolate-mire"
+      },
+      {
+        "name": "Dreadship Reef",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/tsp/271/dreadship-reef"
+      },
+      {
+        "name": "Dromar's Cavern",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmr/246/dromars-cavern"
+      },
+      {
+        "name": "Duskmantle, House of Shadow",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/plst/RAV-277/duskmantle-house-of-shadow"
+      },
+      {
+        "name": "Fetid Heath",
+        "price": "$0.39",
+        "url": "https://manapool.com/card/fic/391/fetid-heath"
+      },
+      {
+        "name": "Land Cap",
+        "price": "$0.39",
+        "url": "https://manapool.com/card/ice/357/land-cap"
+      },
+      {
+        "name": "Moorland Haunt",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/isd/244/moorland-haunt"
+      },
+      {
+        "name": "Nephalia Drownyard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lcc/344/nephalia-drownyard"
+      },
+      {
+        "name": "Orzhova, the Church of Deals",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/gpt/162/orzhova-the-church-of-deals"
+      },
+      {
+        "name": "Prahv, Spires of Order",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/dis/177/prahv-spires-of-order"
+      },
+      {
+        "name": "Processing Plant",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mb2/617/processing-plant"
+      },
+      {
+        "name": "Profane Procession // Tomb of the Dusk Rose",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/rix/166/profane-procession-tomb-of-the-dusk-rose"
+      },
+      {
+        "name": "River Delta",
+        "price": "$0.38",
+        "url": "https://manapool.com/card/ice/359/river-delta"
+      },
+      {
+        "name": "River of Tears",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/clb/912/river-of-tears"
+      },
+      {
+        "name": "Rootwater Depths",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmp/323/rootwater-depths"
+      },
+      {
+        "name": "Seaside Haven",
+        "price": "$0.46",
+        "url": "https://manapool.com/card/ons/323/seaside-haven"
+      },
+      {
+        "name": "Silent Clearing",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/amh1/51/silent-clearing"
+      },
+      {
+        "name": "Skycloud Expanse",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/294/skycloud-expanse"
+      },
+      {
+        "name": "Abandoned Campground",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsk/255/abandoned-campground"
+      },
+      {
+        "name": "Ancient Spring",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/inv/319/ancient-spring"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      }
+    ],
+    "other": [
+      {
+        "name": "Panopticon",
+        "price": "$0.30",
+        "url": "https://manapool.com/card/moc/153/panopticon"
+      },
+      {
+        "name": "Counterspell",
+        "price": "$1.61",
+        "url": "https://manapool.com/card/wc97/pm77/counterspell"
+      },
+      {
+        "name": "Dark Ritual",
+        "price": "$2.44",
+        "url": "https://manapool.com/card/3ed/99/dark-ritual"
+      }
+    ]
+  },
+  "export_text": "1 Zur the Enchanter *CMDR*\n1 Grasp of Fate\n1 Scholar of New Horizons\n1 Burdened Aerialist\n1 Dauntless Scrapbot\n1 Myriad Landscape\n1 Great Desert Prospector\n1 Imprisoned in the Moon\n1 Darksteel Mutation\n1 Raiders' Karve\n1 Rotating Fireplace\n1 Security Bypass\n1 Central Elevator // Promising Stairs\n1 Panopticon\n1 Curator's Ward\n1 Jolted Awake\n1 Plague Mare\n1 Planar Guide\n1 Sun Titan\n1 Expel the Interlopers\n1 Winds of Rath\n1 Bite of the Black Rose\n1 Mesa Enchantress\n1 Poison the Waters\n1 Negate\n1 Karmic Justice\n1 Phyresis\n1 Staggering Insight\n1 Archon of Sun's Grace\n1 Hanna, Ship's Navigator\n1 Aegis of the Gods\n1 Timely Ward\n1 Combat Research\n1 Solitary Confinement\n1 Vanishing\n1 Entity Tracker\n1 Grim Guardian\n1 Resurgent Belief\n1 Phyrexian Arena\n1 Kaya's Ghostform\n1 Banishing Light\n1 Azorius Signet\n1 Counterspell\n1 Dovin's Veto\n1 Spirit of the Labyrinth\n1 Oblivion Ring\n1 Arcane Laboratory\n1 Energy Field\n1 Swiftfoot Boots\n1 Callaphe, Beloved of the Sea\n1 Dispel\n1 Sphere of Safety\n1 Inquisitive Glimmer\n1 Zur, Eternal Schemer\n1 Aven Mindcensor\n1 Hyena Umbra\n1 Seal from Existence\n1 Dimir Signet\n1 Lavinia, Azorius Renegade\n1 Alseid of Life's Bounty\n1 Dark Ritual\n1 Detention Sphere\n1 Spirit Mantle\n1 Command Tower\n1 Exotic Orchard\n1 Path of Ancestry\n1 Adarkar Wastes\n1 Calciform Pools\n1 Caves of Koilos\n1 Cloudcrest Lake\n1 Contaminated Landscape\n1 Darkwater Catacombs\n1 Desolate Mire\n1 Dreadship Reef\n1 Dromar's Cavern\n1 Duskmantle, House of Shadow\n1 Fetid Heath\n1 Land Cap\n1 Moorland Haunt\n1 Nephalia Drownyard\n1 Orzhova, the Church of Deals\n1 Prahv, Spires of Order\n1 Processing Plant\n1 Profane Procession // Tomb of the Dusk Rose\n1 River Delta\n1 River of Tears\n1 Rootwater Depths\n1 Seaside Haven\n1 Silent Clearing\n1 Skycloud Expanse\n1 Abandoned Campground\n1 Ancient Spring\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Swamp\n1 Plains\n1 Island\n1 Swamp\n1 Plains",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": true,
+    "counts": {
+      "lands": 38,
+      "ramp": 9,
+      "card_draw": 10,
+      "targeted_removal": 9,
+      "mass_removal": 6,
+      "synergy": 25,
+      "uncategorized": 2
+    },
+    "gaps": {}
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "ramp",
+      "added": "Scholar of New Horizons",
+      "removed": "All That Glitters"
+    },
+    {
+      "category": "ramp",
+      "added": "Burdened Aerialist",
+      "removed": "Ethereal Armor"
+    },
+    {
+      "category": "ramp",
+      "added": "Dauntless Scrapbot",
+      "removed": "Diplomatic Immunity"
+    },
+    {
+      "category": "ramp",
+      "added": "Myriad Landscape",
+      "removed": "Mirrormade"
+    },
+    {
+      "category": "ramp",
+      "added": "Great Desert Prospector",
+      "removed": "Steel of the Godhead"
+    },
+    {
+      "category": "ramp",
+      "added": "Raiders' Karve",
+      "removed": "Rest in Peace"
+    },
+    {
+      "category": "ramp",
+      "added": "Rotating Fireplace",
+      "removed": "Copy Enchantment"
+    },
+    {
+      "category": "card_draw",
+      "added": "Security Bypass",
+      "removed": "Phyrexian Unlife"
+    },
+    {
+      "category": "card_draw",
+      "added": "Central Elevator // Promising Stairs",
+      "removed": "Propaganda"
+    },
+    {
+      "category": "card_draw",
+      "added": "Panopticon",
+      "removed": "Rule of Law"
+    },
+    {
+      "category": "card_draw",
+      "added": "Jolted Awake",
+      "removed": "Estrid's Invocation"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Plague Mare",
+      "removed": "Blind Obedience"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Planar Guide",
+      "removed": "Aqueous Form"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Expel the Interlopers",
+      "removed": "Auramancer"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Bite of the Black Rose",
+      "removed": "Eidolon of Rhetoric"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Poison the Waters",
+      "removed": "Battle Mastery"
+    }
+  ]
+}

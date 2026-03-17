@@ -1,0 +1,554 @@
+{
+  "commander": "Niv-Mizzet, Parun",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 95,
+  "total_cost_display": "$415.16",
+  "deck": {
+    "commander": "Niv-Mizzet, Parun",
+    "creatures": [
+      {
+        "name": "Niv-Mizzet, the Firemind",
+        "price": "$0.93",
+        "url": "https://manapool.com/card/c20/225/niv-mizzet-the-firemind"
+      },
+      {
+        "name": "Tandem Lookout",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/avr/80/tandem-lookout"
+      },
+      {
+        "name": "Baral, Chief of Compliance",
+        "price": "$2.29",
+        "url": "https://manapool.com/card/mul/8/baral-chief-of-compliance"
+      },
+      {
+        "name": "Psychosis Crawler",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/mbs/126/psychosis-crawler"
+      },
+      {
+        "name": "Laboratory Maniac",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fca/30/laboratory-maniac"
+      },
+      {
+        "name": "Bloodfire Colossus",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/10e/191/bloodfire-colossus"
+      },
+      {
+        "name": "Archmage Emeritus",
+        "price": "$2.00",
+        "url": "https://manapool.com/card/tdc/145/archmage-emeritus"
+      },
+      {
+        "name": "Young Pyromancer",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/j25/618/young-pyromancer"
+      },
+      {
+        "name": "Storm-Kiln Artist",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/astx/13/storm-kiln-artist"
+      },
+      {
+        "name": "Crackling Drake",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c19/190/crackling-drake"
+      },
+      {
+        "name": "Body of Knowledge",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/163/body-of-knowledge"
+      },
+      {
+        "name": "Vivi Ornitier",
+        "price": "$1.03",
+        "url": "https://manapool.com/card/afin/17/vivi-ornitier"
+      },
+      {
+        "name": "Murmuring Mystic",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/cmm/107/murmuring-mystic"
+      },
+      {
+        "name": "Niv-Mizzet, Dracogenius",
+        "price": "$0.81",
+        "url": "https://manapool.com/card/c17/184/niv-mizzet-dracogenius"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Brainstorm",
+        "price": "$0.61",
+        "url": "https://manapool.com/card/wc00/jf61/brainstorm"
+      },
+      {
+        "name": "Opt",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdc/158/opt"
+      },
+      {
+        "name": "Izzet Charm",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/2x2/230/izzet-charm"
+      },
+      {
+        "name": "Frantic Search",
+        "price": "$0.51",
+        "url": "https://manapool.com/card/cmm/96/frantic-search"
+      },
+      {
+        "name": "Consider",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/tle/157/consider"
+      },
+      {
+        "name": "Thrill of Possibility",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/aone/36/thrill-of-possibility"
+      },
+      {
+        "name": "Abrade",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/2xm/114/abrade"
+      },
+      {
+        "name": "Arcane Denial",
+        "price": "$2.05",
+        "url": "https://manapool.com/card/m3c/176/arcane-denial"
+      },
+      {
+        "name": "Rapid Hybridization",
+        "price": "$0.51",
+        "url": "https://manapool.com/card/lcc/166/rapid-hybridization"
+      },
+      {
+        "name": "Quick Study",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/woe/65/quick-study"
+      },
+      {
+        "name": "Ionize",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/grn/179/ionize"
+      },
+      {
+        "name": "Pongify",
+        "price": "$1.45",
+        "url": "https://manapool.com/card/tdc/160/pongify"
+      },
+      {
+        "name": "Spell Pierce",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/dft/64/spell-pierce"
+      },
+      {
+        "name": "Expansion // Explosion",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/plst/GRN-224/expansion-explosion"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Demolish",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/196/demolish"
+      },
+      {
+        "name": "Demonfire",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/rvr/107/demonfire"
+      },
+      {
+        "name": "Preordain",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/m11/70/preordain"
+      },
+      {
+        "name": "Ponder",
+        "price": "$1.54",
+        "url": "https://manapool.com/card/dsc/73/ponder"
+      },
+      {
+        "name": "Faithless Looting",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/inr/151/faithless-looting"
+      },
+      {
+        "name": "Serum Visions",
+        "price": "$0.39",
+        "url": "https://manapool.com/card/wc04/ap36sb/serum-visions"
+      },
+      {
+        "name": "Treasure Cruise",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ktk/59/treasure-cruise"
+      },
+      {
+        "name": "Clear the Mind",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/rna/34/clear-the-mind"
+      },
+      {
+        "name": "Blasphemous Act",
+        "price": "$0.38",
+        "url": "https://manapool.com/card/tmc/47/blasphemous-act"
+      },
+      {
+        "name": "Vandalblast",
+        "price": "$2.06",
+        "url": "https://manapool.com/card/fic/298/vandalblast"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Commander's Sphere",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afc/203/commanders-sphere"
+      },
+      {
+        "name": "Arcum's Whistle",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ice/311/arcums-whistle"
+      },
+      {
+        "name": "Decanter of Endless Water",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/aclb/79/decanter-of-endless-water"
+      },
+      {
+        "name": "Chaos Orb",
+        "price": "$364.70",
+        "url": "https://manapool.com/card/30a/231/chaos-orb"
+      },
+      {
+        "name": "Izzet Signet",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/tdc/320/izzet-signet"
+      },
+      {
+        "name": "Izzet Locket",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c19/215/izzet-locket"
+      },
+      {
+        "name": "Midnight Clock",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/m3c/189/midnight-clock"
+      },
+      {
+        "name": "Chromatic Lantern",
+        "price": "$0.44",
+        "url": "https://manapool.com/card/tmc/58/chromatic-lantern"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "Curiosity",
+        "price": "$0.46",
+        "url": "https://manapool.com/card/isd/49/curiosity"
+      },
+      {
+        "name": "Ral and the Implicit Maze",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/132/ral-and-the-implicit-maze"
+      },
+      {
+        "name": "Teferi's Ageless Insight",
+        "price": "$3.07",
+        "url": "https://manapool.com/card/j25/371/teferis-ageless-insight"
+      },
+      {
+        "name": "Fiery Inscription",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltr/126/fiery-inscription"
+      },
+      {
+        "name": "Wizard Class",
+        "price": "$1.45",
+        "url": "https://manapool.com/card/afr/81/wizard-class"
+      }
+    ],
+    "planeswalkers": [
+      {
+        "name": "Ugin, the Spirit Dragon",
+        "price": "$9.04",
+        "url": "https://manapool.com/card/m21/1/ugin-the-spirit-dragon"
+      },
+      {
+        "name": "Narset, Parter of Veils",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/war/61/narset-parter-of-veils"
+      }
+    ],
+    "lands": [
+      {
+        "name": "Swiftwater Cliffs",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/296/swiftwater-cliffs"
+      },
+      {
+        "name": "Izzet Guildgate",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c13/297/izzet-guildgate"
+      },
+      {
+        "name": "Ojer Axonil, Deepest Might",
+        "price": "N/A",
+        "url": "https://manapool.com/card/alci/20/ojer-axonil-deepest-might"
+      },
+      {
+        "name": "Mystic Sanctuary",
+        "price": "$2.08",
+        "url": "https://manapool.com/card/eld/247/mystic-sanctuary"
+      },
+      {
+        "name": "Izzet Boilerworks",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/c19/252/izzet-boilerworks"
+      },
+      {
+        "name": "Temple of Epiphany",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/340/temple-of-epiphany"
+      },
+      {
+        "name": "Evolving Wilds",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/277/evolving-wilds"
+      },
+      {
+        "name": "Command Tower",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/325/command-tower"
+      },
+      {
+        "name": "Exotic Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/131/exotic-orchard"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Cascade Bluffs",
+        "price": "$0.51",
+        "url": "https://manapool.com/card/eoc/153/cascade-bluffs"
+      },
+      {
+        "name": "Desolate Lighthouse",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/avr/227/desolate-lighthouse"
+      },
+      {
+        "name": "Ferrous Lake",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/pip/148/ferrous-lake"
+      },
+      {
+        "name": "Nivix, Aerie of the Firemind",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ddj/36/nivix-aerie-of-the-firemind"
+      },
+      {
+        "name": "Shivan Reef",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/dmu/255/shivan-reef"
+      },
+      {
+        "name": "Value Town // Take a Trip to...",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/mb2/621/value-town-take-a-trip-to"
+      },
+      {
+        "name": "Airship Engine Room",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tla/265/airship-engine-room"
+      },
+      {
+        "name": "Baron, Airship Kingdom",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/273/baron-airship-kingdom"
+      },
+      {
+        "name": "Caldera Lake",
+        "price": "$0.59",
+        "url": "https://manapool.com/card/tmp/316/caldera-lake"
+      },
+      {
+        "name": "Eroded Canyon",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/otj/256/eroded-canyon"
+      },
+      {
+        "name": "Frostboil Snarl",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/drc/158/frostboil-snarl"
+      },
+      {
+        "name": "Highland Lake",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/akh/282/highland-lake"
+      },
+      {
+        "name": "Library",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/clu/18/library"
+      },
+      {
+        "name": "Molten Tributary",
+        "price": "$0.40",
+        "url": "https://manapool.com/card/dmu/251/molten-tributary"
+      },
+      {
+        "name": "Peculiar Lighthouse",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsk/265/peculiar-lighthouse"
+      },
+      {
+        "name": "Prismari Campus",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/stx/270/prismari-campus"
+      },
+      {
+        "name": "Restless Spire",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/woe/260/restless-spire"
+      },
+      {
+        "name": "Rush of Inspiration // Crackling Falls",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/257/rush-of-inspiration-crackling-falls"
+      },
+      {
+        "name": "Silverbluff Bridge",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh2/255/silverbluff-bridge"
+      },
+      {
+        "name": "Sulfur Falls",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/drc/173/sulfur-falls"
+      },
+      {
+        "name": "Surtland Frostpyre",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/khm/271/surtland-frostpyre"
+      },
+      {
+        "name": "TCRI Building",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmt/189/tcri-building"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      }
+    ],
+    "other": [
+      {
+        "name": "Counterspell",
+        "price": "$1.61",
+        "url": "https://manapool.com/card/wc97/pm77/counterspell"
+      },
+      {
+        "name": "Lightning Bolt",
+        "price": "$0.51",
+        "url": "https://manapool.com/card/fca/40/lightning-bolt"
+      }
+    ]
+  },
+  "export_text": "1 Niv-Mizzet, Parun *CMDR*\n1 Curiosity\n1 Niv-Mizzet, the Firemind\n1 Tandem Lookout\n1 Brainstorm\n1 Demolish\n1 Opt\n1 Izzet Charm\n1 Demonfire\n1 Baral, Chief of Compliance\n1 Preordain\n1 Psychosis Crawler\n1 Commander's Sphere\n1 Counterspell\n1 Ponder\n1 Arcum's Whistle\n1 Faithless Looting\n1 Ral and the Implicit Maze\n1 Lightning Bolt\n1 Laboratory Maniac\n1 Teferi's Ageless Insight\n1 Frantic Search\n1 Consider\n1 Thrill of Possibility\n1 Bloodfire Colossus\n1 Decanter of Endless Water\n1 Abrade\n1 Serum Visions\n1 Swiftwater Cliffs\n1 Izzet Guildgate\n1 Ugin, the Spirit Dragon\n1 Arcane Denial\n1 Treasure Cruise\n1 Narset, Parter of Veils\n1 Rapid Hybridization\n1 Archmage Emeritus\n1 Chaos Orb\n1 Quick Study\n1 Young Pyromancer\n1 Ojer Axonil, Deepest Might\n1 Ionize\n1 Izzet Signet\n1 Izzet Locket\n1 Storm-Kiln Artist\n1 Crackling Drake\n1 Pongify\n1 Spell Pierce\n1 Mystic Sanctuary\n1 Midnight Clock\n1 Body of Knowledge\n1 Clear the Mind\n1 Fiery Inscription\n1 Izzet Boilerworks\n1 Blasphemous Act\n1 Vivi Ornitier\n1 Murmuring Mystic\n1 Niv-Mizzet, Dracogenius\n1 Expansion // Explosion\n1 Vandalblast\n1 Wizard Class\n1 Chromatic Lantern\n1 Temple of Epiphany\n1 Evolving Wilds\n1 Command Tower\n1 Exotic Orchard\n1 Path of Ancestry\n1 Cascade Bluffs\n1 Desolate Lighthouse\n1 Ferrous Lake\n1 Nivix, Aerie of the Firemind\n1 Shivan Reef\n1 Value Town // Take a Trip to...\n1 Airship Engine Room\n1 Baron, Airship Kingdom\n1 Caldera Lake\n1 Eroded Canyon\n1 Frostboil Snarl\n1 Highland Lake\n1 Library\n1 Molten Tributary\n1 Peculiar Lighthouse\n1 Prismari Campus\n1 Restless Spire\n1 Rush of Inspiration // Crackling Falls\n1 Silverbluff Bridge\n1 Sulfur Falls\n1 Surtland Frostpyre\n1 TCRI Building\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Island\n1 Mountain\n1 Island\n1 Mountain\n1 Island",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": true,
+    "counts": {
+      "lands": 39,
+      "ramp": 8,
+      "card_draw": 24,
+      "targeted_removal": 10,
+      "mass_removal": 6,
+      "synergy": 5,
+      "uncategorized": 3
+    },
+    "gaps": {}
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "targeted_removal",
+      "added": "Demolish",
+      "removed": "Guttersnipe"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Demonfire",
+      "removed": "Goblin Electromancer"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Arcum's Whistle",
+      "removed": "Talrand, Sky Summoner"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Ral and the Implicit Maze",
+      "removed": "Negate"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Bloodfire Colossus",
+      "removed": "Dispel"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Ugin, the Spirit Dragon",
+      "removed": "Electrostatic Field"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Chaos Orb",
+      "removed": "Rewind"
+    }
+  ]
+}

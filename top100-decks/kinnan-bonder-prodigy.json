@@ -1,0 +1,582 @@
+{
+  "commander": "Kinnan, Bonder Prodigy",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 96,
+  "total_cost_display": "$57.74",
+  "deck": {
+    "commander": "Kinnan, Bonder Prodigy",
+    "creatures": [
+      {
+        "name": "Fyndhorn Elves",
+        "price": "$1.86",
+        "url": "https://manapool.com/card/cmr/228/fyndhorn-elves"
+      },
+      {
+        "name": "Elvish Mystic",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/cmm/648/elvish-mystic"
+      },
+      {
+        "name": "Llanowar Elves",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fdn/227/llanowar-elves"
+      },
+      {
+        "name": "Soulknife Spy",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/75/soulknife-spy"
+      },
+      {
+        "name": "Trophy Mage",
+        "price": "$0.36",
+        "url": "https://manapool.com/card/aer/48/trophy-mage"
+      },
+      {
+        "name": "Monstrosity of the Lake",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltc/22/monstrosity-of-the-lake"
+      },
+      {
+        "name": "Tidespout Tyrant",
+        "price": "$1.04",
+        "url": "https://manapool.com/card/rvr/63/tidespout-tyrant"
+      },
+      {
+        "name": "Wandering Archaic",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Elvish Spirit Guide",
+        "price": "$2.39",
+        "url": "https://manapool.com/card/dmr/157/elvish-spirit-guide"
+      },
+      {
+        "name": "Sawtusk Demolisher",
+        "price": "$3.09",
+        "url": "https://manapool.com/card/c20/64/sawtusk-demolisher"
+      },
+      {
+        "name": "Colossal Skyturtle",
+        "price": "$0.41",
+        "url": "https://manapool.com/card/neo/216/colossal-skyturtle"
+      },
+      {
+        "name": "Invasion of Ikoria",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Spider-Byte, Web Warden",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/spm/44/spider-byte-web-warden"
+      },
+      {
+        "name": "Drift of Phantasms",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/rvr/42/drift-of-phantasms"
+      },
+      {
+        "name": "Manglehorn",
+        "price": "$0.83",
+        "url": "https://manapool.com/card/akh/175/manglehorn"
+      },
+      {
+        "name": "The Unagi of Kyoshi Island",
+        "price": "$1.37",
+        "url": "https://manapool.com/card/tla/77/the-unagi-of-kyoshi-island"
+      },
+      {
+        "name": "Paradise Druid",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/j25/698/paradise-druid"
+      },
+      {
+        "name": "Armored Scrapgorger",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/one/158/armored-scrapgorger"
+      },
+      {
+        "name": "Thorn Mammoth",
+        "price": "$0.41",
+        "url": "https://manapool.com/card/eld/323/thorn-mammoth"
+      },
+      {
+        "name": "Devoted Druid",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/ecc/104/devoted-druid"
+      },
+      {
+        "name": "Prophet of Distortion",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ogw/46/prophet-of-distortion"
+      },
+      {
+        "name": "Phantasmal Image",
+        "price": "$2.60",
+        "url": "https://manapool.com/card/afc/89/phantasmal-image"
+      },
+      {
+        "name": "Mockingbird",
+        "price": "$2.38",
+        "url": "https://manapool.com/card/blb/61/mockingbird"
+      },
+      {
+        "name": "Volatile Stormdrake",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mh3/79/volatile-stormdrake"
+      },
+      {
+        "name": "Ilysian Caryatid",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmm/297/ilysian-caryatid"
+      },
+      {
+        "name": "Incubation Druid",
+        "price": "$1.03",
+        "url": "https://manapool.com/card/ncc/296/incubation-druid"
+      },
+      {
+        "name": "Ornithopter of Paradise",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/j25/153/ornithopter-of-paradise"
+      },
+      {
+        "name": "Maraleaf Pixie",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/eld/196/maraleaf-pixie"
+      },
+      {
+        "name": "Sylvan Caryatid",
+        "price": "$0.42",
+        "url": "https://manapool.com/card/tdc/272/sylvan-caryatid"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Sublime Epiphany",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/271/sublime-epiphany"
+      },
+      {
+        "name": "Into the Flood Maw",
+        "price": "$1.14",
+        "url": "https://manapool.com/card/blb/52/into-the-flood-maw"
+      },
+      {
+        "name": "Commandeer",
+        "price": "$1.41",
+        "url": "https://manapool.com/card/otp/9/commandeer"
+      },
+      {
+        "name": "Muddle the Mixture",
+        "price": "$2.08",
+        "url": "https://manapool.com/card/rav/60/muddle-the-mixture"
+      },
+      {
+        "name": "Scour for Scrap",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/eoe/73/scour-for-scrap"
+      },
+      {
+        "name": "Resculpt",
+        "price": "$0.32",
+        "url": "https://manapool.com/card/stx/51/resculpt"
+      },
+      {
+        "name": "March of Swirling Mist",
+        "price": "$2.73",
+        "url": "https://manapool.com/card/neo/372/march-of-swirling-mist"
+      },
+      {
+        "name": "Delay",
+        "price": "$1.83",
+        "url": "https://manapool.com/card/tsr/61/delay"
+      },
+      {
+        "name": "Miscast",
+        "price": "$1.47",
+        "url": "https://manapool.com/card/m21/57/miscast"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Turtles in Time",
+        "price": "$0.41",
+        "url": "https://manapool.com/card/tmt/55/turtles-in-time"
+      },
+      {
+        "name": "Fade from History",
+        "price": "$2.42",
+        "url": "https://manapool.com/card/bro/177/fade-from-history"
+      },
+      {
+        "name": "Monstrous Onslaught",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/aer/116/monstrous-onslaught"
+      },
+      {
+        "name": "Faerie Slumber Party",
+        "price": "$0.83",
+        "url": "https://manapool.com/card/woe/311/faerie-slumber-party"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Basalt Monolith",
+        "price": "$2.92",
+        "url": "https://manapool.com/card/ltc/274/basalt-monolith"
+      },
+      {
+        "name": "Fellwar Stone",
+        "price": "$1.02",
+        "url": "https://manapool.com/card/nec/150/fellwar-stone"
+      },
+      {
+        "name": "Springleaf Drum",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ecl/260/springleaf-drum"
+      },
+      {
+        "name": "Talisman of Curiosity",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/drc/140/talisman-of-curiosity"
+      },
+      {
+        "name": "Moonsilver Key",
+        "price": "$0.75",
+        "url": "https://manapool.com/card/mid/255/moonsilver-key"
+      },
+      {
+        "name": "Simic Signet",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dis/166/simic-signet"
+      },
+      {
+        "name": "Arcane Signet",
+        "price": "$0.37",
+        "url": "https://manapool.com/card/tmc/57/arcane-signet"
+      },
+      {
+        "name": "Perilous Vault",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/cmm/968/perilous-vault"
+      },
+      {
+        "name": "Boompile",
+        "price": "$0.68",
+        "url": "https://manapool.com/card/plst/C16-52/boompile"
+      },
+      {
+        "name": "Sol Ring",
+        "price": "$1.22",
+        "url": "https://manapool.com/card/tmc/59/sol-ring"
+      },
+      {
+        "name": "Agatha's Soul Cauldron",
+        "price": "$1.04",
+        "url": "https://manapool.com/card/awoe/42/agathas-soul-cauldron"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "Hunter's Talent",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blb/179/hunters-talent"
+      }
+    ],
+    "planeswalkers": [],
+    "lands": [
+      {
+        "name": "Treasure Vault",
+        "price": "$0.80",
+        "url": "https://manapool.com/card/drc/180/treasure-vault"
+      },
+      {
+        "name": "Waterlogged Grove",
+        "price": "$0.57",
+        "url": "https://manapool.com/card/who/331/waterlogged-grove"
+      },
+      {
+        "name": "Flooded Strand",
+        "price": "$2.08",
+        "url": "https://manapool.com/card/aznr/29/flooded-strand"
+      },
+      {
+        "name": "Sink into Stupor",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Cephalid Coliseum",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/300/cephalid-coliseum"
+      },
+      {
+        "name": "Yavimaya Coast",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/drc/184/yavimaya-coast"
+      },
+      {
+        "name": "Hydroelectric Specimen",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Exotic Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/131/exotic-orchard"
+      },
+      {
+        "name": "Command Tower",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/325/command-tower"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Alchemist's Refuge",
+        "price": "$0.65",
+        "url": "https://manapool.com/card/lcc/318/alchemists-refuge"
+      },
+      {
+        "name": "Flooded Grove",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltc/309/flooded-grove"
+      },
+      {
+        "name": "Novijen, Heart of Progress",
+        "price": "$0.30",
+        "url": "https://manapool.com/card/dis/175/novijen-heart-of-progress"
+      },
+      {
+        "name": "Overflowing Basin",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/321/overflowing-basin"
+      },
+      {
+        "name": "Slumbering Waterways",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mb2/618/slumbering-waterways"
+      },
+      {
+        "name": "Balamb Garden, SeeD Academy // Balamb Garden, Airborne",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/272/balamb-garden-seed-academy-balamb-garden-airborne"
+      },
+      {
+        "name": "Botanical Sanctum",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/otj/267/botanical-sanctum"
+      },
+      {
+        "name": "Dreamroot Cascade",
+        "price": "$0.96",
+        "url": "https://manapool.com/card/who/273/dreamroot-cascade"
+      },
+      {
+        "name": "Drowner of Truth // Drowned Jungle",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/253/drowner-of-truth-drowned-jungle"
+      },
+      {
+        "name": "Guadosalam, Farplane Gateway",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/281/guadosalam-farplane-gateway"
+      },
+      {
+        "name": "Hinterland Harbor",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmc/69/hinterland-harbor"
+      },
+      {
+        "name": "Kitchen",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/clu/17/kitchen"
+      },
+      {
+        "name": "Lakeside Shack",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsk/262/lakeside-shack"
+      },
+      {
+        "name": "Littjara Mirrorlake",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/khm/264/littjara-mirrorlake"
+      },
+      {
+        "name": "Lumbering Falls",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afc/247/lumbering-falls"
+      },
+      {
+        "name": "Lush Oasis",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/m3c/356/lush-oasis"
+      },
+      {
+        "name": "Meditation Pools",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tla/272/meditation-pools"
+      },
+      {
+        "name": "Mutant Town",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmt/187/mutant-town"
+      },
+      {
+        "name": "Quandrix Campus",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsc/294/quandrix-campus"
+      },
+      {
+        "name": "Rain-Slicked Copse",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmc/71/rain-slicked-copse"
+      },
+      {
+        "name": "Restless Vinestalk",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/woe/261/restless-vinestalk"
+      },
+      {
+        "name": "Rimewood Falls",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/khm/266/rimewood-falls"
+      },
+      {
+        "name": "Simic Growth Chamber",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/clu/247/simic-growth-chamber"
+      },
+      {
+        "name": "Simic Guildgate",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c13/323/simic-guildgate"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      }
+    ],
+    "other": []
+  },
+  "export_text": "1 Kinnan, Bonder Prodigy *CMDR*\n1 Basalt Monolith\n1 Fellwar Stone\n1 Fyndhorn Elves\n1 Elvish Mystic\n1 Springleaf Drum\n1 Llanowar Elves\n1 Soulknife Spy\n1 Talisman of Curiosity\n1 Trophy Mage\n1 Monstrosity of the Lake\n1 Hunter's Talent\n1 Treasure Vault\n1 Sublime Epiphany\n1 Moonsilver Key\n1 Tidespout Tyrant\n1 Wandering Archaic\n1 Elvish Spirit Guide\n1 Sawtusk Demolisher\n1 Simic Signet\n1 Waterlogged Grove\n1 Flooded Strand\n1 Colossal Skyturtle\n1 Invasion of Ikoria\n1 Spider-Byte, Web Warden\n1 Turtles in Time\n1 Arcane Signet\n1 Sink into Stupor\n1 Fade from History\n1 Perilous Vault\n1 Drift of Phantasms\n1 Monstrous Onslaught\n1 Cephalid Coliseum\n1 Manglehorn\n1 Yavimaya Coast\n1 The Unagi of Kyoshi Island\n1 Hydroelectric Specimen\n1 Paradise Druid\n1 Into the Flood Maw\n1 Faerie Slumber Party\n1 Armored Scrapgorger\n1 Thorn Mammoth\n1 Boompile\n1 Devoted Druid\n1 Prophet of Distortion\n1 Sol Ring\n1 Phantasmal Image\n1 Mockingbird\n1 Volatile Stormdrake\n1 Ilysian Caryatid\n1 Commandeer\n1 Muddle the Mixture\n1 Agatha's Soul Cauldron\n1 Incubation Druid\n1 Ornithopter of Paradise\n1 Scour for Scrap\n1 Exotic Orchard\n1 Maraleaf Pixie\n1 Sylvan Caryatid\n1 Resculpt\n1 March of Swirling Mist\n1 Delay\n1 Miscast\n1 Command Tower\n1 Path of Ancestry\n1 Alchemist's Refuge\n1 Flooded Grove\n1 Novijen, Heart of Progress\n1 Overflowing Basin\n1 Slumbering Waterways\n1 Balamb Garden, SeeD Academy // Balamb Garden, Airborne\n1 Botanical Sanctum\n1 Dreamroot Cascade\n1 Drowner of Truth // Drowned Jungle\n1 Guadosalam, Farplane Gateway\n1 Hinterland Harbor\n1 Kitchen\n1 Lakeside Shack\n1 Littjara Mirrorlake\n1 Lumbering Falls\n1 Lush Oasis\n1 Meditation Pools\n1 Mutant Town\n1 Quandrix Campus\n1 Rain-Slicked Copse\n1 Restless Vinestalk\n1 Rimewood Falls\n1 Simic Growth Chamber\n1 Simic Guildgate\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Forest\n1 Island\n1 Forest\n1 Island\n1 Forest",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": true,
+    "counts": {
+      "lands": 40,
+      "ramp": 19,
+      "card_draw": 9,
+      "targeted_removal": 11,
+      "mass_removal": 6,
+      "synergy": 7,
+      "uncategorized": 4
+    },
+    "gaps": {}
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "card_draw",
+      "added": "Soulknife Spy",
+      "removed": "Finale of Devastation"
+    },
+    {
+      "category": "card_draw",
+      "added": "Monstrosity of the Lake",
+      "removed": "Phyrexian Metamorph"
+    },
+    {
+      "category": "card_draw",
+      "added": "Hunter's Talent",
+      "removed": "Mirage Mirror"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Sublime Epiphany",
+      "removed": "Flusterstorm"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Sawtusk Demolisher",
+      "removed": "Endurance"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Spider-Byte, Web Warden",
+      "removed": "An Offer You Can't Refuse"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Turtles in Time",
+      "removed": "Valley Floodcaller"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Fade from History",
+      "removed": "Dramatic Reversal"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Perilous Vault",
+      "removed": "Clever Impersonator"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Monstrous Onslaught",
+      "removed": "Dispel"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Faerie Slumber Party",
+      "removed": "Mirrormade"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Boompile",
+      "removed": "Perplexing Chimera"
+    }
+  ]
+}

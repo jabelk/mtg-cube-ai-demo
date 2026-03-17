@@ -1,0 +1,579 @@
+{
+  "commander": "K'rrik, Son of Yawgmoth",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 99,
+  "total_cost_display": "$57.69",
+  "deck": {
+    "commander": "K'rrik, Son of Yawgmoth",
+    "creatures": [
+      {
+        "name": "Basal Thrull",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fem/34c/basal-thrull"
+      },
+      {
+        "name": "Asmodeus the Archfiend",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/88/asmodeus-the-archfiend"
+      },
+      {
+        "name": "Skirge Familiar",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/mh2/276/skirge-familiar"
+      },
+      {
+        "name": "Blood Pet",
+        "price": "$0.50",
+        "url": "https://manapool.com/card/7ed/121/blood-pet"
+      },
+      {
+        "name": "Dimir House Guard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/plst/RAV-83/dimir-house-guard"
+      },
+      {
+        "name": "Ruthless Knave",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/j25/483/ruthless-knave"
+      },
+      {
+        "name": "Pontiff of Blight",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/clb/768/pontiff-of-blight"
+      },
+      {
+        "name": "Reiver Demon",
+        "price": "$0.76",
+        "url": "https://manapool.com/card/cmd/95/reiver-demon"
+      },
+      {
+        "name": "Thrull Parasite",
+        "price": "$0.29",
+        "url": "https://manapool.com/card/plst/GTC-81/thrull-parasite"
+      },
+      {
+        "name": "Basilica Screecher",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/gtc/58/basilica-screecher"
+      },
+      {
+        "name": "Vampire Nighthawk",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c20/140/vampire-nighthawk"
+      },
+      {
+        "name": "Grim Servant",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/409/grim-servant"
+      },
+      {
+        "name": "Magus of the Mirror",
+        "price": "$0.40",
+        "url": "https://manapool.com/card/cns/117/magus-of-the-mirror"
+      },
+      {
+        "name": "Dread Presence",
+        "price": "$2.19",
+        "url": "https://manapool.com/card/m20/96/dread-presence"
+      },
+      {
+        "name": "Sangromancer",
+        "price": "$0.78",
+        "url": "https://manapool.com/card/c16/116/sangromancer"
+      },
+      {
+        "name": "Nighthawk Scavenger",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/znr/115/nighthawk-scavenger"
+      },
+      {
+        "name": "Pestilence Demon",
+        "price": "$0.29",
+        "url": "https://manapool.com/card/c14/153/pestilence-demon"
+      },
+      {
+        "name": "Twilight Prophet",
+        "price": "$0.55",
+        "url": "https://manapool.com/card/lcc/211/twilight-prophet"
+      },
+      {
+        "name": "Valgavoth, Terror Eater",
+        "price": "$0.41",
+        "url": "https://manapool.com/card/adsk/10/valgavoth-terror-eater"
+      },
+      {
+        "name": "Doomsday Excruciator",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/adsk/38/doomsday-excruciator"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Sacrifice",
+        "price": "$2.12",
+        "url": "https://manapool.com/card/3ed/126/sacrifice"
+      },
+      {
+        "name": "Consume the Meek",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ddp/49/consume-the-meek"
+      },
+      {
+        "name": "Cut Down",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmu/89/cut-down"
+      },
+      {
+        "name": "Grasp of Darkness",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/m21/102/grasp-of-darkness"
+      },
+      {
+        "name": "Consuming Corruption",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/84/consuming-corruption"
+      },
+      {
+        "name": "Tendrils of Corruption",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c14/166/tendrils-of-corruption"
+      },
+      {
+        "name": "Victim of Night",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/isd/124/victim-of-night"
+      },
+      {
+        "name": "Bitter Triumph",
+        "price": "$1.44",
+        "url": "https://manapool.com/card/tdc/173/bitter-triumph"
+      },
+      {
+        "name": "Not Dead After All",
+        "price": "$1.74",
+        "url": "https://manapool.com/card/woe/101/not-dead-after-all"
+      },
+      {
+        "name": "Undying Malice",
+        "price": "$0.40",
+        "url": "https://manapool.com/card/fdn/528/undying-malice"
+      },
+      {
+        "name": "Bile Blight",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/195/bile-blight"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Peer into the Abyss",
+        "price": "$1.96",
+        "url": "https://manapool.com/card/m21/117/peer-into-the-abyss"
+      },
+      {
+        "name": "Diabolic Tutor",
+        "price": "$0.82",
+        "url": "https://manapool.com/card/m14/95/diabolic-tutor"
+      },
+      {
+        "name": "Final Parting",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/cmm/160/final-parting"
+      },
+      {
+        "name": "Seeker's Folly",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fdn/69/seekers-folly"
+      },
+      {
+        "name": "In Garruk's Wake",
+        "price": "$1.03",
+        "url": "https://manapool.com/card/c19/121/in-garruks-wake"
+      },
+      {
+        "name": "Exsanguinate",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fdn/173/exsanguinate"
+      },
+      {
+        "name": "Unmarked Grave",
+        "price": "$2.38",
+        "url": "https://manapool.com/card/mh2/106/unmarked-grave"
+      },
+      {
+        "name": "Sign in Blood",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/m15/114/sign-in-blood"
+      },
+      {
+        "name": "Mastermind's Acquisition",
+        "price": "$0.81",
+        "url": "https://manapool.com/card/rix/77/masterminds-acquisition"
+      },
+      {
+        "name": "Tendrils of Agony",
+        "price": "$0.35",
+        "url": "https://manapool.com/card/mb2/50/tendrils-of-agony"
+      },
+      {
+        "name": "Exhume",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/adsk/52/exhume"
+      },
+      {
+        "name": "Profane Transfusion",
+        "price": "$1.04",
+        "url": "https://manapool.com/card/cmr/145/profane-transfusion"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Fountain of Ichor",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh1/223/fountain-of-ichor"
+      },
+      {
+        "name": "Ebony Fly",
+        "price": "$2.33",
+        "url": "https://manapool.com/card/afc/60/ebony-fly"
+      },
+      {
+        "name": "Vexing Puzzlebox",
+        "price": "$8.26",
+        "url": "https://manapool.com/card/clb/343/vexing-puzzlebox"
+      },
+      {
+        "name": "Wishclaw Talisman",
+        "price": "$1.60",
+        "url": "https://manapool.com/card/fdn/617/wishclaw-talisman"
+      },
+      {
+        "name": "Demon's Horn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/m11/204/demons-horn"
+      },
+      {
+        "name": "Staff of the Death Magus",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/m14/219/staff-of-the-death-magus"
+      },
+      {
+        "name": "Prism Ring",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/ori/235/prism-ring"
+      },
+      {
+        "name": "Everflowing Chalice",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/fic/343/everflowing-chalice"
+      },
+      {
+        "name": "Fellwar Stone",
+        "price": "$1.02",
+        "url": "https://manapool.com/card/nec/150/fellwar-stone"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "Font of Agonies",
+        "price": "$0.46",
+        "url": "https://manapool.com/card/rna/74/font-of-agonies"
+      },
+      {
+        "name": "Sanguine Bond",
+        "price": "$2.88",
+        "url": "https://manapool.com/card/m14/112/sanguine-bond"
+      },
+      {
+        "name": "Greed",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/mh2/274/greed"
+      },
+      {
+        "name": "Pestilence",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/3ed/122/pestilence"
+      },
+      {
+        "name": "Leshrac's Sigil",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/ice/144/leshracs-sigil"
+      }
+    ],
+    "planeswalkers": [
+      {
+        "name": "Professor Onyx",
+        "price": "$2.68",
+        "url": "https://manapool.com/card/dsc/153/professor-onyx"
+      }
+    ],
+    "lands": [
+      {
+        "name": "Crystal Vein",
+        "price": "$1.39",
+        "url": "https://manapool.com/card/wc00/jf322/crystal-vein"
+      },
+      {
+        "name": "Radiant Fountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/m21/248/radiant-fountain"
+      },
+      {
+        "name": "Phyrexian Tower",
+        "price": "$0.82",
+        "url": "https://manapool.com/card/amh3/23/phyrexian-tower"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Aether Hub",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/drc/145/aether-hub"
+      },
+      {
+        "name": "Ally Encampment",
+        "price": "$0.68",
+        "url": "https://manapool.com/card/bfz/228/ally-encampment"
+      },
+      {
+        "name": "Amonkhet Raceway",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dft/248/amonkhet-raceway"
+      },
+      {
+        "name": "Ancient Ziggurat",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/ecc/144/ancient-ziggurat"
+      },
+      {
+        "name": "Arch of Orazca",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/lcc/319/arch-of-orazca"
+      },
+      {
+        "name": "Archaeological Dig",
+        "price": "$0.35",
+        "url": "https://manapool.com/card/inv/320/archaeological-dig"
+      },
+      {
+        "name": "Archway Commons",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/plst/STX-263/archway-commons"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      }
+    ],
+    "other": [
+      {
+        "name": "Dark Ritual",
+        "price": "$2.44",
+        "url": "https://manapool.com/card/3ed/99/dark-ritual"
+      }
+    ]
+  },
+  "export_text": "1 K'rrik, Son of Yawgmoth *CMDR*\n1 Fountain of Ichor\n1 Basal Thrull\n1 Asmodeus the Archfiend\n1 Peer into the Abyss\n1 Ebony Fly\n1 Skirge Familiar\n1 Vexing Puzzlebox\n1 Blood Pet\n1 Dimir House Guard\n1 Diabolic Tutor\n1 Ruthless Knave\n1 Font of Agonies\n1 Final Parting\n1 Seeker's Folly\n1 Sacrifice\n1 Consume the Meek\n1 In Garruk's Wake\n1 Pontiff of Blight\n1 Sanguine Bond\n1 Exsanguinate\n1 Wishclaw Talisman\n1 Dark Ritual\n1 Crystal Vein\n1 Demon's Horn\n1 Unmarked Grave\n1 Sign in Blood\n1 Cut Down\n1 Mastermind's Acquisition\n1 Reiver Demon\n1 Tendrils of Agony\n1 Thrull Parasite\n1 Grasp of Darkness\n1 Greed\n1 Professor Onyx\n1 Staff of the Death Magus\n1 Pestilence\n1 Basilica Screecher\n1 Vampire Nighthawk\n1 Consuming Corruption\n1 Prism Ring\n1 Everflowing Chalice\n1 Grim Servant\n1 Exhume\n1 Leshrac's Sigil\n1 Magus of the Mirror\n1 Tendrils of Corruption\n1 Victim of Night\n1 Radiant Fountain\n1 Fellwar Stone\n1 Dread Presence\n1 Sangromancer\n1 Nighthawk Scavenger\n1 Pestilence Demon\n1 Bitter Triumph\n1 Profane Transfusion\n1 Phyrexian Tower\n1 Twilight Prophet\n1 Valgavoth, Terror Eater\n1 Doomsday Excruciator\n1 Not Dead After All\n1 Undying Malice\n1 Bile Blight\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Aether Hub\n1 Ally Encampment\n1 Amonkhet Raceway\n1 Ancient Ziggurat\n1 Arch of Orazca\n1 Archaeological Dig\n1 Archway Commons\n1 Swamp\n1 Swamp\n1 Swamp\n1 Swamp\n1 Swamp\n1 Swamp\n1 Swamp\n1 Swamp\n1 Swamp\n1 Swamp\n1 Swamp\n1 Swamp\n1 Swamp\n1 Swamp\n1 Swamp\n1 Swamp\n1 Swamp\n1 Swamp\n1 Swamp\n1 Swamp\n1 Swamp\n1 Swamp\n1 Swamp\n1 Swamp\n1 Swamp\n1 Swamp\n1 Swamp",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": true,
+    "counts": {
+      "lands": 40,
+      "ramp": 10,
+      "card_draw": 11,
+      "targeted_removal": 10,
+      "mass_removal": 6,
+      "synergy": 21,
+      "uncategorized": 1
+    },
+    "gaps": {}
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "ramp",
+      "added": "Fountain of Ichor",
+      "removed": "Blood Celebrant"
+    },
+    {
+      "category": "ramp",
+      "added": "Basal Thrull",
+      "removed": "Chainer, Dementia Master"
+    },
+    {
+      "category": "ramp",
+      "added": "Ebony Fly",
+      "removed": "Necrotic Ooze"
+    },
+    {
+      "category": "ramp",
+      "added": "Vexing Puzzlebox",
+      "removed": "Gray Merchant of Asphodel"
+    },
+    {
+      "category": "ramp",
+      "added": "Ruthless Knave",
+      "removed": "Buried Alive"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Seeker's Folly",
+      "removed": "Vile Entomber"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Consume the Meek",
+      "removed": "Heartless Summoning"
+    },
+    {
+      "category": "mass_removal",
+      "added": "In Garruk's Wake",
+      "removed": "Fleshwrither"
+    }
+  ]
+}

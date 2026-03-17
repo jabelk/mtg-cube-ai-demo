@@ -1,0 +1,624 @@
+{
+  "commander": "Edgar Markov",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 98,
+  "total_cost_display": "$52.23",
+  "deck": {
+    "commander": "Edgar Markov",
+    "creatures": [
+      {
+        "name": "Bloodline Keeper",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Welcoming Vampire",
+        "price": "$0.88",
+        "url": "https://manapool.com/card/lcc/140/welcoming-vampire"
+      },
+      {
+        "name": "Master of Dark Rites",
+        "price": "$0.83",
+        "url": "https://manapool.com/card/lcc/83/master-of-dark-rites"
+      },
+      {
+        "name": "Edgar, Charmed Groom",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Clavile\u00f1o, First of the Blessed",
+        "price": "$0.40",
+        "url": "https://manapool.com/card/lcc/2/clavileno-first-of-the-blessed"
+      },
+      {
+        "name": "Twilight Prophet",
+        "price": "$0.55",
+        "url": "https://manapool.com/card/lcc/211/twilight-prophet"
+      },
+      {
+        "name": "Fire Ants",
+        "price": "$0.36",
+        "url": "https://manapool.com/card/usg/187/fire-ants"
+      },
+      {
+        "name": "Patron of the Vein",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lcc/207/patron-of-the-vein"
+      },
+      {
+        "name": "Scavenger Regent // Exude Toxin",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdm/90/scavenger-regent-exude-toxin"
+      },
+      {
+        "name": "Forerunner of the Legion",
+        "price": "$1.65",
+        "url": "https://manapool.com/card/rix/9/forerunner-of-the-legion"
+      },
+      {
+        "name": "Vampire Nighthawk",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c20/140/vampire-nighthawk"
+      },
+      {
+        "name": "Rakish Heir",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/isd/158/rakish-heir"
+      },
+      {
+        "name": "Vengeful Bloodwitch",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fdn/325/vengeful-bloodwitch"
+      },
+      {
+        "name": "Knight of the Ebon Legion",
+        "price": "$2.30",
+        "url": "https://manapool.com/card/m20/105/knight-of-the-ebon-legion"
+      },
+      {
+        "name": "Crossway Troublemakers",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/lcc/190/crossway-troublemakers"
+      },
+      {
+        "name": "Anowon, the Ruin Sage",
+        "price": "$1.94",
+        "url": "https://manapool.com/card/voc/118/anowon-the-ruin-sage"
+      },
+      {
+        "name": "Butcher of Malakir",
+        "price": "$0.28",
+        "url": "https://manapool.com/card/c17/103/butcher-of-malakir"
+      },
+      {
+        "name": "Olivia Voldaren",
+        "price": "$2.89",
+        "url": "https://manapool.com/card/isd/215/olivia-voldaren"
+      },
+      {
+        "name": "Baron Bertram Graywater",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/otj/195/baron-bertram-graywater"
+      },
+      {
+        "name": "Marauding Blight-Priest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fdn/178/marauding-blight-priest"
+      },
+      {
+        "name": "Ruthless Lawbringer",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/otj/229/ruthless-lawbringer"
+      },
+      {
+        "name": "Bartolom\u00e9 del Presidio",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lci/224/bartolome-del-presidio"
+      },
+      {
+        "name": "Falkenrath Pit Fighter",
+        "price": "$0.27",
+        "url": "https://manapool.com/card/mid/137/falkenrath-pit-fighter"
+      },
+      {
+        "name": "Florian, Voldaren Scion",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mid/318/florian-voldaren-scion"
+      },
+      {
+        "name": "Vampire Gourmand",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fdn/74/vampire-gourmand"
+      },
+      {
+        "name": "Oathsworn Vampire",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lcc/204/oathsworn-vampire"
+      },
+      {
+        "name": "Preacher of the Schism",
+        "price": "$1.20",
+        "url": "https://manapool.com/card/lci/113/preacher-of-the-schism"
+      },
+      {
+        "name": "Dusk Legion Zealot",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lcc/194/dusk-legion-zealot"
+      },
+      {
+        "name": "Elenda's Hierophant",
+        "price": "$2.83",
+        "url": "https://manapool.com/card/lcc/71/elendas-hierophant"
+      },
+      {
+        "name": "Nighthawk Scavenger",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/znr/115/nighthawk-scavenger"
+      },
+      {
+        "name": "Falkenrath Noble",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsc/140/falkenrath-noble"
+      },
+      {
+        "name": "Gifted Aetherborn",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/jmp/239/gifted-aetherborn"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Fake Your Own Death",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fdn/174/fake-your-own-death"
+      },
+      {
+        "name": "Skred",
+        "price": "$1.92",
+        "url": "https://manapool.com/card/csp/97/skred"
+      },
+      {
+        "name": "Boil",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/wc00/jk169sb/boil"
+      },
+      {
+        "name": "Thunderclap",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mmq/219/thunderclap"
+      },
+      {
+        "name": "Village Rites",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/m21/126/village-rites"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Swarming of Moria",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltr/150/swarming-of-moria"
+      },
+      {
+        "name": "Olivia's Wrath",
+        "price": "$0.27",
+        "url": "https://manapool.com/card/lcc/205/olivias-wrath"
+      },
+      {
+        "name": "Volcanic Spray",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/ody/226/volcanic-spray"
+      },
+      {
+        "name": "End the Festivities",
+        "price": "$0.96",
+        "url": "https://manapool.com/card/vow/155/end-the-festivities"
+      },
+      {
+        "name": "Fumigate",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/eoc/65/fumigate"
+      },
+      {
+        "name": "Pact of the Serpent",
+        "price": "$0.73",
+        "url": "https://manapool.com/card/lcc/206/pact-of-the-serpent"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Manalith",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/hou/164/manalith"
+      },
+      {
+        "name": "Spell Satchel",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/stx/258/spell-satchel"
+      },
+      {
+        "name": "Blinkmoth Urn",
+        "price": "$0.98",
+        "url": "https://manapool.com/card/c18/197/blinkmoth-urn"
+      },
+      {
+        "name": "Omen Machine",
+        "price": "$1.44",
+        "url": "https://manapool.com/card/nph/148/omen-machine"
+      },
+      {
+        "name": "Retributive Wand",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/m20/236/retributive-wand"
+      },
+      {
+        "name": "Blade of the Bloodchief",
+        "price": "$2.15",
+        "url": "https://manapool.com/card/lcc/300/blade-of-the-bloodchief"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "Carnival of Souls",
+        "price": "$8.72",
+        "url": "https://manapool.com/card/uds/55/carnival-of-souls"
+      },
+      {
+        "name": "Poetic Ingenuity",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lci/161/poetic-ingenuity"
+      },
+      {
+        "name": "Shared Animosity",
+        "price": "$1.19",
+        "url": "https://manapool.com/card/lcc/231/shared-animosity"
+      },
+      {
+        "name": "Stensia Masquerade",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/soi/184/stensia-masquerade"
+      }
+    ],
+    "planeswalkers": [
+      {
+        "name": "Sorin, Lord of Innistrad",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/lcc/289/sorin-lord-of-innistrad"
+      }
+    ],
+    "lands": [
+      {
+        "name": "Conqueror's Galleon // Conqueror's Foothold",
+        "price": "$0.46",
+        "url": "https://manapool.com/card/xln/234/conquerors-galleon-conquerors-foothold"
+      },
+      {
+        "name": "Voldaren Estate",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lcc/369/voldaren-estate"
+      },
+      {
+        "name": "Unclaimed Territory",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lcc/366/unclaimed-territory"
+      },
+      {
+        "name": "Secluded Courtyard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fdn/267/secluded-courtyard"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Phyrexian Tower",
+        "price": "$0.82",
+        "url": "https://manapool.com/card/amh3/23/phyrexian-tower"
+      },
+      {
+        "name": "Legion's Landing",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Command Tower",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/325/command-tower"
+      },
+      {
+        "name": "Exotic Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/131/exotic-orchard"
+      },
+      {
+        "name": "Aggressive Crag",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/cmb2/112/aggressive-crag"
+      },
+      {
+        "name": "Battlefield Forge",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/blc/293/battlefield-forge"
+      },
+      {
+        "name": "Caves of Koilos",
+        "price": "$0.80",
+        "url": "https://manapool.com/card/m15/241/caves-of-koilos"
+      },
+      {
+        "name": "Cinder Marsh",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/tmp/317/cinder-marsh"
+      },
+      {
+        "name": "Desolate Mire",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/386/desolate-mire"
+      },
+      {
+        "name": "Fetid Heath",
+        "price": "$0.39",
+        "url": "https://manapool.com/card/fic/391/fetid-heath"
+      },
+      {
+        "name": "Lantern-Lit Graveyard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/chk/278/lantern-lit-graveyard"
+      },
+      {
+        "name": "Lava Tubes",
+        "price": "$0.30",
+        "url": "https://manapool.com/card/ptc/gb358/lava-tubes"
+      },
+      {
+        "name": "Madlands",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mb2/614/madlands"
+      },
+      {
+        "name": "Molten Slagheap",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/284/molten-slagheap"
+      },
+      {
+        "name": "Orzhova, the Church of Deals",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/gpt/162/orzhova-the-church-of-deals"
+      },
+      {
+        "name": "Path of Mettle // Metzali, Tower of Triumph",
+        "price": "$0.27",
+        "url": "https://manapool.com/card/rix/165/path-of-mettle-metzali-tower-of-triumph"
+      },
+      {
+        "name": "Profane Procession // Tomb of the Dusk Rose",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/rix/166/profane-procession-tomb-of-the-dusk-rose"
+      },
+      {
+        "name": "Rix Maadi, Dungeon Palace",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c19/269/rix-maadi-dungeon-palace"
+      },
+      {
+        "name": "Rugged Prairie",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdc/389/rugged-prairie"
+      },
+      {
+        "name": "Shadowblood Ridge",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/who/303/shadowblood-ridge"
+      },
+      {
+        "name": "Shattered Landscape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/226/shattered-landscape"
+      },
+      {
+        "name": "Silent Clearing",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/amh1/51/silent-clearing"
+      },
+      {
+        "name": "Slayers' Stronghold",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/424/slayers-stronghold"
+      },
+      {
+        "name": "Starlit Sanctum",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ons/325/starlit-sanctum"
+      },
+      {
+        "name": "Stensia Bloodhall",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/isd/247/stensia-bloodhall"
+      },
+      {
+        "name": "Sunhome, Fortress of the Legion",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mkc/298/sunhome-fortress-of-the-legion"
+      },
+      {
+        "name": "Sunscorched Divide",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/433/sunscorched-divide"
+      },
+      {
+        "name": "Tainted Field",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/356/tainted-field"
+      },
+      {
+        "name": "Abraded Bluffs",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/otj/251/abraded-bluffs"
+      },
+      {
+        "name": "Akoum Refuge",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ddk/73/akoum-refuge"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      }
+    ],
+    "other": [
+      {
+        "name": "Dark Ritual",
+        "price": "$2.44",
+        "url": "https://manapool.com/card/3ed/99/dark-ritual"
+      }
+    ]
+  },
+  "export_text": "1 Edgar Markov *CMDR*\n1 Fake Your Own Death\n1 Manalith\n1 Swarming of Moria\n1 Conqueror's Galleon // Conqueror's Foothold\n1 Carnival of Souls\n1 Spell Satchel\n1 Bloodline Keeper\n1 Welcoming Vampire\n1 Blinkmoth Urn\n1 Master of Dark Rites\n1 Poetic Ingenuity\n1 Voldaren Estate\n1 Edgar, Charmed Groom\n1 Olivia's Wrath\n1 Omen Machine\n1 Clavile\u00f1o, First of the Blessed\n1 Retributive Wand\n1 Twilight Prophet\n1 Skred\n1 Boil\n1 Thunderclap\n1 Fire Ants\n1 Volcanic Spray\n1 Unclaimed Territory\n1 Patron of the Vein\n1 Secluded Courtyard\n1 End the Festivities\n1 Fumigate\n1 Scavenger Regent // Exude Toxin\n1 Forerunner of the Legion\n1 Vampire Nighthawk\n1 Rakish Heir\n1 Shared Animosity\n1 Vengeful Bloodwitch\n1 Knight of the Ebon Legion\n1 Blade of the Bloodchief\n1 Crossway Troublemakers\n1 Anowon, the Ruin Sage\n1 Path of Ancestry\n1 Butcher of Malakir\n1 Olivia Voldaren\n1 Village Rites\n1 Baron Bertram Graywater\n1 Marauding Blight-Priest\n1 Pact of the Serpent\n1 Stensia Masquerade\n1 Ruthless Lawbringer\n1 Bartolom\u00e9 del Presidio\n1 Falkenrath Pit Fighter\n1 Florian, Voldaren Scion\n1 Vampire Gourmand\n1 Oathsworn Vampire\n1 Phyrexian Tower\n1 Preacher of the Schism\n1 Dusk Legion Zealot\n1 Elenda's Hierophant\n1 Dark Ritual\n1 Nighthawk Scavenger\n1 Falkenrath Noble\n1 Gifted Aetherborn\n1 Legion's Landing\n1 Sorin, Lord of Innistrad\n1 Command Tower\n1 Exotic Orchard\n1 Aggressive Crag\n1 Battlefield Forge\n1 Caves of Koilos\n1 Cinder Marsh\n1 Desolate Mire\n1 Fetid Heath\n1 Lantern-Lit Graveyard\n1 Lava Tubes\n1 Madlands\n1 Molten Slagheap\n1 Orzhova, the Church of Deals\n1 Path of Mettle // Metzali, Tower of Triumph\n1 Profane Procession // Tomb of the Dusk Rose\n1 Rix Maadi, Dungeon Palace\n1 Rugged Prairie\n1 Shadowblood Ridge\n1 Shattered Landscape\n1 Silent Clearing\n1 Slayers' Stronghold\n1 Starlit Sanctum\n1 Stensia Bloodhall\n1 Sunhome, Fortress of the Legion\n1 Sunscorched Divide\n1 Tainted Field\n1 Abraded Bluffs\n1 Akoum Refuge\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Swamp\n1 Plains\n1 Mountain\n1 Swamp\n1 Plains",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": true,
+    "counts": {
+      "lands": 42,
+      "ramp": 9,
+      "card_draw": 10,
+      "targeted_removal": 9,
+      "mass_removal": 7,
+      "synergy": 17,
+      "uncategorized": 4
+    },
+    "gaps": {}
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "ramp",
+      "added": "Fake Your Own Death",
+      "removed": "Captivating Vampire"
+    },
+    {
+      "category": "ramp",
+      "added": "Manalith",
+      "removed": "Cordial Vampire"
+    },
+    {
+      "category": "ramp",
+      "added": "Swarming of Moria",
+      "removed": "Stromkirk Captain"
+    },
+    {
+      "category": "ramp",
+      "added": "Conqueror's Galleon // Conqueror's Foothold",
+      "removed": "Blood Artist"
+    },
+    {
+      "category": "ramp",
+      "added": "Carnival of Souls",
+      "removed": "Indulgent Aristocrat"
+    },
+    {
+      "category": "ramp",
+      "added": "Spell Satchel",
+      "removed": "Legion Lieutenant"
+    },
+    {
+      "category": "ramp",
+      "added": "Blinkmoth Urn",
+      "removed": "Sanctum Seeker"
+    },
+    {
+      "category": "ramp",
+      "added": "Poetic Ingenuity",
+      "removed": "Cruel Celebrant"
+    },
+    {
+      "category": "ramp",
+      "added": "Omen Machine",
+      "removed": "Drana, Liberator of Malakir"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Retributive Wand",
+      "removed": "Markov Baron"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Skred",
+      "removed": "Vampire of the Dire Moon"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Boil",
+      "removed": "Mavren Fein, Dusk Apostle"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Thunderclap",
+      "removed": "Champion of Dusk"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Fire Ants",
+      "removed": "Sanguine Bond"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Volcanic Spray",
+      "removed": "Vampire Socialite"
+    },
+    {
+      "category": "mass_removal",
+      "added": "End the Festivities",
+      "removed": "Viscera Seer"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Fumigate",
+      "removed": "Yahenni, Undying Partisan"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Scavenger Regent // Exude Toxin",
+      "removed": "New Blood"
+    }
+  ]
+}

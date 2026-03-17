@@ -1,0 +1,593 @@
+{
+  "commander": "Zaxara, the Exemplary",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 98,
+  "total_cost_display": "$42.38",
+  "deck": {
+    "commander": "Zaxara, the Exemplary",
+    "creatures": [
+      {
+        "name": "Atemsis, All-Seeing",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/m20/46/atemsis-all-seeing"
+      },
+      {
+        "name": "Voracious Hydra",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmc/54/voracious-hydra"
+      },
+      {
+        "name": "Steelbane Hydra",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmc/52/steelbane-hydra"
+      },
+      {
+        "name": "Gargos, Vicious Watcher",
+        "price": "$0.76",
+        "url": "https://manapool.com/card/m20/172/gargos-vicious-watcher"
+      },
+      {
+        "name": "The Goose Mother",
+        "price": "$1.81",
+        "url": "https://manapool.com/card/woe/204/the-goose-mother"
+      },
+      {
+        "name": "Cunning Geysermage",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/znr/55/cunning-geysermage"
+      },
+      {
+        "name": "Lockjaw Snapper",
+        "price": "$0.42",
+        "url": "https://manapool.com/card/shm/255/lockjaw-snapper"
+      },
+      {
+        "name": "Lifeblood Hydra",
+        "price": "$2.02",
+        "url": "https://manapool.com/card/cmm/303/lifeblood-hydra"
+      },
+      {
+        "name": "Hooded Hydra",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mkc/171/hooded-hydra"
+      },
+      {
+        "name": "Nyxborn Hydra",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/164/nyxborn-hydra"
+      },
+      {
+        "name": "Selvala, Heart of the Wilds",
+        "price": "$2.90",
+        "url": "https://manapool.com/card/ecc/116/selvala-heart-of-the-wilds"
+      },
+      {
+        "name": "Managorger Hydra",
+        "price": "$0.41",
+        "url": "https://manapool.com/card/blc/230/managorger-hydra"
+      },
+      {
+        "name": "Capricopian",
+        "price": "$0.61",
+        "url": "https://manapool.com/card/c20/58/capricopian"
+      },
+      {
+        "name": "Ingenious Prodigy",
+        "price": "$0.41",
+        "url": "https://manapool.com/card/woe/56/ingenious-prodigy"
+      },
+      {
+        "name": "Altered Ego",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/317/altered-ego"
+      },
+      {
+        "name": "Troyan, Gutsy Explorer",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/woe/217/troyan-gutsy-explorer"
+      },
+      {
+        "name": "Wren's Run Hydra",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh2/183/wrens-run-hydra"
+      },
+      {
+        "name": "Mossborn Hydra",
+        "price": "$1.04",
+        "url": "https://manapool.com/card/afdn/42/mossborn-hydra"
+      },
+      {
+        "name": "Vorel of the Hull Clade",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lcc/294/vorel-of-the-hull-clade"
+      },
+      {
+        "name": "Grakmaw, Skyclave Ravager",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/znr/223/grakmaw-skyclave-ravager"
+      },
+      {
+        "name": "Feral Hydra",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/plst/BBD-197/feral-hydra"
+      },
+      {
+        "name": "Hydra Broodmaster",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/m3c/233/hydra-broodmaster"
+      },
+      {
+        "name": "Gyre Sage",
+        "price": "$0.45",
+        "url": "https://manapool.com/card/fic/306/gyre-sage"
+      },
+      {
+        "name": "Ochre Jelly",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/afr/330/ochre-jelly"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Very Cryptic Command",
+        "price": "$0.85",
+        "url": "https://manapool.com/card/ust/49f/very-cryptic-command"
+      },
+      {
+        "name": "Spring Cleaning",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lrw/236/spring-cleaning"
+      },
+      {
+        "name": "Repulsive Mutation",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/mkm/227/repulsive-mutation"
+      },
+      {
+        "name": "Thassa's Intervention",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/thb/72/thassas-intervention"
+      },
+      {
+        "name": "Condescend",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/wc04/gn27/condescend"
+      },
+      {
+        "name": "Blue Sun's Zenith",
+        "price": "$1.56",
+        "url": "https://manapool.com/card/c13/32/blue-suns-zenith"
+      },
+      {
+        "name": "Erebos's Intervention",
+        "price": "$0.30",
+        "url": "https://manapool.com/card/thb/94/ereboss-intervention"
+      },
+      {
+        "name": "Inspiring Call",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fdn/226/inspiring-call"
+      },
+      {
+        "name": "Syncopate",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dbl/350/syncopate"
+      },
+      {
+        "name": "Tyvar's Stand",
+        "price": "$1.56",
+        "url": "https://manapool.com/card/one/190/tyvars-stand"
+      },
+      {
+        "name": "Slice from the Shadows",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mkm/103/slice-from-the-shadows"
+      },
+      {
+        "name": "Icy Blast",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/ktk/42/icy-blast"
+      },
+      {
+        "name": "Power Sink",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/3ed/74/power-sink"
+      },
+      {
+        "name": "Biomass Mutation",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c19/187/biomass-mutation"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Lab Rats",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/sth/61/lab-rats"
+      },
+      {
+        "name": "Animist's Awakening",
+        "price": "$1.22",
+        "url": "https://manapool.com/card/c20/166/animists-awakening"
+      },
+      {
+        "name": "Curse of the Swine",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lcc/150/curse-of-the-swine"
+      },
+      {
+        "name": "Perish",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/plst/TMP-147/perish"
+      },
+      {
+        "name": "Season of Loss",
+        "price": "$0.68",
+        "url": "https://manapool.com/card/blb/112/season-of-loss"
+      },
+      {
+        "name": "Gix's Command",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/bro/97/gixs-command"
+      },
+      {
+        "name": "Inundate",
+        "price": "$5.15",
+        "url": "https://manapool.com/card/eve/25/inundate"
+      },
+      {
+        "name": "Gale Force",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/chk/209/gale-force"
+      },
+      {
+        "name": "Profane Command",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/scd/99/profane-command"
+      },
+      {
+        "name": "Mind Spring",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/blb/389/mind-spring"
+      },
+      {
+        "name": "Kodama's Reach",
+        "price": "$1.23",
+        "url": "https://manapool.com/card/cmm/300/kodamas-reach"
+      },
+      {
+        "name": "Blue Sun's Twilight",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/one/43/blue-suns-twilight"
+      },
+      {
+        "name": "Cultivate",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmc/50/cultivate"
+      },
+      {
+        "name": "Open into Wonder",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/akh/64/open-into-wonder"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Astral Cornucopia",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/eoc/131/astral-cornucopia"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "Garruk's Uprising",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/fdn/220/garruks-uprising"
+      },
+      {
+        "name": "Hour of Victory",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dft/91/hour-of-victory"
+      },
+      {
+        "name": "Simic Ascendancy",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/blc/260/simic-ascendancy"
+      },
+      {
+        "name": "Mana Reflection",
+        "price": "$1.04",
+        "url": "https://manapool.com/card/m3c/237/mana-reflection"
+      }
+    ],
+    "planeswalkers": [
+      {
+        "name": "Kiora, Behemoth Beckoner",
+        "price": "$0.78",
+        "url": "https://manapool.com/card/plst/WAR-232/kiora-behemoth-beckoner"
+      }
+    ],
+    "lands": [
+      {
+        "name": "Lair of the Hydra",
+        "price": "$0.23",
+        "url": "https://manapool.com/card/m3c/353/lair-of-the-hydra"
+      },
+      {
+        "name": "Temple of the False God",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c13/327/temple-of-the-false-god"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Rogue's Passage",
+        "price": "$0.35",
+        "url": "https://manapool.com/card/fdn/264/rogues-passage"
+      },
+      {
+        "name": "Command Tower",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/325/command-tower"
+      },
+      {
+        "name": "Exotic Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/131/exotic-orchard"
+      },
+      {
+        "name": "Alchemist's Refuge",
+        "price": "$0.65",
+        "url": "https://manapool.com/card/lcc/318/alchemists-refuge"
+      },
+      {
+        "name": "Darkwater Catacombs",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/c19/238/darkwater-catacombs"
+      },
+      {
+        "name": "Dreadship Reef",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/tsp/271/dreadship-reef"
+      },
+      {
+        "name": "Duskmantle, House of Shadow",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/plst/RAV-277/duskmantle-house-of-shadow"
+      },
+      {
+        "name": "Flooded Grove",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltc/309/flooded-grove"
+      },
+      {
+        "name": "Foreboding Landscape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/221/foreboding-landscape"
+      },
+      {
+        "name": "Grim Backwoods",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/309/grim-backwoods"
+      },
+      {
+        "name": "Llanowar Wastes",
+        "price": "$0.47",
+        "url": "https://manapool.com/card/blc/315/llanowar-wastes"
+      },
+      {
+        "name": "Nephalia Drownyard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lcc/344/nephalia-drownyard"
+      },
+      {
+        "name": "Novijen, Heart of Progress",
+        "price": "$0.30",
+        "url": "https://manapool.com/card/dis/175/novijen-heart-of-progress"
+      },
+      {
+        "name": "Noxious Bayou",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/cmb2/118/noxious-bayou"
+      },
+      {
+        "name": "Overflowing Basin",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/321/overflowing-basin"
+      },
+      {
+        "name": "River Delta",
+        "price": "$0.38",
+        "url": "https://manapool.com/card/ice/359/river-delta"
+      },
+      {
+        "name": "River of Tears",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/clb/912/river-of-tears"
+      },
+      {
+        "name": "Rootwater Depths",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmp/323/rootwater-depths"
+      },
+      {
+        "name": "Slumbering Waterways",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mb2/618/slumbering-waterways"
+      },
+      {
+        "name": "Svogthos, the Restless Tomb",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmd/289/svogthos-the-restless-tomb"
+      },
+      {
+        "name": "Tainted Isle",
+        "price": "$0.45",
+        "url": "https://manapool.com/card/dsc/303/tainted-isle"
+      },
+      {
+        "name": "Tainted Wood",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/plst/TOR-143/tainted-wood"
+      },
+      {
+        "name": "Twilight Mire",
+        "price": "$0.36",
+        "url": "https://manapool.com/card/blc/351/twilight-mire"
+      },
+      {
+        "name": "Viridescent Bog",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/352/viridescent-bog"
+      },
+      {
+        "name": "Waterlogged Grove",
+        "price": "$0.57",
+        "url": "https://manapool.com/card/who/331/waterlogged-grove"
+      },
+      {
+        "name": "Waterveil Cavern",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/chk/286/waterveil-cavern"
+      },
+      {
+        "name": "Yavimaya Coast",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/drc/184/yavimaya-coast"
+      },
+      {
+        "name": "Balamb Garden, SeeD Academy // Balamb Garden, Airborne",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/272/balamb-garden-seed-academy-balamb-garden-airborne"
+      },
+      {
+        "name": "Botanical Sanctum",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/otj/267/botanical-sanctum"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      }
+    ],
+    "other": []
+  },
+  "export_text": "1 Zaxara, the Exemplary *CMDR*\n1 Lab Rats\n1 Atemsis, All-Seeing\n1 Voracious Hydra\n1 Steelbane Hydra\n1 Garruk's Uprising\n1 Gargos, Vicious Watcher\n1 Hour of Victory\n1 Animist's Awakening\n1 Curse of the Swine\n1 The Goose Mother\n1 Cunning Geysermage\n1 Lockjaw Snapper\n1 Lifeblood Hydra\n1 Perish\n1 Season of Loss\n1 Very Cryptic Command\n1 Gix's Command\n1 Inundate\n1 Gale Force\n1 Spring Cleaning\n1 Hooded Hydra\n1 Profane Command\n1 Nyxborn Hydra\n1 Repulsive Mutation\n1 Thassa's Intervention\n1 Selvala, Heart of the Wilds\n1 Simic Ascendancy\n1 Condescend\n1 Blue Sun's Zenith\n1 Erebos's Intervention\n1 Managorger Hydra\n1 Capricopian\n1 Inspiring Call\n1 Syncopate\n1 Mind Spring\n1 Ingenious Prodigy\n1 Lair of the Hydra\n1 Altered Ego\n1 Troyan, Gutsy Explorer\n1 Kodama's Reach\n1 Wren's Run Hydra\n1 Tyvar's Stand\n1 Slice from the Shadows\n1 Blue Sun's Twilight\n1 Temple of the False God\n1 Astral Cornucopia\n1 Path of Ancestry\n1 Cultivate\n1 Mossborn Hydra\n1 Vorel of the Hull Clade\n1 Grakmaw, Skyclave Ravager\n1 Feral Hydra\n1 Icy Blast\n1 Mana Reflection\n1 Hydra Broodmaster\n1 Power Sink\n1 Open into Wonder\n1 Rogue's Passage\n1 Gyre Sage\n1 Kiora, Behemoth Beckoner\n1 Ochre Jelly\n1 Biomass Mutation\n1 Command Tower\n1 Exotic Orchard\n1 Alchemist's Refuge\n1 Darkwater Catacombs\n1 Dreadship Reef\n1 Duskmantle, House of Shadow\n1 Flooded Grove\n1 Foreboding Landscape\n1 Grim Backwoods\n1 Llanowar Wastes\n1 Nephalia Drownyard\n1 Novijen, Heart of Progress\n1 Noxious Bayou\n1 Overflowing Basin\n1 River Delta\n1 River of Tears\n1 Rootwater Depths\n1 Slumbering Waterways\n1 Svogthos, the Restless Tomb\n1 Tainted Isle\n1 Tainted Wood\n1 Twilight Mire\n1 Viridescent Bog\n1 Waterlogged Grove\n1 Waterveil Cavern\n1 Yavimaya Coast\n1 Balamb Garden, SeeD Academy // Balamb Garden, Airborne\n1 Botanical Sanctum\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Forest\n1 Swamp\n1 Island\n1 Forest\n1 Swamp",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": true,
+    "counts": {
+      "lands": 40,
+      "ramp": 9,
+      "card_draw": 10,
+      "targeted_removal": 9,
+      "mass_removal": 7,
+      "synergy": 23,
+      "uncategorized": 0
+    },
+    "gaps": {}
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "card_draw",
+      "added": "Lab Rats",
+      "removed": "Hydroid Krasis"
+    },
+    {
+      "category": "card_draw",
+      "added": "Atemsis, All-Seeing",
+      "removed": "Hungering Hydra"
+    },
+    {
+      "category": "card_draw",
+      "added": "Hour of Victory",
+      "removed": "Exsanguinate"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Cunning Geysermage",
+      "removed": "Genesis Hydra"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Lockjaw Snapper",
+      "removed": "Stonecoil Serpent"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Perish",
+      "removed": "Villainous Wealth"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Season of Loss",
+      "removed": "Vastwood Hydra"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Very Cryptic Command",
+      "removed": "Mistcutter Hydra"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Gix's Command",
+      "removed": "Kalonian Hydra"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Inundate",
+      "removed": "Corpsejack Menace"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Gale Force",
+      "removed": "Finale of Revelation"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Spring Cleaning",
+      "removed": "Pull from Tomorrow"
+    }
+  ]
+}

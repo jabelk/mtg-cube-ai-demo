@@ -1,0 +1,618 @@
+{
+  "commander": "Eriette of the Charmed Apple",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 99,
+  "total_cost_display": "$97.88",
+  "deck": {
+    "commander": "Eriette of the Charmed Apple",
+    "creatures": [
+      {
+        "name": "Mesa Enchantress",
+        "price": "$0.38",
+        "url": "https://manapool.com/card/plc/26/mesa-enchantress"
+      },
+      {
+        "name": "Sram, Senior Edificer",
+        "price": "$2.75",
+        "url": "https://manapool.com/card/aer/23/sram-senior-edificer"
+      },
+      {
+        "name": "Giada, Font of Hope",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/snc/14/giada-font-of-hope"
+      },
+      {
+        "name": "Myr Moonvessel",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/dst/133/myr-moonvessel"
+      },
+      {
+        "name": "Hateful Eidolon",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/thb/101/hateful-eidolon"
+      },
+      {
+        "name": "Pearl Collector",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Wall of Nets",
+        "price": "$5.19",
+        "url": "https://manapool.com/card/exo/24/wall-of-nets"
+      },
+      {
+        "name": "Pearl-Ear, Imperial Advisor",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/mh3/39/pearl-ear-imperial-advisor"
+      },
+      {
+        "name": "Ashiok's Reaper",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/woe/79/ashioks-reaper"
+      },
+      {
+        "name": "Heliod's Pilgrim",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/m15/14/heliods-pilgrim"
+      },
+      {
+        "name": "Lurrus of the Dream-Den",
+        "price": "$1.22",
+        "url": "https://manapool.com/card/iko/226/lurrus-of-the-dream-den"
+      },
+      {
+        "name": "Neva, Stalked by Nightmares",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/woe/209/neva-stalked-by-nightmares"
+      },
+      {
+        "name": "Grim Guardian",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/jou/73/grim-guardian"
+      },
+      {
+        "name": "Spellbook Vendor",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/woe/31/spellbook-vendor"
+      },
+      {
+        "name": "Hero of Iroas",
+        "price": "$0.32",
+        "url": "https://manapool.com/card/bng/17/hero-of-iroas"
+      },
+      {
+        "name": "Starnheim Courser",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/khm/32/starnheim-courser"
+      },
+      {
+        "name": "Eidolon of Countless Battles",
+        "price": "$0.36",
+        "url": "https://manapool.com/card/bng/7/eidolon-of-countless-battles"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Deadly Derision",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mom/99/deadly-derision"
+      },
+      {
+        "name": "Not Dead After All",
+        "price": "$1.74",
+        "url": "https://manapool.com/card/woe/101/not-dead-after-all"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "In Garruk's Wake",
+        "price": "$1.03",
+        "url": "https://manapool.com/card/c19/121/in-garruks-wake"
+      },
+      {
+        "name": "No Witnesses",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mkm/27/no-witnesses"
+      },
+      {
+        "name": "Winds of Rath",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/cmr/392/winds-of-rath"
+      },
+      {
+        "name": "Terror Tide",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lci/127/terror-tide"
+      },
+      {
+        "name": "Open the Armory",
+        "price": "$2.37",
+        "url": "https://manapool.com/card/soi/32/open-the-armory"
+      },
+      {
+        "name": "Resurgent Belief",
+        "price": "$0.67",
+        "url": "https://manapool.com/card/mh2/443/resurgent-belief"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Interdimensional Web Watch",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/spm/165/interdimensional-web-watch"
+      },
+      {
+        "name": "The Celestus",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mid/252/the-celestus"
+      },
+      {
+        "name": "Runecarved Obelisk",
+        "price": "N/A",
+        "url": ""
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "Sage's Reverie",
+        "price": "$0.44",
+        "url": "https://manapool.com/card/frf/23/sages-reverie"
+      },
+      {
+        "name": "Darksteel Mutation",
+        "price": "$2.49",
+        "url": "https://manapool.com/card/cmm/623/darksteel-mutation"
+      },
+      {
+        "name": "Black Market",
+        "price": "$4.91",
+        "url": "https://manapool.com/card/pip/183/black-market"
+      },
+      {
+        "name": "Serenity",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mb2/152/serenity"
+      },
+      {
+        "name": "Lord Skitter's Blessing",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/woe/98/lord-skitters-blessing"
+      },
+      {
+        "name": "Clawing Torment",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/neo/91/clawing-torment"
+      },
+      {
+        "name": "Angelic Gift",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afc/64/angelic-gift"
+      },
+      {
+        "name": "Sigil of the Empty Throne",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/cmm/836/sigil-of-the-empty-throne"
+      },
+      {
+        "name": "Reprobation",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh1/23/reprobation"
+      },
+      {
+        "name": "Sphere of Safety",
+        "price": "$1.97",
+        "url": "https://manapool.com/card/c16/77/sphere-of-safety"
+      },
+      {
+        "name": "Redemption Arc",
+        "price": "$0.41",
+        "url": "https://manapool.com/card/amkm/47/redemption-arc"
+      },
+      {
+        "name": "Angelic Destiny",
+        "price": "$0.27",
+        "url": "https://manapool.com/card/fdn/565/angelic-destiny"
+      },
+      {
+        "name": "Trespasser's Curse",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/akh/112/trespassers-curse"
+      },
+      {
+        "name": "Hyena Umbra",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/roe/26/hyena-umbra"
+      },
+      {
+        "name": "Stab Wound",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ddm/72/stab-wound"
+      },
+      {
+        "name": "Eye of Nidhogg",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/fic/44/eye-of-nidhogg"
+      },
+      {
+        "name": "Unquestioned Authority",
+        "price": "$0.56",
+        "url": "https://manapool.com/card/cns/85/unquestioned-authority"
+      },
+      {
+        "name": "Feather of Flight",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blb/13/feather-of-flight"
+      },
+      {
+        "name": "Planar Disruption",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/one/28/planar-disruption"
+      },
+      {
+        "name": "Spirit Mantle",
+        "price": "$1.95",
+        "url": "https://manapool.com/card/plst/M12-35/spirit-mantle"
+      },
+      {
+        "name": "Petrify",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lci/30/petrify"
+      },
+      {
+        "name": "Pariah",
+        "price": "$0.76",
+        "url": "https://manapool.com/card/otp/5/pariah"
+      },
+      {
+        "name": "Dead Man's Chest",
+        "price": "$0.23",
+        "url": "https://manapool.com/card/rix/66/dead-mans-chest"
+      },
+      {
+        "name": "Ossification",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/one/26/ossification"
+      },
+      {
+        "name": "Screams from Within",
+        "price": "$1.44",
+        "url": "https://manapool.com/card/dst/52/screams-from-within"
+      },
+      {
+        "name": "Grievous Wound",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/dsk/102/grievous-wound"
+      },
+      {
+        "name": "Fungal Fortitude",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lci/106/fungal-fortitude"
+      },
+      {
+        "name": "Unholy Indenture",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/m20/119/unholy-indenture"
+      },
+      {
+        "name": "Benevolent Blessing",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/cmr/13/benevolent-blessing"
+      },
+      {
+        "name": "Underworld Connections",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/rtr/83/underworld-connections"
+      },
+      {
+        "name": "Rune of Mortality",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/khm/108/rune-of-mortality"
+      }
+    ],
+    "planeswalkers": [],
+    "lands": [
+      {
+        "name": "Matzalantli, the Great Door // The Core",
+        "price": "$1.93",
+        "url": "https://manapool.com/card/lci/256/matzalantli-the-great-door-the-core"
+      },
+      {
+        "name": "Ancient Tomb",
+        "price": "$48.45",
+        "url": "https://manapool.com/card/wc99/mlp315/ancient-tomb"
+      },
+      {
+        "name": "Glasswing Grace",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Command Tower",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/325/command-tower"
+      },
+      {
+        "name": "Exotic Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/131/exotic-orchard"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Caves of Koilos",
+        "price": "$0.80",
+        "url": "https://manapool.com/card/m15/241/caves-of-koilos"
+      },
+      {
+        "name": "Desolate Mire",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/386/desolate-mire"
+      },
+      {
+        "name": "Fetid Heath",
+        "price": "$0.39",
+        "url": "https://manapool.com/card/fic/391/fetid-heath"
+      },
+      {
+        "name": "Orzhova, the Church of Deals",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/gpt/162/orzhova-the-church-of-deals"
+      },
+      {
+        "name": "Profane Procession // Tomb of the Dusk Rose",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/rix/166/profane-procession-tomb-of-the-dusk-rose"
+      },
+      {
+        "name": "Silent Clearing",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/amh1/51/silent-clearing"
+      },
+      {
+        "name": "Starlit Sanctum",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ons/325/starlit-sanctum"
+      },
+      {
+        "name": "Tainted Field",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/356/tainted-field"
+      },
+      {
+        "name": "Vault of the Archangel",
+        "price": "$0.47",
+        "url": "https://manapool.com/card/lcc/367/vault-of-the-archangel"
+      },
+      {
+        "name": "Ballroom",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/clu/12/ballroom"
+      },
+      {
+        "name": "Concealed Courtyard",
+        "price": "$0.98",
+        "url": "https://manapool.com/card/otj/268/concealed-courtyard"
+      },
+      {
+        "name": "Foot Headquarters",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmt/185/foot-headquarters"
+      },
+      {
+        "name": "Forlorn Flats",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/otj/258/forlorn-flats"
+      },
+      {
+        "name": "Forsaken Sanctuary",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/akh/281/forsaken-sanctuary"
+      },
+      {
+        "name": "Glasswing Grace // Age-Graced Chapel",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/254/glasswing-grace-age-graced-chapel"
+      },
+      {
+        "name": "Goldmire Bridge",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/mh2/247/goldmire-bridge"
+      },
+      {
+        "name": "Great Hall of Starnheim",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/khm/259/great-hall-of-starnheim"
+      },
+      {
+        "name": "Insomnia, Crown City",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/282/insomnia-crown-city"
+      },
+      {
+        "name": "Isolated Chapel",
+        "price": "$0.32",
+        "url": "https://manapool.com/card/fic/405/isolated-chapel"
+      },
+      {
+        "name": "Lazotep Archway",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mb2/613/lazotep-archway"
+      },
+      {
+        "name": "Misty Palms Oasis",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tla/273/misty-palms-oasis"
+      },
+      {
+        "name": "Neglected Manor",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsk/264/neglected-manor"
+      },
+      {
+        "name": "Orzhov Basilica",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsc/292/orzhov-basilica"
+      },
+      {
+        "name": "Orzhov Guildgate",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c17/269/orzhov-guildgate"
+      },
+      {
+        "name": "Restless Fortress",
+        "price": "$0.37",
+        "url": "https://manapool.com/card/woe/259/restless-fortress"
+      },
+      {
+        "name": "Salt Flats",
+        "price": "$0.78",
+        "url": "https://manapool.com/card/tmp/324/salt-flats"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      }
+    ],
+    "other": []
+  },
+  "export_text": "1 Eriette of the Charmed Apple *CMDR*\n1 Mesa Enchantress\n1 Sram, Senior Edificer\n1 Interdimensional Web Watch\n1 Giada, Font of Hope\n1 Deadly Derision\n1 Sage's Reverie\n1 Darksteel Mutation\n1 Myr Moonvessel\n1 Hateful Eidolon\n1 Pearl Collector\n1 Matzalantli, the Great Door // The Core\n1 Black Market\n1 Ancient Tomb\n1 The Celestus\n1 Runecarved Obelisk\n1 Serenity\n1 Wall of Nets\n1 Lord Skitter's Blessing\n1 In Garruk's Wake\n1 Pearl-Ear, Imperial Advisor\n1 Clawing Torment\n1 No Witnesses\n1 Winds of Rath\n1 Terror Tide\n1 Angelic Gift\n1 Sigil of the Empty Throne\n1 Reprobation\n1 Sphere of Safety\n1 Redemption Arc\n1 Ashiok's Reaper\n1 Not Dead After All\n1 Angelic Destiny\n1 Trespasser's Curse\n1 Heliod's Pilgrim\n1 Open the Armory\n1 Lurrus of the Dream-Den\n1 Neva, Stalked by Nightmares\n1 Hyena Umbra\n1 Stab Wound\n1 Eye of Nidhogg\n1 Unquestioned Authority\n1 Feather of Flight\n1 Planar Disruption\n1 Grim Guardian\n1 Spellbook Vendor\n1 Spirit Mantle\n1 Petrify\n1 Hero of Iroas\n1 Resurgent Belief\n1 Pariah\n1 Dead Man's Chest\n1 Ossification\n1 Screams from Within\n1 Glasswing Grace\n1 Grievous Wound\n1 Fungal Fortitude\n1 Unholy Indenture\n1 Starnheim Courser\n1 Eidolon of Countless Battles\n1 Benevolent Blessing\n1 Underworld Connections\n1 Rune of Mortality\n1 Command Tower\n1 Exotic Orchard\n1 Path of Ancestry\n1 Caves of Koilos\n1 Desolate Mire\n1 Fetid Heath\n1 Orzhova, the Church of Deals\n1 Profane Procession // Tomb of the Dusk Rose\n1 Silent Clearing\n1 Starlit Sanctum\n1 Tainted Field\n1 Vault of the Archangel\n1 Ballroom\n1 Concealed Courtyard\n1 Foot Headquarters\n1 Forlorn Flats\n1 Forsaken Sanctuary\n1 Glasswing Grace // Age-Graced Chapel\n1 Goldmire Bridge\n1 Great Hall of Starnheim\n1 Insomnia, Crown City\n1 Isolated Chapel\n1 Lazotep Archway\n1 Misty Palms Oasis\n1 Neglected Manor\n1 Orzhov Basilica\n1 Orzhov Guildgate\n1 Restless Fortress\n1 Salt Flats\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Swamp\n1 Plains\n1 Swamp\n1 Plains\n1 Swamp",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": false,
+    "counts": {
+      "lands": 39,
+      "ramp": 7,
+      "card_draw": 15,
+      "targeted_removal": 10,
+      "mass_removal": 6,
+      "synergy": 21,
+      "uncategorized": 1
+    },
+    "gaps": {
+      "ramp": {
+        "actual": 7,
+        "target": 10,
+        "needed": 3
+      }
+    }
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "ramp",
+      "added": "Interdimensional Web Watch",
+      "removed": "Killian, Ink Duelist"
+    },
+    {
+      "category": "ramp",
+      "added": "Giada, Font of Hope",
+      "removed": "All That Glitters"
+    },
+    {
+      "category": "ramp",
+      "added": "Deadly Derision",
+      "removed": "Ethereal Armor"
+    },
+    {
+      "category": "ramp",
+      "added": "Myr Moonvessel",
+      "removed": "Parasitic Impetus"
+    },
+    {
+      "category": "ramp",
+      "added": "Pearl Collector",
+      "removed": "Kaya's Ghostform"
+    },
+    {
+      "category": "ramp",
+      "added": "Matzalantli, the Great Door // The Core",
+      "removed": "Spirit Link"
+    },
+    {
+      "category": "ramp",
+      "added": "Black Market",
+      "removed": "Starfield Mystic"
+    },
+    {
+      "category": "ramp",
+      "added": "Ancient Tomb",
+      "removed": "Transcendent Envoy"
+    },
+    {
+      "category": "ramp",
+      "added": "The Celestus",
+      "removed": "Timely Ward"
+    },
+    {
+      "category": "ramp",
+      "added": "Runecarved Obelisk",
+      "removed": "Danitha Capashen, Paragon"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Serenity",
+      "removed": "Minion's Return"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Wall of Nets",
+      "removed": "Vampiric Link"
+    },
+    {
+      "category": "mass_removal",
+      "added": "In Garruk's Wake",
+      "removed": "Archon of Sun's Grace"
+    },
+    {
+      "category": "mass_removal",
+      "added": "No Witnesses",
+      "removed": "Light-Paws, Emperor's Voice"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Terror Tide",
+      "removed": "Martial Impetus"
+    }
+  ]
+}

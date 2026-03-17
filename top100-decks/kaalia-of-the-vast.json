@@ -1,0 +1,553 @@
+{
+  "commander": "Kaalia of the Vast",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 99,
+  "total_cost_display": "$51.89",
+  "deck": {
+    "commander": "Kaalia of the Vast",
+    "creatures": [
+      {
+        "name": "Rune-Scarred Demon",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/fdn/184/rune-scarred-demon"
+      },
+      {
+        "name": "Angel of Despair",
+        "price": "$0.62",
+        "url": "https://manapool.com/card/cmd/180/angel-of-despair"
+      },
+      {
+        "name": "Rakdos, Patron of Chaos",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/amkm/22/rakdos-patron-of-chaos"
+      },
+      {
+        "name": "Zell Dincht",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/170/zell-dincht"
+      },
+      {
+        "name": "Angel of Serenity",
+        "price": "$0.67",
+        "url": "https://manapool.com/card/c21/83/angel-of-serenity"
+      },
+      {
+        "name": "Archfiend of Depravity",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/fic/273/archfiend-of-depravity"
+      },
+      {
+        "name": "Valgavoth, Terror Eater",
+        "price": "$0.41",
+        "url": "https://manapool.com/card/adsk/10/valgavoth-terror-eater"
+      },
+      {
+        "name": "Isshin, Two Heavens as One",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/aneo/69/isshin-two-heavens-as-one"
+      },
+      {
+        "name": "Angelic Arbiter",
+        "price": "$3.00",
+        "url": "https://manapool.com/card/jmp/86/angelic-arbiter"
+      },
+      {
+        "name": "Ancient Copper Dragon",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/aclb/4/ancient-copper-dragon"
+      },
+      {
+        "name": "Drakuseth, Maw of Flames",
+        "price": "$0.75",
+        "url": "https://manapool.com/card/fdn/193/drakuseth-maw-of-flames"
+      },
+      {
+        "name": "Bruna, the Fading Light",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Lyra Dawnbringer",
+        "price": "$1.30",
+        "url": "https://manapool.com/card/fdn/707/lyra-dawnbringer"
+      },
+      {
+        "name": "Akroma, Angel of Wrath",
+        "price": "$2.49",
+        "url": "https://manapool.com/card/plst/DVD-1/akroma-angel-of-wrath"
+      },
+      {
+        "name": "Bloodgift Demon",
+        "price": "$0.46",
+        "url": "https://manapool.com/card/j25/408/bloodgift-demon"
+      },
+      {
+        "name": "Gisela, the Broken Blade",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Giada, Font of Hope",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/snc/14/giada-font-of-hope"
+      },
+      {
+        "name": "Neriv, Heart of the Storm",
+        "price": "$1.38",
+        "url": "https://manapool.com/card/tdm/210/neriv-heart-of-the-storm"
+      },
+      {
+        "name": "Tariel, Reckoner of Souls",
+        "price": "$1.07",
+        "url": "https://manapool.com/card/2x2/281/tariel-reckoner-of-souls"
+      },
+      {
+        "name": "Ob Nixilis, Unshackled",
+        "price": "$2.62",
+        "url": "https://manapool.com/card/m15/110/ob-nixilis-unshackled"
+      },
+      {
+        "name": "Aegis Angel",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ori/273/aegis-angel"
+      },
+      {
+        "name": "Aurelia, the Law Above",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/amkm/36/aurelia-the-law-above"
+      },
+      {
+        "name": "Harvester of Souls",
+        "price": "$0.42",
+        "url": "https://manapool.com/card/j25/453/harvester-of-souls"
+      },
+      {
+        "name": "Herald of Eternal Dawn",
+        "price": "$0.61",
+        "url": "https://manapool.com/card/fdn/17/herald-of-eternal-dawn"
+      },
+      {
+        "name": "Ancient Gold Dragon",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/aclb/5/ancient-gold-dragon"
+      },
+      {
+        "name": "Scourge of the Throne",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/ltc/225/scourge-of-the-throne"
+      },
+      {
+        "name": "Steel Hellkite",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fdn/681/steel-hellkite"
+      },
+      {
+        "name": "Demonlord Belzenlok",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/dom/86/demonlord-belzenlok"
+      },
+      {
+        "name": "Angel of the Ruins",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/134/angel-of-the-ruins"
+      },
+      {
+        "name": "Rakdos, Lord of Riots",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/rvr/379/rakdos-lord-of-riots"
+      },
+      {
+        "name": "Akroma, Angel of Fury",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/mkc/146/akroma-angel-of-fury"
+      },
+      {
+        "name": "Shilgengar, Sire of Famine",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/109/shilgengar-sire-of-famine"
+      },
+      {
+        "name": "Karmic Guide",
+        "price": "$0.88",
+        "url": "https://manapool.com/card/mh2/263/karmic-guide"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Terminate",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/ecc/134/terminate"
+      },
+      {
+        "name": "Path to Exile",
+        "price": "$1.20",
+        "url": "https://manapool.com/card/fic/248/path-to-exile"
+      },
+      {
+        "name": "Mortify",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/acr/96/mortify"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Demonic Counsel",
+        "price": "$0.41",
+        "url": "https://manapool.com/card/adsk/7/demonic-counsel"
+      },
+      {
+        "name": "Read the Bones",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmm/182/read-the-bones"
+      },
+      {
+        "name": "Diabolic Tutor",
+        "price": "$0.82",
+        "url": "https://manapool.com/card/m14/95/diabolic-tutor"
+      },
+      {
+        "name": "Sign in Blood",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/m15/114/sign-in-blood"
+      },
+      {
+        "name": "Night's Whisper",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/ecc/81/nights-whisper"
+      },
+      {
+        "name": "Wrath of God",
+        "price": "$0.93",
+        "url": "https://manapool.com/card/ptc/shr58/wrath-of-god"
+      },
+      {
+        "name": "Damn",
+        "price": "$1.34",
+        "url": "https://manapool.com/card/mh2/80/damn"
+      },
+      {
+        "name": "Vindicate",
+        "price": "$0.35",
+        "url": "https://manapool.com/card/plst/A25-219/vindicate"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Pyromancer's Goggles",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/fdn/677/pyromancers-goggles"
+      },
+      {
+        "name": "Honor-Worn Shaku",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/cmm/954/honor-worn-shaku"
+      },
+      {
+        "name": "Whispersilk Cloak",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/alci/80/whispersilk-cloak"
+      },
+      {
+        "name": "Boros Signet",
+        "price": "$0.41",
+        "url": "https://manapool.com/card/rav/255/boros-signet"
+      },
+      {
+        "name": "Orzhov Signet",
+        "price": "$0.23",
+        "url": "https://manapool.com/card/tdc/323/orzhov-signet"
+      },
+      {
+        "name": "Rakdos Signet",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/dis/165/rakdos-signet"
+      },
+      {
+        "name": "Chromatic Lantern",
+        "price": "$0.44",
+        "url": "https://manapool.com/card/tmc/58/chromatic-lantern"
+      },
+      {
+        "name": "Quicksilver Amulet",
+        "price": "$1.26",
+        "url": "https://manapool.com/card/brr/45/quicksilver-amulet"
+      },
+      {
+        "name": "Lavaspur Boots",
+        "price": "$0.53",
+        "url": "https://manapool.com/card/otj/243/lavaspur-boots"
+      },
+      {
+        "name": "Commander's Sphere",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afc/203/commanders-sphere"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "Dragon Tempest",
+        "price": "$1.58",
+        "url": "https://manapool.com/card/tdc/94/dragon-tempest"
+      },
+      {
+        "name": "Phyrexian Arena",
+        "price": "$3.06",
+        "url": "https://manapool.com/card/aone/22/phyrexian-arena"
+      },
+      {
+        "name": "Rising of the Day",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/ltr/427/rising-of-the-day"
+      },
+      {
+        "name": "Phyrexian Reclamation",
+        "price": "$1.58",
+        "url": "https://manapool.com/card/tdc/194/phyrexian-reclamation"
+      },
+      {
+        "name": "Liliana's Contract",
+        "price": "$2.38",
+        "url": "https://manapool.com/card/m19/107/lilianas-contract"
+      }
+    ],
+    "planeswalkers": [],
+    "lands": [
+      {
+        "name": "Rogue's Passage",
+        "price": "$0.35",
+        "url": "https://manapool.com/card/fdn/264/rogues-passage"
+      },
+      {
+        "name": "Seraph Sanctuary",
+        "price": "$0.39",
+        "url": "https://manapool.com/card/avr/228/seraph-sanctuary"
+      },
+      {
+        "name": "Command Tower",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/325/command-tower"
+      },
+      {
+        "name": "Exotic Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/131/exotic-orchard"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Aggressive Crag",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/cmb2/112/aggressive-crag"
+      },
+      {
+        "name": "Battlefield Forge",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/blc/293/battlefield-forge"
+      },
+      {
+        "name": "Caves of Koilos",
+        "price": "$0.80",
+        "url": "https://manapool.com/card/m15/241/caves-of-koilos"
+      },
+      {
+        "name": "Cinder Marsh",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/tmp/317/cinder-marsh"
+      },
+      {
+        "name": "Desolate Mire",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/386/desolate-mire"
+      },
+      {
+        "name": "Fetid Heath",
+        "price": "$0.39",
+        "url": "https://manapool.com/card/fic/391/fetid-heath"
+      },
+      {
+        "name": "Lantern-Lit Graveyard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/chk/278/lantern-lit-graveyard"
+      },
+      {
+        "name": "Lava Tubes",
+        "price": "$0.30",
+        "url": "https://manapool.com/card/ptc/gb358/lava-tubes"
+      },
+      {
+        "name": "Madlands",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mb2/614/madlands"
+      },
+      {
+        "name": "Molten Slagheap",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/284/molten-slagheap"
+      },
+      {
+        "name": "Orzhova, the Church of Deals",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/gpt/162/orzhova-the-church-of-deals"
+      },
+      {
+        "name": "Path of Mettle // Metzali, Tower of Triumph",
+        "price": "$0.27",
+        "url": "https://manapool.com/card/rix/165/path-of-mettle-metzali-tower-of-triumph"
+      },
+      {
+        "name": "Profane Procession // Tomb of the Dusk Rose",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/rix/166/profane-procession-tomb-of-the-dusk-rose"
+      },
+      {
+        "name": "Rix Maadi, Dungeon Palace",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c19/269/rix-maadi-dungeon-palace"
+      },
+      {
+        "name": "Rugged Prairie",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdc/389/rugged-prairie"
+      },
+      {
+        "name": "Shadowblood Ridge",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/who/303/shadowblood-ridge"
+      },
+      {
+        "name": "Shattered Landscape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/226/shattered-landscape"
+      },
+      {
+        "name": "Silent Clearing",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/amh1/51/silent-clearing"
+      },
+      {
+        "name": "Slayers' Stronghold",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/424/slayers-stronghold"
+      },
+      {
+        "name": "Starlit Sanctum",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ons/325/starlit-sanctum"
+      },
+      {
+        "name": "Stensia Bloodhall",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/isd/247/stensia-bloodhall"
+      },
+      {
+        "name": "Sunhome, Fortress of the Legion",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mkc/298/sunhome-fortress-of-the-legion"
+      },
+      {
+        "name": "Sunscorched Divide",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/433/sunscorched-divide"
+      },
+      {
+        "name": "Tainted Field",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/356/tainted-field"
+      },
+      {
+        "name": "Abraded Bluffs",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/otj/251/abraded-bluffs"
+      },
+      {
+        "name": "Akoum Refuge",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ddk/73/akoum-refuge"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      }
+    ],
+    "other": [
+      {
+        "name": "Dark Ritual",
+        "price": "$2.44",
+        "url": "https://manapool.com/card/3ed/99/dark-ritual"
+      }
+    ]
+  },
+  "export_text": "1 Kaalia of the Vast *CMDR*\n1 Rune-Scarred Demon\n1 Pyromancer's Goggles\n1 Angel of Despair\n1 Honor-Worn Shaku\n1 Rakdos, Patron of Chaos\n1 Zell Dincht\n1 Angel of Serenity\n1 Archfiend of Depravity\n1 Valgavoth, Terror Eater\n1 Dragon Tempest\n1 Isshin, Two Heavens as One\n1 Angelic Arbiter\n1 Phyrexian Arena\n1 Demonic Counsel\n1 Ancient Copper Dragon\n1 Drakuseth, Maw of Flames\n1 Bruna, the Fading Light\n1 Lyra Dawnbringer\n1 Whispersilk Cloak\n1 Akroma, Angel of Wrath\n1 Bloodgift Demon\n1 Gisela, the Broken Blade\n1 Giada, Font of Hope\n1 Boros Signet\n1 Neriv, Heart of the Storm\n1 Tariel, Reckoner of Souls\n1 Ob Nixilis, Unshackled\n1 Aegis Angel\n1 Orzhov Signet\n1 Aurelia, the Law Above\n1 Harvester of Souls\n1 Herald of Eternal Dawn\n1 Rakdos Signet\n1 Chromatic Lantern\n1 Terminate\n1 Rising of the Day\n1 Ancient Gold Dragon\n1 Scourge of the Throne\n1 Rogue's Passage\n1 Steel Hellkite\n1 Demonlord Belzenlok\n1 Read the Bones\n1 Diabolic Tutor\n1 Angel of the Ruins\n1 Rakdos, Lord of Riots\n1 Akroma, Angel of Fury\n1 Path to Exile\n1 Shilgengar, Sire of Famine\n1 Dark Ritual\n1 Sign in Blood\n1 Mortify\n1 Quicksilver Amulet\n1 Karmic Guide\n1 Night's Whisper\n1 Wrath of God\n1 Lavaspur Boots\n1 Phyrexian Reclamation\n1 Seraph Sanctuary\n1 Damn\n1 Liliana's Contract\n1 Commander's Sphere\n1 Vindicate\n1 Command Tower\n1 Exotic Orchard\n1 Path of Ancestry\n1 Aggressive Crag\n1 Battlefield Forge\n1 Caves of Koilos\n1 Cinder Marsh\n1 Desolate Mire\n1 Fetid Heath\n1 Lantern-Lit Graveyard\n1 Lava Tubes\n1 Madlands\n1 Molten Slagheap\n1 Orzhova, the Church of Deals\n1 Path of Mettle // Metzali, Tower of Triumph\n1 Profane Procession // Tomb of the Dusk Rose\n1 Rix Maadi, Dungeon Palace\n1 Rugged Prairie\n1 Shadowblood Ridge\n1 Shattered Landscape\n1 Silent Clearing\n1 Slayers' Stronghold\n1 Starlit Sanctum\n1 Stensia Bloodhall\n1 Sunhome, Fortress of the Legion\n1 Sunscorched Divide\n1 Tainted Field\n1 Abraded Bluffs\n1 Akoum Refuge\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Swamp\n1 Plains\n1 Mountain\n1 Swamp\n1 Plains",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": true,
+    "counts": {
+      "lands": 39,
+      "ramp": 10,
+      "card_draw": 10,
+      "targeted_removal": 11,
+      "mass_removal": 4,
+      "synergy": 24,
+      "uncategorized": 1
+    },
+    "gaps": {}
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "ramp",
+      "added": "Pyromancer's Goggles",
+      "removed": "Liesa, Forgotten Archangel"
+    },
+    {
+      "category": "ramp",
+      "added": "Honor-Worn Shaku",
+      "removed": "Swiftfoot Boots"
+    },
+    {
+      "category": "ramp",
+      "added": "Zell Dincht",
+      "removed": "Hellkite Tyrant"
+    }
+  ]
+}

@@ -1,0 +1,598 @@
+{
+  "commander": "Shorikai, Genesis Engine",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 98,
+  "total_cost_display": "$51.48",
+  "deck": {
+    "commander": "Shorikai, Genesis Engine",
+    "creatures": [
+      {
+        "name": "Ornithopter of Paradise",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/j25/153/ornithopter-of-paradise"
+      },
+      {
+        "name": "Guardian Naga // Banishing Coils",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/clb/23/guardian-naga-banishing-coils"
+      },
+      {
+        "name": "Survey Mechan",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/eoe/245/survey-mechan"
+      },
+      {
+        "name": "Vedalken Engineer",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dst/35/vedalken-engineer"
+      },
+      {
+        "name": "Padeem, Consul of Innovation",
+        "price": "$1.25",
+        "url": "https://manapool.com/card/j25/62/padeem-consul-of-innovation"
+      },
+      {
+        "name": "Profaner of the Dead",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/plst/DTK-70/profaner-of-the-dead"
+      },
+      {
+        "name": "Sai, Master Thopterist",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/drc/82/sai-master-thopterist"
+      },
+      {
+        "name": "Silver Myr",
+        "price": "$0.29",
+        "url": "https://manapool.com/card/som/202/silver-myr"
+      },
+      {
+        "name": "Gold Myr",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/mrd/180/gold-myr"
+      },
+      {
+        "name": "Sram, Senior Edificer",
+        "price": "$2.75",
+        "url": "https://manapool.com/card/aer/23/sram-senior-edificer"
+      },
+      {
+        "name": "Cosima, God of the Voyage",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/akhm/12/cosima-god-of-the-voyage"
+      },
+      {
+        "name": "Shimmer Myr",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/cmr/339/shimmer-myr"
+      },
+      {
+        "name": "Ironsoul Enforcer",
+        "price": "$0.47",
+        "url": "https://manapool.com/card/nec/7/ironsoul-enforcer"
+      },
+      {
+        "name": "Mendicant Core, Guidelight",
+        "price": "$0.41",
+        "url": "https://manapool.com/card/dft/213/mendicant-core-guidelight"
+      },
+      {
+        "name": "Master of Etherium",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/2xm/57/master-of-etherium"
+      },
+      {
+        "name": "Mu Yanling, Wind Rider",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dft/379/mu-yanling-wind-rider"
+      },
+      {
+        "name": "Wonder",
+        "price": "$1.28",
+        "url": "https://manapool.com/card/mh2/271/wonder"
+      },
+      {
+        "name": "Aeronaut Admiral",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/aer/2/aeronaut-admiral"
+      },
+      {
+        "name": "Indomitable Archangel",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/brc/72/indomitable-archangel"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Dispatch",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/eoc/64/dispatch"
+      },
+      {
+        "name": "Arrow Volley Trap",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ddn/71/arrow-volley-trap"
+      },
+      {
+        "name": "Patrician's Scorn",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/fut/29/patricians-scorn"
+      },
+      {
+        "name": "Dramatic Reversal",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/kld/44/dramatic-reversal"
+      },
+      {
+        "name": "Armed and Armored",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/khm/379/armed-and-armored"
+      },
+      {
+        "name": "Reality Shift",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/drc/39/reality-shift"
+      },
+      {
+        "name": "Generous Gift",
+        "price": "$0.92",
+        "url": "https://manapool.com/card/mh1/11/generous-gift"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Expel the Unworthy",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/25/expel-the-unworthy"
+      },
+      {
+        "name": "Tivadar's Crusade",
+        "price": "$0.60",
+        "url": "https://manapool.com/card/drk/18/tivadars-crusade"
+      },
+      {
+        "name": "Slaughter the Strong",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/clb/43/slaughter-the-strong"
+      },
+      {
+        "name": "Organic Extinction",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/eoc/66/organic-extinction"
+      },
+      {
+        "name": "Thoughtcast",
+        "price": "$1.86",
+        "url": "https://manapool.com/card/wc04/ap54/thoughtcast"
+      },
+      {
+        "name": "Brilliant Restoration",
+        "price": "$0.93",
+        "url": "https://manapool.com/card/neo/7/brilliant-restoration"
+      },
+      {
+        "name": "Anchor to Reality",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/neo/45/anchor-to-reality"
+      },
+      {
+        "name": "Supreme Verdict",
+        "price": "$1.51",
+        "url": "https://manapool.com/card/ltc/272/supreme-verdict"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Sword of Forge and Frontier",
+        "price": "$10.30",
+        "url": "https://manapool.com/card/one/244/sword-of-forge-and-frontier"
+      },
+      {
+        "name": "Skysovereign, Consul Flagship",
+        "price": "$1.28",
+        "url": "https://manapool.com/card/kld/234/skysovereign-consul-flagship"
+      },
+      {
+        "name": "Crooked Scales",
+        "price": "$0.83",
+        "url": "https://manapool.com/card/mmq/291/crooked-scales"
+      },
+      {
+        "name": "Smuggler's Copter",
+        "price": "$0.61",
+        "url": "https://manapool.com/card/plst/KLD-235/smugglers-copter"
+      },
+      {
+        "name": "Weatherlight",
+        "price": "$1.04",
+        "url": "https://manapool.com/card/sld/2100/weatherlight"
+      },
+      {
+        "name": "Surgehacker Mech",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/neo/260/surgehacker-mech"
+      },
+      {
+        "name": "Cultivator's Caravan",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/drc/127/cultivators-caravan"
+      },
+      {
+        "name": "Aerial Surveyor",
+        "price": "$0.76",
+        "url": "https://manapool.com/card/nec/5/aerial-surveyor"
+      },
+      {
+        "name": "Voltaic Key",
+        "price": "$0.66",
+        "url": "https://manapool.com/card/wc99/kb314/voltaic-key"
+      },
+      {
+        "name": "Reckoner Bankbuster",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/neo/255/reckoner-bankbuster"
+      },
+      {
+        "name": "Salvation Engine",
+        "price": "$1.92",
+        "url": "https://manapool.com/card/dft/27/salvation-engine"
+      },
+      {
+        "name": "Fellwar Stone",
+        "price": "$1.02",
+        "url": "https://manapool.com/card/nec/150/fellwar-stone"
+      },
+      {
+        "name": "Thopter Fabricator",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/dft/304/thopter-fabricator"
+      },
+      {
+        "name": "Mirage Mirror",
+        "price": "$0.32",
+        "url": "https://manapool.com/card/m3c/300/mirage-mirror"
+      },
+      {
+        "name": "Deluxe Dragster",
+        "price": "$0.36",
+        "url": "https://manapool.com/card/moc/108/deluxe-dragster"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "Take Possession",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/mma/66/take-possession"
+      },
+      {
+        "name": "Thopter Spy Network",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/drc/83/thopter-spy-network"
+      },
+      {
+        "name": "Intruder Alarm",
+        "price": "$3.07",
+        "url": "https://manapool.com/card/tle/15/intruder-alarm"
+      }
+    ],
+    "planeswalkers": [
+      {
+        "name": "Tezzeret, Betrayer of Flesh",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/mkc/120/tezzeret-betrayer-of-flesh"
+      }
+    ],
+    "lands": [
+      {
+        "name": "Branch of Vitu-Ghazi",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mkm/258/branch-of-vitu-ghazi"
+      },
+      {
+        "name": "Mech Hangar",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/neo/270/mech-hangar"
+      },
+      {
+        "name": "Spire of Industry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/drc/172/spire-of-industry"
+      },
+      {
+        "name": "Seat of the Synod",
+        "price": "$0.62",
+        "url": "https://manapool.com/card/j25/773/seat-of-the-synod"
+      },
+      {
+        "name": "Ancient Den",
+        "price": "$0.95",
+        "url": "https://manapool.com/card/eoc/148/ancient-den"
+      },
+      {
+        "name": "Razortide Bridge",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/eoc/171/razortide-bridge"
+      },
+      {
+        "name": "Darksteel Citadel",
+        "price": "$0.92",
+        "url": "https://manapool.com/card/wc04/mb164/darksteel-citadel"
+      },
+      {
+        "name": "Buried Ruin",
+        "price": "$0.32",
+        "url": "https://manapool.com/card/pip/254/buried-ruin"
+      },
+      {
+        "name": "Exotic Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/131/exotic-orchard"
+      },
+      {
+        "name": "Command Tower",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/325/command-tower"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Adarkar Wastes",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/blc/291/adarkar-wastes"
+      },
+      {
+        "name": "Calciform Pools",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/tsp/270/calciform-pools"
+      },
+      {
+        "name": "Cloudcrest Lake",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/chk/274/cloudcrest-lake"
+      },
+      {
+        "name": "Land Cap",
+        "price": "$0.39",
+        "url": "https://manapool.com/card/ice/357/land-cap"
+      },
+      {
+        "name": "Moorland Haunt",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/isd/244/moorland-haunt"
+      },
+      {
+        "name": "Prahv, Spires of Order",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/dis/177/prahv-spires-of-order"
+      },
+      {
+        "name": "Seaside Haven",
+        "price": "$0.46",
+        "url": "https://manapool.com/card/ons/323/seaside-haven"
+      },
+      {
+        "name": "Skycloud Expanse",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/294/skycloud-expanse"
+      },
+      {
+        "name": "Thalakos Lowlands",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmp/328/thalakos-lowlands"
+      },
+      {
+        "name": "Abandoned Campground",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsk/255/abandoned-campground"
+      },
+      {
+        "name": "Azorius Chancery",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mkc/249/azorius-chancery"
+      },
+      {
+        "name": "Azorius Guildgate",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c13/275/azorius-guildgate"
+      },
+      {
+        "name": "Boreal Shelf",
+        "price": "$0.28",
+        "url": "https://manapool.com/card/csp/144/boreal-shelf"
+      },
+      {
+        "name": "Celestial Colonnade",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/eos/7/celestial-colonnade"
+      },
+      {
+        "name": "Coastal Tower",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/scd/296/coastal-tower"
+      },
+      {
+        "name": "Enchanted Prairie",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/cmb2/115/enchanted-prairie"
+      },
+      {
+        "name": "Fortified Beachhead",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/bro/262/fortified-beachhead"
+      },
+      {
+        "name": "Gates of Istfell",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/khm/256/gates-of-istfell"
+      },
+      {
+        "name": "Glacial Floodplain",
+        "price": "$0.23",
+        "url": "https://manapool.com/card/khm/257/glacial-floodplain"
+      },
+      {
+        "name": "Glacial Fortress",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/blc/307/glacial-fortress"
+      },
+      {
+        "name": "Idyllic Beachfront",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmu/249/idyllic-beachfront"
+      },
+      {
+        "name": "Irrigated Farmland",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/akh/245/irrigated-farmland"
+      },
+      {
+        "name": "Lonely Arroyo",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/otj/260/lonely-arroyo"
+      },
+      {
+        "name": "Meandering River",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/akh/283/meandering-river"
+      },
+      {
+        "name": "North Pole Gates",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tla/274/north-pole-gates"
+      },
+      {
+        "name": "Port Town",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/412/port-town"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      }
+    ],
+    "other": []
+  },
+  "export_text": "1 Shorikai, Genesis Engine *CMDR*\n1 Take Possession\n1 Branch of Vitu-Ghazi\n1 Sword of Forge and Frontier\n1 Ornithopter of Paradise\n1 Guardian Naga // Banishing Coils\n1 Mech Hangar\n1 Survey Mechan\n1 Dispatch\n1 Arrow Volley Trap\n1 Skysovereign, Consul Flagship\n1 Crooked Scales\n1 Expel the Unworthy\n1 Spire of Industry\n1 Tivadar's Crusade\n1 Smuggler's Copter\n1 Weatherlight\n1 Surgehacker Mech\n1 Cultivator's Caravan\n1 Vedalken Engineer\n1 Aerial Surveyor\n1 Patrician's Scorn\n1 Seat of the Synod\n1 Padeem, Consul of Innovation\n1 Profaner of the Dead\n1 Ancient Den\n1 Sai, Master Thopterist\n1 Thopter Spy Network\n1 Silver Myr\n1 Slaughter the Strong\n1 Gold Myr\n1 Sram, Senior Edificer\n1 Voltaic Key\n1 Organic Extinction\n1 Reckoner Bankbuster\n1 Dramatic Reversal\n1 Salvation Engine\n1 Thoughtcast\n1 Razortide Bridge\n1 Brilliant Restoration\n1 Tezzeret, Betrayer of Flesh\n1 Darksteel Citadel\n1 Fellwar Stone\n1 Cosima, God of the Voyage\n1 Armed and Armored\n1 Shimmer Myr\n1 Ironsoul Enforcer\n1 Reality Shift\n1 Intruder Alarm\n1 Anchor to Reality\n1 Mendicant Core, Guidelight\n1 Thopter Fabricator\n1 Mirage Mirror\n1 Generous Gift\n1 Master of Etherium\n1 Mu Yanling, Wind Rider\n1 Wonder\n1 Aeronaut Admiral\n1 Indomitable Archangel\n1 Deluxe Dragster\n1 Buried Ruin\n1 Exotic Orchard\n1 Supreme Verdict\n1 Command Tower\n1 Path of Ancestry\n1 Adarkar Wastes\n1 Calciform Pools\n1 Cloudcrest Lake\n1 Land Cap\n1 Moorland Haunt\n1 Prahv, Spires of Order\n1 Seaside Haven\n1 Skycloud Expanse\n1 Thalakos Lowlands\n1 Abandoned Campground\n1 Azorius Chancery\n1 Azorius Guildgate\n1 Boreal Shelf\n1 Celestial Colonnade\n1 Coastal Tower\n1 Enchanted Prairie\n1 Fortified Beachhead\n1 Gates of Istfell\n1 Glacial Floodplain\n1 Glacial Fortress\n1 Idyllic Beachfront\n1 Irrigated Farmland\n1 Lonely Arroyo\n1 Meandering River\n1 North Pole Gates\n1 Port Town\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Plains\n1 Island\n1 Plains\n1 Island\n1 Plains",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": true,
+    "counts": {
+      "lands": 45,
+      "ramp": 9,
+      "card_draw": 10,
+      "targeted_removal": 10,
+      "mass_removal": 6,
+      "synergy": 17,
+      "uncategorized": 1
+    },
+    "gaps": {}
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "ramp",
+      "added": "Take Possession",
+      "removed": "Kotori, Pilot Prodigy"
+    },
+    {
+      "category": "ramp",
+      "added": "Branch of Vitu-Ghazi",
+      "removed": "Mobilizer Mech"
+    },
+    {
+      "category": "ramp",
+      "added": "Sword of Forge and Frontier",
+      "removed": "Manifold Key"
+    },
+    {
+      "category": "ramp",
+      "added": "Ornithopter of Paradise",
+      "removed": "Etherium Sculptor"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Guardian Naga // Banishing Coils",
+      "removed": "Parhelion II"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Survey Mechan",
+      "removed": "Peacewalker Colossus"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Arrow Volley Trap",
+      "removed": "Prodigy's Prototype"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Crooked Scales",
+      "removed": "Foundry Inspector"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Expel the Unworthy",
+      "removed": "Emry, Lurker of the Loch"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Tivadar's Crusade",
+      "removed": "Cyberdrive Awakener"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Patrician's Scorn",
+      "removed": "Mechtitan Core"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Profaner of the Dead",
+      "removed": "Dance of the Manse"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Slaughter the Strong",
+      "removed": "Katsumasa, the Animator"
+    }
+  ]
+}

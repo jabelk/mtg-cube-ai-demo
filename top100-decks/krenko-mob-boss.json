@@ -1,0 +1,640 @@
+{
+  "commander": "Krenko, Mob Boss",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 99,
+  "total_cost_display": "$46.69",
+  "deck": {
+    "commander": "Krenko, Mob Boss",
+    "creatures": [
+      {
+        "name": "Skirk Prospector",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmr/137/skirk-prospector"
+      },
+      {
+        "name": "Goblin Matron",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmr/123/goblin-matron"
+      },
+      {
+        "name": "Pashalik Mons",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/amh1/18/pashalik-mons"
+      },
+      {
+        "name": "Siege-Gang Commander",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/202/siege-gang-commander"
+      },
+      {
+        "name": "It That Betrays",
+        "price": "$11.65",
+        "url": "https://manapool.com/card/roe/7/it-that-betrays"
+      },
+      {
+        "name": "Goblin Ringleader",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/m20/143/goblin-ringleader"
+      },
+      {
+        "name": "Gempalm Incinerator",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmr/122/gempalm-incinerator"
+      },
+      {
+        "name": "Exocrine",
+        "price": "$1.29",
+        "url": "https://manapool.com/card/40k/76/exocrine"
+      },
+      {
+        "name": "Searslicer Goblin",
+        "price": "$0.40",
+        "url": "https://manapool.com/card/afdn/39/searslicer-goblin"
+      },
+      {
+        "name": "Moria Marauder",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/ltr/138/moria-marauder"
+      },
+      {
+        "name": "Volley Veteran",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/j22/619/volley-veteran"
+      },
+      {
+        "name": "Grenzo, Havoc Raiser",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/m3c/213/grenzo-havoc-raiser"
+      },
+      {
+        "name": "Treasure Nabber",
+        "price": "$0.78",
+        "url": "https://manapool.com/card/acmm/40/treasure-nabber"
+      },
+      {
+        "name": "Squee, Dubious Monarch",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmu/291/squee-dubious-monarch"
+      },
+      {
+        "name": "Goblin Lookout",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/lgn/101/goblin-lookout"
+      },
+      {
+        "name": "Torch Courier",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/grn/119/torch-courier"
+      },
+      {
+        "name": "Battle Squadron",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/plst/EMA-118/battle-squadron"
+      },
+      {
+        "name": "Siege-Gang Lieutenant",
+        "price": "$0.58",
+        "url": "https://manapool.com/card/m3c/113/siege-gang-lieutenant"
+      },
+      {
+        "name": "Goblin Wardriver",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/plst/MBS-64/goblin-wardriver"
+      },
+      {
+        "name": "Foundry Street Denizen",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ddt/38/foundry-street-denizen"
+      },
+      {
+        "name": "Dark-Dweller Oracle",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/2x2/106/dark-dweller-oracle"
+      },
+      {
+        "name": "Goblin Rabblemaster",
+        "price": "$0.36",
+        "url": "https://manapool.com/card/j25/558/goblin-rabblemaster"
+      },
+      {
+        "name": "Goblin Bushwhacker",
+        "price": "$1.57",
+        "url": "https://manapool.com/card/zen/125/goblin-bushwhacker"
+      },
+      {
+        "name": "Goblin Cratermaker",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/grn/103/goblin-cratermaker"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Brightstone Ritual",
+        "price": "$1.59",
+        "url": "https://manapool.com/card/ons/191/brightstone-ritual"
+      },
+      {
+        "name": "Smashing Success",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/khm/151/smashing-success"
+      },
+      {
+        "name": "Battle Hymn",
+        "price": "$1.61",
+        "url": "https://manapool.com/card/avr/128/battle-hymn"
+      },
+      {
+        "name": "Massive Raid",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/gtc/100/massive-raid"
+      },
+      {
+        "name": "Shattering Pulse",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/wc98/br102sb/shattering-pulse"
+      },
+      {
+        "name": "Goblin Surprise",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fdn/200/goblin-surprise"
+      },
+      {
+        "name": "Outnumber",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/bfz/150/outnumber"
+      },
+      {
+        "name": "You See a Pair of Goblins",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/170/you-see-a-pair-of-goblins"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Goblin War Strike",
+        "price": "$0.78",
+        "url": "https://manapool.com/card/scg/96/goblin-war-strike"
+      },
+      {
+        "name": "Pirate's Landing",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Goblin Grenade",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/fem/56c/goblin-grenade"
+      },
+      {
+        "name": "Incendiary Command",
+        "price": "$0.57",
+        "url": "https://manapool.com/card/lrw/179/incendiary-command"
+      },
+      {
+        "name": "Flowstone Slide",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/203/flowstone-slide"
+      },
+      {
+        "name": "Volcanic Spray",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/ody/226/volcanic-spray"
+      },
+      {
+        "name": "Structural Assault",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/snc/126/structural-assault"
+      },
+      {
+        "name": "Empty the Warrens",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dds/15/empty-the-warrens"
+      },
+      {
+        "name": "Mob Justice",
+        "price": "$0.45",
+        "url": "https://manapool.com/card/sth/90/mob-justice"
+      },
+      {
+        "name": "Goblin Negotiation",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fdn/88/goblin-negotiation"
+      },
+      {
+        "name": "Goblin War Party",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh1/131/goblin-war-party"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Planar Bridge",
+        "price": "$1.82",
+        "url": "https://manapool.com/card/2x2/313/planar-bridge"
+      },
+      {
+        "name": "Ticket Turbotubes",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/unf/194/ticket-turbotubes"
+      },
+      {
+        "name": "Darksteel Ingot",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmm/378/darksteel-ingot"
+      },
+      {
+        "name": "Adherent's Heirloom",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Throne of Eldraine",
+        "price": "$1.04",
+        "url": "https://manapool.com/card/awoe/55/throne-of-eldraine"
+      },
+      {
+        "name": "Hazoret's Monument",
+        "price": "$0.92",
+        "url": "https://manapool.com/card/akh/229/hazorets-monument"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "Goblin Bombardment",
+        "price": "$2.60",
+        "url": "https://manapool.com/card/sch/45/goblin-bombardment"
+      },
+      {
+        "name": "Total War",
+        "price": "$0.39",
+        "url": "https://manapool.com/card/ice/221/total-war"
+      },
+      {
+        "name": "Raid Bombardment",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/uma/142/raid-bombardment"
+      },
+      {
+        "name": "Rising of the Day",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/ltr/427/rising-of-the-day"
+      },
+      {
+        "name": "Fervor",
+        "price": "$0.93",
+        "url": "https://manapool.com/card/tle/29/fervor"
+      },
+      {
+        "name": "Goblin War Drums",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fem/58b/goblin-war-drums"
+      }
+    ],
+    "planeswalkers": [
+      {
+        "name": "Tezzeret, Cruel Captain",
+        "price": "$2.00",
+        "url": "https://manapool.com/card/aeoe/1/tezzeret-cruel-captain"
+      }
+    ],
+    "lands": [
+      {
+        "name": "Scene of the Crime",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mkm/267/scene-of-the-crime"
+      },
+      {
+        "name": "Castle Embereth",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/tdc/347/castle-embereth"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Den of the Bugbear",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/aafr/60/den-of-the-bugbear"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Aether Hub",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/drc/145/aether-hub"
+      },
+      {
+        "name": "Ally Encampment",
+        "price": "$0.68",
+        "url": "https://manapool.com/card/bfz/228/ally-encampment"
+      },
+      {
+        "name": "Amonkhet Raceway",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dft/248/amonkhet-raceway"
+      },
+      {
+        "name": "Ancient Ziggurat",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/ecc/144/ancient-ziggurat"
+      },
+      {
+        "name": "Arch of Orazca",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/lcc/319/arch-of-orazca"
+      },
+      {
+        "name": "Archaeological Dig",
+        "price": "$0.35",
+        "url": "https://manapool.com/card/inv/320/archaeological-dig"
+      },
+      {
+        "name": "Archway Commons",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/plst/STX-263/archway-commons"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      }
+    ],
+    "other": [
+      {
+        "name": "High and Dry Black Market",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Naktamun",
+        "price": "$0.68",
+        "url": "https://manapool.com/card/moc/58/naktamun"
+      }
+    ]
+  },
+  "export_text": "1 Krenko, Mob Boss *CMDR*\n1 Planar Bridge\n1 Skirk Prospector\n1 Goblin Matron\n1 Ticket Turbotubes\n1 Goblin Bombardment\n1 Pashalik Mons\n1 Brightstone Ritual\n1 Siege-Gang Commander\n1 Goblin War Strike\n1 Darksteel Ingot\n1 It That Betrays\n1 Goblin Ringleader\n1 Adherent's Heirloom\n1 Smashing Success\n1 High and Dry Black Market\n1 Battle Hymn\n1 Tezzeret, Cruel Captain\n1 Naktamun\n1 Pirate's Landing\n1 Scene of the Crime\n1 Massive Raid\n1 Shattering Pulse\n1 Gempalm Incinerator\n1 Goblin Grenade\n1 Throne of Eldraine\n1 Incendiary Command\n1 Flowstone Slide\n1 Total War\n1 Volcanic Spray\n1 Exocrine\n1 Structural Assault\n1 Raid Bombardment\n1 Searslicer Goblin\n1 Moria Marauder\n1 Volley Veteran\n1 Empty the Warrens\n1 Castle Embereth\n1 Path of Ancestry\n1 Grenzo, Havoc Raiser\n1 Treasure Nabber\n1 Squee, Dubious Monarch\n1 Goblin Lookout\n1 Goblin Surprise\n1 Mob Justice\n1 Torch Courier\n1 Battle Squadron\n1 Rising of the Day\n1 Fervor\n1 Den of the Bugbear\n1 Siege-Gang Lieutenant\n1 Goblin Wardriver\n1 Foundry Street Denizen\n1 Outnumber\n1 Goblin Negotiation\n1 Dark-Dweller Oracle\n1 You See a Pair of Goblins\n1 Goblin Rabblemaster\n1 Goblin War Drums\n1 Goblin Bushwhacker\n1 Goblin Cratermaker\n1 Goblin War Party\n1 Hazoret's Monument\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Aether Hub\n1 Ally Encampment\n1 Amonkhet Raceway\n1 Ancient Ziggurat\n1 Arch of Orazca\n1 Archaeological Dig\n1 Archway Commons\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": false,
+    "counts": {
+      "lands": 41,
+      "ramp": 9,
+      "card_draw": 7,
+      "targeted_removal": 17,
+      "mass_removal": 6,
+      "synergy": 19,
+      "uncategorized": 0
+    },
+    "gaps": {
+      "card_draw": {
+        "actual": 7,
+        "target": 10,
+        "needed": 3
+      }
+    }
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "ramp",
+      "added": "Planar Bridge",
+      "removed": "Goblin Warchief"
+    },
+    {
+      "category": "ramp",
+      "added": "Ticket Turbotubes",
+      "removed": "Impact Tremors"
+    },
+    {
+      "category": "ramp",
+      "added": "Darksteel Ingot",
+      "removed": "Krenko's Command"
+    },
+    {
+      "category": "ramp",
+      "added": "It That Betrays",
+      "removed": "Goblin Chirurgeon"
+    },
+    {
+      "category": "ramp",
+      "added": "Adherent's Heirloom",
+      "removed": "Dragon Fodder"
+    },
+    {
+      "category": "ramp",
+      "added": "Smashing Success",
+      "removed": "Shared Animosity"
+    },
+    {
+      "category": "card_draw",
+      "added": "High and Dry Black Market",
+      "removed": "Rundvelt Hordemaster"
+    },
+    {
+      "category": "card_draw",
+      "added": "Tezzeret, Cruel Captain",
+      "removed": "Goblin Instigator"
+    },
+    {
+      "category": "card_draw",
+      "added": "Naktamun",
+      "removed": "Hordeling Outburst"
+    },
+    {
+      "category": "card_draw",
+      "added": "Pirate's Landing",
+      "removed": "Legion Warboss"
+    },
+    {
+      "category": "card_draw",
+      "added": "Scene of the Crime",
+      "removed": "Battle Cry Goblin"
+    },
+    {
+      "category": "card_draw",
+      "added": "Shattering Pulse",
+      "removed": "Goblin Piledriver"
+    },
+    {
+      "category": "card_draw",
+      "added": "Throne of Eldraine",
+      "removed": "Beetleback Chief"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Incendiary Command",
+      "removed": "Sting, the Glinting Dagger"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Flowstone Slide",
+      "removed": "Mogg War Marshal"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Total War",
+      "removed": "Goro-Goro, Disciple of Ryusei"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Volcanic Spray",
+      "removed": "Quest for the Goblin Lord"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Exocrine",
+      "removed": "Goblin Motivator"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Structural Assault",
+      "removed": "Marvin, Murderous Mimic"
+    }
+  ]
+}

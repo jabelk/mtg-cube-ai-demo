@@ -1,0 +1,537 @@
+{
+  "commander": "Y'shtola, Night's Blessed",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 95,
+  "total_cost_display": "$36.83",
+  "deck": {
+    "commander": "Y'shtola, Night's Blessed",
+    "creatures": [
+      {
+        "name": "Papalymo Totolymo",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/90/papalymo-totolymo"
+      },
+      {
+        "name": "Perforator Crocodile",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Alisaie Leveilleur",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/fic/9/alisaie-leveilleur"
+      },
+      {
+        "name": "Archmage Emeritus",
+        "price": "$2.00",
+        "url": "https://manapool.com/card/tdc/145/archmage-emeritus"
+      },
+      {
+        "name": "Alphinaud Leveilleur",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/33/alphinaud-leveilleur"
+      },
+      {
+        "name": "Fandaniel, Telophoroi Ascian",
+        "price": "$0.23",
+        "url": "https://manapool.com/card/fic/46/fandaniel-telophoroi-ascian"
+      },
+      {
+        "name": "G'raha Tia, Scion Reborn",
+        "price": "$0.50",
+        "url": "https://manapool.com/card/afin/19/graha-tia-scion-reborn"
+      },
+      {
+        "name": "Tataru Taru",
+        "price": "$0.71",
+        "url": "https://manapool.com/card/afin/25/tataru-taru"
+      },
+      {
+        "name": "Hermes, Overseer of Elpis",
+        "price": "$0.23",
+        "url": "https://manapool.com/card/fic/36/hermes-overseer-of-elpis"
+      },
+      {
+        "name": "Krile Baldesion",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/86/krile-baldesion"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Transpose",
+        "price": "$0.27",
+        "url": "https://manapool.com/card/fic/52/transpose"
+      },
+      {
+        "name": "Void Rend",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/otp/59/void-rend"
+      },
+      {
+        "name": "Frantic Search",
+        "price": "$0.51",
+        "url": "https://manapool.com/card/cmm/96/frantic-search"
+      },
+      {
+        "name": "Rewind",
+        "price": "$0.35",
+        "url": "https://manapool.com/card/m13/65/rewind"
+      },
+      {
+        "name": "Dig Through Time",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/fic/263/dig-through-time"
+      },
+      {
+        "name": "Lethal Scheme",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/277/lethal-scheme"
+      },
+      {
+        "name": "Undermine",
+        "price": "$0.93",
+        "url": "https://manapool.com/card/wc01/ar282/undermine"
+      },
+      {
+        "name": "Anguished Unmaking",
+        "price": "$2.21",
+        "url": "https://manapool.com/card/ltc/265/anguished-unmaking"
+      },
+      {
+        "name": "Sublime Epiphany",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/271/sublime-epiphany"
+      },
+      {
+        "name": "Stroke of Midnight",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fdn/148/stroke-of-midnight"
+      },
+      {
+        "name": "Disallow",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/drc/74/disallow"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Zombie Apocalypse",
+        "price": "$0.48",
+        "url": "https://manapool.com/card/scd/121/zombie-apocalypse"
+      },
+      {
+        "name": "Death Cloud",
+        "price": "$1.92",
+        "url": "https://manapool.com/card/plst/DST-40/death-cloud"
+      },
+      {
+        "name": "Extinction",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/tmp/135/extinction"
+      },
+      {
+        "name": "Vindicate",
+        "price": "$0.35",
+        "url": "https://manapool.com/card/plst/A25-219/vindicate"
+      },
+      {
+        "name": "Exsanguinate",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fdn/173/exsanguinate"
+      },
+      {
+        "name": "Circle of Power",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/92/circle-of-power"
+      },
+      {
+        "name": "Syphon Mind",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/fic/288/syphon-mind"
+      },
+      {
+        "name": "Risky Shortcut",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dft/103/risky-shortcut"
+      },
+      {
+        "name": "Cleansing Nova",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/fic/235/cleansing-nova"
+      },
+      {
+        "name": "Final Judgment",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/243/final-judgment"
+      },
+      {
+        "name": "Cut a Deal",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/blc/105/cut-a-deal"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Relic of Legends",
+        "price": "$1.60",
+        "url": "https://manapool.com/card/fic/354/relic-of-legends"
+      },
+      {
+        "name": "Thought Vessel",
+        "price": "$2.32",
+        "url": "https://manapool.com/card/pip/251/thought-vessel"
+      },
+      {
+        "name": "Archaeomancer's Map",
+        "price": "$2.21",
+        "url": "https://manapool.com/card/fic/230/archaeomancers-map"
+      },
+      {
+        "name": "Talisman of Progress",
+        "price": "$0.33",
+        "url": "https://manapool.com/card/ltc/286/talisman-of-progress"
+      },
+      {
+        "name": "Dancer's Chakrams",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/17/dancers-chakrams"
+      },
+      {
+        "name": "Talisman of Dominance",
+        "price": "$0.53",
+        "url": "https://manapool.com/card/40k/254/talisman-of-dominance"
+      },
+      {
+        "name": "White Auracite",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/41/white-auracite"
+      },
+      {
+        "name": "Talisman of Hierarchy",
+        "price": "$0.53",
+        "url": "https://manapool.com/card/lcc/315/talisman-of-hierarchy"
+      },
+      {
+        "name": "Reaper's Scythe",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/48/reapers-scythe"
+      },
+      {
+        "name": "Decanter of Endless Water",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/aclb/79/decanter-of-endless-water"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "Curiosity",
+        "price": "$0.46",
+        "url": "https://manapool.com/card/isd/49/curiosity"
+      },
+      {
+        "name": "Observed Stasis",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/40/observed-stasis"
+      },
+      {
+        "name": "Eye of Nidhogg",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/fic/44/eye-of-nidhogg"
+      }
+    ],
+    "planeswalkers": [],
+    "lands": [
+      {
+        "name": "Fetid Heath",
+        "price": "$0.39",
+        "url": "https://manapool.com/card/fic/391/fetid-heath"
+      },
+      {
+        "name": "Underground River",
+        "price": "$1.33",
+        "url": "https://manapool.com/card/drc/181/underground-river"
+      },
+      {
+        "name": "Drowned Catacomb",
+        "price": "$2.03",
+        "url": "https://manapool.com/card/m10/224/drowned-catacomb"
+      },
+      {
+        "name": "Scavenger Grounds",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/fic/419/scavenger-grounds"
+      },
+      {
+        "name": "Desolate Mire",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/386/desolate-mire"
+      },
+      {
+        "name": "Shineshadow Snarl",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/351/shineshadow-snarl"
+      },
+      {
+        "name": "Glacial Fortress",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/blc/307/glacial-fortress"
+      },
+      {
+        "name": "Isolated Chapel",
+        "price": "$0.32",
+        "url": "https://manapool.com/card/fic/405/isolated-chapel"
+      },
+      {
+        "name": "Demolition Field",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fdn/687/demolition-field"
+      },
+      {
+        "name": "Choked Estuary",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lcc/322/choked-estuary"
+      },
+      {
+        "name": "Darkwater Catacombs",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/c19/238/darkwater-catacombs"
+      },
+      {
+        "name": "Port Town",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/412/port-town"
+      },
+      {
+        "name": "Skycloud Expanse",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/294/skycloud-expanse"
+      },
+      {
+        "name": "Sink into Stupor",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Sunlit Marsh",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmu/257/sunlit-marsh"
+      },
+      {
+        "name": "Contaminated Aquifer",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmu/245/contaminated-aquifer"
+      },
+      {
+        "name": "Idyllic Beachfront",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmu/249/idyllic-beachfront"
+      },
+      {
+        "name": "Command Tower",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/325/command-tower"
+      },
+      {
+        "name": "Exotic Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/131/exotic-orchard"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Adarkar Wastes",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/blc/291/adarkar-wastes"
+      },
+      {
+        "name": "Calciform Pools",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/tsp/270/calciform-pools"
+      },
+      {
+        "name": "Caves of Koilos",
+        "price": "$0.80",
+        "url": "https://manapool.com/card/m15/241/caves-of-koilos"
+      },
+      {
+        "name": "Cloudcrest Lake",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/chk/274/cloudcrest-lake"
+      },
+      {
+        "name": "Contaminated Landscape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/218/contaminated-landscape"
+      },
+      {
+        "name": "Dreadship Reef",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/tsp/271/dreadship-reef"
+      },
+      {
+        "name": "Dromar's Cavern",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmr/246/dromars-cavern"
+      },
+      {
+        "name": "Duskmantle, House of Shadow",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/plst/RAV-277/duskmantle-house-of-shadow"
+      },
+      {
+        "name": "Land Cap",
+        "price": "$0.39",
+        "url": "https://manapool.com/card/ice/357/land-cap"
+      },
+      {
+        "name": "Moorland Haunt",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/isd/244/moorland-haunt"
+      },
+      {
+        "name": "Nephalia Drownyard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lcc/344/nephalia-drownyard"
+      },
+      {
+        "name": "Orzhova, the Church of Deals",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/gpt/162/orzhova-the-church-of-deals"
+      },
+      {
+        "name": "Prahv, Spires of Order",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/dis/177/prahv-spires-of-order"
+      },
+      {
+        "name": "Processing Plant",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mb2/617/processing-plant"
+      },
+      {
+        "name": "Profane Procession // Tomb of the Dusk Rose",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/rix/166/profane-procession-tomb-of-the-dusk-rose"
+      },
+      {
+        "name": "River Delta",
+        "price": "$0.38",
+        "url": "https://manapool.com/card/ice/359/river-delta"
+      },
+      {
+        "name": "River of Tears",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/clb/912/river-of-tears"
+      },
+      {
+        "name": "Rootwater Depths",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmp/323/rootwater-depths"
+      },
+      {
+        "name": "Seaside Haven",
+        "price": "$0.46",
+        "url": "https://manapool.com/card/ons/323/seaside-haven"
+      },
+      {
+        "name": "Silent Clearing",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/amh1/51/silent-clearing"
+      },
+      {
+        "name": "Abandoned Campground",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsk/255/abandoned-campground"
+      },
+      {
+        "name": "Ancient Spring",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/inv/319/ancient-spring"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      }
+    ],
+    "other": []
+  },
+  "export_text": "1 Y'shtola, Night's Blessed *CMDR*\n1 Curiosity\n1 Papalymo Totolymo\n1 Zombie Apocalypse\n1 Death Cloud\n1 Extinction\n1 Relic of Legends\n1 Perforator Crocodile\n1 Transpose\n1 Void Rend\n1 Vindicate\n1 Alisaie Leveilleur\n1 Exsanguinate\n1 Archmage Emeritus\n1 Frantic Search\n1 Alphinaud Leveilleur\n1 Rewind\n1 Circle of Power\n1 Fandaniel, Telophoroi Ascian\n1 Fetid Heath\n1 G'raha Tia, Scion Reborn\n1 Thought Vessel\n1 Dig Through Time\n1 Underground River\n1 Archaeomancer's Map\n1 Syphon Mind\n1 Observed Stasis\n1 Drowned Catacomb\n1 Risky Shortcut\n1 Cleansing Nova\n1 Eye of Nidhogg\n1 Scavenger Grounds\n1 Talisman of Progress\n1 Desolate Mire\n1 Lethal Scheme\n1 Shineshadow Snarl\n1 Tataru Taru\n1 Dancer's Chakrams\n1 Glacial Fortress\n1 Talisman of Dominance\n1 White Auracite\n1 Isolated Chapel\n1 Demolition Field\n1 Hermes, Overseer of Elpis\n1 Krile Baldesion\n1 Undermine\n1 Choked Estuary\n1 Darkwater Catacombs\n1 Anguished Unmaking\n1 Talisman of Hierarchy\n1 Port Town\n1 Skycloud Expanse\n1 Sink into Stupor\n1 Sublime Epiphany\n1 Final Judgment\n1 Reaper's Scythe\n1 Sunlit Marsh\n1 Contaminated Aquifer\n1 Stroke of Midnight\n1 Cut a Deal\n1 Idyllic Beachfront\n1 Disallow\n1 Decanter of Endless Water\n1 Command Tower\n1 Exotic Orchard\n1 Path of Ancestry\n1 Adarkar Wastes\n1 Calciform Pools\n1 Caves of Koilos\n1 Cloudcrest Lake\n1 Contaminated Landscape\n1 Dreadship Reef\n1 Dromar's Cavern\n1 Duskmantle, House of Shadow\n1 Land Cap\n1 Moorland Haunt\n1 Nephalia Drownyard\n1 Orzhova, the Church of Deals\n1 Prahv, Spires of Order\n1 Processing Plant\n1 Profane Procession // Tomb of the Dusk Rose\n1 River Delta\n1 River of Tears\n1 Rootwater Depths\n1 Seaside Haven\n1 Silent Clearing\n1 Abandoned Campground\n1 Ancient Spring\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Swamp\n1 Plains\n1 Island\n1 Swamp\n1 Plains",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": true,
+    "counts": {
+      "lands": 49,
+      "ramp": 8,
+      "card_draw": 10,
+      "targeted_removal": 10,
+      "mass_removal": 6,
+      "synergy": 11,
+      "uncategorized": 1
+    },
+    "gaps": {}
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "mass_removal",
+      "added": "Zombie Apocalypse",
+      "removed": "Propaganda"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Death Cloud",
+      "removed": "Emet-Selch of the Third Seat"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Extinction",
+      "removed": "Lyse Hext"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Perforator Crocodile",
+      "removed": "Unwind"
+    }
+  ]
+}

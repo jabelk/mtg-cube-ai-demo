@@ -1,0 +1,563 @@
+{
+  "commander": "Glarb, Calamity's Augur",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 99,
+  "total_cost_display": "$96.27",
+  "deck": {
+    "commander": "Glarb, Calamity's Augur",
+    "creatures": [
+      {
+        "name": "The Gitrog Monster",
+        "price": "$0.47",
+        "url": "https://manapool.com/card/eoc/117/the-gitrog-monster"
+      },
+      {
+        "name": "Poison Dart Frog",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lci/207/poison-dart-frog"
+      },
+      {
+        "name": "Tatyova, Benthic Druid",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmm/358/tatyova-benthic-druid"
+      },
+      {
+        "name": "Clifftop Lookout",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blb/168/clifftop-lookout"
+      },
+      {
+        "name": "Clement, the Worrywort",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blb/209/clement-the-worrywort"
+      },
+      {
+        "name": "Dreamdew Entrancer",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blb/211/dreamdew-entrancer"
+      },
+      {
+        "name": "Muldrotha, the Gravetide",
+        "price": "$0.37",
+        "url": "https://manapool.com/card/ecc/128/muldrotha-the-gravetide"
+      },
+      {
+        "name": "Loot, Exuberant Explorer",
+        "price": "$0.51",
+        "url": "https://manapool.com/card/afdn/12/loot-exuberant-explorer"
+      },
+      {
+        "name": "Twenty-Toed Toad",
+        "price": "$2.75",
+        "url": "https://manapool.com/card/blc/16/twenty-toed-toad"
+      },
+      {
+        "name": "Rampant Frogantua",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/m3c/118/rampant-frogantua"
+      },
+      {
+        "name": "Froghemoth",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/afr/184/froghemoth"
+      },
+      {
+        "name": "Pond Prophet",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blb/229/pond-prophet"
+      },
+      {
+        "name": "Spore Frog",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh1/180/spore-frog"
+      },
+      {
+        "name": "Psychic Frog",
+        "price": "$0.83",
+        "url": "https://manapool.com/card/amh3/41/psychic-frog"
+      },
+      {
+        "name": "Phyrexian Metamorph",
+        "price": "$2.20",
+        "url": "https://manapool.com/card/plst/NPH-42/phyrexian-metamorph"
+      },
+      {
+        "name": "Elvish Spirit Guide",
+        "price": "$2.39",
+        "url": "https://manapool.com/card/dmr/157/elvish-spirit-guide"
+      },
+      {
+        "name": "Dour Port-Mage",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/ablb/5/dour-port-mage"
+      },
+      {
+        "name": "The Gitrog, Ravenous Ride",
+        "price": "$1.16",
+        "url": "https://manapool.com/card/otj/206/the-gitrog-ravenous-ride"
+      },
+      {
+        "name": "Valley Mightcaller",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/blb/202/valley-mightcaller"
+      },
+      {
+        "name": "Notion Thief",
+        "price": "$1.56",
+        "url": "https://manapool.com/card/znc/96/notion-thief"
+      },
+      {
+        "name": "Yargle and Multani",
+        "price": "$0.81",
+        "url": "https://manapool.com/card/mom/317/yargle-and-multani"
+      },
+      {
+        "name": "Splash Lasher",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blb/73/splash-lasher"
+      },
+      {
+        "name": "Mistbreath Elder",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blb/184/mistbreath-elder"
+      },
+      {
+        "name": "Eye of Duskmantle",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mkc/27/eye-of-duskmantle"
+      },
+      {
+        "name": "Elves of Deep Shadow",
+        "price": "$2.58",
+        "url": "https://manapool.com/card/rav/161/elves-of-deep-shadow"
+      },
+      {
+        "name": "Lotus Cobra",
+        "price": "$1.56",
+        "url": "https://manapool.com/card/aznr/71/lotus-cobra"
+      },
+      {
+        "name": "Mulldrifter",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ecc/67/mulldrifter"
+      },
+      {
+        "name": "Rampaging Baloths",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/eoc/104/rampaging-baloths"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Cyclonic Rift",
+        "price": "$28.69",
+        "url": "https://manapool.com/card/cmm/84/cyclonic-rift"
+      },
+      {
+        "name": "Flusterstorm",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/amh3/54/flusterstorm"
+      },
+      {
+        "name": "Brainstorm",
+        "price": "$0.61",
+        "url": "https://manapool.com/card/wc00/jf61/brainstorm"
+      },
+      {
+        "name": "Into the Flood Maw",
+        "price": "$1.14",
+        "url": "https://manapool.com/card/blb/52/into-the-flood-maw"
+      },
+      {
+        "name": "Polliwallop",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blb/189/polliwallop"
+      },
+      {
+        "name": "Gush",
+        "price": "$2.39",
+        "url": "https://manapool.com/card/dd2/27/gush"
+      },
+      {
+        "name": "Abrupt Decay",
+        "price": "$1.30",
+        "url": "https://manapool.com/card/otp/34/abrupt-decay"
+      },
+      {
+        "name": "Long River's Pull",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blb/58/long-rivers-pull"
+      },
+      {
+        "name": "Polymorphist's Jest",
+        "price": "$2.65",
+        "url": "https://manapool.com/card/m15/75/polymorphists-jest"
+      },
+      {
+        "name": "Price of Fame",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/grn/83/price-of-fame"
+      },
+      {
+        "name": "Drag to the Roots",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsk/213/drag-to-the-roots"
+      },
+      {
+        "name": "Retraction Helix",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/a25/71/retraction-helix"
+      },
+      {
+        "name": "Turn to Frog",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/clu/103/turn-to-frog"
+      },
+      {
+        "name": "Rapid Hybridization",
+        "price": "$0.51",
+        "url": "https://manapool.com/card/lcc/166/rapid-hybridization"
+      },
+      {
+        "name": "Baleful Mastery",
+        "price": "$2.66",
+        "url": "https://manapool.com/card/stx/64/baleful-mastery"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Culling Ritual",
+        "price": "$1.39",
+        "url": "https://manapool.com/card/dsc/85/culling-ritual"
+      },
+      {
+        "name": "Fade from History",
+        "price": "$2.42",
+        "url": "https://manapool.com/card/bro/177/fade-from-history"
+      },
+      {
+        "name": "Feast of Succession",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmm/158/feast-of-succession"
+      },
+      {
+        "name": "Selective Obliteration",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/m3c/35/selective-obliteration"
+      },
+      {
+        "name": "Finale of Devastation",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/acmm/68/finale-of-devastation"
+      },
+      {
+        "name": "Splash Portal",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blb/74/splash-portal"
+      },
+      {
+        "name": "Dread Return",
+        "price": "$0.46",
+        "url": "https://manapool.com/card/ddq/55/dread-return"
+      },
+      {
+        "name": "Croaking Counterpart",
+        "price": "$0.56",
+        "url": "https://manapool.com/card/mid/215/croaking-counterpart"
+      },
+      {
+        "name": "Skyshroud Claim",
+        "price": "$0.66",
+        "url": "https://manapool.com/card/bbd/213/skyshroud-claim"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Coercive Portal",
+        "price": "$7.37",
+        "url": "https://manapool.com/card/lcc/109/coercive-portal"
+      },
+      {
+        "name": "Wishclaw Talisman",
+        "price": "$1.60",
+        "url": "https://manapool.com/card/fdn/617/wishclaw-talisman"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "Amphibian Downpour",
+        "price": "$1.54",
+        "url": "https://manapool.com/card/mh3/51/amphibian-downpour"
+      },
+      {
+        "name": "Frogify",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/eld/47/frogify"
+      },
+      {
+        "name": "Case of the Locked Hothouse",
+        "price": "$3.02",
+        "url": "https://manapool.com/card/mkm/155/case-of-the-locked-hothouse"
+      }
+    ],
+    "planeswalkers": [],
+    "lands": [
+      {
+        "name": "Flooded Strand",
+        "price": "$2.08",
+        "url": "https://manapool.com/card/aznr/29/flooded-strand"
+      },
+      {
+        "name": "Lilypad Village",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blb/255/lilypad-village"
+      },
+      {
+        "name": "Fell the Profane",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Oakhollow Village",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blb/258/oakhollow-village"
+      },
+      {
+        "name": "Command Tower",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/325/command-tower"
+      },
+      {
+        "name": "Exotic Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/131/exotic-orchard"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Alchemist's Refuge",
+        "price": "$0.65",
+        "url": "https://manapool.com/card/lcc/318/alchemists-refuge"
+      },
+      {
+        "name": "Darkwater Catacombs",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/c19/238/darkwater-catacombs"
+      },
+      {
+        "name": "Dreadship Reef",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/tsp/271/dreadship-reef"
+      },
+      {
+        "name": "Duskmantle, House of Shadow",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/plst/RAV-277/duskmantle-house-of-shadow"
+      },
+      {
+        "name": "Flooded Grove",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltc/309/flooded-grove"
+      },
+      {
+        "name": "Foreboding Landscape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/221/foreboding-landscape"
+      },
+      {
+        "name": "Grim Backwoods",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/309/grim-backwoods"
+      },
+      {
+        "name": "Llanowar Wastes",
+        "price": "$0.47",
+        "url": "https://manapool.com/card/blc/315/llanowar-wastes"
+      },
+      {
+        "name": "Nephalia Drownyard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lcc/344/nephalia-drownyard"
+      },
+      {
+        "name": "Novijen, Heart of Progress",
+        "price": "$0.30",
+        "url": "https://manapool.com/card/dis/175/novijen-heart-of-progress"
+      },
+      {
+        "name": "Noxious Bayou",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/cmb2/118/noxious-bayou"
+      },
+      {
+        "name": "Overflowing Basin",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/321/overflowing-basin"
+      },
+      {
+        "name": "River Delta",
+        "price": "$0.38",
+        "url": "https://manapool.com/card/ice/359/river-delta"
+      },
+      {
+        "name": "River of Tears",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/clb/912/river-of-tears"
+      },
+      {
+        "name": "Rootwater Depths",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmp/323/rootwater-depths"
+      },
+      {
+        "name": "Slumbering Waterways",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mb2/618/slumbering-waterways"
+      },
+      {
+        "name": "Svogthos, the Restless Tomb",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmd/289/svogthos-the-restless-tomb"
+      },
+      {
+        "name": "Tainted Isle",
+        "price": "$0.45",
+        "url": "https://manapool.com/card/dsc/303/tainted-isle"
+      },
+      {
+        "name": "Tainted Wood",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/plst/TOR-143/tainted-wood"
+      },
+      {
+        "name": "Twilight Mire",
+        "price": "$0.36",
+        "url": "https://manapool.com/card/blc/351/twilight-mire"
+      },
+      {
+        "name": "Viridescent Bog",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/352/viridescent-bog"
+      },
+      {
+        "name": "Waterlogged Grove",
+        "price": "$0.57",
+        "url": "https://manapool.com/card/who/331/waterlogged-grove"
+      },
+      {
+        "name": "Waterveil Cavern",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/chk/286/waterveil-cavern"
+      },
+      {
+        "name": "Yavimaya Coast",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/drc/184/yavimaya-coast"
+      },
+      {
+        "name": "Balamb Garden, SeeD Academy // Balamb Garden, Airborne",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/272/balamb-garden-seed-academy-balamb-garden-airborne"
+      },
+      {
+        "name": "Botanical Sanctum",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/otj/267/botanical-sanctum"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      }
+    ],
+    "other": [
+      {
+        "name": "Dark Ritual",
+        "price": "$2.44",
+        "url": "https://manapool.com/card/3ed/99/dark-ritual"
+      }
+    ]
+  },
+  "export_text": "1 Glarb, Calamity's Augur *CMDR*\n1 Culling Ritual\n1 The Gitrog Monster\n1 Fade from History\n1 Coercive Portal\n1 Poison Dart Frog\n1 Feast of Succession\n1 Tatyova, Benthic Druid\n1 Dark Ritual\n1 Cyclonic Rift\n1 Selective Obliteration\n1 Flooded Strand\n1 Clifftop Lookout\n1 Clement, the Worrywort\n1 Dreamdew Entrancer\n1 Muldrotha, the Gravetide\n1 Loot, Exuberant Explorer\n1 Twenty-Toed Toad\n1 Flusterstorm\n1 Rampant Frogantua\n1 Froghemoth\n1 Pond Prophet\n1 Brainstorm\n1 Into the Flood Maw\n1 Polliwallop\n1 Spore Frog\n1 Psychic Frog\n1 Phyrexian Metamorph\n1 Elvish Spirit Guide\n1 Dour Port-Mage\n1 The Gitrog, Ravenous Ride\n1 Valley Mightcaller\n1 Gush\n1 Finale of Devastation\n1 Lilypad Village\n1 Notion Thief\n1 Yargle and Multani\n1 Amphibian Downpour\n1 Splash Lasher\n1 Mistbreath Elder\n1 Eye of Duskmantle\n1 Abrupt Decay\n1 Fell the Profane\n1 Long River's Pull\n1 Elves of Deep Shadow\n1 Polymorphist's Jest\n1 Price of Fame\n1 Splash Portal\n1 Wishclaw Talisman\n1 Frogify\n1 Oakhollow Village\n1 Drag to the Roots\n1 Retraction Helix\n1 Turn to Frog\n1 Dread Return\n1 Croaking Counterpart\n1 Case of the Locked Hothouse\n1 Rapid Hybridization\n1 Skyshroud Claim\n1 Lotus Cobra\n1 Mulldrifter\n1 Rampaging Baloths\n1 Baleful Mastery\n1 Command Tower\n1 Exotic Orchard\n1 Path of Ancestry\n1 Alchemist's Refuge\n1 Darkwater Catacombs\n1 Dreadship Reef\n1 Duskmantle, House of Shadow\n1 Flooded Grove\n1 Foreboding Landscape\n1 Grim Backwoods\n1 Llanowar Wastes\n1 Nephalia Drownyard\n1 Novijen, Heart of Progress\n1 Noxious Bayou\n1 Overflowing Basin\n1 River Delta\n1 River of Tears\n1 Rootwater Depths\n1 Slumbering Waterways\n1 Svogthos, the Restless Tomb\n1 Tainted Isle\n1 Tainted Wood\n1 Twilight Mire\n1 Viridescent Bog\n1 Waterlogged Grove\n1 Waterveil Cavern\n1 Yavimaya Coast\n1 Balamb Garden, SeeD Academy // Balamb Garden, Airborne\n1 Botanical Sanctum\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Forest\n1 Swamp\n1 Island\n1 Forest\n1 Swamp",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": true,
+    "counts": {
+      "lands": 40,
+      "ramp": 11,
+      "card_draw": 13,
+      "targeted_removal": 10,
+      "mass_removal": 6,
+      "synergy": 17,
+      "uncategorized": 2
+    },
+    "gaps": {}
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "mass_removal",
+      "added": "Fade from History",
+      "removed": "Enhanced Surveillance"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Coercive Portal",
+      "removed": "Valley Floodcaller"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Feast of Succession",
+      "removed": "Grolnok, the Omnivore"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Cyclonic Rift",
+      "removed": "Lilysplash Mentor"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Selective Obliteration",
+      "removed": "Long River Lurker"
+    }
+  ]
+}

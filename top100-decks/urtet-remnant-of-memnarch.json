@@ -1,0 +1,628 @@
+{
+  "commander": "Urtet, Remnant of Memnarch",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 99,
+  "total_cost_display": "$74.06",
+  "deck": {
+    "commander": "Urtet, Remnant of Memnarch",
+    "creatures": [
+      {
+        "name": "Gold Myr",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/mrd/180/gold-myr"
+      },
+      {
+        "name": "Silver Myr",
+        "price": "$0.29",
+        "url": "https://manapool.com/card/som/202/silver-myr"
+      },
+      {
+        "name": "Copper Myr",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/som/146/copper-myr"
+      },
+      {
+        "name": "Iron Myr",
+        "price": "$0.60",
+        "url": "https://manapool.com/card/som/168/iron-myr"
+      },
+      {
+        "name": "Leaden Myr",
+        "price": "$0.33",
+        "url": "https://manapool.com/card/mrd/191/leaden-myr"
+      },
+      {
+        "name": "Palladium Myr",
+        "price": "$0.41",
+        "url": "https://manapool.com/card/m21/234/palladium-myr"
+      },
+      {
+        "name": "Myr Battlesphere",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/c16/263/myr-battlesphere"
+      },
+      {
+        "name": "Alloy Myr",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/mm2/201/alloy-myr"
+      },
+      {
+        "name": "Myr Kinsmith",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/one/236/myr-kinsmith"
+      },
+      {
+        "name": "Plague Myr",
+        "price": "$1.35",
+        "url": "https://manapool.com/card/mbs/125/plague-myr"
+      },
+      {
+        "name": "Myr Convert",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/one/234/myr-convert"
+      },
+      {
+        "name": "Argothian Enchantress",
+        "price": "$35.68",
+        "url": "https://manapool.com/card/ema/158/argothian-enchantress"
+      },
+      {
+        "name": "The Fall of Lord Konda // Fragment of Konda",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/neo/12/the-fall-of-lord-konda-fragment-of-konda"
+      },
+      {
+        "name": "Magmasaur",
+        "price": "$0.23",
+        "url": "https://manapool.com/card/tmp/188/magmasaur"
+      },
+      {
+        "name": "Etherium Sculptor",
+        "price": "$0.72",
+        "url": "https://manapool.com/card/ala/42/etherium-sculptor"
+      },
+      {
+        "name": "Jhoira, Weatherlight Captain",
+        "price": "$0.40",
+        "url": "https://manapool.com/card/eoc/118/jhoira-weatherlight-captain"
+      },
+      {
+        "name": "Perilous Myr",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/a25/227/perilous-myr"
+      },
+      {
+        "name": "Frogmyr Enforcer",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/120/frogmyr-enforcer"
+      },
+      {
+        "name": "Alibou, Ancient Witness",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/eoc/113/alibou-ancient-witness"
+      },
+      {
+        "name": "Myr Custodian",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/one/235/myr-custodian"
+      },
+      {
+        "name": "Myr Scrapling",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh2/230/myr-scrapling"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Guided Strike",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ima/23/guided-strike"
+      },
+      {
+        "name": "Reality Anchor",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmp/246/reality-anchor"
+      },
+      {
+        "name": "Curfew",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/usg/68/curfew"
+      },
+      {
+        "name": "Dispatch",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/eoc/64/dispatch"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Magmatic Insight",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ori/155/magmatic-insight"
+      },
+      {
+        "name": "A-You Come to a River",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Perish",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/plst/TMP-147/perish"
+      },
+      {
+        "name": "Dragonclaw Strike",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdm/180/dragonclaw-strike"
+      },
+      {
+        "name": "Reverent Silence",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/nem/111/reverent-silence"
+      },
+      {
+        "name": "Organic Extinction",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/eoc/66/organic-extinction"
+      },
+      {
+        "name": "The Great Aurora",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/ori/179/the-great-aurora"
+      },
+      {
+        "name": "Calamitous Cave-In",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lci/139/calamitous-cave-in"
+      },
+      {
+        "name": "Wake the Past",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/eoc/128/wake-the-past"
+      },
+      {
+        "name": "Thoughtcast",
+        "price": "$1.86",
+        "url": "https://manapool.com/card/wc04/ap54/thoughtcast"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Myr Reservoir",
+        "price": "$1.30",
+        "url": "https://manapool.com/card/som/183/myr-reservoir"
+      },
+      {
+        "name": "Mystic Forge",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/abro/69/mystic-forge"
+      },
+      {
+        "name": "Lux Artillery",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/eoc/140/lux-artillery"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "Lord Skitter's Blessing",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/woe/98/lord-skitters-blessing"
+      },
+      {
+        "name": "The Night of the Doctor",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/who/24/the-night-of-the-doctor"
+      },
+      {
+        "name": "Victory of the Pyrohammer",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Tempered Steel",
+        "price": "$1.04",
+        "url": "https://manapool.com/card/som/24/tempered-steel"
+      }
+    ],
+    "planeswalkers": [
+      {
+        "name": "Jace, Wielder of Mysteries",
+        "price": "$5.98",
+        "url": "https://manapool.com/card/war/54%E2%98%85/jace-wielder-of-mysteries"
+      },
+      {
+        "name": "Tezzeret, Betrayer of Flesh",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/mkc/120/tezzeret-betrayer-of-flesh"
+      }
+    ],
+    "lands": [
+      {
+        "name": "Seat of the Synod",
+        "price": "$0.62",
+        "url": "https://manapool.com/card/j25/773/seat-of-the-synod"
+      },
+      {
+        "name": "Ancient Den",
+        "price": "$0.95",
+        "url": "https://manapool.com/card/eoc/148/ancient-den"
+      },
+      {
+        "name": "Great Furnace",
+        "price": "$1.79",
+        "url": "https://manapool.com/card/eoc/161/great-furnace"
+      },
+      {
+        "name": "Vault of Whispers",
+        "price": "$1.56",
+        "url": "https://manapool.com/card/mrd/286/vault-of-whispers"
+      },
+      {
+        "name": "Tree of Tales",
+        "price": "$0.63",
+        "url": "https://manapool.com/card/mrd/285/tree-of-tales"
+      },
+      {
+        "name": "Darksteel Citadel",
+        "price": "$0.92",
+        "url": "https://manapool.com/card/wc04/mb164/darksteel-citadel"
+      },
+      {
+        "name": "Razortide Bridge",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/eoc/171/razortide-bridge"
+      },
+      {
+        "name": "Silverbluff Bridge",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh2/255/silverbluff-bridge"
+      },
+      {
+        "name": "Tanglepool Bridge",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/drc/175/tanglepool-bridge"
+      },
+      {
+        "name": "Mistvault Bridge",
+        "price": "$0.39",
+        "url": "https://manapool.com/card/mh2/249/mistvault-bridge"
+      },
+      {
+        "name": "Rustvale Bridge",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/eoc/175/rustvale-bridge"
+      },
+      {
+        "name": "Thornglint Bridge",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh2/258/thornglint-bridge"
+      },
+      {
+        "name": "Goldmire Bridge",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/mh2/247/goldmire-bridge"
+      },
+      {
+        "name": "Slagwoods Bridge",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/drc/171/slagwoods-bridge"
+      },
+      {
+        "name": "Spire of Industry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/drc/172/spire-of-industry"
+      },
+      {
+        "name": "Darkmoss Bridge",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsc/269/darkmoss-bridge"
+      },
+      {
+        "name": "Drossforge Bridge",
+        "price": "$0.83",
+        "url": "https://manapool.com/card/mh2/246/drossforge-bridge"
+      },
+      {
+        "name": "Buried Ruin",
+        "price": "$0.32",
+        "url": "https://manapool.com/card/pip/254/buried-ruin"
+      },
+      {
+        "name": "Command Tower",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/325/command-tower"
+      },
+      {
+        "name": "Exotic Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/131/exotic-orchard"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Adarkar Wastes",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/blc/291/adarkar-wastes"
+      },
+      {
+        "name": "Aggressive Crag",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/cmb2/112/aggressive-crag"
+      },
+      {
+        "name": "Alchemist's Refuge",
+        "price": "$0.65",
+        "url": "https://manapool.com/card/lcc/318/alchemists-refuge"
+      },
+      {
+        "name": "An-Havva Township",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/hml/111/an-havva-township"
+      },
+      {
+        "name": "Aysen Abbey",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/hml/112/aysen-abbey"
+      },
+      {
+        "name": "Battlefield Forge",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/blc/293/battlefield-forge"
+      },
+      {
+        "name": "Bountiful Landscape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/217/bountiful-landscape"
+      },
+      {
+        "name": "Brushland",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/fic/377/brushland"
+      },
+      {
+        "name": "Calciform Pools",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/tsp/270/calciform-pools"
+      },
+      {
+        "name": "Cascade Bluffs",
+        "price": "$0.51",
+        "url": "https://manapool.com/card/eoc/153/cascade-bluffs"
+      },
+      {
+        "name": "Castle Sengir",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/hml/113/castle-sengir"
+      },
+      {
+        "name": "Caves of Koilos",
+        "price": "$0.80",
+        "url": "https://manapool.com/card/m15/241/caves-of-koilos"
+      },
+      {
+        "name": "Cinder Marsh",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/tmp/317/cinder-marsh"
+      },
+      {
+        "name": "Cloudcrest Lake",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/chk/274/cloudcrest-lake"
+      },
+      {
+        "name": "Contaminated Landscape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/218/contaminated-landscape"
+      },
+      {
+        "name": "Contested Cliffs",
+        "price": "$0.29",
+        "url": "https://manapool.com/card/c13/282/contested-cliffs"
+      },
+      {
+        "name": "Crosis's Catacombs",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmr/242/crosiss-catacombs"
+      },
+      {
+        "name": "Crypt of the Eternals",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/hou/169/crypt-of-the-eternals"
+      },
+      {
+        "name": "Crystal Quarry",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/eos/10/crystal-quarry"
+      },
+      {
+        "name": "Darigaaz's Caldera",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmr/243/darigaazs-caldera"
+      },
+      {
+        "name": "Darkwater Catacombs",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/c19/238/darkwater-catacombs"
+      },
+      {
+        "name": "Deceptive Landscape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/219/deceptive-landscape"
+      },
+      {
+        "name": "Desolate Lighthouse",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/avr/227/desolate-lighthouse"
+      },
+      {
+        "name": "Desolate Mire",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/386/desolate-mire"
+      },
+      {
+        "name": "Abandoned Campground",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsk/255/abandoned-campground"
+      },
+      {
+        "name": "Abraded Bluffs",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/otj/251/abraded-bluffs"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      }
+    ],
+    "other": []
+  },
+  "export_text": "1 Urtet, Remnant of Memnarch *CMDR*\n1 Gold Myr\n1 Silver Myr\n1 Copper Myr\n1 Iron Myr\n1 Leaden Myr\n1 Palladium Myr\n1 Guided Strike\n1 Myr Battlesphere\n1 Alloy Myr\n1 Jace, Wielder of Mysteries\n1 Myr Kinsmith\n1 Reality Anchor\n1 Plague Myr\n1 Lord Skitter's Blessing\n1 Myr Reservoir\n1 Myr Convert\n1 Magmatic Insight\n1 Argothian Enchantress\n1 Tezzeret, Betrayer of Flesh\n1 A-You Come to a River\n1 The Fall of Lord Konda // Fragment of Konda\n1 Perish\n1 Magmasaur\n1 Curfew\n1 Dragonclaw Strike\n1 Seat of the Synod\n1 Reverent Silence\n1 Organic Extinction\n1 The Great Aurora\n1 Ancient Den\n1 Calamitous Cave-In\n1 Great Furnace\n1 Vault of Whispers\n1 The Night of the Doctor\n1 Victory of the Pyrohammer\n1 Tree of Tales\n1 Dispatch\n1 Darksteel Citadel\n1 Etherium Sculptor\n1 Jhoira, Weatherlight Captain\n1 Razortide Bridge\n1 Silverbluff Bridge\n1 Tanglepool Bridge\n1 Mistvault Bridge\n1 Wake the Past\n1 Mystic Forge\n1 Rustvale Bridge\n1 Thoughtcast\n1 Thornglint Bridge\n1 Goldmire Bridge\n1 Lux Artillery\n1 Slagwoods Bridge\n1 Perilous Myr\n1 Spire of Industry\n1 Frogmyr Enforcer\n1 Darkmoss Bridge\n1 Drossforge Bridge\n1 Buried Ruin\n1 Tempered Steel\n1 Alibou, Ancient Witness\n1 Myr Custodian\n1 Myr Scrapling\n1 Command Tower\n1 Exotic Orchard\n1 Path of Ancestry\n1 Adarkar Wastes\n1 Aggressive Crag\n1 Alchemist's Refuge\n1 An-Havva Township\n1 Aysen Abbey\n1 Battlefield Forge\n1 Bountiful Landscape\n1 Brushland\n1 Calciform Pools\n1 Cascade Bluffs\n1 Castle Sengir\n1 Caves of Koilos\n1 Cinder Marsh\n1 Cloudcrest Lake\n1 Contaminated Landscape\n1 Contested Cliffs\n1 Crosis's Catacombs\n1 Crypt of the Eternals\n1 Crystal Quarry\n1 Darigaaz's Caldera\n1 Darkwater Catacombs\n1 Deceptive Landscape\n1 Desolate Lighthouse\n1 Desolate Mire\n1 Abandoned Campground\n1 Abraded Bluffs\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Forest\n1 Plains\n1 Mountain\n1 Island\n1 Swamp",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": true,
+    "counts": {
+      "lands": 55,
+      "ramp": 10,
+      "card_draw": 10,
+      "targeted_removal": 8,
+      "mass_removal": 8,
+      "synergy": 8,
+      "uncategorized": 0
+    },
+    "gaps": {}
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "card_draw",
+      "added": "Guided Strike",
+      "removed": "Myr Galvanizer"
+    },
+    {
+      "category": "card_draw",
+      "added": "Jace, Wielder of Mysteries",
+      "removed": "Shimmer Myr"
+    },
+    {
+      "category": "card_draw",
+      "added": "Reality Anchor",
+      "removed": "Myr Retriever"
+    },
+    {
+      "category": "card_draw",
+      "added": "Lord Skitter's Blessing",
+      "removed": "Hovermyr"
+    },
+    {
+      "category": "card_draw",
+      "added": "Magmatic Insight",
+      "removed": "Darksteel Myr"
+    },
+    {
+      "category": "card_draw",
+      "added": "Argothian Enchantress",
+      "removed": "Lodestone Myr"
+    },
+    {
+      "category": "card_draw",
+      "added": "Tezzeret, Betrayer of Flesh",
+      "removed": "Myr Enforcer"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "A-You Come to a River",
+      "removed": "Myr Welder"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "The Fall of Lord Konda // Fragment of Konda",
+      "removed": "Myrsmith"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Perish",
+      "removed": "Foundry Inspector"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Magmasaur",
+      "removed": "Myr Propagator"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Curfew",
+      "removed": "Ichorclaw Myr"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Dragonclaw Strike",
+      "removed": "Myr Sire"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Reverent Silence",
+      "removed": "Steel Overseer"
+    },
+    {
+      "category": "mass_removal",
+      "added": "The Great Aurora",
+      "removed": "Myr Superion"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Calamitous Cave-In",
+      "removed": "Brudiclad, Telchor Engineer"
+    },
+    {
+      "category": "mass_removal",
+      "added": "The Night of the Doctor",
+      "removed": "Knighted Myr"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Victory of the Pyrohammer",
+      "removed": "Genesis Chamber"
+    }
+  ]
+}

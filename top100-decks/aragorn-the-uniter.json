@@ -1,0 +1,592 @@
+{
+  "commander": "Aragorn, the Uniter",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 98,
+  "total_cost_display": "$972.93",
+  "deck": {
+    "commander": "Aragorn, the Uniter",
+    "creatures": [
+      {
+        "name": "\u00c9owyn, Shieldmaiden",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltc/1/eowyn-shieldmaiden"
+      },
+      {
+        "name": "Sylvok Explorer",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/5dn/93/sylvok-explorer"
+      },
+      {
+        "name": "Sphinx of Uthuun",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c14/128/sphinx-of-uthuun"
+      },
+      {
+        "name": "\u00c9owyn, Fearless Knight",
+        "price": "$0.71",
+        "url": "https://manapool.com/card/altr/15/eowyn-fearless-knight"
+      },
+      {
+        "name": "Faramir, Prince of Ithilien",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltr/202/faramir-prince-of-ithilien"
+      },
+      {
+        "name": "Deadshot Minotaur",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/arb/52/deadshot-minotaur"
+      },
+      {
+        "name": "\u00c9omer, King of Rohan",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/ltc/52/eomer-king-of-rohan"
+      },
+      {
+        "name": "Cataclysmic Gearhulk",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c20/80/cataclysmic-gearhulk"
+      },
+      {
+        "name": "Galadriel, Light of Valinor",
+        "price": "$0.59",
+        "url": "https://manapool.com/card/altc/8/galadriel-light-of-valinor"
+      },
+      {
+        "name": "Inga and Esika",
+        "price": "$1.19",
+        "url": "https://manapool.com/card/mom/229/inga-and-esika"
+      },
+      {
+        "name": "Faeburrow Elder",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/tdc/289/faeburrow-elder"
+      },
+      {
+        "name": "Omnath, Locus of Creation",
+        "price": "$3.77",
+        "url": "https://manapool.com/card/pznr/232p/omnath-locus-of-creation"
+      },
+      {
+        "name": "Merry, Esquire of Rohan",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltr/215/merry-esquire-of-rohan"
+      },
+      {
+        "name": "Katilda, Dawnhart Prime",
+        "price": "$0.38",
+        "url": "https://manapool.com/card/mid/309/katilda-dawnhart-prime"
+      },
+      {
+        "name": "Aragorn and Arwen, Wed",
+        "price": "$0.78",
+        "url": "https://manapool.com/card/altr/33/aragorn-and-arwen-wed"
+      },
+      {
+        "name": "Prince Imrahil the Fair",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltr/219/prince-imrahil-the-fair"
+      },
+      {
+        "name": "Frodo Baggins",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltr/205/frodo-baggins"
+      },
+      {
+        "name": "Kyler, Sigardian Emissary",
+        "price": "$0.53",
+        "url": "https://manapool.com/card/mic/4/kyler-sigardian-emissary"
+      },
+      {
+        "name": "Elrond, Master of Healing",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltr/200/elrond-master-of-healing"
+      },
+      {
+        "name": "Boromir, Gondor's Hope",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltc/49/boromir-gondors-hope"
+      },
+      {
+        "name": "Hajar, Loyal Bodyguard",
+        "price": "$0.38",
+        "url": "https://manapool.com/card/bro/211/hajar-loyal-bodyguard"
+      },
+      {
+        "name": "Gandalf the White",
+        "price": "$0.78",
+        "url": "https://manapool.com/card/altr/3/gandalf-the-white"
+      },
+      {
+        "name": "Galadriel of Lothl\u00f3rien",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltr/206/galadriel-of-lothlorien"
+      },
+      {
+        "name": "Sigarda, Font of Blessings",
+        "price": "$2.96",
+        "url": "https://manapool.com/card/mat/47/sigarda-font-of-blessings"
+      },
+      {
+        "name": "Samwise Gamgee",
+        "price": "$0.40",
+        "url": "https://manapool.com/card/altr/52/samwise-gamgee"
+      },
+      {
+        "name": "\u00c9omer, Marshal of Rohan",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltr/120/eomer-marshal-of-rohan"
+      },
+      {
+        "name": "Torens, Fist of the Angels",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/inr/250/torens-fist-of-the-angels"
+      },
+      {
+        "name": "Legolas, Counter of Kills",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltr/212/legolas-counter-of-kills"
+      },
+      {
+        "name": "Arwen Und\u00f3miel",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltr/194/arwen-undomiel"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Peerless Recycling",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blb/188/peerless-recycling"
+      },
+      {
+        "name": "Contradict",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dtk/49/contradict"
+      },
+      {
+        "name": "Brokers Charm",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/snc/171/brokers-charm"
+      },
+      {
+        "name": "Naya Charm",
+        "price": "$0.34",
+        "url": "https://manapool.com/card/ddh/29/naya-charm"
+      },
+      {
+        "name": "Bant Charm",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/2x2/181/bant-charm"
+      },
+      {
+        "name": "Cabaretti Charm",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/snc/173/cabaretti-charm"
+      },
+      {
+        "name": "Friendly Rivalry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltr/204/friendly-rivalry"
+      },
+      {
+        "name": "Jeskai Charm",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/2x2/232/jeskai-charm"
+      },
+      {
+        "name": "Simic Charm",
+        "price": "$0.84",
+        "url": "https://manapool.com/card/gtc/195/simic-charm"
+      },
+      {
+        "name": "Dovin's Veto",
+        "price": "$2.02",
+        "url": "https://manapool.com/card/fca/51/dovins-veto"
+      },
+      {
+        "name": "Temur Charm",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ktk/208/temur-charm"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Lessons from Life",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmt/155/lessons-from-life"
+      },
+      {
+        "name": "Consuming Tide",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/vow/53/consuming-tide"
+      },
+      {
+        "name": "Oversimplify",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c21/72/oversimplify"
+      },
+      {
+        "name": "Forth Eorlingas!",
+        "price": "$3.01",
+        "url": "https://manapool.com/card/ltc/56/forth-eorlingas"
+      },
+      {
+        "name": "Supreme Verdict",
+        "price": "$1.51",
+        "url": "https://manapool.com/card/ltc/272/supreme-verdict"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Mox Diamond",
+        "price": "$931.08",
+        "url": "https://manapool.com/card/sth/138/mox-diamond"
+      },
+      {
+        "name": "Chromatic Lantern",
+        "price": "$0.44",
+        "url": "https://manapool.com/card/tmc/58/chromatic-lantern"
+      },
+      {
+        "name": "Arcane Signet",
+        "price": "$0.37",
+        "url": "https://manapool.com/card/tmc/57/arcane-signet"
+      },
+      {
+        "name": "Doors of Durin",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltr/199/doors-of-durin"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "Vault 75: Middle School",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/pip/27/vault-75-middle-school"
+      },
+      {
+        "name": "Trace of Abundance",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/arb/142/trace-of-abundance"
+      },
+      {
+        "name": "Brokers Ascendancy",
+        "price": "$0.67",
+        "url": "https://manapool.com/card/snc/297/brokers-ascendancy"
+      }
+    ],
+    "planeswalkers": [],
+    "lands": [
+      {
+        "name": "Minas Tirith",
+        "price": "$0.40",
+        "url": "https://manapool.com/card/altr/55/minas-tirith"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Great Hall of the Citadel",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltr/254/great-hall-of-the-citadel"
+      },
+      {
+        "name": "Rivendell",
+        "price": "$1.35",
+        "url": "https://manapool.com/card/ltr/259/rivendell"
+      },
+      {
+        "name": "Clifftop Retreat",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/300/clifftop-retreat"
+      },
+      {
+        "name": "The Grey Havens",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltr/255/the-grey-havens"
+      },
+      {
+        "name": "Mines of Moria",
+        "price": "$0.51",
+        "url": "https://manapool.com/card/altr/56/mines-of-moria"
+      },
+      {
+        "name": "Pillar of the Paruns",
+        "price": "$0.77",
+        "url": "https://manapool.com/card/2x2/328/pillar-of-the-paruns"
+      },
+      {
+        "name": "The Shire",
+        "price": "$2.44",
+        "url": "https://manapool.com/card/ltr/260/the-shire"
+      },
+      {
+        "name": "Sulfur Falls",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/drc/173/sulfur-falls"
+      },
+      {
+        "name": "Command Tower",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/325/command-tower"
+      },
+      {
+        "name": "Exotic Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/131/exotic-orchard"
+      },
+      {
+        "name": "Adarkar Wastes",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/blc/291/adarkar-wastes"
+      },
+      {
+        "name": "Aggressive Crag",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/cmb2/112/aggressive-crag"
+      },
+      {
+        "name": "Alchemist's Refuge",
+        "price": "$0.65",
+        "url": "https://manapool.com/card/lcc/318/alchemists-refuge"
+      },
+      {
+        "name": "An-Havva Township",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/hml/111/an-havva-township"
+      },
+      {
+        "name": "Aysen Abbey",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/hml/112/aysen-abbey"
+      },
+      {
+        "name": "Battlefield Forge",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/blc/293/battlefield-forge"
+      },
+      {
+        "name": "Bountiful Landscape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/217/bountiful-landscape"
+      },
+      {
+        "name": "Brushland",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/fic/377/brushland"
+      },
+      {
+        "name": "Calciform Pools",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/tsp/270/calciform-pools"
+      },
+      {
+        "name": "Cascade Bluffs",
+        "price": "$0.51",
+        "url": "https://manapool.com/card/eoc/153/cascade-bluffs"
+      },
+      {
+        "name": "Cloudcrest Lake",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/chk/274/cloudcrest-lake"
+      },
+      {
+        "name": "Contested Cliffs",
+        "price": "$0.29",
+        "url": "https://manapool.com/card/c13/282/contested-cliffs"
+      },
+      {
+        "name": "Desolate Lighthouse",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/avr/227/desolate-lighthouse"
+      },
+      {
+        "name": "Ferrous Lake",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/pip/148/ferrous-lake"
+      },
+      {
+        "name": "Fetching Garden",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/mb2/611/fetching-garden"
+      },
+      {
+        "name": "Flooded Grove",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltc/309/flooded-grove"
+      },
+      {
+        "name": "Fungal Reaches",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tsr/279/fungal-reaches"
+      },
+      {
+        "name": "Grove of the Guardian",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/rtr/240/grove-of-the-guardian"
+      },
+      {
+        "name": "Hushwood Verge",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/adsk/26/hushwood-verge"
+      },
+      {
+        "name": "Karplusan Forest",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/drc/163/karplusan-forest"
+      },
+      {
+        "name": "Kessig Wolf Run",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mkc/269/kessig-wolf-run"
+      },
+      {
+        "name": "Land Cap",
+        "price": "$0.39",
+        "url": "https://manapool.com/card/ice/357/land-cap"
+      },
+      {
+        "name": "Mogg Hollows",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/tmp/320/mogg-hollows"
+      },
+      {
+        "name": "Moorland Haunt",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/isd/244/moorland-haunt"
+      },
+      {
+        "name": "Abandoned Campground",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsk/255/abandoned-campground"
+      },
+      {
+        "name": "Abraded Bluffs",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/otj/251/abraded-bluffs"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      }
+    ],
+    "other": []
+  },
+  "export_text": "1 Aragorn, the Uniter *CMDR*\n1 \u00c9owyn, Shieldmaiden\n1 Mox Diamond\n1 Sylvok Explorer\n1 Lessons from Life\n1 Sphinx of Uthuun\n1 Peerless Recycling\n1 \u00c9owyn, Fearless Knight\n1 Faramir, Prince of Ithilien\n1 Deadshot Minotaur\n1 Contradict\n1 Minas Tirith\n1 Brokers Charm\n1 Naya Charm\n1 Path of Ancestry\n1 \u00c9omer, King of Rohan\n1 Vault 75: Middle School\n1 Cataclysmic Gearhulk\n1 Galadriel, Light of Valinor\n1 Inga and Esika\n1 Bant Charm\n1 Great Hall of the Citadel\n1 Faeburrow Elder\n1 Consuming Tide\n1 Rivendell\n1 Oversimplify\n1 Cabaretti Charm\n1 Omnath, Locus of Creation\n1 Merry, Esquire of Rohan\n1 Katilda, Dawnhart Prime\n1 Aragorn and Arwen, Wed\n1 Clifftop Retreat\n1 Prince Imrahil the Fair\n1 Frodo Baggins\n1 Friendly Rivalry\n1 Trace of Abundance\n1 The Grey Havens\n1 Kyler, Sigardian Emissary\n1 Elrond, Master of Healing\n1 Jeskai Charm\n1 Forth Eorlingas!\n1 Mines of Moria\n1 Chromatic Lantern\n1 Pillar of the Paruns\n1 Boromir, Gondor's Hope\n1 Hajar, Loyal Bodyguard\n1 Gandalf the White\n1 Galadriel of Lothl\u00f3rien\n1 Simic Charm\n1 Supreme Verdict\n1 The Shire\n1 Arcane Signet\n1 Sulfur Falls\n1 Sigarda, Font of Blessings\n1 Doors of Durin\n1 Brokers Ascendancy\n1 Samwise Gamgee\n1 \u00c9omer, Marshal of Rohan\n1 Torens, Fist of the Angels\n1 Legolas, Counter of Kills\n1 Arwen Und\u00f3miel\n1 Dovin's Veto\n1 Temur Charm\n1 Command Tower\n1 Exotic Orchard\n1 Adarkar Wastes\n1 Aggressive Crag\n1 Alchemist's Refuge\n1 An-Havva Township\n1 Aysen Abbey\n1 Battlefield Forge\n1 Bountiful Landscape\n1 Brushland\n1 Calciform Pools\n1 Cascade Bluffs\n1 Cloudcrest Lake\n1 Contested Cliffs\n1 Desolate Lighthouse\n1 Ferrous Lake\n1 Fetching Garden\n1 Flooded Grove\n1 Fungal Reaches\n1 Grove of the Guardian\n1 Hushwood Verge\n1 Karplusan Forest\n1 Kessig Wolf Run\n1 Land Cap\n1 Mogg Hollows\n1 Moorland Haunt\n1 Abandoned Campground\n1 Abraded Bluffs\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Forest\n1 Island\n1 Plains\n1 Mountain\n1 Forest",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": true,
+    "counts": {
+      "lands": 46,
+      "ramp": 10,
+      "card_draw": 9,
+      "targeted_removal": 11,
+      "mass_removal": 6,
+      "synergy": 16,
+      "uncategorized": 0
+    },
+    "gaps": {}
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "ramp",
+      "added": "Mox Diamond",
+      "removed": "Aragorn, King of Gondor"
+    },
+    {
+      "category": "ramp",
+      "added": "Sylvok Explorer",
+      "removed": "Th\u00e9oden, King of Rohan"
+    },
+    {
+      "category": "ramp",
+      "added": "Lessons from Life",
+      "removed": "Pippin, Guard of the Citadel"
+    },
+    {
+      "category": "card_draw",
+      "added": "Sphinx of Uthuun",
+      "removed": "General Ferrous Rokiric"
+    },
+    {
+      "category": "card_draw",
+      "added": "Peerless Recycling",
+      "removed": "Boromir, Warden of the Tower"
+    },
+    {
+      "category": "card_draw",
+      "added": "Deadshot Minotaur",
+      "removed": "Aragorn, Hornburg Hero"
+    },
+    {
+      "category": "card_draw",
+      "added": "Contradict",
+      "removed": "Faramir, Steward of Gondor"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Vault 75: Middle School",
+      "removed": "Surrak Dragonclaw"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Cataclysmic Gearhulk",
+      "removed": "Horn of Gondor"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Consuming Tide",
+      "removed": "Hero of Precinct One"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Oversimplify",
+      "removed": "Rienne, Angel of Rebirth"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Omnath, Locus of Creation",
+      "removed": "Rising of the Day"
+    }
+  ]
+}

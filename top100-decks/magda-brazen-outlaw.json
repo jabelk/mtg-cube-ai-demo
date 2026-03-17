@@ -1,0 +1,610 @@
+{
+  "commander": "Magda, Brazen Outlaw",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 99,
+  "total_cost_display": "$61.45",
+  "deck": {
+    "commander": "Magda, Brazen Outlaw",
+    "creatures": [
+      {
+        "name": "Yuyan Archers",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tla/161/yuyan-archers"
+      },
+      {
+        "name": "Bloodfire Dwarf",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/apc/56/bloodfire-dwarf"
+      },
+      {
+        "name": "Magda, the Hoardmaster",
+        "price": "$0.29",
+        "url": "https://manapool.com/card/otj/133/magda-the-hoardmaster"
+      },
+      {
+        "name": "Dwarven Scorcher",
+        "price": "$0.28",
+        "url": "https://manapool.com/card/jud/86/dwarven-scorcher"
+      },
+      {
+        "name": "Plundering Barbarian",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/158/plundering-barbarian"
+      },
+      {
+        "name": "Spark Mage",
+        "price": "$2.13",
+        "url": "https://manapool.com/card/ody/222/spark-mage"
+      },
+      {
+        "name": "Imperial Recruiter",
+        "price": "$13.24",
+        "url": "https://manapool.com/card/mh2/281/imperial-recruiter"
+      },
+      {
+        "name": "Vault Robber",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/j22/617/vault-robber"
+      },
+      {
+        "name": "Gl\u00f3in, Dwarf Emissary",
+        "price": "$0.47",
+        "url": "https://manapool.com/card/ltr/132/gloin-dwarf-emissary"
+      },
+      {
+        "name": "Three Tree Mascot",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blb/251/three-tree-mascot"
+      },
+      {
+        "name": "Gimli of the Glittering Caves",
+        "price": "$2.36",
+        "url": "https://manapool.com/card/ltc/32/gimli-of-the-glittering-caves"
+      },
+      {
+        "name": "Battered Golem",
+        "price": "$0.30",
+        "url": "https://manapool.com/card/5dn/106/battered-golem"
+      },
+      {
+        "name": "Bloodline Pretender",
+        "price": "$1.12",
+        "url": "https://manapool.com/card/khm/235/bloodline-pretender"
+      },
+      {
+        "name": "Seven Dwarves",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/eld/141/seven-dwarves"
+      },
+      {
+        "name": "Hellkite Tyrant",
+        "price": "$1.85",
+        "url": "https://manapool.com/card/fic/295/hellkite-tyrant"
+      },
+      {
+        "name": "Dwarven Recruiter",
+        "price": "$0.35",
+        "url": "https://manapool.com/card/plst/ODY-186/dwarven-recruiter"
+      },
+      {
+        "name": "Twinshot Sniper",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/neo/168/twinshot-sniper"
+      },
+      {
+        "name": "Dwarven Miner",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/plst/MIR-169/dwarven-miner"
+      },
+      {
+        "name": "Simian Spirit Guide",
+        "price": "$2.28",
+        "url": "https://manapool.com/card/plc/122/simian-spirit-guide"
+      },
+      {
+        "name": "Fearless Liberator",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/khm/135/fearless-liberator"
+      },
+      {
+        "name": "Dwarven Blastminer",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/plst/ONS-199/dwarven-blastminer"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Deem Worthy",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/akh/127/deem-worthy"
+      },
+      {
+        "name": "Radiating Lightning",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dom/138/radiating-lightning"
+      },
+      {
+        "name": "Bottle-Cap Blast",
+        "price": "$0.97",
+        "url": "https://manapool.com/card/pip/55/bottle-cap-blast"
+      },
+      {
+        "name": "Galvanic Blast",
+        "price": "$2.02",
+        "url": "https://manapool.com/card/som/91/galvanic-blast"
+      },
+      {
+        "name": "Red Elemental Blast",
+        "price": "$3.04",
+        "url": "https://manapool.com/card/4ed/218/red-elemental-blast"
+      },
+      {
+        "name": "Flare of Duplication",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/amh3/38/flare-of-duplication"
+      },
+      {
+        "name": "Abrade",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/2xm/114/abrade"
+      },
+      {
+        "name": "Return the Favor",
+        "price": "$2.06",
+        "url": "https://manapool.com/card/otj/142/return-the-favor"
+      },
+      {
+        "name": "Pyrokinesis",
+        "price": "$1.66",
+        "url": "https://manapool.com/card/ddl/32/pyrokinesis"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Pirate's Landing",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Anger of the Gods",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/ths/112/anger-of-the-gods"
+      },
+      {
+        "name": "Immolating Gyre",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Whipflare",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/nph/102/whipflare"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Ominous Parcel",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/snc/241/ominous-parcel"
+      },
+      {
+        "name": "Buzzing Whack-a-Doodle",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ust/141/buzzing-whack-a-doodle"
+      },
+      {
+        "name": "Springleaf Drum",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ecl/260/springleaf-drum"
+      },
+      {
+        "name": "Smuggler's Copter",
+        "price": "$0.61",
+        "url": "https://manapool.com/card/plst/KLD-235/smugglers-copter"
+      },
+      {
+        "name": "Unlicensed Hearse",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/otp/64/unlicensed-hearse"
+      },
+      {
+        "name": "Firdoch Core",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ecl/255/firdoch-core"
+      },
+      {
+        "name": "Sculpting Steel",
+        "price": "$1.32",
+        "url": "https://manapool.com/card/brr/50/sculpting-steel"
+      },
+      {
+        "name": "Flywheel Racer",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mom/259/flywheel-racer"
+      },
+      {
+        "name": "High-Speed Hoverbike",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/neo/247/high-speed-hoverbike"
+      },
+      {
+        "name": "Damping Sphere",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmr/219/damping-sphere"
+      },
+      {
+        "name": "Vexing Bauble",
+        "price": "$0.57",
+        "url": "https://manapool.com/card/mh3/212/vexing-bauble"
+      },
+      {
+        "name": "Grafdigger's Cage",
+        "price": "$2.07",
+        "url": "https://manapool.com/card/mm3/221/grafdiggers-cage"
+      },
+      {
+        "name": "Mirror of the Forebears",
+        "price": "$1.40",
+        "url": "https://manapool.com/card/c17/54/mirror-of-the-forebears"
+      },
+      {
+        "name": "Spine of Ish Sah",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/285/spine-of-ish-sah"
+      },
+      {
+        "name": "Peter Parker's Camera",
+        "price": "$1.04",
+        "url": "https://manapool.com/card/spm/171/peter-parkers-camera"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "Bestial Fury",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/all/67a/bestial-fury"
+      }
+    ],
+    "planeswalkers": [
+      {
+        "name": "Karn, Living Legacy",
+        "price": "$0.77",
+        "url": "https://manapool.com/card/dmu/1/karn-living-legacy"
+      },
+      {
+        "name": "Chandra, Pyrogenius",
+        "price": "N/A",
+        "url": "https://manapool.com/card/kld/265/chandra-pyrogenius"
+      }
+    ],
+    "lands": [
+      {
+        "name": "Holdout Settlement",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/ogw/172/holdout-settlement"
+      },
+      {
+        "name": "Survivors' Encampment",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/hou/184/survivors-encampment"
+      },
+      {
+        "name": "Treasure Vault",
+        "price": "$0.80",
+        "url": "https://manapool.com/card/drc/180/treasure-vault"
+      },
+      {
+        "name": "Mutavault",
+        "price": "$2.43",
+        "url": "https://manapool.com/card/ecl/11/mutavault"
+      },
+      {
+        "name": "Dwarven Mine",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/eld/243/dwarven-mine"
+      },
+      {
+        "name": "Volatile Fault",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lci/286/volatile-fault"
+      },
+      {
+        "name": "Kavaron, Memorial World",
+        "price": "$0.55",
+        "url": "https://manapool.com/card/eoe/255/kavaron-memorial-world"
+      },
+      {
+        "name": "Great Furnace",
+        "price": "$1.79",
+        "url": "https://manapool.com/card/eoc/161/great-furnace"
+      },
+      {
+        "name": "Mines of Moria",
+        "price": "$0.51",
+        "url": "https://manapool.com/card/altr/56/mines-of-moria"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Aether Hub",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/drc/145/aether-hub"
+      },
+      {
+        "name": "Ally Encampment",
+        "price": "$0.68",
+        "url": "https://manapool.com/card/bfz/228/ally-encampment"
+      },
+      {
+        "name": "Amonkhet Raceway",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dft/248/amonkhet-raceway"
+      },
+      {
+        "name": "Ancient Ziggurat",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/ecc/144/ancient-ziggurat"
+      },
+      {
+        "name": "Arch of Orazca",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/lcc/319/arch-of-orazca"
+      },
+      {
+        "name": "Archaeological Dig",
+        "price": "$0.35",
+        "url": "https://manapool.com/card/inv/320/archaeological-dig"
+      },
+      {
+        "name": "Archway Commons",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/plst/STX-263/archway-commons"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      }
+    ],
+    "other": [
+      {
+        "name": "Lightning Bolt",
+        "price": "$0.51",
+        "url": "https://manapool.com/card/fca/40/lightning-bolt"
+      }
+    ]
+  },
+  "export_text": "1 Magda, Brazen Outlaw *CMDR*\n1 Ominous Parcel\n1 Buzzing Whack-a-Doodle\n1 Springleaf Drum\n1 Yuyan Archers\n1 Bloodfire Dwarf\n1 Bestial Fury\n1 Magda, the Hoardmaster\n1 Holdout Settlement\n1 Survivors' Encampment\n1 Dwarven Scorcher\n1 Plundering Barbarian\n1 Karn, Living Legacy\n1 Deem Worthy\n1 Pirate's Landing\n1 Smuggler's Copter\n1 Spark Mage\n1 Imperial Recruiter\n1 Radiating Lightning\n1 Treasure Vault\n1 Anger of the Gods\n1 Vault Robber\n1 Immolating Gyre\n1 Bottle-Cap Blast\n1 Chandra, Pyrogenius\n1 Whipflare\n1 Gl\u00f3in, Dwarf Emissary\n1 Unlicensed Hearse\n1 Three Tree Mascot\n1 Mutavault\n1 Firdoch Core\n1 Dwarven Mine\n1 Galvanic Blast\n1 Sculpting Steel\n1 Flywheel Racer\n1 Gimli of the Glittering Caves\n1 High-Speed Hoverbike\n1 Battered Golem\n1 Bloodline Pretender\n1 Volatile Fault\n1 Kavaron, Memorial World\n1 Seven Dwarves\n1 Hellkite Tyrant\n1 Damping Sphere\n1 Great Furnace\n1 Red Elemental Blast\n1 Dwarven Recruiter\n1 Twinshot Sniper\n1 Dwarven Miner\n1 Vexing Bauble\n1 Mines of Moria\n1 Flare of Duplication\n1 Grafdigger's Cage\n1 Mirror of the Forebears\n1 Abrade\n1 Spine of Ish Sah\n1 Simian Spirit Guide\n1 Fearless Liberator\n1 Lightning Bolt\n1 Dwarven Blastminer\n1 Return the Favor\n1 Pyrokinesis\n1 Peter Parker's Camera\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Aether Hub\n1 Ally Encampment\n1 Amonkhet Raceway\n1 Ancient Ziggurat\n1 Arch of Orazca\n1 Archaeological Dig\n1 Archway Commons\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain\n1 Mountain",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": false,
+    "counts": {
+      "lands": 46,
+      "ramp": 8,
+      "card_draw": 7,
+      "targeted_removal": 15,
+      "mass_removal": 6,
+      "synergy": 16,
+      "uncategorized": 1
+    },
+    "gaps": {
+      "card_draw": {
+        "actual": 7,
+        "target": 10,
+        "needed": 3
+      }
+    }
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "card_draw",
+      "added": "Ominous Parcel",
+      "removed": "Dwarven Grunt"
+    },
+    {
+      "category": "card_draw",
+      "added": "Buzzing Whack-a-Doodle",
+      "removed": "Axgard Cavalry"
+    },
+    {
+      "category": "card_draw",
+      "added": "Yuyan Archers",
+      "removed": "Universal Automaton"
+    },
+    {
+      "category": "card_draw",
+      "added": "Bestial Fury",
+      "removed": "Maskwood Nexus"
+    },
+    {
+      "category": "card_draw",
+      "added": "Karn, Living Legacy",
+      "removed": "Metallic Mimic"
+    },
+    {
+      "category": "card_draw",
+      "added": "Deem Worthy",
+      "removed": "Adaptive Automaton"
+    },
+    {
+      "category": "card_draw",
+      "added": "Pirate's Landing",
+      "removed": "Dwarven Trader"
+    },
+    {
+      "category": "card_draw",
+      "added": "Imperial Recruiter",
+      "removed": "Liberated Dwarf"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Radiating Lightning",
+      "removed": "Enslaved Dwarf"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Anger of the Gods",
+      "removed": "Barkform Harvester"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Immolating Gyre",
+      "removed": "Dwarven Armorer"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Chandra, Pyrogenius",
+      "removed": "God-Pharaoh's Statue"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Whipflare",
+      "removed": "Lifecraft Engine"
+    }
+  ]
+}

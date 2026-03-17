@@ -1,0 +1,632 @@
+{
+  "commander": "The First Sliver",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 98,
+  "total_cost_display": "$72.89",
+  "deck": {
+    "commander": "The First Sliver",
+    "creatures": [
+      {
+        "name": "Gemhide Sliver",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/tsr/205/gemhide-sliver"
+      },
+      {
+        "name": "Manaweft Sliver",
+        "price": "$0.41",
+        "url": "https://manapool.com/card/m14/184/manaweft-sliver"
+      },
+      {
+        "name": "Harmonic Sliver",
+        "price": "$0.78",
+        "url": "https://manapool.com/card/tsr/254/harmonic-sliver"
+      },
+      {
+        "name": "A-Exhibition Magician",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Silver Myr",
+        "price": "$0.29",
+        "url": "https://manapool.com/card/som/202/silver-myr"
+      },
+      {
+        "name": "Stoic Farmer",
+        "price": "$0.23",
+        "url": "https://manapool.com/card/khc/5/stoic-farmer"
+      },
+      {
+        "name": "Spiteful Sliver",
+        "price": "$1.51",
+        "url": "https://manapool.com/card/mh1/148/spiteful-sliver"
+      },
+      {
+        "name": "Azorius Aethermage",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dis/104/azorius-aethermage"
+      },
+      {
+        "name": "Maeve, Insidious Singer",
+        "price": "N/A",
+        "url": "https://manapool.com/card/gn3/2/maeve-insidious-singer"
+      },
+      {
+        "name": "Grist, Voracious Larva // Grist, the Plague Swarm",
+        "price": "$1.04",
+        "url": "https://manapool.com/card/mh3/251/grist-voracious-larva-grist-the-plague-swarm"
+      },
+      {
+        "name": "Necrotic Sliver",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/tsr/258/necrotic-sliver"
+      },
+      {
+        "name": "Lavabelly Sliver",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh1/207/lavabelly-sliver"
+      },
+      {
+        "name": "Constricting Sliver",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/plst/M15-7/constricting-sliver"
+      },
+      {
+        "name": "Bloodfire Kavu",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/apc/58/bloodfire-kavu"
+      },
+      {
+        "name": "Homing Sliver",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/fut/118/homing-sliver"
+      },
+      {
+        "name": "Horned Sliver",
+        "price": "$2.63",
+        "url": "https://manapool.com/card/tmp/234/horned-sliver"
+      },
+      {
+        "name": "Might Sliver",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/tsp/205/might-sliver"
+      },
+      {
+        "name": "Realmwalker",
+        "price": "$0.66",
+        "url": "https://manapool.com/card/lcc/250/realmwalker"
+      },
+      {
+        "name": "Pulmonic Sliver",
+        "price": "$0.92",
+        "url": "https://manapool.com/card/tsr/34/pulmonic-sliver"
+      },
+      {
+        "name": "Taunting Sliver",
+        "price": "$1.68",
+        "url": "https://manapool.com/card/cmm/759/taunting-sliver"
+      },
+      {
+        "name": "Regal Sliver",
+        "price": "$0.83",
+        "url": "https://manapool.com/card/cmm/757/regal-sliver"
+      },
+      {
+        "name": "Ward Sliver",
+        "price": "$0.28",
+        "url": "https://manapool.com/card/plst/LGN-25/ward-sliver"
+      },
+      {
+        "name": "Fury Sliver",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/plst/TSP-157/fury-sliver"
+      },
+      {
+        "name": "Opaline Sliver",
+        "price": "$0.39",
+        "url": "https://manapool.com/card/tsp/244/opaline-sliver"
+      },
+      {
+        "name": "Firewake Sliver",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/tsp/238/firewake-sliver"
+      },
+      {
+        "name": "Cleaving Sliver",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh1/121/cleaving-sliver"
+      },
+      {
+        "name": "Dregscape Sliver",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh1/88/dregscape-sliver"
+      },
+      {
+        "name": "Basal Sliver",
+        "price": "$0.34",
+        "url": "https://manapool.com/card/tsp/96/basal-sliver"
+      },
+      {
+        "name": "Clot Sliver",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmp/112/clot-sliver"
+      },
+      {
+        "name": "Bonesplitter Sliver",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmm/874/bonesplitter-sliver"
+      },
+      {
+        "name": "Sedge Sliver",
+        "price": "$0.67",
+        "url": "https://manapool.com/card/tsr/187/sedge-sliver"
+      },
+      {
+        "name": "Leeching Sliver",
+        "price": "$0.45",
+        "url": "https://manapool.com/card/m15/102/leeching-sliver"
+      },
+      {
+        "name": "Shadow Sliver",
+        "price": "$0.41",
+        "url": "https://manapool.com/card/tsp/76/shadow-sliver"
+      },
+      {
+        "name": "Toxin Sliver",
+        "price": "$0.83",
+        "url": "https://manapool.com/card/lgn/84/toxin-sliver"
+      },
+      {
+        "name": "Tempered Sliver",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh1/183/tempered-sliver"
+      },
+      {
+        "name": "Hollowhead Sliver",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh1/132/hollowhead-sliver"
+      },
+      {
+        "name": "Belligerent Sliver",
+        "price": "$0.41",
+        "url": "https://manapool.com/card/m15/129/belligerent-sliver"
+      },
+      {
+        "name": "Battering Sliver",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tsr/154/battering-sliver"
+      },
+      {
+        "name": "Sidewinder Sliver",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/tsr/43/sidewinder-sliver"
+      },
+      {
+        "name": "Thorncaster Sliver",
+        "price": "$0.67",
+        "url": "https://manapool.com/card/m14/158/thorncaster-sliver"
+      }
+    ],
+    "instants": [],
+    "sorceries": [
+      {
+        "name": "Seismic Spike",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/rav/141/seismic-spike"
+      },
+      {
+        "name": "Jolted Awake",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/33/jolted-awake"
+      },
+      {
+        "name": "Nibelheim Aflame",
+        "price": "$2.85",
+        "url": "https://manapool.com/card/fin/146/nibelheim-aflame"
+      },
+      {
+        "name": "Fire Tempest",
+        "price": "$1.04",
+        "url": "https://manapool.com/card/s99/97/fire-tempest"
+      },
+      {
+        "name": "Planar Outburst",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/bfz/42/planar-outburst"
+      },
+      {
+        "name": "Cerebral Eruption",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/som/86/cerebral-eruption"
+      },
+      {
+        "name": "Distant Melody",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/ecc/45/distant-melody"
+      },
+      {
+        "name": "Farseek",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/rvr/138/farseek"
+      },
+      {
+        "name": "Nature's Lore",
+        "price": "$2.50",
+        "url": "https://manapool.com/card/ice/255/natures-lore"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Phyrexian Lens",
+        "price": "$0.28",
+        "url": "https://manapool.com/card/inv/307/phyrexian-lens"
+      },
+      {
+        "name": "Culling Dais",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mm2/207/culling-dais"
+      },
+      {
+        "name": "Bee-Bee Gun",
+        "price": "$0.36",
+        "url": "https://manapool.com/card/ust/171/bee-bee-gun"
+      },
+      {
+        "name": "Pillar of Origins",
+        "price": "$0.37",
+        "url": "https://manapool.com/card/xln/241/pillar-of-origins"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "Weight of Conscience",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/j22/265/weight-of-conscience"
+      },
+      {
+        "name": "Ethereal Absolution",
+        "price": "$0.27",
+        "url": "https://manapool.com/card/rna/170/ethereal-absolution"
+      },
+      {
+        "name": "Reflections of Littjara",
+        "price": "$0.92",
+        "url": "https://manapool.com/card/lcc/168/reflections-of-littjara"
+      },
+      {
+        "name": "Descendants' Path",
+        "price": "$0.59",
+        "url": "https://manapool.com/card/tle/167/descendants-path"
+      }
+    ],
+    "planeswalkers": [],
+    "lands": [
+      {
+        "name": "Shatterskull Smashing // Shatterskull, the Hammer Pass",
+        "price": "$8.83",
+        "url": "https://manapool.com/card/znr/161/shatterskull-smashing-shatterskull-the-hammer-pass"
+      },
+      {
+        "name": "Unclaimed Territory",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lcc/366/unclaimed-territory"
+      },
+      {
+        "name": "Secluded Courtyard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fdn/267/secluded-courtyard"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Command Tower",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/325/command-tower"
+      },
+      {
+        "name": "Exotic Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/131/exotic-orchard"
+      },
+      {
+        "name": "Adarkar Wastes",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/blc/291/adarkar-wastes"
+      },
+      {
+        "name": "Aggressive Crag",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/cmb2/112/aggressive-crag"
+      },
+      {
+        "name": "Alchemist's Refuge",
+        "price": "$0.65",
+        "url": "https://manapool.com/card/lcc/318/alchemists-refuge"
+      },
+      {
+        "name": "An-Havva Township",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/hml/111/an-havva-township"
+      },
+      {
+        "name": "Aysen Abbey",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/hml/112/aysen-abbey"
+      },
+      {
+        "name": "Battlefield Forge",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/blc/293/battlefield-forge"
+      },
+      {
+        "name": "Bountiful Landscape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/217/bountiful-landscape"
+      },
+      {
+        "name": "Brushland",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/fic/377/brushland"
+      },
+      {
+        "name": "Calciform Pools",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/tsp/270/calciform-pools"
+      },
+      {
+        "name": "Cascade Bluffs",
+        "price": "$0.51",
+        "url": "https://manapool.com/card/eoc/153/cascade-bluffs"
+      },
+      {
+        "name": "Castle Sengir",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/hml/113/castle-sengir"
+      },
+      {
+        "name": "Caves of Koilos",
+        "price": "$0.80",
+        "url": "https://manapool.com/card/m15/241/caves-of-koilos"
+      },
+      {
+        "name": "Cinder Marsh",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/tmp/317/cinder-marsh"
+      },
+      {
+        "name": "Cloudcrest Lake",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/chk/274/cloudcrest-lake"
+      },
+      {
+        "name": "Contaminated Landscape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/218/contaminated-landscape"
+      },
+      {
+        "name": "Contested Cliffs",
+        "price": "$0.29",
+        "url": "https://manapool.com/card/c13/282/contested-cliffs"
+      },
+      {
+        "name": "Crosis's Catacombs",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmr/242/crosiss-catacombs"
+      },
+      {
+        "name": "Crypt of the Eternals",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/hou/169/crypt-of-the-eternals"
+      },
+      {
+        "name": "Crystal Quarry",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/eos/10/crystal-quarry"
+      },
+      {
+        "name": "Darigaaz's Caldera",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmr/243/darigaazs-caldera"
+      },
+      {
+        "name": "Darkwater Catacombs",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/c19/238/darkwater-catacombs"
+      },
+      {
+        "name": "Deceptive Landscape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/219/deceptive-landscape"
+      },
+      {
+        "name": "Desolate Lighthouse",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/avr/227/desolate-lighthouse"
+      },
+      {
+        "name": "Desolate Mire",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/386/desolate-mire"
+      },
+      {
+        "name": "Abandoned Campground",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsk/255/abandoned-campground"
+      },
+      {
+        "name": "Abraded Bluffs",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/otj/251/abraded-bluffs"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      }
+    ],
+    "other": [
+      {
+        "name": "Tazeem",
+        "price": "$25.13",
+        "url": "https://manapool.com/card/dci/41/tazeem"
+      }
+    ]
+  },
+  "export_text": "1 The First Sliver *CMDR*\n1 Phyrexian Lens\n1 Gemhide Sliver\n1 Manaweft Sliver\n1 Harmonic Sliver\n1 A-Exhibition Magician\n1 Silver Myr\n1 Seismic Spike\n1 Tazeem\n1 Stoic Farmer\n1 Jolted Awake\n1 Spiteful Sliver\n1 Culling Dais\n1 Azorius Aethermage\n1 Maeve, Insidious Singer\n1 Grist, Voracious Larva // Grist, the Plague Swarm\n1 Necrotic Sliver\n1 Bee-Bee Gun\n1 Lavabelly Sliver\n1 Weight of Conscience\n1 Shatterskull Smashing // Shatterskull, the Hammer Pass\n1 Nibelheim Aflame\n1 Fire Tempest\n1 Ethereal Absolution\n1 Planar Outburst\n1 Constricting Sliver\n1 Cerebral Eruption\n1 Bloodfire Kavu\n1 Homing Sliver\n1 Unclaimed Territory\n1 Horned Sliver\n1 Might Sliver\n1 Secluded Courtyard\n1 Realmwalker\n1 Pulmonic Sliver\n1 Taunting Sliver\n1 Distant Melody\n1 Regal Sliver\n1 Reflections of Littjara\n1 Descendants' Path\n1 Pillar of Origins\n1 Ward Sliver\n1 Fury Sliver\n1 Opaline Sliver\n1 Firewake Sliver\n1 Cleaving Sliver\n1 Dregscape Sliver\n1 Basal Sliver\n1 Clot Sliver\n1 Bonesplitter Sliver\n1 Sedge Sliver\n1 Path of Ancestry\n1 Leeching Sliver\n1 Shadow Sliver\n1 Toxin Sliver\n1 Farseek\n1 Tempered Sliver\n1 Hollowhead Sliver\n1 Nature's Lore\n1 Belligerent Sliver\n1 Battering Sliver\n1 Sidewinder Sliver\n1 Thorncaster Sliver\n1 Command Tower\n1 Exotic Orchard\n1 Adarkar Wastes\n1 Aggressive Crag\n1 Alchemist's Refuge\n1 An-Havva Township\n1 Aysen Abbey\n1 Battlefield Forge\n1 Bountiful Landscape\n1 Brushland\n1 Calciform Pools\n1 Cascade Bluffs\n1 Castle Sengir\n1 Caves of Koilos\n1 Cinder Marsh\n1 Cloudcrest Lake\n1 Contaminated Landscape\n1 Contested Cliffs\n1 Crosis's Catacombs\n1 Crypt of the Eternals\n1 Crystal Quarry\n1 Darigaaz's Caldera\n1 Darkwater Catacombs\n1 Deceptive Landscape\n1 Desolate Lighthouse\n1 Desolate Mire\n1 Abandoned Campground\n1 Abraded Bluffs\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Forest\n1 Plains\n1 Mountain\n1 Island\n1 Swamp",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": true,
+    "counts": {
+      "lands": 40,
+      "ramp": 10,
+      "card_draw": 9,
+      "targeted_removal": 10,
+      "mass_removal": 6,
+      "synergy": 23,
+      "uncategorized": 0
+    },
+    "gaps": {}
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "ramp",
+      "added": "Phyrexian Lens",
+      "removed": "Cloudshredder Sliver"
+    },
+    {
+      "category": "ramp",
+      "added": "A-Exhibition Magician",
+      "removed": "Crystalline Sliver"
+    },
+    {
+      "category": "ramp",
+      "added": "Silver Myr",
+      "removed": "Sentinel Sliver"
+    },
+    {
+      "category": "ramp",
+      "added": "Seismic Spike",
+      "removed": "Shifting Sliver"
+    },
+    {
+      "category": "card_draw",
+      "added": "Tazeem",
+      "removed": "Diffusion Sliver"
+    },
+    {
+      "category": "card_draw",
+      "added": "Stoic Farmer",
+      "removed": "Venom Sliver"
+    },
+    {
+      "category": "card_draw",
+      "added": "Jolted Awake",
+      "removed": "Striking Sliver"
+    },
+    {
+      "category": "card_draw",
+      "added": "Culling Dais",
+      "removed": "Quick Sliver"
+    },
+    {
+      "category": "card_draw",
+      "added": "Azorius Aethermage",
+      "removed": "Hibernation Sliver"
+    },
+    {
+      "category": "card_draw",
+      "added": "Maeve, Insidious Singer",
+      "removed": "Crypt Sliver"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Grist, Voracious Larva // Grist, the Plague Swarm",
+      "removed": "Thrumming Hivepool"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Bee-Bee Gun",
+      "removed": "Sinew Sliver"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Weight of Conscience",
+      "removed": "Two-Headed Sliver"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Shatterskull Smashing // Shatterskull, the Hammer Pass",
+      "removed": "Winged Sliver"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Nibelheim Aflame",
+      "removed": "Predatory Sliver"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Fire Tempest",
+      "removed": "Megantic Sliver"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Ethereal Absolution",
+      "removed": "Heart Sliver"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Planar Outburst",
+      "removed": "Muscle Sliver"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Cerebral Eruption",
+      "removed": "Blur Sliver"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Bloodfire Kavu",
+      "removed": "Virulent Sliver"
+    }
+  ]
+}

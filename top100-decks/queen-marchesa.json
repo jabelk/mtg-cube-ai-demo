@@ -1,0 +1,552 @@
+{
+  "commander": "Queen Marchesa",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 99,
+  "total_cost_display": "$42.82",
+  "deck": {
+    "commander": "Queen Marchesa",
+    "creatures": [
+      {
+        "name": "Shrouded Shepherd // Cleave Shadows",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/woe/236/shrouded-shepherd-cleave-shadows"
+      },
+      {
+        "name": "Mangara, the Diplomat",
+        "price": "$0.39",
+        "url": "https://manapool.com/card/blc/145/mangara-the-diplomat"
+      },
+      {
+        "name": "Xantcha, Sleeper Agent",
+        "price": "$0.76",
+        "url": "https://manapool.com/card/slc/24/xantcha-sleeper-agent"
+      },
+      {
+        "name": "Archon of Coronation",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/cmr/9/archon-of-coronation"
+      },
+      {
+        "name": "Royal Assassin",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/m11/116/royal-assassin"
+      },
+      {
+        "name": "Selfless Squire",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/c21/103/selfless-squire"
+      },
+      {
+        "name": "Emberwilde Captain",
+        "price": "$1.74",
+        "url": "https://manapool.com/card/cmr/175/emberwilde-captain"
+      },
+      {
+        "name": "Brash Taunter",
+        "price": "$1.93",
+        "url": "https://manapool.com/card/m21/133/brash-taunter"
+      },
+      {
+        "name": "Skyline Despot",
+        "price": "$0.35",
+        "url": "https://manapool.com/card/cmm/254/skyline-despot"
+      },
+      {
+        "name": "Champions of Minas Tirith",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltc/10/champions-of-minas-tirith"
+      },
+      {
+        "name": "Kazuul, Tyrant of the Cliffs",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmm/237/kazuul-tyrant-of-the-cliffs"
+      },
+      {
+        "name": "Teysa, Envoy of Ghosts",
+        "price": "$0.36",
+        "url": "https://manapool.com/card/c21/230/teysa-envoy-of-ghosts"
+      },
+      {
+        "name": "Alexios, Deimos of Kosmos",
+        "price": "$0.34",
+        "url": "https://manapool.com/card/acr/134/alexios-deimos-of-kosmos"
+      },
+      {
+        "name": "Nelly Borca, Impulsive Accuser",
+        "price": "$0.83",
+        "url": "https://manapool.com/card/mkc/318/nelly-borca-impulsive-accuser"
+      },
+      {
+        "name": "Custodi Lich",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/ncc/244/custodi-lich"
+      },
+      {
+        "name": "Keeper of the Accord",
+        "price": "$0.32",
+        "url": "https://manapool.com/card/pip/164/keeper-of-the-accord"
+      },
+      {
+        "name": "Knights of the Black Rose",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/cn2/76/knights-of-the-black-rose"
+      },
+      {
+        "name": "Palace Jailer",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmm/47/palace-jailer"
+      },
+      {
+        "name": "Protector of the Crown",
+        "price": "$1.70",
+        "url": "https://manapool.com/card/cn2/21/protector-of-the-crown"
+      },
+      {
+        "name": "Shadrix Silverquill",
+        "price": "$0.36",
+        "url": "https://manapool.com/card/tdc/302/shadrix-silverquill"
+      },
+      {
+        "name": "Orzhov Advokist",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c16/3/orzhov-advokist"
+      },
+      {
+        "name": "Ophiomancer",
+        "price": "$0.62",
+        "url": "https://manapool.com/card/mh3/276/ophiomancer"
+      },
+      {
+        "name": "Humble Defector",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/a25/135/humble-defector"
+      },
+      {
+        "name": "Weathered Wayfarer",
+        "price": "$1.82",
+        "url": "https://manapool.com/card/ltc/183/weathered-wayfarer"
+      },
+      {
+        "name": "Thorn of the Black Rose",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmm/190/thorn-of-the-black-rose"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Aggravate",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/avr/125/aggravate"
+      },
+      {
+        "name": "Rakdos Charm",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/eoc/125/rakdos-charm"
+      },
+      {
+        "name": "Comeuppance",
+        "price": "$1.07",
+        "url": "https://manapool.com/card/mkc/58/comeuppance"
+      },
+      {
+        "name": "Generous Gift",
+        "price": "$0.92",
+        "url": "https://manapool.com/card/mh1/11/generous-gift"
+      },
+      {
+        "name": "Crackling Doom",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c17/167/crackling-doom"
+      },
+      {
+        "name": "Delirium",
+        "price": "$0.57",
+        "url": "https://manapool.com/card/mir/260/delirium"
+      },
+      {
+        "name": "Anguished Unmaking",
+        "price": "$2.21",
+        "url": "https://manapool.com/card/ltc/265/anguished-unmaking"
+      },
+      {
+        "name": "Path to Exile",
+        "price": "$1.20",
+        "url": "https://manapool.com/card/fic/248/path-to-exile"
+      },
+      {
+        "name": "Chaos Warp",
+        "price": "$0.38",
+        "url": "https://manapool.com/card/lcc/221/chaos-warp"
+      },
+      {
+        "name": "Ol\u00f3rin's Searing Light",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/altc/13/olorins-searing-light"
+      },
+      {
+        "name": "Despark",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/drc/115/despark"
+      },
+      {
+        "name": "Arcbond",
+        "price": "$0.51",
+        "url": "https://manapool.com/card/frf/91/arcbond"
+      },
+      {
+        "name": "Backlash",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/plst/INV-234/backlash"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Destined Confrontation",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tla/15/destined-confrontation"
+      },
+      {
+        "name": "Promise of Loyalty",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/148/promise-of-loyalty"
+      },
+      {
+        "name": "Blasphemous Act",
+        "price": "$0.38",
+        "url": "https://manapool.com/card/tmc/47/blasphemous-act"
+      },
+      {
+        "name": "Cut a Deal",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/blc/105/cut-a-deal"
+      },
+      {
+        "name": "Secret Rendezvous",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/152/secret-rendezvous"
+      },
+      {
+        "name": "Council's Judgment",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/clu/57/councils-judgment"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Orzhov Signet",
+        "price": "$0.23",
+        "url": "https://manapool.com/card/tdc/323/orzhov-signet"
+      },
+      {
+        "name": "Boros Signet",
+        "price": "$0.41",
+        "url": "https://manapool.com/card/rav/255/boros-signet"
+      },
+      {
+        "name": "Bloodthirsty Blade",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c19/53/bloodthirsty-blade"
+      },
+      {
+        "name": "Rakdos Signet",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/dis/165/rakdos-signet"
+      },
+      {
+        "name": "Thought Vessel",
+        "price": "$2.32",
+        "url": "https://manapool.com/card/pip/251/thought-vessel"
+      },
+      {
+        "name": "Talisman of Conviction",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh1/230/talisman-of-conviction"
+      },
+      {
+        "name": "Talisman of Hierarchy",
+        "price": "$0.53",
+        "url": "https://manapool.com/card/lcc/315/talisman-of-hierarchy"
+      },
+      {
+        "name": "Fellwar Stone",
+        "price": "$1.02",
+        "url": "https://manapool.com/card/nec/150/fellwar-stone"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "Court of Ire",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltc/213/court-of-ire"
+      },
+      {
+        "name": "Blind Obedience",
+        "price": "$1.87",
+        "url": "https://manapool.com/card/gtc/6/blind-obedience"
+      },
+      {
+        "name": "Duelist's Heritage",
+        "price": "$0.83",
+        "url": "https://manapool.com/card/tle/153/duelists-heritage"
+      },
+      {
+        "name": "Marchesa's Decree",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/plst/CN2-44/marchesas-decree"
+      },
+      {
+        "name": "Court of Ardenvale",
+        "price": "$0.51",
+        "url": "https://manapool.com/card/awoe/51/court-of-ardenvale"
+      },
+      {
+        "name": "Curse of Opulence",
+        "price": "$1.08",
+        "url": "https://manapool.com/card/c17/24/curse-of-opulence"
+      },
+      {
+        "name": "Court of Locthwain",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/awoe/53/court-of-locthwain"
+      },
+      {
+        "name": "Assemble the Legion",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/pip/210/assemble-the-legion"
+      },
+      {
+        "name": "Tenuous Truce",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/159/tenuous-truce"
+      }
+    ],
+    "planeswalkers": [],
+    "lands": [
+      {
+        "name": "Throne of the High City",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltc/339/throne-of-the-high-city"
+      },
+      {
+        "name": "Command Tower",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/325/command-tower"
+      },
+      {
+        "name": "Exotic Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/131/exotic-orchard"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Aggressive Crag",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/cmb2/112/aggressive-crag"
+      },
+      {
+        "name": "Battlefield Forge",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/blc/293/battlefield-forge"
+      },
+      {
+        "name": "Caves of Koilos",
+        "price": "$0.80",
+        "url": "https://manapool.com/card/m15/241/caves-of-koilos"
+      },
+      {
+        "name": "Cinder Marsh",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/tmp/317/cinder-marsh"
+      },
+      {
+        "name": "Desolate Mire",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/386/desolate-mire"
+      },
+      {
+        "name": "Fetid Heath",
+        "price": "$0.39",
+        "url": "https://manapool.com/card/fic/391/fetid-heath"
+      },
+      {
+        "name": "Lantern-Lit Graveyard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/chk/278/lantern-lit-graveyard"
+      },
+      {
+        "name": "Lava Tubes",
+        "price": "$0.30",
+        "url": "https://manapool.com/card/ptc/gb358/lava-tubes"
+      },
+      {
+        "name": "Madlands",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mb2/614/madlands"
+      },
+      {
+        "name": "Molten Slagheap",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/284/molten-slagheap"
+      },
+      {
+        "name": "Orzhova, the Church of Deals",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/gpt/162/orzhova-the-church-of-deals"
+      },
+      {
+        "name": "Path of Mettle // Metzali, Tower of Triumph",
+        "price": "$0.27",
+        "url": "https://manapool.com/card/rix/165/path-of-mettle-metzali-tower-of-triumph"
+      },
+      {
+        "name": "Profane Procession // Tomb of the Dusk Rose",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/rix/166/profane-procession-tomb-of-the-dusk-rose"
+      },
+      {
+        "name": "Rix Maadi, Dungeon Palace",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c19/269/rix-maadi-dungeon-palace"
+      },
+      {
+        "name": "Rugged Prairie",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdc/389/rugged-prairie"
+      },
+      {
+        "name": "Shadowblood Ridge",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/who/303/shadowblood-ridge"
+      },
+      {
+        "name": "Shattered Landscape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/226/shattered-landscape"
+      },
+      {
+        "name": "Silent Clearing",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/amh1/51/silent-clearing"
+      },
+      {
+        "name": "Slayers' Stronghold",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/424/slayers-stronghold"
+      },
+      {
+        "name": "Starlit Sanctum",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ons/325/starlit-sanctum"
+      },
+      {
+        "name": "Stensia Bloodhall",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/isd/247/stensia-bloodhall"
+      },
+      {
+        "name": "Sunhome, Fortress of the Legion",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mkc/298/sunhome-fortress-of-the-legion"
+      },
+      {
+        "name": "Sunscorched Divide",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/433/sunscorched-divide"
+      },
+      {
+        "name": "Tainted Field",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/356/tainted-field"
+      },
+      {
+        "name": "Abraded Bluffs",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/otj/251/abraded-bluffs"
+      },
+      {
+        "name": "Akoum Refuge",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ddk/73/akoum-refuge"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      }
+    ],
+    "other": []
+  },
+  "export_text": "1 Queen Marchesa *CMDR*\n1 Aggravate\n1 Shrouded Shepherd // Cleave Shadows\n1 Mangara, the Diplomat\n1 Destined Confrontation\n1 Court of Ire\n1 Xantcha, Sleeper Agent\n1 Rakdos Charm\n1 Archon of Coronation\n1 Royal Assassin\n1 Selfless Squire\n1 Comeuppance\n1 Emberwilde Captain\n1 Brash Taunter\n1 Blind Obedience\n1 Duelist's Heritage\n1 Marchesa's Decree\n1 Court of Ardenvale\n1 Skyline Despot\n1 Champions of Minas Tirith\n1 Curse of Opulence\n1 Promise of Loyalty\n1 Court of Locthwain\n1 Generous Gift\n1 Kazuul, Tyrant of the Cliffs\n1 Teysa, Envoy of Ghosts\n1 Alexios, Deimos of Kosmos\n1 Nelly Borca, Impulsive Accuser\n1 Custodi Lich\n1 Throne of the High City\n1 Orzhov Signet\n1 Boros Signet\n1 Blasphemous Act\n1 Keeper of the Accord\n1 Crackling Doom\n1 Knights of the Black Rose\n1 Delirium\n1 Bloodthirsty Blade\n1 Palace Jailer\n1 Protector of the Crown\n1 Cut a Deal\n1 Anguished Unmaking\n1 Shadrix Silverquill\n1 Rakdos Signet\n1 Assemble the Legion\n1 Thought Vessel\n1 Path to Exile\n1 Orzhov Advokist\n1 Chaos Warp\n1 Ol\u00f3rin's Searing Light\n1 Secret Rendezvous\n1 Talisman of Conviction\n1 Talisman of Hierarchy\n1 Council's Judgment\n1 Fellwar Stone\n1 Ophiomancer\n1 Humble Defector\n1 Weathered Wayfarer\n1 Thorn of the Black Rose\n1 Despark\n1 Arcbond\n1 Backlash\n1 Tenuous Truce\n1 Command Tower\n1 Exotic Orchard\n1 Path of Ancestry\n1 Aggressive Crag\n1 Battlefield Forge\n1 Caves of Koilos\n1 Cinder Marsh\n1 Desolate Mire\n1 Fetid Heath\n1 Lantern-Lit Graveyard\n1 Lava Tubes\n1 Madlands\n1 Molten Slagheap\n1 Orzhova, the Church of Deals\n1 Path of Mettle // Metzali, Tower of Triumph\n1 Profane Procession // Tomb of the Dusk Rose\n1 Rix Maadi, Dungeon Palace\n1 Rugged Prairie\n1 Shadowblood Ridge\n1 Shattered Landscape\n1 Silent Clearing\n1 Slayers' Stronghold\n1 Starlit Sanctum\n1 Stensia Bloodhall\n1 Sunhome, Fortress of the Legion\n1 Sunscorched Divide\n1 Tainted Field\n1 Abraded Bluffs\n1 Akoum Refuge\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Swamp\n1 Plains\n1 Mountain\n1 Swamp\n1 Plains",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": true,
+    "counts": {
+      "lands": 38,
+      "ramp": 9,
+      "card_draw": 9,
+      "targeted_removal": 16,
+      "mass_removal": 6,
+      "synergy": 21,
+      "uncategorized": 0
+    },
+    "gaps": {}
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "mass_removal",
+      "added": "Aggravate",
+      "removed": "Court of Grace"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Shrouded Shepherd // Cleave Shadows",
+      "removed": "Kardur, Doomscourge"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Destined Confrontation",
+      "removed": "Windborn Muse"
+    }
+  ]
+}

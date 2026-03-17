@@ -1,0 +1,629 @@
+{
+  "commander": "Yuriko, the Tiger's Shadow",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 99,
+  "total_cost_display": "$169.14",
+  "deck": {
+    "commander": "Yuriko, the Tiger's Shadow",
+    "creatures": [
+      {
+        "name": "Ingenious Infiltrator",
+        "price": "$1.14",
+        "url": "https://manapool.com/card/mh1/204/ingenious-infiltrator"
+      },
+      {
+        "name": "Omen Hawker",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mom/70/omen-hawker"
+      },
+      {
+        "name": "Prosperous Thief",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/neo/336/prosperous-thief"
+      },
+      {
+        "name": "Mistblade Shinobi",
+        "price": "$1.72",
+        "url": "https://manapool.com/card/bok/43/mistblade-shinobi"
+      },
+      {
+        "name": "Burakos, Party Leader",
+        "price": "$6.07",
+        "url": "https://manapool.com/card/clb/622/burakos-party-leader"
+      },
+      {
+        "name": "Ninja of the Deep Hours",
+        "price": "$1.33",
+        "url": "https://manapool.com/card/j25/108/ninja-of-the-deep-hours"
+      },
+      {
+        "name": "Moon-Circuit Hacker",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/neo/334/moon-circuit-hacker"
+      },
+      {
+        "name": "Burdened Aerialist",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh2/38/burdened-aerialist"
+      },
+      {
+        "name": "Satoru, the Infiltrator",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/otj/230/satoru-the-infiltrator"
+      },
+      {
+        "name": "Spectral Sailor",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fdn/164/spectral-sailor"
+      },
+      {
+        "name": "Ink-Eyes, Servant of Oni",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/ablb/50/ink-eyes-servant-of-oni"
+      },
+      {
+        "name": "Satoru Umezawa",
+        "price": "$0.54",
+        "url": "https://manapool.com/card/neo/234/satoru-umezawa"
+      },
+      {
+        "name": "Tormented Soul",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/m12/114/tormented-soul"
+      },
+      {
+        "name": "Dokuchi Silencer",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/neo/340/dokuchi-silencer"
+      },
+      {
+        "name": "Universal Automaton",
+        "price": "$0.45",
+        "url": "https://manapool.com/card/mh1/235/universal-automaton"
+      },
+      {
+        "name": "Mockingbird",
+        "price": "$2.38",
+        "url": "https://manapool.com/card/blb/61/mockingbird"
+      },
+      {
+        "name": "Memnite",
+        "price": "$1.25",
+        "url": "https://manapool.com/card/som/174/memnite"
+      },
+      {
+        "name": "Ingenious Prodigy",
+        "price": "$0.41",
+        "url": "https://manapool.com/card/woe/56/ingenious-prodigy"
+      },
+      {
+        "name": "Moonsnare Specialist",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/j25/328/moonsnare-specialist"
+      },
+      {
+        "name": "Phyrexian Walker",
+        "price": "$1.05",
+        "url": "https://manapool.com/card/vis/152/phyrexian-walker"
+      },
+      {
+        "name": "Dimir Infiltrator",
+        "price": "$0.37",
+        "url": "https://manapool.com/card/rav/203/dimir-infiltrator"
+      },
+      {
+        "name": "Siren Stormtamer",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/xln/79/siren-stormtamer"
+      },
+      {
+        "name": "Moonblade Shinobi",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh1/59/moonblade-shinobi"
+      },
+      {
+        "name": "Biting-Palm Ninja",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/neo/88/biting-palm-ninja"
+      },
+      {
+        "name": "Walker of Secret Ways",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/bok/60/walker-of-secret-ways"
+      },
+      {
+        "name": "Splinter, Hamato Yoshi",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmt/79/splinter-hamato-yoshi"
+      },
+      {
+        "name": "Baleful Strix",
+        "price": "$1.03",
+        "url": "https://manapool.com/card/fic/318/baleful-strix"
+      },
+      {
+        "name": "Nezumi Prowler",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/neo/116/nezumi-prowler"
+      },
+      {
+        "name": "Phantom Ninja",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/j25/345/phantom-ninja"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Brainstorm",
+        "price": "$0.61",
+        "url": "https://manapool.com/card/wc00/jf61/brainstorm"
+      },
+      {
+        "name": "Neutralize the Guards",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/otj/95/neutralize-the-guards"
+      },
+      {
+        "name": "Hour of Glory",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/hou/65/hour-of-glory"
+      },
+      {
+        "name": "Dig Through Time",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/fic/263/dig-through-time"
+      },
+      {
+        "name": "Consign // Oblivion",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/hou/149/consign-oblivion"
+      },
+      {
+        "name": "Flare of Malice",
+        "price": "$2.17",
+        "url": "https://manapool.com/card/mh3/95/flare-of-malice"
+      },
+      {
+        "name": "Commit // Memory",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lcc/147/commit-memory"
+      },
+      {
+        "name": "Murderous Cut",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ktk/81/murderous-cut"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Cry of the Carnarium",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/rna/70/cry-of-the-carnarium"
+      },
+      {
+        "name": "Do or Die",
+        "price": "$3.68",
+        "url": "https://manapool.com/card/inv/102/do-or-die"
+      },
+      {
+        "name": "Feast of Succession",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmm/158/feast-of-succession"
+      },
+      {
+        "name": "Wash Out",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/2x2/67/wash-out"
+      },
+      {
+        "name": "Treasure Cruise",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ktk/59/treasure-cruise"
+      },
+      {
+        "name": "Terror Tide",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lci/127/terror-tide"
+      },
+      {
+        "name": "Ponder",
+        "price": "$1.54",
+        "url": "https://manapool.com/card/dsc/73/ponder"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Decanter of Endless Water",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/aclb/79/decanter-of-endless-water"
+      },
+      {
+        "name": "Chrome Mox",
+        "price": "$38.54",
+        "url": "https://manapool.com/card/wc04/mb152/chrome-mox"
+      },
+      {
+        "name": "Mox Amber",
+        "price": "$72.75",
+        "url": "https://manapool.com/card/dom/224/mox-amber"
+      },
+      {
+        "name": "Pyramid of the Pantheon",
+        "price": "$0.27",
+        "url": "https://manapool.com/card/akh/235/pyramid-of-the-pantheon"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "Ice Cage",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/m10/56/ice-cage"
+      },
+      {
+        "name": "Arcane Adaptation",
+        "price": "$2.96",
+        "url": "https://manapool.com/card/xln/46/arcane-adaptation"
+      },
+      {
+        "name": "Aqueous Form",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmr/56/aqueous-form"
+      },
+      {
+        "name": "Cunning Evasion",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/mh1/45/cunning-evasion"
+      }
+    ],
+    "planeswalkers": [
+      {
+        "name": "Teferi, Temporal Pilgrim",
+        "price": "$3.89",
+        "url": "https://manapool.com/card/bro/66/teferi-temporal-pilgrim"
+      }
+    ],
+    "lands": [
+      {
+        "name": "Primal Amulet // Primal Wellspring",
+        "price": "$9.95",
+        "url": "https://manapool.com/card/xln/243/primal-amulet-primal-wellspring"
+      },
+      {
+        "name": "Sea Gate Restoration",
+        "price": "N/A",
+        "url": "https://manapool.com/card/aznr/49/sea-gate-restoration"
+      },
+      {
+        "name": "Hydroelectric Specimen",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Boggart Trawler",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Fell the Profane",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Halimar Depths",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/ddm/36/halimar-depths"
+      },
+      {
+        "name": "Sink into Stupor",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Agadeem's Awakening",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Command Tower",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/325/command-tower"
+      },
+      {
+        "name": "Exotic Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/131/exotic-orchard"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Darkwater Catacombs",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/c19/238/darkwater-catacombs"
+      },
+      {
+        "name": "Dreadship Reef",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/tsp/271/dreadship-reef"
+      },
+      {
+        "name": "Duskmantle, House of Shadow",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/plst/RAV-277/duskmantle-house-of-shadow"
+      },
+      {
+        "name": "Nephalia Drownyard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lcc/344/nephalia-drownyard"
+      },
+      {
+        "name": "River Delta",
+        "price": "$0.38",
+        "url": "https://manapool.com/card/ice/359/river-delta"
+      },
+      {
+        "name": "River of Tears",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/clb/912/river-of-tears"
+      },
+      {
+        "name": "Rootwater Depths",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmp/323/rootwater-depths"
+      },
+      {
+        "name": "Tainted Isle",
+        "price": "$0.45",
+        "url": "https://manapool.com/card/dsc/303/tainted-isle"
+      },
+      {
+        "name": "Waterveil Cavern",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/chk/286/waterveil-cavern"
+      },
+      {
+        "name": "Choked Estuary",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lcc/322/choked-estuary"
+      },
+      {
+        "name": "Contaminated Aquifer",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmu/245/contaminated-aquifer"
+      },
+      {
+        "name": "Creeping Tar Pit",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/who/267/creeping-tar-pit"
+      },
+      {
+        "name": "Darkslick Shores",
+        "price": "$0.93",
+        "url": "https://manapool.com/card/one/250/darkslick-shores"
+      },
+      {
+        "name": "Dimir Aqueduct",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/clu/233/dimir-aqueduct"
+      },
+      {
+        "name": "Dimir Guildgate",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c13/284/dimir-guildgate"
+      },
+      {
+        "name": "Dismal Backwater",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/276/dismal-backwater"
+      },
+      {
+        "name": "Domesticated Watercourse",
+        "price": "$0.30",
+        "url": "https://manapool.com/card/cmb2/114/domesticated-watercourse"
+      },
+      {
+        "name": "Fetid Pools",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/drc/156/fetid-pools"
+      },
+      {
+        "name": "Frost Marsh",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/plst/CSP-146/frost-marsh"
+      },
+      {
+        "name": "Ice Tunnel",
+        "price": "$0.46",
+        "url": "https://manapool.com/card/khm/262/ice-tunnel"
+      },
+      {
+        "name": "Jwar Isle Refuge",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c13/300/jwar-isle-refuge"
+      },
+      {
+        "name": "Mistvault Bridge",
+        "price": "$0.39",
+        "url": "https://manapool.com/card/mh2/249/mistvault-bridge"
+      },
+      {
+        "name": "Murky Sewer",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsk/263/murky-sewer"
+      },
+      {
+        "name": "Port of Karfell",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/clb/908/port-of-karfell"
+      },
+      {
+        "name": "Salt Marsh",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/scd/316/salt-marsh"
+      },
+      {
+        "name": "Secret Passage",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/clu/20/secret-passage"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      }
+    ],
+    "other": [
+      {
+        "name": "Sassy Gremlin Blood",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/sunf/34/sassy-gremlin-blood"
+      }
+    ]
+  },
+  "export_text": "1 Yuriko, the Tiger's Shadow *CMDR*\n1 Ingenious Infiltrator\n1 Omen Hawker\n1 Prosperous Thief\n1 Decanter of Endless Water\n1 Mistblade Shinobi\n1 Burakos, Party Leader\n1 Chrome Mox\n1 Ninja of the Deep Hours\n1 Mox Amber\n1 Moon-Circuit Hacker\n1 Primal Amulet // Primal Wellspring\n1 Pyramid of the Pantheon\n1 Burdened Aerialist\n1 Brainstorm\n1 Sassy Gremlin Blood\n1 Neutralize the Guards\n1 Hour of Glory\n1 Ice Cage\n1 Dig Through Time\n1 Satoru, the Infiltrator\n1 Cry of the Carnarium\n1 Do or Die\n1 Feast of Succession\n1 Spectral Sailor\n1 Wash Out\n1 Treasure Cruise\n1 Teferi, Temporal Pilgrim\n1 Terror Tide\n1 Ink-Eyes, Servant of Oni\n1 Satoru Umezawa\n1 Tormented Soul\n1 Dokuchi Silencer\n1 Universal Automaton\n1 Consign // Oblivion\n1 Ponder\n1 Sea Gate Restoration\n1 Mockingbird\n1 Hydroelectric Specimen\n1 Memnite\n1 Ingenious Prodigy\n1 Moonsnare Specialist\n1 Phyrexian Walker\n1 Dimir Infiltrator\n1 Boggart Trawler\n1 Siren Stormtamer\n1 Moonblade Shinobi\n1 Fell the Profane\n1 Flare of Malice\n1 Commit // Memory\n1 Halimar Depths\n1 Arcane Adaptation\n1 Biting-Palm Ninja\n1 Walker of Secret Ways\n1 Aqueous Form\n1 Cunning Evasion\n1 Splinter, Hamato Yoshi\n1 Baleful Strix\n1 Nezumi Prowler\n1 Phantom Ninja\n1 Sink into Stupor\n1 Murderous Cut\n1 Agadeem's Awakening\n1 Command Tower\n1 Exotic Orchard\n1 Path of Ancestry\n1 Darkwater Catacombs\n1 Dreadship Reef\n1 Duskmantle, House of Shadow\n1 Nephalia Drownyard\n1 River Delta\n1 River of Tears\n1 Rootwater Depths\n1 Tainted Isle\n1 Waterveil Cavern\n1 Choked Estuary\n1 Contaminated Aquifer\n1 Creeping Tar Pit\n1 Darkslick Shores\n1 Dimir Aqueduct\n1 Dimir Guildgate\n1 Dismal Backwater\n1 Domesticated Watercourse\n1 Fetid Pools\n1 Frost Marsh\n1 Ice Tunnel\n1 Jwar Isle Refuge\n1 Mistvault Bridge\n1 Murky Sewer\n1 Port of Karfell\n1 Salt Marsh\n1 Secret Passage\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Swamp\n1 Island\n1 Swamp\n1 Island\n1 Swamp",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": true,
+    "counts": {
+      "lands": 39,
+      "ramp": 9,
+      "card_draw": 13,
+      "targeted_removal": 9,
+      "mass_removal": 7,
+      "synergy": 16,
+      "uncategorized": 6
+    },
+    "gaps": {}
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "ramp",
+      "added": "Omen Hawker",
+      "removed": "Thousand-Faced Shadow"
+    },
+    {
+      "category": "ramp",
+      "added": "Decanter of Endless Water",
+      "removed": "Changeling Outcast"
+    },
+    {
+      "category": "ramp",
+      "added": "Burakos, Party Leader",
+      "removed": "Tetsuko Umezawa, Fugitive"
+    },
+    {
+      "category": "ramp",
+      "added": "Chrome Mox",
+      "removed": "Ornithopter"
+    },
+    {
+      "category": "ramp",
+      "added": "Mox Amber",
+      "removed": "Silver-Fur Master"
+    },
+    {
+      "category": "ramp",
+      "added": "Primal Amulet // Primal Wellspring",
+      "removed": "Faerie Seer"
+    },
+    {
+      "category": "ramp",
+      "added": "Pyramid of the Pantheon",
+      "removed": "Shadow of Mortality"
+    },
+    {
+      "category": "ramp",
+      "added": "Burdened Aerialist",
+      "removed": "Temporal Trespass"
+    },
+    {
+      "category": "ramp",
+      "added": "Sassy Gremlin Blood",
+      "removed": "Mothdust Changeling"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Neutralize the Guards",
+      "removed": "Slither Blade"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Hour of Glory",
+      "removed": "Skullsnatcher"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Ice Cage",
+      "removed": "Nashi, Moon Sage's Scion"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Cry of the Carnarium",
+      "removed": "Gingerbrute"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Do or Die",
+      "removed": "Wingcrafter"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Feast of Succession",
+      "removed": "Triton Shorestalker"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Wash Out",
+      "removed": "Commandeer"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Teferi, Temporal Pilgrim",
+      "removed": "Smoke Shroud"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Terror Tide",
+      "removed": "Mist-Cloaked Herald"
+    }
+  ]
+}

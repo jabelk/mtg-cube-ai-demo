@@ -1,0 +1,588 @@
+{
+  "commander": "Kotis, the Fangkeeper",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 98,
+  "total_cost_display": "$87.15",
+  "deck": {
+    "commander": "Kotis, the Fangkeeper",
+    "creatures": [
+      {
+        "name": "Gonti, Night Minister",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/adft/32/gonti-night-minister"
+      },
+      {
+        "name": "Gemrazer",
+        "price": "$0.32",
+        "url": "https://manapool.com/card/iko/295/gemrazer"
+      },
+      {
+        "name": "Llanowar Elves",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fdn/227/llanowar-elves"
+      },
+      {
+        "name": "Brokkos, Apex of Forever",
+        "price": "$1.06",
+        "url": "https://manapool.com/card/iko/179/brokkos-apex-of-forever"
+      },
+      {
+        "name": "Ivy, Gleeful Spellthief",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmu/300/ivy-gleeful-spellthief"
+      },
+      {
+        "name": "Toski, Bearer of Secrets",
+        "price": "$2.55",
+        "url": "https://manapool.com/card/blc/244/toski-bearer-of-secrets"
+      },
+      {
+        "name": "Elvish Mystic",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/cmm/648/elvish-mystic"
+      }
+    ],
+    "instants": [
+      {
+        "name": "A-Deal Gone Bad",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Heartless Act",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmm/166/heartless-act"
+      },
+      {
+        "name": "Wail of War",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdm/98/wail-of-war"
+      },
+      {
+        "name": "Slip Out the Back",
+        "price": "$1.87",
+        "url": "https://manapool.com/card/snc/62/slip-out-the-back"
+      },
+      {
+        "name": "Invigorate",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/mmq/254/invigorate"
+      },
+      {
+        "name": "Overprotect",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/blb/185/overprotect"
+      },
+      {
+        "name": "Negate",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cn2/117/negate"
+      },
+      {
+        "name": "An Offer You Can't Refuse",
+        "price": "$2.49",
+        "url": "https://manapool.com/card/snc/51/an-offer-you-cant-refuse"
+      },
+      {
+        "name": "Astarion's Thirst",
+        "price": "$1.89",
+        "url": "https://manapool.com/card/clb/114/astarions-thirst"
+      },
+      {
+        "name": "Simic Charm",
+        "price": "$0.84",
+        "url": "https://manapool.com/card/gtc/195/simic-charm"
+      },
+      {
+        "name": "Arcane Denial",
+        "price": "$2.05",
+        "url": "https://manapool.com/card/m3c/176/arcane-denial"
+      },
+      {
+        "name": "Repulsive Mutation",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/mkm/227/repulsive-mutation"
+      },
+      {
+        "name": "Tyvar's Stand",
+        "price": "$1.56",
+        "url": "https://manapool.com/card/one/190/tyvars-stand"
+      },
+      {
+        "name": "Hunter's Insight",
+        "price": "$0.41",
+        "url": "https://manapool.com/card/cmr/232/hunters-insight"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Blood Money",
+        "price": "$0.57",
+        "url": "https://manapool.com/card/lcc/183/blood-money"
+      },
+      {
+        "name": "Drown in Ichor",
+        "price": "$0.87",
+        "url": "https://manapool.com/card/one/91/drown-in-ichor"
+      },
+      {
+        "name": "Necromantic Selection",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/scd/94/necromantic-selection"
+      },
+      {
+        "name": "Game Over",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmc/18/game-over"
+      },
+      {
+        "name": "Final Act",
+        "price": "$0.41",
+        "url": "https://manapool.com/card/m3c/104/final-act"
+      },
+      {
+        "name": "Enter the Enigma",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsk/52/enter-the-enigma"
+      },
+      {
+        "name": "Deadly Tempest",
+        "price": "$0.82",
+        "url": "https://manapool.com/card/c20/131/deadly-tempest"
+      },
+      {
+        "name": "Nature's Lore",
+        "price": "$2.50",
+        "url": "https://manapool.com/card/ice/255/natures-lore"
+      },
+      {
+        "name": "Rampant Growth",
+        "price": "$0.30",
+        "url": "https://manapool.com/card/m10/201/rampant-growth"
+      },
+      {
+        "name": "Farseek",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/rvr/138/farseek"
+      },
+      {
+        "name": "Villainous Wealth",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/otp/58/villainous-wealth"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Pyramids",
+        "price": "$30.18",
+        "url": "https://manapool.com/card/arn/67/pyramids"
+      },
+      {
+        "name": "Karn's Sylex",
+        "price": "$0.64",
+        "url": "https://manapool.com/card/dmu/234/karns-sylex"
+      },
+      {
+        "name": "Fireshrieker",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fdn/674/fireshrieker"
+      },
+      {
+        "name": "Leyline Axe",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/afdn/49/leyline-axe"
+      },
+      {
+        "name": "Inquisitor's Flail",
+        "price": "$1.01",
+        "url": "https://manapool.com/card/isd/227/inquisitors-flail"
+      },
+      {
+        "name": "Trailblazer's Boots",
+        "price": "$0.97",
+        "url": "https://manapool.com/card/fic/370/trailblazers-boots"
+      },
+      {
+        "name": "Conqueror's Flail",
+        "price": "$0.71",
+        "url": "https://manapool.com/card/pza/15/conquerors-flail"
+      },
+      {
+        "name": "Champion's Helm",
+        "price": "$1.18",
+        "url": "https://manapool.com/card/fic/337/champions-helm"
+      },
+      {
+        "name": "Loxodon Warhammer",
+        "price": "$0.85",
+        "url": "https://manapool.com/card/c15/258/loxodon-warhammer"
+      },
+      {
+        "name": "Thran Power Suit",
+        "price": "$1.16",
+        "url": "https://manapool.com/card/bro/253/thran-power-suit"
+      },
+      {
+        "name": "Basilisk Collar",
+        "price": "$3.06",
+        "url": "https://manapool.com/card/afc/199/basilisk-collar"
+      },
+      {
+        "name": "Fellwar Stone",
+        "price": "$1.02",
+        "url": "https://manapool.com/card/nec/150/fellwar-stone"
+      },
+      {
+        "name": "Sword of Vengeance",
+        "price": "$0.95",
+        "url": "https://manapool.com/card/cmr/475/sword-of-vengeance"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "Thirst",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mir/99/thirst"
+      },
+      {
+        "name": "Trial of Ambition",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/akh/113/trial-of-ambition"
+      },
+      {
+        "name": "Combat Research",
+        "price": "$0.51",
+        "url": "https://manapool.com/card/dmu/44/combat-research"
+      },
+      {
+        "name": "Audacity",
+        "price": "$0.30",
+        "url": "https://manapool.com/card/j25/631/audacity"
+      },
+      {
+        "name": "Security Bypass",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/snc/59/security-bypass"
+      },
+      {
+        "name": "Ancestral Mask",
+        "price": "$1.25",
+        "url": "https://manapool.com/card/plst/MMQ-229/ancestral-mask"
+      },
+      {
+        "name": "Hollowmurk Siege",
+        "price": "$1.41",
+        "url": "https://manapool.com/card/tdm/387/hollowmurk-siege"
+      },
+      {
+        "name": "Canopy Cover",
+        "price": "$1.35",
+        "url": "https://manapool.com/card/wwk/98/canopy-cover"
+      },
+      {
+        "name": "Demonic Embrace",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/m21/95/demonic-embrace"
+      },
+      {
+        "name": "Wingspan Stride",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdm/66/wingspan-stride"
+      },
+      {
+        "name": "Propaganda",
+        "price": "$2.88",
+        "url": "https://manapool.com/card/c13/53/propaganda"
+      },
+      {
+        "name": "Wild Growth",
+        "price": "$0.28",
+        "url": "https://manapool.com/card/ice/277/wild-growth"
+      },
+      {
+        "name": "Season of Growth",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/wot/61/season-of-growth"
+      }
+    ],
+    "planeswalkers": [],
+    "lands": [
+      {
+        "name": "Rogue's Passage",
+        "price": "$0.35",
+        "url": "https://manapool.com/card/fdn/264/rogues-passage"
+      },
+      {
+        "name": "Yavimaya Coast",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/drc/184/yavimaya-coast"
+      },
+      {
+        "name": "Bridgeworks Battle",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Command Tower",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/325/command-tower"
+      },
+      {
+        "name": "Exotic Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/131/exotic-orchard"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Alchemist's Refuge",
+        "price": "$0.65",
+        "url": "https://manapool.com/card/lcc/318/alchemists-refuge"
+      },
+      {
+        "name": "Darkwater Catacombs",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/c19/238/darkwater-catacombs"
+      },
+      {
+        "name": "Dreadship Reef",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/tsp/271/dreadship-reef"
+      },
+      {
+        "name": "Duskmantle, House of Shadow",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/plst/RAV-277/duskmantle-house-of-shadow"
+      },
+      {
+        "name": "Flooded Grove",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltc/309/flooded-grove"
+      },
+      {
+        "name": "Foreboding Landscape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/221/foreboding-landscape"
+      },
+      {
+        "name": "Grim Backwoods",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/309/grim-backwoods"
+      },
+      {
+        "name": "Llanowar Wastes",
+        "price": "$0.47",
+        "url": "https://manapool.com/card/blc/315/llanowar-wastes"
+      },
+      {
+        "name": "Nephalia Drownyard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lcc/344/nephalia-drownyard"
+      },
+      {
+        "name": "Novijen, Heart of Progress",
+        "price": "$0.30",
+        "url": "https://manapool.com/card/dis/175/novijen-heart-of-progress"
+      },
+      {
+        "name": "Noxious Bayou",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/cmb2/118/noxious-bayou"
+      },
+      {
+        "name": "Overflowing Basin",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/321/overflowing-basin"
+      },
+      {
+        "name": "River Delta",
+        "price": "$0.38",
+        "url": "https://manapool.com/card/ice/359/river-delta"
+      },
+      {
+        "name": "River of Tears",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/clb/912/river-of-tears"
+      },
+      {
+        "name": "Rootwater Depths",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmp/323/rootwater-depths"
+      },
+      {
+        "name": "Slumbering Waterways",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mb2/618/slumbering-waterways"
+      },
+      {
+        "name": "Svogthos, the Restless Tomb",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmd/289/svogthos-the-restless-tomb"
+      },
+      {
+        "name": "Tainted Isle",
+        "price": "$0.45",
+        "url": "https://manapool.com/card/dsc/303/tainted-isle"
+      },
+      {
+        "name": "Tainted Wood",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/plst/TOR-143/tainted-wood"
+      },
+      {
+        "name": "Twilight Mire",
+        "price": "$0.36",
+        "url": "https://manapool.com/card/blc/351/twilight-mire"
+      },
+      {
+        "name": "Viridescent Bog",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/352/viridescent-bog"
+      },
+      {
+        "name": "Waterlogged Grove",
+        "price": "$0.57",
+        "url": "https://manapool.com/card/who/331/waterlogged-grove"
+      },
+      {
+        "name": "Waterveil Cavern",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/chk/286/waterveil-cavern"
+      },
+      {
+        "name": "Balamb Garden, SeeD Academy // Balamb Garden, Airborne",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/272/balamb-garden-seed-academy-balamb-garden-airborne"
+      },
+      {
+        "name": "Botanical Sanctum",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/otj/267/botanical-sanctum"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      }
+    ],
+    "other": [
+      {
+        "name": "Counterspell",
+        "price": "$1.61",
+        "url": "https://manapool.com/card/wc97/pm77/counterspell"
+      }
+    ]
+  },
+  "export_text": "1 Kotis, the Fangkeeper *CMDR*\n1 A-Deal Gone Bad\n1 Pyramids\n1 Thirst\n1 Blood Money\n1 Trial of Ambition\n1 Rogue's Passage\n1 Heartless Act\n1 Drown in Ichor\n1 Wail of War\n1 Necromantic Selection\n1 Gonti, Night Minister\n1 Game Over\n1 Karn's Sylex\n1 Combat Research\n1 Fireshrieker\n1 Audacity\n1 Slip Out the Back\n1 Leyline Axe\n1 Inquisitor's Flail\n1 Invigorate\n1 Security Bypass\n1 Overprotect\n1 Final Act\n1 Gemrazer\n1 Trailblazer's Boots\n1 Conqueror's Flail\n1 Ancestral Mask\n1 Llanowar Elves\n1 Brokkos, Apex of Forever\n1 Negate\n1 Champion's Helm\n1 An Offer You Can't Refuse\n1 Astarion's Thirst\n1 Hollowmurk Siege\n1 Enter the Enigma\n1 Loxodon Warhammer\n1 Canopy Cover\n1 Demonic Embrace\n1 Simic Charm\n1 Deadly Tempest\n1 Thran Power Suit\n1 Wingspan Stride\n1 Nature's Lore\n1 Propaganda\n1 Rampant Growth\n1 Ivy, Gleeful Spellthief\n1 Arcane Denial\n1 Basilisk Collar\n1 Fellwar Stone\n1 Yavimaya Coast\n1 Toski, Bearer of Secrets\n1 Wild Growth\n1 Season of Growth\n1 Elvish Mystic\n1 Bridgeworks Battle\n1 Sword of Vengeance\n1 Farseek\n1 Counterspell\n1 Repulsive Mutation\n1 Tyvar's Stand\n1 Hunter's Insight\n1 Villainous Wealth\n1 Command Tower\n1 Exotic Orchard\n1 Path of Ancestry\n1 Alchemist's Refuge\n1 Darkwater Catacombs\n1 Dreadship Reef\n1 Duskmantle, House of Shadow\n1 Flooded Grove\n1 Foreboding Landscape\n1 Grim Backwoods\n1 Llanowar Wastes\n1 Nephalia Drownyard\n1 Novijen, Heart of Progress\n1 Noxious Bayou\n1 Overflowing Basin\n1 River Delta\n1 River of Tears\n1 Rootwater Depths\n1 Slumbering Waterways\n1 Svogthos, the Restless Tomb\n1 Tainted Isle\n1 Tainted Wood\n1 Twilight Mire\n1 Viridescent Bog\n1 Waterlogged Grove\n1 Waterveil Cavern\n1 Balamb Garden, SeeD Academy // Balamb Garden, Airborne\n1 Botanical Sanctum\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Forest\n1 Swamp\n1 Island\n1 Forest\n1 Swamp",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": true,
+    "counts": {
+      "lands": 38,
+      "ramp": 8,
+      "card_draw": 9,
+      "targeted_removal": 9,
+      "mass_removal": 7,
+      "synergy": 25,
+      "uncategorized": 2
+    },
+    "gaps": {}
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "targeted_removal",
+      "added": "A-Deal Gone Bad",
+      "removed": "Rancor"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Pyramids",
+      "removed": "Aqueous Form"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Thirst",
+      "removed": "Favor of the Overbeing"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Blood Money",
+      "removed": "Dragonfire Blade"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Trial of Ambition",
+      "removed": "Snakeskin Veil"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Heartless Act",
+      "removed": "Aether Tunnel"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Drown in Ichor",
+      "removed": "Indomitable Might"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Wail of War",
+      "removed": "Strong Back"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Necromantic Selection",
+      "removed": "Swiftfoot Boots"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Game Over",
+      "removed": "Forgotten Ancient"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Karn's Sylex",
+      "removed": "The Thirteenth Doctor"
+    }
+  ]
+}

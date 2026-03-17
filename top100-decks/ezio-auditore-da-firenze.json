@@ -1,0 +1,592 @@
+{
+  "commander": "Ezio Auditore da Firenze",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 99,
+  "total_cost_display": "$42.33",
+  "deck": {
+    "commander": "Ezio Auditore da Firenze",
+    "creatures": [
+      {
+        "name": "Ezio, Blade of Vengeance",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/aacr/19/ezio-blade-of-vengeance"
+      },
+      {
+        "name": "Basim Ibn Ishaq",
+        "price": "$2.08",
+        "url": "https://manapool.com/card/acr/49/basim-ibn-ishaq"
+      },
+      {
+        "name": "Hugs, Grisly Guardian",
+        "price": "$0.75",
+        "url": "https://manapool.com/card/blb/218/hugs-grisly-guardian"
+      },
+      {
+        "name": "Oblivion Sower",
+        "price": "$0.34",
+        "url": "https://manapool.com/card/bfz/11/oblivion-sower"
+      },
+      {
+        "name": "Royal Assassin",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/m11/116/royal-assassin"
+      },
+      {
+        "name": "Incinerator of the Guilty",
+        "price": "$0.75",
+        "url": "https://manapool.com/card/mkm/132/incinerator-of-the-guilty"
+      },
+      {
+        "name": "Jacob Frye",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/acr/27/jacob-frye"
+      },
+      {
+        "name": "Evie Frye",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/acr/19/evie-frye"
+      },
+      {
+        "name": "Arbaaz Mir",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/acr/138/arbaaz-mir"
+      },
+      {
+        "name": "Edward Kenway",
+        "price": "$1.03",
+        "url": "https://manapool.com/card/aacr/5/edward-kenway"
+      },
+      {
+        "name": "Thraximundar",
+        "price": "$0.39",
+        "url": "https://manapool.com/card/c13/221/thraximundar"
+      },
+      {
+        "name": "Assassin Initiate",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/acr/22/assassin-initiate"
+      },
+      {
+        "name": "Etrata, the Silencer",
+        "price": "$0.46",
+        "url": "https://manapool.com/card/grn/170/etrata-the-silencer"
+      },
+      {
+        "name": "Massacre Girl, Known Killer",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/ecc/79/massacre-girl-known-killer"
+      },
+      {
+        "name": "Aveline de Grandpr\u00e9",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/acr/40/aveline-de-grandpre"
+      },
+      {
+        "name": "Shao Jun",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/acr/151/shao-jun"
+      },
+      {
+        "name": "Roshan, Hidden Magister",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/acr/133/roshan-hidden-magister"
+      },
+      {
+        "name": "Ad\u00e9wal\u00e9, Breaker of Chains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/acr/136/adewale-breaker-of-chains"
+      },
+      {
+        "name": "Shay Cormac",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/acr/153/shay-cormac"
+      },
+      {
+        "name": "Kassandra, Eagle Bearer",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/aacr/6/kassandra-eagle-bearer"
+      },
+      {
+        "name": "Changeling Outcast",
+        "price": "$0.87",
+        "url": "https://manapool.com/card/mh1/82/changeling-outcast"
+      },
+      {
+        "name": "Etrata, Deadly Fugitive",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mkm/200/etrata-deadly-fugitive"
+      },
+      {
+        "name": "Vraska, the Silencer",
+        "price": "$0.76",
+        "url": "https://manapool.com/card/otj/237/vraska-the-silencer"
+      },
+      {
+        "name": "Brotherhood Spy",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/acr/282/brotherhood-spy"
+      },
+      {
+        "name": "Massacre Girl",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/war/99/massacre-girl"
+      },
+      {
+        "name": "Ezio, Brash Novice",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/acr/145/ezio-brash-novice"
+      },
+      {
+        "name": "Kelsien, the Plague",
+        "price": "$0.85",
+        "url": "https://manapool.com/card/c20/11/kelsien-the-plague"
+      },
+      {
+        "name": "Shaun & Rebecca, Agents",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/acr/64/shaun-&-rebecca-agents"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Dragonrage",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/frf/97/dragonrage"
+      },
+      {
+        "name": "Wail of the Nim",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/mrd/81/wail-of-the-nim"
+      },
+      {
+        "name": "Assassin's Trophy",
+        "price": "$0.45",
+        "url": "https://manapool.com/card/tmc/55/assassins-trophy"
+      },
+      {
+        "name": "Chain Assassination",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/acr/23/chain-assassination"
+      },
+      {
+        "name": "Mortify",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/acr/96/mortify"
+      },
+      {
+        "name": "Go for the Throat",
+        "price": "$0.36",
+        "url": "https://manapool.com/card/mbs/43/go-for-the-throat"
+      },
+      {
+        "name": "Path to Exile",
+        "price": "$1.20",
+        "url": "https://manapool.com/card/fic/248/path-to-exile"
+      },
+      {
+        "name": "Terminate",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/ecc/134/terminate"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Smoke Spirits' Aid",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/nec/22/smoke-spirits-aid"
+      },
+      {
+        "name": "Harvest Season",
+        "price": "$1.03",
+        "url": "https://manapool.com/card/khc/63/harvest-season"
+      },
+      {
+        "name": "Dimensional Breach",
+        "price": "$0.28",
+        "url": "https://manapool.com/card/scg/9/dimensional-breach"
+      },
+      {
+        "name": "Kindle the Carnage",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dis/66/kindle-the-carnage"
+      },
+      {
+        "name": "Eagle Vision",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/acr/17/eagle-vision"
+      },
+      {
+        "name": "Molten Disaster",
+        "price": "$0.30",
+        "url": "https://manapool.com/card/c13/117/molten-disaster"
+      },
+      {
+        "name": "Viewpoint Synchronization",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/acr/43/viewpoint-synchronization"
+      },
+      {
+        "name": "Overpowering Attack",
+        "price": "$1.03",
+        "url": "https://manapool.com/card/acr/37/overpowering-attack"
+      },
+      {
+        "name": "Back in Town",
+        "price": "$2.03",
+        "url": "https://manapool.com/card/otc/54/back-in-town"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Hidden Blade",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/acr/73/hidden-blade"
+      },
+      {
+        "name": "Haystack",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/acr/5/haystack"
+      },
+      {
+        "name": "Smoke Bomb",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/acr/75/smoke-bomb"
+      },
+      {
+        "name": "Assassin Gauntlet",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/acr/12/assassin-gauntlet"
+      },
+      {
+        "name": "Whispersilk Cloak",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/alci/80/whispersilk-cloak"
+      },
+      {
+        "name": "The Animus",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/acr/69/the-animus"
+      },
+      {
+        "name": "The Spear of Leonidas",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/aacr/4/the-spear-of-leonidas"
+      },
+      {
+        "name": "Crystal Skull, Isu Spyglass",
+        "price": "$1.70",
+        "url": "https://manapool.com/card/acr/15/crystal-skull-isu-spyglass"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "Eladamri's Vineyard",
+        "price": "$2.65",
+        "url": "https://manapool.com/card/tmp/223/eladamris-vineyard"
+      },
+      {
+        "name": "Rooftop Bypass",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/aacr/20/rooftop-bypass"
+      },
+      {
+        "name": "The Revelations of Ezio",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/acr/31/the-revelations-of-ezio"
+      },
+      {
+        "name": "Coastal Piracy",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/tle/156/coastal-piracy"
+      },
+      {
+        "name": "Bleeding Effect",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/acr/51/bleeding-effect"
+      },
+      {
+        "name": "Propaganda",
+        "price": "$2.88",
+        "url": "https://manapool.com/card/c13/53/propaganda"
+      }
+    ],
+    "planeswalkers": [],
+    "lands": [
+      {
+        "name": "Brotherhood Headquarters",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/acr/80/brotherhood-headquarters"
+      },
+      {
+        "name": "Rogue's Passage",
+        "price": "$0.35",
+        "url": "https://manapool.com/card/fdn/264/rogues-passage"
+      },
+      {
+        "name": "Abstergo Entertainment",
+        "price": "$2.43",
+        "url": "https://manapool.com/card/acr/79/abstergo-entertainment"
+      },
+      {
+        "name": "Command Tower",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/325/command-tower"
+      },
+      {
+        "name": "Exotic Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/131/exotic-orchard"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Adarkar Wastes",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/blc/291/adarkar-wastes"
+      },
+      {
+        "name": "Aggressive Crag",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/cmb2/112/aggressive-crag"
+      },
+      {
+        "name": "Alchemist's Refuge",
+        "price": "$0.65",
+        "url": "https://manapool.com/card/lcc/318/alchemists-refuge"
+      },
+      {
+        "name": "An-Havva Township",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/hml/111/an-havva-township"
+      },
+      {
+        "name": "Aysen Abbey",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/hml/112/aysen-abbey"
+      },
+      {
+        "name": "Battlefield Forge",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/blc/293/battlefield-forge"
+      },
+      {
+        "name": "Bountiful Landscape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/217/bountiful-landscape"
+      },
+      {
+        "name": "Brushland",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/fic/377/brushland"
+      },
+      {
+        "name": "Calciform Pools",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/tsp/270/calciform-pools"
+      },
+      {
+        "name": "Cascade Bluffs",
+        "price": "$0.51",
+        "url": "https://manapool.com/card/eoc/153/cascade-bluffs"
+      },
+      {
+        "name": "Castle Sengir",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/hml/113/castle-sengir"
+      },
+      {
+        "name": "Caves of Koilos",
+        "price": "$0.80",
+        "url": "https://manapool.com/card/m15/241/caves-of-koilos"
+      },
+      {
+        "name": "Cinder Marsh",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/tmp/317/cinder-marsh"
+      },
+      {
+        "name": "Cloudcrest Lake",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/chk/274/cloudcrest-lake"
+      },
+      {
+        "name": "Contaminated Landscape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/218/contaminated-landscape"
+      },
+      {
+        "name": "Contested Cliffs",
+        "price": "$0.29",
+        "url": "https://manapool.com/card/c13/282/contested-cliffs"
+      },
+      {
+        "name": "Crosis's Catacombs",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmr/242/crosiss-catacombs"
+      },
+      {
+        "name": "Crypt of the Eternals",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/hou/169/crypt-of-the-eternals"
+      },
+      {
+        "name": "Crystal Quarry",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/eos/10/crystal-quarry"
+      },
+      {
+        "name": "Darigaaz's Caldera",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmr/243/darigaazs-caldera"
+      },
+      {
+        "name": "Darkwater Catacombs",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/c19/238/darkwater-catacombs"
+      },
+      {
+        "name": "Deceptive Landscape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/219/deceptive-landscape"
+      },
+      {
+        "name": "Desolate Lighthouse",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/avr/227/desolate-lighthouse"
+      },
+      {
+        "name": "Desolate Mire",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/386/desolate-mire"
+      },
+      {
+        "name": "Abandoned Campground",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsk/255/abandoned-campground"
+      },
+      {
+        "name": "Abraded Bluffs",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/otj/251/abraded-bluffs"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      }
+    ],
+    "other": []
+  },
+  "export_text": "1 Ezio Auditore da Firenze *CMDR*\n1 Ezio, Blade of Vengeance\n1 Basim Ibn Ishaq\n1 Brotherhood Headquarters\n1 Dragonrage\n1 Smoke Spirits' Aid\n1 Harvest Season\n1 Eladamri's Vineyard\n1 Hugs, Grisly Guardian\n1 Oblivion Sower\n1 Dimensional Breach\n1 Kindle the Carnage\n1 Eagle Vision\n1 Royal Assassin\n1 Molten Disaster\n1 Incinerator of the Guilty\n1 Wail of the Nim\n1 Jacob Frye\n1 Evie Frye\n1 Viewpoint Synchronization\n1 Arbaaz Mir\n1 Edward Kenway\n1 Hidden Blade\n1 Rooftop Bypass\n1 The Revelations of Ezio\n1 Thraximundar\n1 Assassin's Trophy\n1 Haystack\n1 Assassin Initiate\n1 Chain Assassination\n1 Etrata, the Silencer\n1 Overpowering Attack\n1 Rogue's Passage\n1 Massacre Girl, Known Killer\n1 Smoke Bomb\n1 Aveline de Grandpr\u00e9\n1 Shao Jun\n1 Assassin Gauntlet\n1 Abstergo Entertainment\n1 Whispersilk Cloak\n1 Coastal Piracy\n1 The Animus\n1 Mortify\n1 Roshan, Hidden Magister\n1 Go for the Throat\n1 Bleeding Effect\n1 Path to Exile\n1 The Spear of Leonidas\n1 Ad\u00e9wal\u00e9, Breaker of Chains\n1 Terminate\n1 Shay Cormac\n1 Back in Town\n1 Kassandra, Eagle Bearer\n1 Propaganda\n1 Changeling Outcast\n1 Crystal Skull, Isu Spyglass\n1 Etrata, Deadly Fugitive\n1 Vraska, the Silencer\n1 Brotherhood Spy\n1 Massacre Girl\n1 Ezio, Brash Novice\n1 Kelsien, the Plague\n1 Shaun & Rebecca, Agents\n1 Command Tower\n1 Exotic Orchard\n1 Path of Ancestry\n1 Adarkar Wastes\n1 Aggressive Crag\n1 Alchemist's Refuge\n1 An-Havva Township\n1 Aysen Abbey\n1 Battlefield Forge\n1 Bountiful Landscape\n1 Brushland\n1 Calciform Pools\n1 Cascade Bluffs\n1 Castle Sengir\n1 Caves of Koilos\n1 Cinder Marsh\n1 Cloudcrest Lake\n1 Contaminated Landscape\n1 Contested Cliffs\n1 Crosis's Catacombs\n1 Crypt of the Eternals\n1 Crystal Quarry\n1 Darigaaz's Caldera\n1 Darkwater Catacombs\n1 Deceptive Landscape\n1 Desolate Lighthouse\n1 Desolate Mire\n1 Abandoned Campground\n1 Abraded Bluffs\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Forest\n1 Plains\n1 Mountain\n1 Island\n1 Swamp",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": true,
+    "counts": {
+      "lands": 40,
+      "ramp": 10,
+      "card_draw": 11,
+      "targeted_removal": 11,
+      "mass_removal": 6,
+      "synergy": 21,
+      "uncategorized": 0
+    },
+    "gaps": {}
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "ramp",
+      "added": "Dragonrage",
+      "removed": "Ramses, Assassin Lord"
+    },
+    {
+      "category": "ramp",
+      "added": "Smoke Spirits' Aid",
+      "removed": "Arno Dorian"
+    },
+    {
+      "category": "ramp",
+      "added": "Harvest Season",
+      "removed": "Bayek of Siwa"
+    },
+    {
+      "category": "ramp",
+      "added": "Eladamri's Vineyard",
+      "removed": "Desmond Miles"
+    },
+    {
+      "category": "ramp",
+      "added": "Hugs, Grisly Guardian",
+      "removed": "Aya of Alexandria"
+    },
+    {
+      "category": "ramp",
+      "added": "Oblivion Sower",
+      "removed": "Alta\u00efr Ibn-La'Ahad"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Dimensional Breach",
+      "removed": "Layla Hassan"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Kindle the Carnage",
+      "removed": "Queen Marchesa"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Molten Disaster",
+      "removed": "Lydia Frye"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Incinerator of the Guilty",
+      "removed": "Ratonhnhak\u00e9\ua789ton"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Wail of the Nim",
+      "removed": "Restart Sequence"
+    }
+  ]
+}

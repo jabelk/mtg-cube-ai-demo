@@ -1,0 +1,549 @@
+{
+  "commander": "Ureni of the Unwritten",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 91,
+  "total_cost_display": "$43.31",
+  "deck": {
+    "commander": "Ureni of the Unwritten",
+    "creatures": [
+      {
+        "name": "The Goose Mother",
+        "price": "$1.81",
+        "url": "https://manapool.com/card/woe/204/the-goose-mother"
+      },
+      {
+        "name": "Pyroclast Consul",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mor/96/pyroclast-consul"
+      },
+      {
+        "name": "Parapet Thrasher",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/tdc/36/parapet-thrasher"
+      },
+      {
+        "name": "Bloodfire Dwarf",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/apc/56/bloodfire-dwarf"
+      },
+      {
+        "name": "Hammerhead Tyrant",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdc/21/hammerhead-tyrant"
+      },
+      {
+        "name": "Dragonlord Atarka",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/tdc/285/dragonlord-atarka"
+      },
+      {
+        "name": "Thunderbreak Regent",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdc/241/thunderbreak-regent"
+      },
+      {
+        "name": "Atsushi, the Blazing Sky",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/aneo/10/atsushi-the-blazing-sky"
+      },
+      {
+        "name": "Ureni, the Song Unending",
+        "price": "$1.92",
+        "url": "https://manapool.com/card/tdm/233/ureni-the-song-unending"
+      },
+      {
+        "name": "Bloomvine Regent",
+        "price": "$1.03",
+        "url": "https://manapool.com/card/atdm/46/bloomvine-regent"
+      },
+      {
+        "name": "Ganax, Astral Hunter",
+        "price": "$0.36",
+        "url": "https://manapool.com/card/clb/398/ganax-astral-hunter"
+      },
+      {
+        "name": "Whirlwing Stormbrood",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/atdm/27/whirlwing-stormbrood"
+      },
+      {
+        "name": "Dragonspeaker Shaman",
+        "price": "$1.82",
+        "url": "https://manapool.com/card/scg/89/dragonspeaker-shaman"
+      },
+      {
+        "name": "Keiga, the Tide Star",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdc/156/keiga-the-tide-star"
+      },
+      {
+        "name": "Eshki, Temur's Roar",
+        "price": "$1.35",
+        "url": "https://manapool.com/card/tdc/3/eshki-temurs-roar"
+      },
+      {
+        "name": "Leyline Tyrant",
+        "price": "$2.13",
+        "url": "https://manapool.com/card/tdc/221/leyline-tyrant"
+      },
+      {
+        "name": "Marang River Regent",
+        "price": "N/A",
+        "url": ""
+      }
+    ],
+    "instants": [
+      {
+        "name": "Rapid Hybridization",
+        "price": "$0.51",
+        "url": "https://manapool.com/card/lcc/166/rapid-hybridization"
+      },
+      {
+        "name": "Reality Shift",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/drc/39/reality-shift"
+      },
+      {
+        "name": "Beast Within",
+        "price": "$0.59",
+        "url": "https://manapool.com/card/blc/206/beast-within"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Epicenter",
+        "price": "$2.50",
+        "url": "https://manapool.com/card/ody/192/epicenter"
+      },
+      {
+        "name": "Rolling Earthquake",
+        "price": "$3.24",
+        "url": "https://manapool.com/card/2xm/142/rolling-earthquake"
+      },
+      {
+        "name": "Will of the Temur",
+        "price": "$0.56",
+        "url": "https://manapool.com/card/tdc/24/will-of-the-temur"
+      },
+      {
+        "name": "Selvala's Stampede",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdc/269/selvalas-stampede"
+      },
+      {
+        "name": "Kodama's Reach",
+        "price": "$1.23",
+        "url": "https://manapool.com/card/cmm/300/kodamas-reach"
+      },
+      {
+        "name": "Farseek",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/rvr/138/farseek"
+      },
+      {
+        "name": "Become the Avalanche",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdc/43/become-the-avalanche"
+      },
+      {
+        "name": "Blasphemous Act",
+        "price": "$0.38",
+        "url": "https://manapool.com/card/tmc/47/blasphemous-act"
+      },
+      {
+        "name": "Migration Path",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/lcc/246/migration-path"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Dragon's Hoard",
+        "price": "$0.30",
+        "url": "https://manapool.com/card/scd/264/dragons-hoard"
+      },
+      {
+        "name": "Carnelian Orb of Dragonkind",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/clb/166/carnelian-orb-of-dragonkind"
+      },
+      {
+        "name": "Fellwar Stone",
+        "price": "$1.02",
+        "url": "https://manapool.com/card/nec/150/fellwar-stone"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "Dragon Tempest",
+        "price": "$1.58",
+        "url": "https://manapool.com/card/tdc/94/dragon-tempest"
+      },
+      {
+        "name": "Overwhelming Instinct",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/scd/202/overwhelming-instinct"
+      },
+      {
+        "name": "Communal Brewing",
+        "price": "$0.23",
+        "url": "https://manapool.com/card/blc/29/communal-brewing"
+      },
+      {
+        "name": "Temur Ascendancy",
+        "price": "$1.84",
+        "url": "https://manapool.com/card/tdc/305/temur-ascendancy"
+      },
+      {
+        "name": "Encroaching Dragonstorm",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdm/142/encroaching-dragonstorm"
+      },
+      {
+        "name": "Frontier Siege",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdc/256/frontier-siege"
+      },
+      {
+        "name": "Reflections of Littjara",
+        "price": "$0.92",
+        "url": "https://manapool.com/card/lcc/168/reflections-of-littjara"
+      },
+      {
+        "name": "Garruk's Uprising",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/fdn/220/garruks-uprising"
+      },
+      {
+        "name": "Breaching Dragonstorm",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdm/101/breaching-dragonstorm"
+      }
+    ],
+    "planeswalkers": [
+      {
+        "name": "Chandra, Flamecaller",
+        "price": "$0.36",
+        "url": "https://manapool.com/card/c20/145/chandra-flamecaller"
+      }
+    ],
+    "lands": [
+      {
+        "name": "Haven of the Spirit Dragon",
+        "price": "$0.34",
+        "url": "https://manapool.com/card/tdc/370/haven-of-the-spirit-dragon"
+      },
+      {
+        "name": "Temple of the Dragon Queen",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/260/temple-of-the-dragon-queen"
+      },
+      {
+        "name": "Mosswort Bridge",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mkc/275/mosswort-bridge"
+      },
+      {
+        "name": "Rockfall Vale",
+        "price": "$2.28",
+        "url": "https://manapool.com/card/mid/266/rockfall-vale"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Karplusan Forest",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/drc/163/karplusan-forest"
+      },
+      {
+        "name": "Flooded Grove",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltc/309/flooded-grove"
+      },
+      {
+        "name": "Rootbound Crag",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/326/rootbound-crag"
+      },
+      {
+        "name": "Maelstrom of the Spirit Dragon",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/atdm/42/maelstrom-of-the-spirit-dragon"
+      },
+      {
+        "name": "Sulfur Falls",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/drc/173/sulfur-falls"
+      },
+      {
+        "name": "Mossfire Valley",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/316/mossfire-valley"
+      },
+      {
+        "name": "Shivan Reef",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/dmu/255/shivan-reef"
+      },
+      {
+        "name": "Sheltered Thicket",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/330/sheltered-thicket"
+      },
+      {
+        "name": "Hinterland Harbor",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmc/69/hinterland-harbor"
+      },
+      {
+        "name": "Kessig Wolf Run",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mkc/269/kessig-wolf-run"
+      },
+      {
+        "name": "Cinder Glade",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/299/cinder-glade"
+      },
+      {
+        "name": "Yavimaya Coast",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/drc/184/yavimaya-coast"
+      },
+      {
+        "name": "Bountiful Landscape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/217/bountiful-landscape"
+      },
+      {
+        "name": "Command Tower",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/325/command-tower"
+      },
+      {
+        "name": "Exotic Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/131/exotic-orchard"
+      },
+      {
+        "name": "Alchemist's Refuge",
+        "price": "$0.65",
+        "url": "https://manapool.com/card/lcc/318/alchemists-refuge"
+      },
+      {
+        "name": "Cascade Bluffs",
+        "price": "$0.51",
+        "url": "https://manapool.com/card/eoc/153/cascade-bluffs"
+      },
+      {
+        "name": "Contested Cliffs",
+        "price": "$0.29",
+        "url": "https://manapool.com/card/c13/282/contested-cliffs"
+      },
+      {
+        "name": "Desolate Lighthouse",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/avr/227/desolate-lighthouse"
+      },
+      {
+        "name": "Ferrous Lake",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/pip/148/ferrous-lake"
+      },
+      {
+        "name": "Fungal Reaches",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tsr/279/fungal-reaches"
+      },
+      {
+        "name": "Mogg Hollows",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/tmp/320/mogg-hollows"
+      },
+      {
+        "name": "Nivix, Aerie of the Firemind",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ddj/36/nivix-aerie-of-the-firemind"
+      },
+      {
+        "name": "Novijen, Heart of Progress",
+        "price": "$0.30",
+        "url": "https://manapool.com/card/dis/175/novijen-heart-of-progress"
+      },
+      {
+        "name": "Overflowing Basin",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/321/overflowing-basin"
+      },
+      {
+        "name": "Pinecrest Ridge",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/chk/281/pinecrest-ridge"
+      },
+      {
+        "name": "Skarrg, the Rage Pits",
+        "price": "$0.62",
+        "url": "https://manapool.com/card/gpt/163/skarrg-the-rage-pits"
+      },
+      {
+        "name": "Slumbering Waterways",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mb2/618/slumbering-waterways"
+      },
+      {
+        "name": "Temur Elevator",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mb2/619/temur-elevator"
+      },
+      {
+        "name": "Timberline Ridge",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/ice/361/timberline-ridge"
+      },
+      {
+        "name": "Value Town // Take a Trip to...",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/mb2/621/value-town-take-a-trip-to"
+      },
+      {
+        "name": "Waterlogged Grove",
+        "price": "$0.57",
+        "url": "https://manapool.com/card/who/331/waterlogged-grove"
+      },
+      {
+        "name": "Airship Engine Room",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tla/265/airship-engine-room"
+      },
+      {
+        "name": "Balamb Garden, SeeD Academy // Balamb Garden, Airborne",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/272/balamb-garden-seed-academy-balamb-garden-airborne"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      }
+    ],
+    "other": [
+      {
+        "name": "New Player's Journey",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "The Harvester",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/thp1/2/the-harvester"
+      }
+    ]
+  },
+  "export_text": "1 Ureni of the Unwritten *CMDR*\n1 Dragon Tempest\n1 Overwhelming Instinct\n1 Communal Brewing\n1 New Player's Journey\n1 Haven of the Spirit Dragon\n1 The Harvester\n1 The Goose Mother\n1 Pyroclast Consul\n1 Epicenter\n1 Temur Ascendancy\n1 Parapet Thrasher\n1 Encroaching Dragonstorm\n1 Bloodfire Dwarf\n1 Hammerhead Tyrant\n1 Dragon's Hoard\n1 Chandra, Flamecaller\n1 Dragonlord Atarka\n1 Rolling Earthquake\n1 Temple of the Dragon Queen\n1 Frontier Siege\n1 Mosswort Bridge\n1 Will of the Temur\n1 Rockfall Vale\n1 Path of Ancestry\n1 Selvala's Stampede\n1 Thunderbreak Regent\n1 Atsushi, the Blazing Sky\n1 Rapid Hybridization\n1 Kodama's Reach\n1 Karplusan Forest\n1 Flooded Grove\n1 Ureni, the Song Unending\n1 Rootbound Crag\n1 Bloomvine Regent\n1 Maelstrom of the Spirit Dragon\n1 Ganax, Astral Hunter\n1 Whirlwing Stormbrood\n1 Reflections of Littjara\n1 Sulfur Falls\n1 Farseek\n1 Dragonspeaker Shaman\n1 Become the Avalanche\n1 Mossfire Valley\n1 Blasphemous Act\n1 Shivan Reef\n1 Migration Path\n1 Sheltered Thicket\n1 Reality Shift\n1 Hinterland Harbor\n1 Keiga, the Tide Star\n1 Carnelian Orb of Dragonkind\n1 Garruk's Uprising\n1 Kessig Wolf Run\n1 Cinder Glade\n1 Eshki, Temur's Roar\n1 Leyline Tyrant\n1 Yavimaya Coast\n1 Bountiful Landscape\n1 Beast Within\n1 Marang River Regent\n1 Breaching Dragonstorm\n1 Fellwar Stone\n1 Command Tower\n1 Exotic Orchard\n1 Alchemist's Refuge\n1 Cascade Bluffs\n1 Contested Cliffs\n1 Desolate Lighthouse\n1 Ferrous Lake\n1 Fungal Reaches\n1 Mogg Hollows\n1 Nivix, Aerie of the Firemind\n1 Novijen, Heart of Progress\n1 Overflowing Basin\n1 Pinecrest Ridge\n1 Skarrg, the Rage Pits\n1 Slumbering Waterways\n1 Temur Elevator\n1 Timberline Ridge\n1 Value Town // Take a Trip to...\n1 Waterlogged Grove\n1 Airship Engine Room\n1 Balamb Garden, SeeD Academy // Balamb Garden, Airborne\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Forest\n1 Island\n1 Mountain\n1 Forest\n1 Island",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": true,
+    "counts": {
+      "lands": 47,
+      "ramp": 11,
+      "card_draw": 10,
+      "targeted_removal": 10,
+      "mass_removal": 6,
+      "synergy": 4,
+      "uncategorized": 3
+    },
+    "gaps": {}
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "card_draw",
+      "added": "Overwhelming Instinct",
+      "removed": "Hellkite Courser"
+    },
+    {
+      "category": "card_draw",
+      "added": "Communal Brewing",
+      "removed": "Lathliss, Dragon Queen"
+    },
+    {
+      "category": "card_draw",
+      "added": "New Player's Journey",
+      "removed": "Sarkhan, Soul Aflame"
+    },
+    {
+      "category": "card_draw",
+      "added": "The Harvester",
+      "removed": "Atarka, World Render"
+    },
+    {
+      "category": "card_draw",
+      "added": "The Goose Mother",
+      "removed": "Broodcaller Scourge"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Pyroclast Consul",
+      "removed": "Scourge of the Throne"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Epicenter",
+      "removed": "Deceptive Frostkite"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Bloodfire Dwarf",
+      "removed": "Thundermane Dragon"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Chandra, Flamecaller",
+      "removed": "Dragonlord's Servant"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Rolling Earthquake",
+      "removed": "Nogi, Draco-Zealot"
+    }
+  ]
+}

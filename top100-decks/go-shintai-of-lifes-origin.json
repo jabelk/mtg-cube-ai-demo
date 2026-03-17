@@ -1,0 +1,593 @@
+{
+  "commander": "Go-Shintai of Life's Origin",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 99,
+  "total_cost_display": "$58.13",
+  "deck": {
+    "commander": "Go-Shintai of Life's Origin",
+    "creatures": [
+      {
+        "name": "Sakashima's Protege",
+        "price": "$0.32",
+        "url": "https://manapool.com/card/cmr/90/sakashimas-protege"
+      },
+      {
+        "name": "Go-Shintai of Hidden Cruelty",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/neo/97/go-shintai-of-hidden-cruelty"
+      },
+      {
+        "name": "Go-Shintai of Ancient Wars",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/neo/144/go-shintai-of-ancient-wars"
+      },
+      {
+        "name": "Lifespring Druid",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/bfz/177/lifespring-druid"
+      },
+      {
+        "name": "Rivaz of the Claw",
+        "price": "$0.51",
+        "url": "https://manapool.com/card/dmu/215/rivaz-of-the-claw"
+      },
+      {
+        "name": "Jukai Naturalist",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/neo/225/jukai-naturalist"
+      },
+      {
+        "name": "Weaver of Harmony",
+        "price": "$2.33",
+        "url": "https://manapool.com/card/neo/213/weaver-of-harmony"
+      },
+      {
+        "name": "Eidolon of Blossoms",
+        "price": "$3.02",
+        "url": "https://manapool.com/card/jou/122/eidolon-of-blossoms"
+      },
+      {
+        "name": "Destiny Spinner",
+        "price": "$1.40",
+        "url": "https://manapool.com/card/thb/168/destiny-spinner"
+      },
+      {
+        "name": "Herald of the Pantheon",
+        "price": "$2.36",
+        "url": "https://manapool.com/card/ori/180/herald-of-the-pantheon"
+      },
+      {
+        "name": "Satyr Enchanter",
+        "price": "$0.67",
+        "url": "https://manapool.com/card/m19/223/satyr-enchanter"
+      },
+      {
+        "name": "Mesa Enchantress",
+        "price": "$0.38",
+        "url": "https://manapool.com/card/plc/26/mesa-enchantress"
+      },
+      {
+        "name": "Zur the Enchanter",
+        "price": "$0.90",
+        "url": "https://manapool.com/card/dmr/374/zur-the-enchanter"
+      },
+      {
+        "name": "Doomwake Giant",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsc/138/doomwake-giant"
+      },
+      {
+        "name": "Zur, Eternal Schemer",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/admu/81/zur-eternal-schemer"
+      },
+      {
+        "name": "Yenna, Redtooth Regent",
+        "price": "$2.04",
+        "url": "https://manapool.com/card/woe/219/yenna-redtooth-regent"
+      },
+      {
+        "name": "Shrine Steward",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/neo/259/shrine-steward"
+      },
+      {
+        "name": "Starfield Mystic",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/dsc/105/starfield-mystic"
+      },
+      {
+        "name": "Verduran Enchantress",
+        "price": "$0.88",
+        "url": "https://manapool.com/card/3ed/223/verduran-enchantress"
+      },
+      {
+        "name": "Inquisitive Glimmer",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsk/217/inquisitive-glimmer"
+      },
+      {
+        "name": "Sisay, Weatherlight Captain",
+        "price": "$1.87",
+        "url": "https://manapool.com/card/mh1/29/sisay-weatherlight-captain"
+      },
+      {
+        "name": "Archon of Sun's Grace",
+        "price": "$0.53",
+        "url": "https://manapool.com/card/thb/3/archon-of-suns-grace"
+      },
+      {
+        "name": "Wildsear, Scouring Maw",
+        "price": "$2.38",
+        "url": "https://manapool.com/card/blc/44/wildsear-scouring-maw"
+      },
+      {
+        "name": "Guru Pathik",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tla/223/guru-pathik"
+      },
+      {
+        "name": "Grim Guardian",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/jou/73/grim-guardian"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Harmonic Convergence",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/ulg/103/harmonic-convergence"
+      },
+      {
+        "name": "Savage Alliance",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/emn/140/savage-alliance"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "A-Scout the Wilderness",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Blasphemous Act",
+        "price": "$0.38",
+        "url": "https://manapool.com/card/tmc/47/blasphemous-act"
+      },
+      {
+        "name": "Ultimate Magic: Meteor",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/62/ultimate-magic-meteor"
+      },
+      {
+        "name": "Upheaval",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh2/270/upheaval"
+      },
+      {
+        "name": "Extinguish All Hope",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmm/157/extinguish-all-hope"
+      },
+      {
+        "name": "Aang's Journey",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tla/1/aangs-journey"
+      },
+      {
+        "name": "Resurgent Belief",
+        "price": "$0.67",
+        "url": "https://manapool.com/card/mh2/443/resurgent-belief"
+      },
+      {
+        "name": "Brilliant Restoration",
+        "price": "$0.93",
+        "url": "https://manapool.com/card/neo/7/brilliant-restoration"
+      },
+      {
+        "name": "Dance of the Manse",
+        "price": "$0.57",
+        "url": "https://manapool.com/card/nec/136/dance-of-the-manse"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Hot Dog Cart",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/spm/164/hot-dog-cart"
+      },
+      {
+        "name": "Chromatic Lantern",
+        "price": "$0.44",
+        "url": "https://manapool.com/card/tmc/58/chromatic-lantern"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "Sanctum of Fruitful Harvest",
+        "price": "$0.32",
+        "url": "https://manapool.com/card/m21/203/sanctum-of-fruitful-harvest"
+      },
+      {
+        "name": "Honden of Infinite Rage",
+        "price": "$1.86",
+        "url": "https://manapool.com/card/chk/172/honden-of-infinite-rage"
+      },
+      {
+        "name": "Honden of Seeing Winds",
+        "price": "$1.04",
+        "url": "https://manapool.com/card/plst/CHK-69/honden-of-seeing-winds"
+      },
+      {
+        "name": "Sanctum of Shattered Heights",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/m21/157/sanctum-of-shattered-heights"
+      },
+      {
+        "name": "The Spirit Oasis",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tla/72/the-spirit-oasis"
+      },
+      {
+        "name": "Kyoshi Island Plaza",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tla/184/kyoshi-island-plaza"
+      },
+      {
+        "name": "Southern Air Temple",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tla/36/southern-air-temple"
+      },
+      {
+        "name": "Enchantress's Presence",
+        "price": "$1.22",
+        "url": "https://manapool.com/card/mh2/283/enchantresss-presence"
+      },
+      {
+        "name": "Sphere of Safety",
+        "price": "$1.97",
+        "url": "https://manapool.com/card/c16/77/sphere-of-safety"
+      },
+      {
+        "name": "Sigil of the Empty Throne",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/cmm/836/sigil-of-the-empty-throne"
+      },
+      {
+        "name": "Propaganda",
+        "price": "$2.88",
+        "url": "https://manapool.com/card/c13/53/propaganda"
+      },
+      {
+        "name": "Fertile Ground",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ecc/106/fertile-ground"
+      },
+      {
+        "name": "Paradox Haze",
+        "price": "$1.71",
+        "url": "https://manapool.com/card/tsp/71/paradox-haze"
+      },
+      {
+        "name": "Darksteel Mutation",
+        "price": "$2.49",
+        "url": "https://manapool.com/card/cmm/623/darksteel-mutation"
+      },
+      {
+        "name": "Wild Growth",
+        "price": "$0.28",
+        "url": "https://manapool.com/card/ice/277/wild-growth"
+      },
+      {
+        "name": "Kenrith's Transformation",
+        "price": "$1.10",
+        "url": "https://manapool.com/card/eld/164/kenriths-transformation"
+      }
+    ],
+    "planeswalkers": [
+      {
+        "name": "Calix, Destiny's Hand",
+        "price": "$0.93",
+        "url": "https://manapool.com/card/thb/211/calix-destinys-hand"
+      }
+    ],
+    "lands": [
+      {
+        "name": "White Lotus Hideout",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tla/281/white-lotus-hideout"
+      },
+      {
+        "name": "Manor Gate",
+        "price": "$0.61",
+        "url": "https://manapool.com/card/clb/356/manor-gate"
+      },
+      {
+        "name": "Citadel Gate",
+        "price": "$1.75",
+        "url": "https://manapool.com/card/clb/349/citadel-gate"
+      },
+      {
+        "name": "Black Dragon Gate",
+        "price": "$0.41",
+        "url": "https://manapool.com/card/clb/347/black-dragon-gate"
+      },
+      {
+        "name": "Gond Gate",
+        "price": "$1.25",
+        "url": "https://manapool.com/card/clb/353/gond-gate"
+      },
+      {
+        "name": "Cliffgate",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/clb/350/cliffgate"
+      },
+      {
+        "name": "Sea Gate",
+        "price": "$1.90",
+        "url": "https://manapool.com/card/clb/359/sea-gate"
+      },
+      {
+        "name": "Command Tower",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/325/command-tower"
+      },
+      {
+        "name": "Exotic Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/131/exotic-orchard"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Adarkar Wastes",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/blc/291/adarkar-wastes"
+      },
+      {
+        "name": "Aggressive Crag",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/cmb2/112/aggressive-crag"
+      },
+      {
+        "name": "Alchemist's Refuge",
+        "price": "$0.65",
+        "url": "https://manapool.com/card/lcc/318/alchemists-refuge"
+      },
+      {
+        "name": "An-Havva Township",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/hml/111/an-havva-township"
+      },
+      {
+        "name": "Aysen Abbey",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/hml/112/aysen-abbey"
+      },
+      {
+        "name": "Battlefield Forge",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/blc/293/battlefield-forge"
+      },
+      {
+        "name": "Bountiful Landscape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/217/bountiful-landscape"
+      },
+      {
+        "name": "Brushland",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/fic/377/brushland"
+      },
+      {
+        "name": "Calciform Pools",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/tsp/270/calciform-pools"
+      },
+      {
+        "name": "Cascade Bluffs",
+        "price": "$0.51",
+        "url": "https://manapool.com/card/eoc/153/cascade-bluffs"
+      },
+      {
+        "name": "Castle Sengir",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/hml/113/castle-sengir"
+      },
+      {
+        "name": "Caves of Koilos",
+        "price": "$0.80",
+        "url": "https://manapool.com/card/m15/241/caves-of-koilos"
+      },
+      {
+        "name": "Cinder Marsh",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/tmp/317/cinder-marsh"
+      },
+      {
+        "name": "Cloudcrest Lake",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/chk/274/cloudcrest-lake"
+      },
+      {
+        "name": "Contaminated Landscape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/218/contaminated-landscape"
+      },
+      {
+        "name": "Contested Cliffs",
+        "price": "$0.29",
+        "url": "https://manapool.com/card/c13/282/contested-cliffs"
+      },
+      {
+        "name": "Crosis's Catacombs",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmr/242/crosiss-catacombs"
+      },
+      {
+        "name": "Crypt of the Eternals",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/hou/169/crypt-of-the-eternals"
+      },
+      {
+        "name": "Crystal Quarry",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/eos/10/crystal-quarry"
+      },
+      {
+        "name": "Darigaaz's Caldera",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmr/243/darigaazs-caldera"
+      },
+      {
+        "name": "Darkwater Catacombs",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/c19/238/darkwater-catacombs"
+      },
+      {
+        "name": "Deceptive Landscape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/219/deceptive-landscape"
+      },
+      {
+        "name": "Desolate Lighthouse",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/avr/227/desolate-lighthouse"
+      },
+      {
+        "name": "Desolate Mire",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/386/desolate-mire"
+      },
+      {
+        "name": "Abandoned Campground",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsk/255/abandoned-campground"
+      },
+      {
+        "name": "Abraded Bluffs",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/otj/251/abraded-bluffs"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      }
+    ],
+    "other": []
+  },
+  "export_text": "1 Go-Shintai of Life's Origin *CMDR*\n1 A-Scout the Wilderness\n1 Sanctum of Fruitful Harvest\n1 Hot Dog Cart\n1 Honden of Infinite Rage\n1 Chromatic Lantern\n1 Sakashima's Protege\n1 Go-Shintai of Hidden Cruelty\n1 Go-Shintai of Ancient Wars\n1 Lifespring Druid\n1 Rivaz of the Claw\n1 Honden of Seeing Winds\n1 Blasphemous Act\n1 Ultimate Magic: Meteor\n1 Harmonic Convergence\n1 Sanctum of Shattered Heights\n1 The Spirit Oasis\n1 Upheaval\n1 Savage Alliance\n1 Kyoshi Island Plaza\n1 Southern Air Temple\n1 Jukai Naturalist\n1 Enchantress's Presence\n1 Weaver of Harmony\n1 Sphere of Safety\n1 Eidolon of Blossoms\n1 Destiny Spinner\n1 Herald of the Pantheon\n1 Extinguish All Hope\n1 Satyr Enchanter\n1 Mesa Enchantress\n1 Zur the Enchanter\n1 Doomwake Giant\n1 White Lotus Hideout\n1 Sigil of the Empty Throne\n1 Zur, Eternal Schemer\n1 Propaganda\n1 Yenna, Redtooth Regent\n1 Shrine Steward\n1 Aang's Journey\n1 Fertile Ground\n1 Starfield Mystic\n1 Paradox Haze\n1 Resurgent Belief\n1 Verduran Enchantress\n1 Darksteel Mutation\n1 Inquisitive Glimmer\n1 Brilliant Restoration\n1 Sisay, Weatherlight Captain\n1 Archon of Sun's Grace\n1 Dance of the Manse\n1 Wild Growth\n1 Calix, Destiny's Hand\n1 Wildsear, Scouring Maw\n1 Guru Pathik\n1 Grim Guardian\n1 Manor Gate\n1 Citadel Gate\n1 Kenrith's Transformation\n1 Black Dragon Gate\n1 Gond Gate\n1 Cliffgate\n1 Sea Gate\n1 Command Tower\n1 Exotic Orchard\n1 Path of Ancestry\n1 Adarkar Wastes\n1 Aggressive Crag\n1 Alchemist's Refuge\n1 An-Havva Township\n1 Aysen Abbey\n1 Battlefield Forge\n1 Bountiful Landscape\n1 Brushland\n1 Calciform Pools\n1 Cascade Bluffs\n1 Castle Sengir\n1 Caves of Koilos\n1 Cinder Marsh\n1 Cloudcrest Lake\n1 Contaminated Landscape\n1 Contested Cliffs\n1 Crosis's Catacombs\n1 Crypt of the Eternals\n1 Crystal Quarry\n1 Darigaaz's Caldera\n1 Darkwater Catacombs\n1 Deceptive Landscape\n1 Desolate Lighthouse\n1 Desolate Mire\n1 Abandoned Campground\n1 Abraded Bluffs\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Forest\n1 Plains\n1 Mountain\n1 Island\n1 Swamp",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": true,
+    "counts": {
+      "lands": 44,
+      "ramp": 10,
+      "card_draw": 10,
+      "targeted_removal": 8,
+      "mass_removal": 6,
+      "synergy": 21,
+      "uncategorized": 0
+    },
+    "gaps": {}
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "ramp",
+      "added": "A-Scout the Wilderness",
+      "removed": "Sanctum of All"
+    },
+    {
+      "category": "ramp",
+      "added": "Hot Dog Cart",
+      "removed": "Sanctum of Stone Fangs"
+    },
+    {
+      "category": "ramp",
+      "added": "Chromatic Lantern",
+      "removed": "Sanctum of Calm Waters"
+    },
+    {
+      "category": "ramp",
+      "added": "Sakashima's Protege",
+      "removed": "Go-Shintai of Shared Purpose"
+    },
+    {
+      "category": "ramp",
+      "added": "Lifespring Druid",
+      "removed": "Honden of Life's Web"
+    },
+    {
+      "category": "ramp",
+      "added": "Rivaz of the Claw",
+      "removed": "Go-Shintai of Boundless Vigor"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Blasphemous Act",
+      "removed": "Honden of Night's Reach"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Ultimate Magic: Meteor",
+      "removed": "Go-Shintai of Lost Wisdom"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Harmonic Convergence",
+      "removed": "Sanctum of Tranquil Light"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Upheaval",
+      "removed": "Northern Air Temple"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Savage Alliance",
+      "removed": "Crescent Island Temple"
+    }
+  ]
+}

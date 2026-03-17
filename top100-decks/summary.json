@@ -1,0 +1,902 @@
+[
+  {
+    "name": "The Ur-Dragon",
+    "slug": "the-ur-dragon",
+    "num_decks": 44454,
+    "cards": 98,
+    "cost": "$468.73",
+    "fixes": 13,
+    "health": "GAPS"
+  },
+  {
+    "name": "Edgar Markov",
+    "slug": "edgar-markov",
+    "num_decks": 43244,
+    "cards": 98,
+    "cost": "$52.23",
+    "fixes": 18,
+    "health": "PASS"
+  },
+  {
+    "name": "Atraxa, Praetors' Voice",
+    "slug": "atraxa-praetors-voice",
+    "num_decks": 39458,
+    "cards": 98,
+    "cost": "$60.16",
+    "fixes": 8,
+    "health": "PASS"
+  },
+  {
+    "name": "Krenko, Mob Boss",
+    "slug": "krenko-mob-boss",
+    "num_decks": 36995,
+    "cards": 99,
+    "cost": "$46.69",
+    "fixes": 19,
+    "health": "GAPS"
+  },
+  {
+    "name": "Y'shtola, Night's Blessed",
+    "slug": "yshtola-nights-blessed",
+    "num_decks": 35747,
+    "cards": 95,
+    "cost": "$36.83",
+    "fixes": 4,
+    "health": "PASS"
+  },
+  {
+    "name": "Kaalia of the Vast",
+    "slug": "kaalia-of-the-vast",
+    "num_decks": 34707,
+    "cards": 99,
+    "cost": "$51.89",
+    "fixes": 3,
+    "health": "PASS"
+  },
+  {
+    "name": "Pantlaza, Sun-Favored",
+    "slug": "pantlaza-sun-favored",
+    "num_decks": 31133,
+    "cards": 97,
+    "cost": "$44.08",
+    "fixes": 8,
+    "health": "PASS"
+  },
+  {
+    "name": "Sauron, the Dark Lord",
+    "slug": "sauron-the-dark-lord",
+    "num_decks": 30878,
+    "cards": 99,
+    "cost": "$35.44",
+    "fixes": 14,
+    "health": "PASS"
+  },
+  {
+    "name": "Lathril, Blade of the Elves",
+    "slug": "lathril-blade-of-the-elves",
+    "num_decks": 30589,
+    "cards": 97,
+    "cost": "$46.60",
+    "fixes": 12,
+    "health": "PASS"
+  },
+  {
+    "name": "Yuriko, the Tiger's Shadow",
+    "slug": "yuriko-the-tigers-shadow",
+    "num_decks": 30132,
+    "cards": 99,
+    "cost": "$169.14",
+    "fixes": 18,
+    "health": "PASS"
+  },
+  {
+    "name": "The Wise Mothman",
+    "slug": "the-wise-mothman",
+    "num_decks": 30077,
+    "cards": 93,
+    "cost": "$43.34",
+    "fixes": 18,
+    "health": "PASS"
+  },
+  {
+    "name": "Ms. Bumbleflower",
+    "slug": "ms-bumbleflower",
+    "num_decks": 29123,
+    "cards": 93,
+    "cost": "$44.49",
+    "fixes": 11,
+    "health": "GAPS"
+  },
+  {
+    "name": "Giada, Font of Hope",
+    "slug": "giada-font-of-hope",
+    "num_decks": 29091,
+    "cards": 99,
+    "cost": "$60.67",
+    "fixes": 18,
+    "health": "GAPS"
+  },
+  {
+    "name": "Kenrith, the Returned King",
+    "slug": "kenrith-the-returned-king",
+    "num_decks": 28558,
+    "cards": 99,
+    "cost": "$65.91",
+    "fixes": 4,
+    "health": "PASS"
+  },
+  {
+    "name": "Jodah, the Unifier",
+    "slug": "jodah-the-unifier",
+    "num_decks": 28438,
+    "cards": 99,
+    "cost": "$54.89",
+    "fixes": 11,
+    "health": "PASS"
+  },
+  {
+    "name": "Vivi Ornitier",
+    "slug": "vivi-ornitier",
+    "num_decks": 28063,
+    "cards": 98,
+    "cost": "$778.87",
+    "fixes": 15,
+    "health": "GAPS"
+  },
+  {
+    "name": "Teval, the Balanced Scale",
+    "slug": "teval-the-balanced-scale",
+    "num_decks": 27980,
+    "cards": 97,
+    "cost": "$42.52",
+    "fixes": 15,
+    "health": "PASS"
+  },
+  {
+    "name": "Nekusar, the Mindrazer",
+    "slug": "nekusar-the-mindrazer",
+    "num_decks": 27662,
+    "cards": 99,
+    "cost": "$90.12",
+    "fixes": 16,
+    "health": "PASS"
+  },
+  {
+    "name": "Isshin, Two Heavens as One",
+    "slug": "isshin-two-heavens-as-one",
+    "num_decks": 26587,
+    "cards": 99,
+    "cost": "$37.46",
+    "fixes": 21,
+    "health": "PASS"
+  },
+  {
+    "name": "Ulalek, Fused Atrocity",
+    "slug": "ulalek-fused-atrocity",
+    "num_decks": 26580,
+    "cards": 95,
+    "cost": "$47.50",
+    "fixes": 8,
+    "health": "GAPS"
+  },
+  {
+    "name": "Miirym, Sentinel Wyrm",
+    "slug": "miirym-sentinel-wyrm",
+    "num_decks": 26235,
+    "cards": 98,
+    "cost": "$53.42",
+    "fixes": 15,
+    "health": "PASS"
+  },
+  {
+    "name": "Baylen, the Haymaker",
+    "slug": "baylen-the-haymaker",
+    "num_decks": 25444,
+    "cards": 99,
+    "cost": "$51.80",
+    "fixes": 9,
+    "health": "PASS"
+  },
+  {
+    "name": "Fire Lord Azula",
+    "slug": "fire-lord-azula",
+    "num_decks": 25019,
+    "cards": 98,
+    "cost": "$47.29",
+    "fixes": 6,
+    "health": "PASS"
+  },
+  {
+    "name": "Valgavoth, Harrower of Souls",
+    "slug": "valgavoth-harrower-of-souls",
+    "num_decks": 24749,
+    "cards": 91,
+    "cost": "$47.88",
+    "fixes": 13,
+    "health": "PASS"
+  },
+  {
+    "name": "Chatterfang, Squirrel General",
+    "slug": "chatterfang-squirrel-general",
+    "num_decks": 23929,
+    "cards": 98,
+    "cost": "$156.19",
+    "fixes": 13,
+    "health": "PASS"
+  },
+  {
+    "name": "The Necrobloom",
+    "slug": "the-necrobloom",
+    "num_decks": 22825,
+    "cards": 98,
+    "cost": "$80.07",
+    "fixes": 14,
+    "health": "GAPS"
+  },
+  {
+    "name": "Hakbal of the Surging Soul",
+    "slug": "hakbal-of-the-surging-soul",
+    "num_decks": 22634,
+    "cards": 96,
+    "cost": "$2745.13",
+    "fixes": 16,
+    "health": "PASS"
+  },
+  {
+    "name": "Bello, Bard of the Brambles",
+    "slug": "bello-bard-of-the-brambles",
+    "num_decks": 22621,
+    "cards": 92,
+    "cost": "$38.44",
+    "fixes": 8,
+    "health": "PASS"
+  },
+  {
+    "name": "Esika, God of the Tree",
+    "slug": "esika-god-of-the-tree",
+    "num_decks": 22613,
+    "cards": 99,
+    "cost": "$63.21",
+    "fixes": 7,
+    "health": "PASS"
+  },
+  {
+    "name": "Muldrotha, the Gravetide",
+    "slug": "muldrotha-the-gravetide",
+    "num_decks": 22285,
+    "cards": 99,
+    "cost": "$53.43",
+    "fixes": 5,
+    "health": "PASS"
+  },
+  {
+    "name": "Kefka, Court Mage",
+    "slug": "kefka-court-mage",
+    "num_decks": 21819,
+    "cards": 99,
+    "cost": "$62.12",
+    "fixes": 10,
+    "health": "PASS"
+  },
+  {
+    "name": "Hashaton, Scarab's Fist",
+    "slug": "hashaton-scarabs-fist",
+    "num_decks": 21807,
+    "cards": 96,
+    "cost": "$49.61",
+    "fixes": 16,
+    "health": "PASS"
+  },
+  {
+    "name": "Frodo, Adventurous Hobbit // Sam, Loyal Attendant",
+    "slug": "frodo-adventurous-hobbit-sam-loyal-attendant",
+    "num_decks": 21651,
+    "cards": 0,
+    "cost": "?",
+    "fixes": 0,
+    "health": "GAPS"
+  },
+  {
+    "name": "Sephiroth, Fabled SOLDIER",
+    "slug": "sephiroth-fabled-soldier",
+    "num_decks": 21544,
+    "cards": 99,
+    "cost": "$93.19",
+    "fixes": 15,
+    "health": "PASS"
+  },
+  {
+    "name": "Animar, Soul of Elements",
+    "slug": "animar-soul-of-elements",
+    "num_decks": 21480,
+    "cards": 99,
+    "cost": "$423.40",
+    "fixes": 9,
+    "health": "PASS"
+  },
+  {
+    "name": "Mr. House, President and CEO",
+    "slug": "mr-house-president-and-ceo",
+    "num_decks": 21480,
+    "cards": 99,
+    "cost": "$46.23",
+    "fixes": 9,
+    "health": "PASS"
+  },
+  {
+    "name": "Toph, the First Metalbender",
+    "slug": "toph-the-first-metalbender",
+    "num_decks": 21405,
+    "cards": 99,
+    "cost": "$52.72",
+    "fixes": 12,
+    "health": "PASS"
+  },
+  {
+    "name": "Arcades, the Strategist",
+    "slug": "arcades-the-strategist",
+    "num_decks": 21345,
+    "cards": 98,
+    "cost": "$37.70",
+    "fixes": 14,
+    "health": "PASS"
+  },
+  {
+    "name": "Cloud, Ex-SOLDIER",
+    "slug": "cloud-ex-soldier",
+    "num_decks": 21334,
+    "cards": 92,
+    "cost": "$65.27",
+    "fixes": 20,
+    "health": "PASS"
+  },
+  {
+    "name": "Flubs, the Fool",
+    "slug": "flubs-the-fool",
+    "num_decks": 21234,
+    "cards": 98,
+    "cost": "$48.73",
+    "fixes": 12,
+    "health": "PASS"
+  },
+  {
+    "name": "Caesar, Legion's Emperor",
+    "slug": "caesar-legions-emperor",
+    "num_decks": 21140,
+    "cards": 95,
+    "cost": "$51.43",
+    "fixes": 16,
+    "health": "PASS"
+  },
+  {
+    "name": "Wilhelt, the Rotcleaver",
+    "slug": "wilhelt-the-rotcleaver",
+    "num_decks": 21059,
+    "cards": 95,
+    "cost": "$61.54",
+    "fixes": 17,
+    "health": "PASS"
+  },
+  {
+    "name": "Hearthhull, the Worldseed",
+    "slug": "hearthhull-the-worldseed",
+    "num_decks": 20687,
+    "cards": 98,
+    "cost": "$39.23",
+    "fixes": 8,
+    "health": "PASS"
+  },
+  {
+    "name": "Aragorn, the Uniter",
+    "slug": "aragorn-the-uniter",
+    "num_decks": 20597,
+    "cards": 98,
+    "cost": "$972.93",
+    "fixes": 12,
+    "health": "PASS"
+  },
+  {
+    "name": "Rin and Seri, Inseparable",
+    "slug": "rin-and-seri-inseparable",
+    "num_decks": 20273,
+    "cards": 98,
+    "cost": "$56.88",
+    "fixes": 18,
+    "health": "PASS"
+  },
+  {
+    "name": "Zhulodok, Void Gorger",
+    "slug": "zhulodok-void-gorger",
+    "num_decks": 20081,
+    "cards": 72,
+    "cost": "$48.11",
+    "fixes": 12,
+    "health": "PASS"
+  },
+  {
+    "name": "Gishath, Sun's Avatar",
+    "slug": "gishath-suns-avatar",
+    "num_decks": 20021,
+    "cards": 98,
+    "cost": "$37.92",
+    "fixes": 7,
+    "health": "PASS"
+  },
+  {
+    "name": "Glarb, Calamity's Augur",
+    "slug": "glarb-calamitys-augur",
+    "num_decks": 19833,
+    "cards": 99,
+    "cost": "$96.27",
+    "fixes": 5,
+    "health": "PASS"
+  },
+  {
+    "name": "Meren of Clan Nel Toth",
+    "slug": "meren-of-clan-nel-toth",
+    "num_decks": 19786,
+    "cards": 97,
+    "cost": "$67.81",
+    "fixes": 5,
+    "health": "PASS"
+  },
+  {
+    "name": "Breya, Etherium Shaper",
+    "slug": "breya-etherium-shaper",
+    "num_decks": 19760,
+    "cards": 99,
+    "cost": "$109.57",
+    "fixes": 15,
+    "health": "PASS"
+  },
+  {
+    "name": "Shorikai, Genesis Engine",
+    "slug": "shorikai-genesis-engine",
+    "num_decks": 19652,
+    "cards": 98,
+    "cost": "$51.48",
+    "fixes": 13,
+    "health": "PASS"
+  },
+  {
+    "name": "Ygra, Eater of All",
+    "slug": "ygra-eater-of-all",
+    "num_decks": 19618,
+    "cards": 98,
+    "cost": "$49.64",
+    "fixes": 3,
+    "health": "PASS"
+  },
+  {
+    "name": "Obeka, Splitter of Seconds",
+    "slug": "obeka-splitter-of-seconds",
+    "num_decks": 19469,
+    "cards": 98,
+    "cost": "$52.68",
+    "fixes": 17,
+    "health": "GAPS"
+  },
+  {
+    "name": "Teysa Karlov",
+    "slug": "teysa-karlov",
+    "num_decks": 19291,
+    "cards": 99,
+    "cost": "$135.53",
+    "fixes": 16,
+    "health": "PASS"
+  },
+  {
+    "name": "Go-Shintai of Life's Origin",
+    "slug": "go-shintai-of-lifes-origin",
+    "num_decks": 19113,
+    "cards": 99,
+    "cost": "$58.13",
+    "fixes": 11,
+    "health": "PASS"
+  },
+  {
+    "name": "Ghyrson Starn, Kelermorph",
+    "slug": "ghyrson-starn-kelermorph",
+    "num_decks": 18860,
+    "cards": 98,
+    "cost": "$46.28",
+    "fixes": 9,
+    "health": "PASS"
+  },
+  {
+    "name": "Korvold, Fae-Cursed King",
+    "slug": "korvold-fae-cursed-king",
+    "num_decks": 18848,
+    "cards": 99,
+    "cost": "$73.61",
+    "fixes": 11,
+    "health": "PASS"
+  },
+  {
+    "name": "Oloro, Ageless Ascetic",
+    "slug": "oloro-ageless-ascetic",
+    "num_decks": 18779,
+    "cards": 99,
+    "cost": "$115.18",
+    "fixes": 19,
+    "health": "GAPS"
+  },
+  {
+    "name": "K'rrik, Son of Yawgmoth",
+    "slug": "krrik-son-of-yawgmoth",
+    "num_decks": 18755,
+    "cards": 99,
+    "cost": "$57.69",
+    "fixes": 8,
+    "health": "PASS"
+  },
+  {
+    "name": "Voja, Jaws of the Conclave",
+    "slug": "voja-jaws-of-the-conclave",
+    "num_decks": 18511,
+    "cards": 99,
+    "cost": "$67.59",
+    "fixes": 13,
+    "health": "GAPS"
+  },
+  {
+    "name": "Tom Bombadil",
+    "slug": "tom-bombadil",
+    "num_decks": 18397,
+    "cards": 99,
+    "cost": "$116.23",
+    "fixes": 3,
+    "health": "PASS"
+  },
+  {
+    "name": "Arabella, Abandoned Doll",
+    "slug": "arabella-abandoned-doll",
+    "num_decks": 18372,
+    "cards": 98,
+    "cost": "$53.63",
+    "fixes": 13,
+    "health": "PASS"
+  },
+  {
+    "name": "Xyris, the Writhing Storm",
+    "slug": "xyris-the-writhing-storm",
+    "num_decks": 18247,
+    "cards": 99,
+    "cost": "$45.71",
+    "fixes": 12,
+    "health": "PASS"
+  },
+  {
+    "name": "Kinnan, Bonder Prodigy",
+    "slug": "kinnan-bonder-prodigy",
+    "num_decks": 18223,
+    "cards": 96,
+    "cost": "$57.74",
+    "fixes": 12,
+    "health": "PASS"
+  },
+  {
+    "name": "Atla Palani, Nest Tender",
+    "slug": "atla-palani-nest-tender",
+    "num_decks": 18218,
+    "cards": 99,
+    "cost": "$43.15",
+    "fixes": 9,
+    "health": "PASS"
+  },
+  {
+    "name": "Urza, Lord High Artificer",
+    "slug": "urza-lord-high-artificer",
+    "num_decks": 18122,
+    "cards": 99,
+    "cost": "$67.11",
+    "fixes": 19,
+    "health": "PASS"
+  },
+  {
+    "name": "Ezio Auditore da Firenze",
+    "slug": "ezio-auditore-da-firenze",
+    "num_decks": 17888,
+    "cards": 99,
+    "cost": "$42.33",
+    "fixes": 11,
+    "health": "PASS"
+  },
+  {
+    "name": "The First Sliver",
+    "slug": "the-first-sliver",
+    "num_decks": 17308,
+    "cards": 98,
+    "cost": "$72.89",
+    "fixes": 20,
+    "health": "PASS"
+  },
+  {
+    "name": "Eriette of the Charmed Apple",
+    "slug": "eriette-of-the-charmed-apple",
+    "num_decks": 17219,
+    "cards": 99,
+    "cost": "$97.88",
+    "fixes": 15,
+    "health": "GAPS"
+  },
+  {
+    "name": "Zaxara, the Exemplary",
+    "slug": "zaxara-the-exemplary",
+    "num_decks": 17172,
+    "cards": 98,
+    "cost": "$42.38",
+    "fixes": 12,
+    "health": "PASS"
+  },
+  {
+    "name": "Henzie \"Toolbox\" Torre",
+    "slug": "henzie-toolbox-torre",
+    "num_decks": 17150,
+    "cards": 96,
+    "cost": "$37.89",
+    "fixes": 4,
+    "health": "PASS"
+  },
+  {
+    "name": "Omnath, Locus of Creation",
+    "slug": "omnath-locus-of-creation",
+    "num_decks": 17147,
+    "cards": 99,
+    "cost": "$55.97",
+    "fixes": 16,
+    "health": "GAPS"
+  },
+  {
+    "name": "Sidar Jabari of Zhalfir",
+    "slug": "sidar-jabari-of-zhalfir",
+    "num_decks": 16958,
+    "cards": 98,
+    "cost": "$44.85",
+    "fixes": 13,
+    "health": "PASS"
+  },
+  {
+    "name": "Sisay, Weatherlight Captain",
+    "slug": "sisay-weatherlight-captain",
+    "num_decks": 16565,
+    "cards": 99,
+    "cost": "$66.07",
+    "fixes": 9,
+    "health": "PASS"
+  },
+  {
+    "name": "Captain N'ghathrod",
+    "slug": "captain-nghathrod",
+    "num_decks": 16456,
+    "cards": 91,
+    "cost": "$423.98",
+    "fixes": 18,
+    "health": "PASS"
+  },
+  {
+    "name": "Zinnia, Valley's Voice",
+    "slug": "zinnia-valleys-voice",
+    "num_decks": 16437,
+    "cards": 92,
+    "cost": "$30.61",
+    "fixes": 0,
+    "health": "PASS"
+  },
+  {
+    "name": "Helga, Skittish Seer",
+    "slug": "helga-skittish-seer",
+    "num_decks": 16410,
+    "cards": 99,
+    "cost": "$55.03",
+    "fixes": 10,
+    "health": "PASS"
+  },
+  {
+    "name": "Atraxa, Grand Unifier",
+    "slug": "atraxa-grand-unifier",
+    "num_decks": 16297,
+    "cards": 99,
+    "cost": "$67.40",
+    "fixes": 12,
+    "health": "PASS"
+  },
+  {
+    "name": "Urza, Chief Artificer",
+    "slug": "urza-chief-artificer",
+    "num_decks": 16171,
+    "cards": 99,
+    "cost": "$60.95",
+    "fixes": 12,
+    "health": "PASS"
+  },
+  {
+    "name": "Alela, Cunning Conqueror",
+    "slug": "alela-cunning-conqueror",
+    "num_decks": 16038,
+    "cards": 97,
+    "cost": "$66.90",
+    "fixes": 14,
+    "health": "PASS"
+  },
+  {
+    "name": "Zurgo Stormrender",
+    "slug": "zurgo-stormrender",
+    "num_decks": 15989,
+    "cards": 95,
+    "cost": "$50.77",
+    "fixes": 22,
+    "health": "PASS"
+  },
+  {
+    "name": "Queen Marchesa",
+    "slug": "queen-marchesa",
+    "num_decks": 15986,
+    "cards": 99,
+    "cost": "$42.82",
+    "fixes": 3,
+    "health": "PASS"
+  },
+  {
+    "name": "Urtet, Remnant of Memnarch",
+    "slug": "urtet-remnant-of-memnarch",
+    "num_decks": 15924,
+    "cards": 99,
+    "cost": "$74.06",
+    "fixes": 18,
+    "health": "PASS"
+  },
+  {
+    "name": "Ureni of the Unwritten",
+    "slug": "ureni-of-the-unwritten",
+    "num_decks": 15846,
+    "cards": 91,
+    "cost": "$43.31",
+    "fixes": 10,
+    "health": "PASS"
+  },
+  {
+    "name": "Magda, Brazen Outlaw",
+    "slug": "magda-brazen-outlaw",
+    "num_decks": 15812,
+    "cards": 99,
+    "cost": "$61.45",
+    "fixes": 13,
+    "health": "GAPS"
+  },
+  {
+    "name": "Niv-Mizzet, Parun",
+    "slug": "niv-mizzet-parun",
+    "num_decks": 15778,
+    "cards": 95,
+    "cost": "$415.16",
+    "fixes": 7,
+    "health": "PASS"
+  },
+  {
+    "name": "Ashling, the Limitless",
+    "slug": "ashling-the-limitless",
+    "num_decks": 15747,
+    "cards": 98,
+    "cost": "$31.59",
+    "fixes": 3,
+    "health": "PASS"
+  },
+  {
+    "name": "Marneus Calgar",
+    "slug": "marneus-calgar",
+    "num_decks": 15387,
+    "cards": 97,
+    "cost": "$48.85",
+    "fixes": 5,
+    "health": "PASS"
+  },
+  {
+    "name": "Alela, Artful Provocateur",
+    "slug": "alela-artful-provocateur",
+    "num_decks": 15278,
+    "cards": 99,
+    "cost": "$54.10",
+    "fixes": 6,
+    "health": "PASS"
+  },
+  {
+    "name": "Kuja, Genome Sorcerer",
+    "slug": "kuja-genome-sorcerer",
+    "num_decks": 15266,
+    "cards": 98,
+    "cost": "$44.61",
+    "fixes": 9,
+    "health": "PASS"
+  },
+  {
+    "name": "Felothar the Steadfast",
+    "slug": "felothar-the-steadfast",
+    "num_decks": 15230,
+    "cards": 95,
+    "cost": "$44.40",
+    "fixes": 12,
+    "health": "GAPS"
+  },
+  {
+    "name": "Kotis, the Fangkeeper",
+    "slug": "kotis-the-fangkeeper",
+    "num_decks": 15197,
+    "cards": 98,
+    "cost": "$87.15",
+    "fixes": 11,
+    "health": "PASS"
+  },
+  {
+    "name": "Aminatou, Veil Piercer",
+    "slug": "aminatou-veil-piercer",
+    "num_decks": 15084,
+    "cards": 97,
+    "cost": "$40.31",
+    "fixes": 16,
+    "health": "PASS"
+  },
+  {
+    "name": "Stella Lee, Wild Card",
+    "slug": "stella-lee-wild-card",
+    "num_decks": 15058,
+    "cards": 94,
+    "cost": "$62.62",
+    "fixes": 15,
+    "health": "PASS"
+  },
+  {
+    "name": "Choco, Seeker of Paradise",
+    "slug": "choco-seeker-of-paradise",
+    "num_decks": 15043,
+    "cards": 97,
+    "cost": "$53.37",
+    "fixes": 21,
+    "health": "PASS"
+  },
+  {
+    "name": "Aesi, Tyrant of Gyre Strait",
+    "slug": "aesi-tyrant-of-gyre-strait",
+    "num_decks": 14766,
+    "cards": 98,
+    "cost": "$109.11",
+    "fixes": 15,
+    "health": "PASS"
+  },
+  {
+    "name": "Zur the Enchanter",
+    "slug": "zur-the-enchanter",
+    "num_decks": 14524,
+    "cards": 99,
+    "cost": "$43.11",
+    "fixes": 16,
+    "health": "PASS"
+  },
+  {
+    "name": "Etali, Primal Conqueror",
+    "slug": "etali-primal-conqueror",
+    "num_decks": 14482,
+    "cards": 98,
+    "cost": "$46.60",
+    "fixes": 18,
+    "health": "PASS"
+  },
+  {
+    "name": "Tidus, Yuna's Guardian",
+    "slug": "tidus-yunas-guardian",
+    "num_decks": 14471,
+    "cards": 93,
+    "cost": "$59.39",
+    "fixes": 12,
+    "health": "GAPS"
+  },
+  {
+    "name": "Galadriel, Light of Valinor",
+    "slug": "galadriel-light-of-valinor",
+    "num_decks": 14432,
+    "cards": 97,
+    "cost": "$41.31",
+    "fixes": 11,
+    "health": "PASS"
+  }
+]

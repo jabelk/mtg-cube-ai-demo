@@ -1,0 +1,597 @@
+{
+  "commander": "Toph, the First Metalbender",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 99,
+  "total_cost_display": "$52.72",
+  "deck": {
+    "commander": "Toph, the First Metalbender",
+    "creatures": [
+      {
+        "name": "Sandstalker Moloch",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mom/203/sandstalker-moloch"
+      },
+      {
+        "name": "Tannuk, Memorial Ensign",
+        "price": "$0.63",
+        "url": "https://manapool.com/card/eoe/233/tannuk-memorial-ensign"
+      },
+      {
+        "name": "Lotus Cobra",
+        "price": "$1.56",
+        "url": "https://manapool.com/card/aznr/71/lotus-cobra"
+      },
+      {
+        "name": "Great Divide Guide",
+        "price": "$0.70",
+        "url": "https://manapool.com/card/tla/181/great-divide-guide"
+      },
+      {
+        "name": "Ashaya, Soul of the Wild",
+        "price": "$2.08",
+        "url": "https://manapool.com/card/aznr/69/ashaya-soul-of-the-wild"
+      },
+      {
+        "name": "Embermage Goblin",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/ons/200/embermage-goblin"
+      },
+      {
+        "name": "Solemn Simulacrum",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/fdn/257/solemn-simulacrum"
+      },
+      {
+        "name": "Tireless Provisioner",
+        "price": "$2.56",
+        "url": "https://manapool.com/card/mh2/180/tireless-provisioner"
+      },
+      {
+        "name": "Haywire Mite",
+        "price": "$0.46",
+        "url": "https://manapool.com/card/blc/274/haywire-mite"
+      },
+      {
+        "name": "The Legend of Kyoshi",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Celestial Kirin",
+        "price": "$0.33",
+        "url": "https://manapool.com/card/sok/3/celestial-kirin"
+      },
+      {
+        "name": "Bloodfire Colossus",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/10e/191/bloodfire-colossus"
+      },
+      {
+        "name": "Sabotender",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/153/sabotender"
+      },
+      {
+        "name": "Haru, Hidden Talent",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tla/182/haru-hidden-talent"
+      },
+      {
+        "name": "Omnath, Locus of Rage",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/ecc/129/omnath-locus-of-rage"
+      },
+      {
+        "name": "Mossborn Hydra",
+        "price": "$1.04",
+        "url": "https://manapool.com/card/afdn/42/mossborn-hydra"
+      },
+      {
+        "name": "Foundry Inspector",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/cmr/310/foundry-inspector"
+      },
+      {
+        "name": "Avenger of Zendikar",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/ecc/98/avenger-of-zendikar"
+      },
+      {
+        "name": "Survey Mechan",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/eoe/245/survey-mechan"
+      },
+      {
+        "name": "Rampaging Baloths",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/eoc/104/rampaging-baloths"
+      },
+      {
+        "name": "Tireless Tracker",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/fic/316/tireless-tracker"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Expedite",
+        "price": "$0.23",
+        "url": "https://manapool.com/card/ogw/108/expedite"
+      },
+      {
+        "name": "Dark Temper",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/con/61/dark-temper"
+      },
+      {
+        "name": "Lightning Volley",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/bng/101/lightning-volley"
+      },
+      {
+        "name": "Cycle of Renewal",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tla/170/cycle-of-renewal"
+      },
+      {
+        "name": "Shatter",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/3ed/175/shatter"
+      },
+      {
+        "name": "Origin of Metalbending",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tla/187/origin-of-metalbending"
+      },
+      {
+        "name": "Harrow",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/zen/165/harrow"
+      },
+      {
+        "name": "Sandbenders' Storm",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tla/34/sandbenders-storm"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "March of Souls",
+        "price": "$1.08",
+        "url": "https://manapool.com/card/pls/10/march-of-souls"
+      },
+      {
+        "name": "Hour of Revelation",
+        "price": "$1.56",
+        "url": "https://manapool.com/card/hou/15/hour-of-revelation"
+      },
+      {
+        "name": "Corrosive Gale",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/nph/107/corrosive-gale"
+      },
+      {
+        "name": "Split Up",
+        "price": "$1.66",
+        "url": "https://manapool.com/card/dsk/32/split-up"
+      },
+      {
+        "name": "Earth Rumble",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/jtla/41/earth-rumble"
+      },
+      {
+        "name": "Seismic Sense",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tla/195/seismic-sense"
+      },
+      {
+        "name": "Cracked Earth Technique",
+        "price": "$0.23",
+        "url": "https://manapool.com/card/tle/135/cracked-earth-technique"
+      },
+      {
+        "name": "Shared Roots",
+        "price": "$1.55",
+        "url": "https://manapool.com/card/tla/196/shared-roots"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Ichor Wellspring",
+        "price": "$0.58",
+        "url": "https://manapool.com/card/mbs/110/ichor-wellspring"
+      },
+      {
+        "name": "Chromatic Lantern",
+        "price": "$0.44",
+        "url": "https://manapool.com/card/tmc/58/chromatic-lantern"
+      },
+      {
+        "name": "Mishra's Bauble",
+        "price": "$1.46",
+        "url": "https://manapool.com/card/brr/34/mishras-bauble"
+      },
+      {
+        "name": "Lavabrink Floodgates",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c20/53/lavabrink-floodgates"
+      },
+      {
+        "name": "Liquimetal Coating",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/som/171/liquimetal-coating"
+      },
+      {
+        "name": "Expedition Map",
+        "price": "$0.54",
+        "url": "https://manapool.com/card/m3c/292/expedition-map"
+      },
+      {
+        "name": "Mindslaver",
+        "price": "$2.49",
+        "url": "https://manapool.com/card/som/176/mindslaver"
+      },
+      {
+        "name": "Bender's Waterskin",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/tla/255/benders-waterskin"
+      },
+      {
+        "name": "All-Fates Scroll",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/eoe/234/all-fates-scroll"
+      },
+      {
+        "name": "Bootleggers' Stash",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/207/bootleggers-stash"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "Earthbender Ascension",
+        "price": "$2.32",
+        "url": "https://manapool.com/card/tla/175/earthbender-ascension"
+      },
+      {
+        "name": "Bitter Work",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tla/210/bitter-work"
+      },
+      {
+        "name": "Felidar Retreat",
+        "price": "$1.56",
+        "url": "https://manapool.com/card/fdn/574/felidar-retreat"
+      },
+      {
+        "name": "Solid Ground",
+        "price": "$2.22",
+        "url": "https://manapool.com/card/tle/142/solid-ground"
+      },
+      {
+        "name": "Prismatic Omen",
+        "price": "$3.00",
+        "url": "https://manapool.com/card/wot/60/prismatic-omen"
+      },
+      {
+        "name": "Hardened Scales",
+        "price": "$2.34",
+        "url": "https://manapool.com/card/ktk/133/hardened-scales"
+      },
+      {
+        "name": "Wilderness Reclamation",
+        "price": "$1.23",
+        "url": "https://manapool.com/card/dsc/205/wilderness-reclamation"
+      }
+    ],
+    "planeswalkers": [],
+    "lands": [
+      {
+        "name": "Secret Tunnel",
+        "price": "$2.50",
+        "url": "https://manapool.com/card/tla/278/secret-tunnel"
+      },
+      {
+        "name": "Rumble Arena",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tla/277/rumble-arena"
+      },
+      {
+        "name": "Darksteel Citadel",
+        "price": "$0.92",
+        "url": "https://manapool.com/card/wc04/mb164/darksteel-citadel"
+      },
+      {
+        "name": "Fabled Passage",
+        "price": "$2.06",
+        "url": "https://manapool.com/card/tmc/67/fabled-passage"
+      },
+      {
+        "name": "Slagwoods Bridge",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/drc/171/slagwoods-bridge"
+      },
+      {
+        "name": "Rustvale Bridge",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/eoc/175/rustvale-bridge"
+      },
+      {
+        "name": "Thornglint Bridge",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh2/258/thornglint-bridge"
+      },
+      {
+        "name": "Ondu Inversion",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Command Tower",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/325/command-tower"
+      },
+      {
+        "name": "Exotic Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/131/exotic-orchard"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Aggressive Crag",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/cmb2/112/aggressive-crag"
+      },
+      {
+        "name": "An-Havva Township",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/hml/111/an-havva-township"
+      },
+      {
+        "name": "Battlefield Forge",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/blc/293/battlefield-forge"
+      },
+      {
+        "name": "Brushland",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/fic/377/brushland"
+      },
+      {
+        "name": "Contested Cliffs",
+        "price": "$0.29",
+        "url": "https://manapool.com/card/c13/282/contested-cliffs"
+      },
+      {
+        "name": "Fetching Garden",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/mb2/611/fetching-garden"
+      },
+      {
+        "name": "Fungal Reaches",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tsr/279/fungal-reaches"
+      },
+      {
+        "name": "Grove of the Guardian",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/rtr/240/grove-of-the-guardian"
+      },
+      {
+        "name": "Hushwood Verge",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/adsk/26/hushwood-verge"
+      },
+      {
+        "name": "Karplusan Forest",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/drc/163/karplusan-forest"
+      },
+      {
+        "name": "Kessig Wolf Run",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mkc/269/kessig-wolf-run"
+      },
+      {
+        "name": "Mogg Hollows",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/tmp/320/mogg-hollows"
+      },
+      {
+        "name": "Mossfire Valley",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/316/mossfire-valley"
+      },
+      {
+        "name": "Nantuko Monastery",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmr/252/nantuko-monastery"
+      },
+      {
+        "name": "Omenpath to Naya",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mb2/616/omenpath-to-naya"
+      },
+      {
+        "name": "Path of Mettle // Metzali, Tower of Triumph",
+        "price": "$0.27",
+        "url": "https://manapool.com/card/rix/165/path-of-mettle-metzali-tower-of-triumph"
+      },
+      {
+        "name": "Pinecrest Ridge",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/chk/281/pinecrest-ridge"
+      },
+      {
+        "name": "Rith's Grove",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmr/255/riths-grove"
+      },
+      {
+        "name": "Rugged Prairie",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdc/389/rugged-prairie"
+      },
+      {
+        "name": "Saltcrusted Steppe",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tsp/277/saltcrusted-steppe"
+      },
+      {
+        "name": "Sheltering Landscape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/227/sheltering-landscape"
+      },
+      {
+        "name": "Skarrg, the Rage Pits",
+        "price": "$0.62",
+        "url": "https://manapool.com/card/gpt/163/skarrg-the-rage-pits"
+      },
+      {
+        "name": "Slayers' Stronghold",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/424/slayers-stronghold"
+      },
+      {
+        "name": "Sungrass Prairie",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/334/sungrass-prairie"
+      },
+      {
+        "name": "Abraded Bluffs",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/otj/251/abraded-bluffs"
+      },
+      {
+        "name": "Alpine Meadow",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/khm/248/alpine-meadow"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      }
+    ],
+    "other": []
+  },
+  "export_text": "1 Toph, the First Metalbender *CMDR*\n1 Expedite\n1 Ichor Wellspring\n1 Sandstalker Moloch\n1 Tannuk, Memorial Ensign\n1 Earthbender Ascension\n1 Lotus Cobra\n1 Chromatic Lantern\n1 Secret Tunnel\n1 Great Divide Guide\n1 Ashaya, Soul of the Wild\n1 Embermage Goblin\n1 Solemn Simulacrum\n1 Dark Temper\n1 Tireless Provisioner\n1 Lightning Volley\n1 Haywire Mite\n1 The Legend of Kyoshi\n1 March of Souls\n1 Cycle of Renewal\n1 Shatter\n1 Mishra's Bauble\n1 Celestial Kirin\n1 Origin of Metalbending\n1 Rumble Arena\n1 Lavabrink Floodgates\n1 Hour of Revelation\n1 Bitter Work\n1 Corrosive Gale\n1 Split Up\n1 Bloodfire Colossus\n1 Earth Rumble\n1 Liquimetal Coating\n1 Sabotender\n1 Felidar Retreat\n1 Darksteel Citadel\n1 Seismic Sense\n1 Solid Ground\n1 Fabled Passage\n1 Haru, Hidden Talent\n1 Cracked Earth Technique\n1 Omnath, Locus of Rage\n1 Mossborn Hydra\n1 Expedition Map\n1 Mindslaver\n1 Bender's Waterskin\n1 Shared Roots\n1 All-Fates Scroll\n1 Harrow\n1 Prismatic Omen\n1 Sandbenders' Storm\n1 Foundry Inspector\n1 Hardened Scales\n1 Wilderness Reclamation\n1 Slagwoods Bridge\n1 Rustvale Bridge\n1 Avenger of Zendikar\n1 Survey Mechan\n1 Bootleggers' Stash\n1 Thornglint Bridge\n1 Rampaging Baloths\n1 Tireless Tracker\n1 Ondu Inversion\n1 Command Tower\n1 Exotic Orchard\n1 Path of Ancestry\n1 Aggressive Crag\n1 An-Havva Township\n1 Battlefield Forge\n1 Brushland\n1 Contested Cliffs\n1 Fetching Garden\n1 Fungal Reaches\n1 Grove of the Guardian\n1 Hushwood Verge\n1 Karplusan Forest\n1 Kessig Wolf Run\n1 Mogg Hollows\n1 Mossfire Valley\n1 Nantuko Monastery\n1 Omenpath to Naya\n1 Path of Mettle // Metzali, Tower of Triumph\n1 Pinecrest Ridge\n1 Rith's Grove\n1 Rugged Prairie\n1 Saltcrusted Steppe\n1 Sheltering Landscape\n1 Skarrg, the Rage Pits\n1 Slayers' Stronghold\n1 Sungrass Prairie\n1 Abraded Bluffs\n1 Alpine Meadow\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Forest\n1 Plains\n1 Mountain\n1 Forest\n1 Plains",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": true,
+    "counts": {
+      "lands": 44,
+      "ramp": 13,
+      "card_draw": 9,
+      "targeted_removal": 10,
+      "mass_removal": 7,
+      "synergy": 14,
+      "uncategorized": 2
+    },
+    "gaps": {}
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "card_draw",
+      "added": "Expedite",
+      "removed": "Toph, Hardheaded Teacher"
+    },
+    {
+      "category": "card_draw",
+      "added": "Sandstalker Moloch",
+      "removed": "Toph, the Blind Bandit"
+    },
+    {
+      "category": "card_draw",
+      "added": "Embermage Goblin",
+      "removed": "The Stasis Coffin"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Dark Temper",
+      "removed": "Evolution Sage"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Lightning Volley",
+      "removed": "Badgermole"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "March of Souls",
+      "removed": "Earthbending Student"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Shatter",
+      "removed": "Earthshape"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Celestial Kirin",
+      "removed": "The Boulder, Ready to Rumble"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Lavabrink Floodgates",
+      "removed": "Moraug, Fury of Akoum"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Corrosive Gale",
+      "removed": "Earthbending Lesson"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Split Up",
+      "removed": "Earth Kingdom General"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Bloodfire Colossus",
+      "removed": "Rockalanche"
+    }
+  ]
+}

@@ -1,0 +1,574 @@
+{
+  "commander": "Esika, God of the Tree",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 99,
+  "total_cost_display": "$63.21",
+  "deck": {
+    "commander": "Esika, God of the Tree",
+    "creatures": [
+      {
+        "name": "Dusk Urchins",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ecc/73/dusk-urchins"
+      },
+      {
+        "name": "Carth the Lion",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh2/189/carth-the-lion"
+      },
+      {
+        "name": "Klothys, God of Destiny",
+        "price": "$1.83",
+        "url": "https://manapool.com/card/thb/220/klothys-god-of-destiny"
+      },
+      {
+        "name": "Kolvori, God of Kinship",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Courtly Provocateur",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/m13/46/courtly-provocateur"
+      },
+      {
+        "name": "Sisay, Weatherlight Captain",
+        "price": "$1.87",
+        "url": "https://manapool.com/card/mh1/29/sisay-weatherlight-captain"
+      },
+      {
+        "name": "Valki, God of Lies",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Etali, Primal Conqueror",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Obeka, Splitter of Seconds",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/otj/222/obeka-splitter-of-seconds"
+      },
+      {
+        "name": "God-Eternal Oketra",
+        "price": "$2.46",
+        "url": "https://manapool.com/card/drc/66/god-eternal-oketra"
+      },
+      {
+        "name": "Inga and Esika",
+        "price": "$1.19",
+        "url": "https://manapool.com/card/mom/229/inga-and-esika"
+      },
+      {
+        "name": "Evolution Sage",
+        "price": "$2.07",
+        "url": "https://manapool.com/card/ecc/105/evolution-sage"
+      },
+      {
+        "name": "Mila, Crafty Companion",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Pharika, God of Affliction",
+        "price": "$1.88",
+        "url": "https://manapool.com/card/jou/154/pharika-god-of-affliction"
+      },
+      {
+        "name": "Shalai, Voice of Plenty",
+        "price": "$0.47",
+        "url": "https://manapool.com/card/dom/35/shalai-voice-of-plenty"
+      },
+      {
+        "name": "Nicol Bolas, the Ravager",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Djeru and Hazoret",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mom/221/djeru-and-hazoret"
+      },
+      {
+        "name": "Aurora Awakener",
+        "price": "$1.77",
+        "url": "https://manapool.com/card/ecl/165/aurora-awakener"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Depart the Realm",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/khm/53/depart-the-realm"
+      },
+      {
+        "name": "Brainstorm",
+        "price": "$0.61",
+        "url": "https://manapool.com/card/wc00/jf61/brainstorm"
+      },
+      {
+        "name": "Ripples of Potential",
+        "price": "$1.34",
+        "url": "https://manapool.com/card/eoc/77/ripples-of-potential"
+      },
+      {
+        "name": "Anguished Unmaking",
+        "price": "$2.21",
+        "url": "https://manapool.com/card/ltc/265/anguished-unmaking"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Primevals' Glorious Rebirth",
+        "price": "$1.03",
+        "url": "https://manapool.com/card/dom/201/primevals-glorious-rebirth"
+      },
+      {
+        "name": "Urza's Ruinous Blast",
+        "price": "$0.75",
+        "url": "https://manapool.com/card/cmm/842/urzas-ruinous-blast"
+      },
+      {
+        "name": "Supreme Verdict",
+        "price": "$1.51",
+        "url": "https://manapool.com/card/ltc/272/supreme-verdict"
+      },
+      {
+        "name": "Calamitous Tide",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blb/43/calamitous-tide"
+      },
+      {
+        "name": "Tropical Storm",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mir/246/tropical-storm"
+      },
+      {
+        "name": "Once More with Feeling",
+        "price": "$0.72",
+        "url": "https://manapool.com/card/ugl/11/once-more-with-feeling"
+      },
+      {
+        "name": "Wrath of God",
+        "price": "$0.93",
+        "url": "https://manapool.com/card/ptc/shr58/wrath-of-god"
+      },
+      {
+        "name": "Nature's Lore",
+        "price": "$2.50",
+        "url": "https://manapool.com/card/ice/255/natures-lore"
+      },
+      {
+        "name": "Farseek",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/rvr/138/farseek"
+      },
+      {
+        "name": "Skyshroud Claim",
+        "price": "$0.66",
+        "url": "https://manapool.com/card/bbd/213/skyshroud-claim"
+      },
+      {
+        "name": "Eerie Ultimatum",
+        "price": "$2.08",
+        "url": "https://manapool.com/card/slc/5/eerie-ultimatum"
+      },
+      {
+        "name": "Damn",
+        "price": "$1.34",
+        "url": "https://manapool.com/card/mh2/80/damn"
+      },
+      {
+        "name": "Kamahl's Druidic Vow",
+        "price": "$0.38",
+        "url": "https://manapool.com/card/dom/166/kamahls-druidic-vow"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Pumpkin Bombs",
+        "price": "$1.77",
+        "url": "https://manapool.com/card/spe/26/pumpkin-bombs"
+      },
+      {
+        "name": "Altar of the Pantheon",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/thb/231/altar-of-the-pantheon"
+      },
+      {
+        "name": "Chromatic Lantern",
+        "price": "$0.44",
+        "url": "https://manapool.com/card/tmc/58/chromatic-lantern"
+      },
+      {
+        "name": "Heroes' Podium",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/who/242/heroes-podium"
+      },
+      {
+        "name": "Replicating Ring",
+        "price": "$0.46",
+        "url": "https://manapool.com/card/khm/244/replicating-ring"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "Oath of Nissa",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/plst/OGW-140/oath-of-nissa"
+      },
+      {
+        "name": "Brokers Ascendancy",
+        "price": "$0.67",
+        "url": "https://manapool.com/card/snc/297/brokers-ascendancy"
+      },
+      {
+        "name": "Oath of Gideon",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmm/830/oath-of-gideon"
+      }
+    ],
+    "planeswalkers": [
+      {
+        "name": "Nicol Bolas, God-Pharaoh",
+        "price": "$2.70",
+        "url": "https://manapool.com/card/hou/140/nicol-bolas-god-pharaoh"
+      },
+      {
+        "name": "Tamiyo, Field Researcher",
+        "price": "$0.32",
+        "url": "https://manapool.com/card/blc/100/tamiyo-field-researcher"
+      },
+      {
+        "name": "Vraska, Betrayal's Sting",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/ecc/88/vraska-betrayals-sting"
+      },
+      {
+        "name": "Elspeth, Sun's Champion",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/ablb/53/elspeth-suns-champion"
+      },
+      {
+        "name": "Teferi, Temporal Archmage",
+        "price": "$0.51",
+        "url": "https://manapool.com/card/plst/C14-19/teferi-temporal-archmage"
+      },
+      {
+        "name": "Nicol Bolas, Planeswalker",
+        "price": "$1.33",
+        "url": "https://manapool.com/card/m13/199/nicol-bolas-planeswalker"
+      },
+      {
+        "name": "Commodore Guff",
+        "price": "N/A",
+        "url": "https://manapool.com/card/cmm/706/commodore-guff"
+      },
+      {
+        "name": "Narset, Parter of Veils",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/war/61/narset-parter-of-veils"
+      },
+      {
+        "name": "Kaya the Inexorable",
+        "price": "$2.24",
+        "url": "https://manapool.com/card/khm/218/kaya-the-inexorable"
+      },
+      {
+        "name": "The Eternal Wanderer",
+        "price": "$0.78",
+        "url": "https://manapool.com/card/one/11/the-eternal-wanderer"
+      },
+      {
+        "name": "Chandra, Legacy of Fire",
+        "price": "$1.82",
+        "url": "https://manapool.com/card/cmm/735/chandra-legacy-of-fire"
+      },
+      {
+        "name": "Jace, the Mind Sculptor",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/ablb/49/jace-the-mind-sculptor"
+      },
+      {
+        "name": "Vraska, Relic Seeker",
+        "price": "$0.92",
+        "url": "https://manapool.com/card/xln/232/vraska-relic-seeker"
+      }
+    ],
+    "lands": [
+      {
+        "name": "Ojer Kaslem, Deepest Growth",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/alci/58/ojer-kaslem-deepest-growth"
+      },
+      {
+        "name": "Karn's Bastion",
+        "price": "$2.08",
+        "url": "https://manapool.com/card/moc/409/karns-bastion"
+      },
+      {
+        "name": "Interplanar Beacon",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmm/1004/interplanar-beacon"
+      },
+      {
+        "name": "Great Hall of the Citadel",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltr/254/great-hall-of-the-citadel"
+      },
+      {
+        "name": "Flooded Strand",
+        "price": "$2.08",
+        "url": "https://manapool.com/card/aznr/29/flooded-strand"
+      },
+      {
+        "name": "Command Tower",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/325/command-tower"
+      },
+      {
+        "name": "Exotic Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/131/exotic-orchard"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Adarkar Wastes",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/blc/291/adarkar-wastes"
+      },
+      {
+        "name": "Aggressive Crag",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/cmb2/112/aggressive-crag"
+      },
+      {
+        "name": "Alchemist's Refuge",
+        "price": "$0.65",
+        "url": "https://manapool.com/card/lcc/318/alchemists-refuge"
+      },
+      {
+        "name": "An-Havva Township",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/hml/111/an-havva-township"
+      },
+      {
+        "name": "Aysen Abbey",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/hml/112/aysen-abbey"
+      },
+      {
+        "name": "Battlefield Forge",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/blc/293/battlefield-forge"
+      },
+      {
+        "name": "Bountiful Landscape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/217/bountiful-landscape"
+      },
+      {
+        "name": "Brushland",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/fic/377/brushland"
+      },
+      {
+        "name": "Calciform Pools",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/tsp/270/calciform-pools"
+      },
+      {
+        "name": "Cascade Bluffs",
+        "price": "$0.51",
+        "url": "https://manapool.com/card/eoc/153/cascade-bluffs"
+      },
+      {
+        "name": "Castle Sengir",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/hml/113/castle-sengir"
+      },
+      {
+        "name": "Caves of Koilos",
+        "price": "$0.80",
+        "url": "https://manapool.com/card/m15/241/caves-of-koilos"
+      },
+      {
+        "name": "Cinder Marsh",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/tmp/317/cinder-marsh"
+      },
+      {
+        "name": "Cloudcrest Lake",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/chk/274/cloudcrest-lake"
+      },
+      {
+        "name": "Contaminated Landscape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/218/contaminated-landscape"
+      },
+      {
+        "name": "Contested Cliffs",
+        "price": "$0.29",
+        "url": "https://manapool.com/card/c13/282/contested-cliffs"
+      },
+      {
+        "name": "Crosis's Catacombs",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmr/242/crosiss-catacombs"
+      },
+      {
+        "name": "Crypt of the Eternals",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/hou/169/crypt-of-the-eternals"
+      },
+      {
+        "name": "Crystal Quarry",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/eos/10/crystal-quarry"
+      },
+      {
+        "name": "Darigaaz's Caldera",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmr/243/darigaazs-caldera"
+      },
+      {
+        "name": "Darkwater Catacombs",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/c19/238/darkwater-catacombs"
+      },
+      {
+        "name": "Deceptive Landscape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/219/deceptive-landscape"
+      },
+      {
+        "name": "Desolate Lighthouse",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/avr/227/desolate-lighthouse"
+      },
+      {
+        "name": "Desolate Mire",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/386/desolate-mire"
+      },
+      {
+        "name": "Abandoned Campground",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsk/255/abandoned-campground"
+      },
+      {
+        "name": "Abraded Bluffs",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/otj/251/abraded-bluffs"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      }
+    ],
+    "other": [
+      {
+        "name": "Counterspell",
+        "price": "$1.61",
+        "url": "https://manapool.com/card/wc97/pm77/counterspell"
+      }
+    ]
+  },
+  "export_text": "1 Esika, God of the Tree *CMDR*\n1 Nicol Bolas, God-Pharaoh\n1 Dusk Urchins\n1 Primevals' Glorious Rebirth\n1 Urza's Ruinous Blast\n1 Tamiyo, Field Researcher\n1 Supreme Verdict\n1 Vraska, Betrayal's Sting\n1 Pumpkin Bombs\n1 Carth the Lion\n1 Calamitous Tide\n1 Elspeth, Sun's Champion\n1 Tropical Storm\n1 Klothys, God of Destiny\n1 Kolvori, God of Kinship\n1 Courtly Provocateur\n1 Teferi, Temporal Archmage\n1 Altar of the Pantheon\n1 Depart the Realm\n1 Once More with Feeling\n1 Nicol Bolas, Planeswalker\n1 Wrath of God\n1 Oath of Nissa\n1 Commodore Guff\n1 Sisay, Weatherlight Captain\n1 Valki, God of Lies\n1 Ojer Kaslem, Deepest Growth\n1 Narset, Parter of Veils\n1 Kaya the Inexorable\n1 The Eternal Wanderer\n1 Karn's Bastion\n1 Interplanar Beacon\n1 Etali, Primal Conqueror\n1 Obeka, Splitter of Seconds\n1 God-Eternal Oketra\n1 Brokers Ascendancy\n1 Great Hall of the Citadel\n1 Nature's Lore\n1 Inga and Esika\n1 Evolution Sage\n1 Mila, Crafty Companion\n1 Pharika, God of Affliction\n1 Chromatic Lantern\n1 Flooded Strand\n1 Farseek\n1 Shalai, Voice of Plenty\n1 Nicol Bolas, the Ravager\n1 Djeru and Hazoret\n1 Brainstorm\n1 Ripples of Potential\n1 Heroes' Podium\n1 Chandra, Legacy of Fire\n1 Jace, the Mind Sculptor\n1 Aurora Awakener\n1 Skyshroud Claim\n1 Eerie Ultimatum\n1 Vraska, Relic Seeker\n1 Replicating Ring\n1 Counterspell\n1 Anguished Unmaking\n1 Damn\n1 Kamahl's Druidic Vow\n1 Oath of Gideon\n1 Command Tower\n1 Exotic Orchard\n1 Path of Ancestry\n1 Adarkar Wastes\n1 Aggressive Crag\n1 Alchemist's Refuge\n1 An-Havva Township\n1 Aysen Abbey\n1 Battlefield Forge\n1 Bountiful Landscape\n1 Brushland\n1 Calciform Pools\n1 Cascade Bluffs\n1 Castle Sengir\n1 Caves of Koilos\n1 Cinder Marsh\n1 Cloudcrest Lake\n1 Contaminated Landscape\n1 Contested Cliffs\n1 Crosis's Catacombs\n1 Crypt of the Eternals\n1 Crystal Quarry\n1 Darigaaz's Caldera\n1 Darkwater Catacombs\n1 Deceptive Landscape\n1 Desolate Lighthouse\n1 Desolate Mire\n1 Abandoned Campground\n1 Abraded Bluffs\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Forest\n1 Plains\n1 Mountain\n1 Island\n1 Swamp",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": true,
+    "counts": {
+      "lands": 41,
+      "ramp": 13,
+      "card_draw": 9,
+      "targeted_removal": 9,
+      "mass_removal": 9,
+      "synergy": 11,
+      "uncategorized": 7
+    },
+    "gaps": {}
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "card_draw",
+      "added": "Dusk Urchins",
+      "removed": "Oath of Teferi"
+    },
+    {
+      "category": "card_draw",
+      "added": "Pumpkin Bombs",
+      "removed": "Deepglow Skate"
+    },
+    {
+      "category": "card_draw",
+      "added": "Calamitous Tide",
+      "removed": "Sphinx of the Second Sun"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Tropical Storm",
+      "removed": "Jodah, the Unifier"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Courtly Provocateur",
+      "removed": "Paradox Haze"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Depart the Realm",
+      "removed": "Athreos, Shroud-Veiled"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Once More with Feeling",
+      "removed": "Thassa, God of the Sea"
+    }
+  ]
+}

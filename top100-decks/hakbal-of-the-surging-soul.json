@@ -1,0 +1,602 @@
+{
+  "commander": "Hakbal of the Surging Soul",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 96,
+  "total_cost_display": "$2745.13",
+  "deck": {
+    "commander": "Hakbal of the Surging Soul",
+    "creatures": [
+      {
+        "name": "Nicanzil, Current Conductor",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lci/236/nicanzil-current-conductor"
+      },
+      {
+        "name": "Rainveil Rejuvenator",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdm/152/rainveil-rejuvenator"
+      },
+      {
+        "name": "Svyelun of Sea and Sky",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lcc/175/svyelun-of-sea-and-sky"
+      },
+      {
+        "name": "Risen Reef",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ecc/132/risen-reef"
+      },
+      {
+        "name": "Glacier Godmaw",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/eoe/188/glacier-godmaw"
+      },
+      {
+        "name": "Automated Artificer",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/neo/239/automated-artificer"
+      },
+      {
+        "name": "Brood Astronomer",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Kumena, Tyrant of Orazca",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lcc/274/kumena-tyrant-of-orazca"
+      },
+      {
+        "name": "Seafloor Oracle",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/j22/343/seafloor-oracle"
+      },
+      {
+        "name": "Aven Augur",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fut/32/aven-augur"
+      },
+      {
+        "name": "Cold-Eyed Selkie",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lcc/266/cold-eyed-selkie"
+      },
+      {
+        "name": "Zegana, Utopian Speaker",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lcc/298/zegana-utopian-speaker"
+      },
+      {
+        "name": "Jin-Gitaxias // The Great Synthesis",
+        "price": "$11.71",
+        "url": "https://manapool.com/card/mom/65/jin-gitaxias-the-great-synthesis"
+      },
+      {
+        "name": "Deeproot Historian",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lcc/91/deeproot-historian"
+      },
+      {
+        "name": "Benthic Biomancer",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lcc/145/benthic-biomancer"
+      },
+      {
+        "name": "Realmwalker",
+        "price": "$0.66",
+        "url": "https://manapool.com/card/lcc/250/realmwalker"
+      },
+      {
+        "name": "Kiora's Follower",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/lcc/273/kioras-follower"
+      },
+      {
+        "name": "Metallic Mimic",
+        "price": "$0.76",
+        "url": "https://manapool.com/card/pza/16/metallic-mimic"
+      },
+      {
+        "name": "Tatyova, Benthic Druid",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmm/358/tatyova-benthic-druid"
+      },
+      {
+        "name": "Tributary Instructor",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lcc/96/tributary-instructor"
+      },
+      {
+        "name": "Merfolk Skydiver",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lcc/277/merfolk-skydiver"
+      },
+      {
+        "name": "Merfolk Cave-Diver",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lci/65/merfolk-cave-diver"
+      },
+      {
+        "name": "Tishana, Voice of Thunder",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lcc/291/tishana-voice-of-thunder"
+      },
+      {
+        "name": "Evolution Sage",
+        "price": "$2.07",
+        "url": "https://manapool.com/card/ecc/105/evolution-sage"
+      },
+      {
+        "name": "Prime Speaker Zegana",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fdn/664/prime-speaker-zegana"
+      },
+      {
+        "name": "Vorel of the Hull Clade",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lcc/294/vorel-of-the-hull-clade"
+      },
+      {
+        "name": "Surgespanner",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lcc/174/surgespanner"
+      },
+      {
+        "name": "Harbinger of the Seas",
+        "price": "$1.47",
+        "url": "https://manapool.com/card/mh3/63/harbinger-of-the-seas"
+      },
+      {
+        "name": "Forerunner of the Heralds",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/rix/129/forerunner-of-the-heralds"
+      },
+      {
+        "name": "Deepfathom Echo",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lci/228/deepfathom-echo"
+      },
+      {
+        "name": "Sage of Fables",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lcc/169/sage-of-fables"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Inspiring Call",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fdn/226/inspiring-call"
+      },
+      {
+        "name": "Rapid Hybridization",
+        "price": "$0.51",
+        "url": "https://manapool.com/card/lcc/166/rapid-hybridization"
+      },
+      {
+        "name": "Aetherize",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fdn/151/aetherize"
+      },
+      {
+        "name": "Quandrix Command",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lcc/280/quandrix-command"
+      },
+      {
+        "name": "Ruinous Intrusion",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lcc/255/ruinous-intrusion"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Graceful Takedown",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/woe/171/graceful-takedown"
+      },
+      {
+        "name": "Shattered Wings",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/eoe/206/shattered-wings"
+      },
+      {
+        "name": "Wave Goodbye",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/tmc/46/wave-goodbye"
+      },
+      {
+        "name": "Season of Gathering",
+        "price": "$4.02",
+        "url": "https://manapool.com/card/blb/192/season-of-gathering"
+      },
+      {
+        "name": "Upheaval",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh2/270/upheaval"
+      },
+      {
+        "name": "Bygone Marvels",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lcc/89/bygone-marvels"
+      },
+      {
+        "name": "Ravenform",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/khm/72/ravenform"
+      },
+      {
+        "name": "Explore",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ddo/45/explore"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Chrome Mox",
+        "price": "$38.54",
+        "url": "https://manapool.com/card/wc04/mb152/chrome-mox"
+      },
+      {
+        "name": "Swiftfoot Boots",
+        "price": "$1.87",
+        "url": "https://manapool.com/card/fdn/258/swiftfoot-boots"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "Overgrowth",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/plst/9ED-262/overgrowth"
+      },
+      {
+        "name": "Flood the Engine",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dft/42/flood-the-engine"
+      },
+      {
+        "name": "Pemmin's Aura",
+        "price": "$6.51",
+        "url": "https://manapool.com/card/scg/45/pemmins-aura"
+      },
+      {
+        "name": "Reflections of Littjara",
+        "price": "$0.92",
+        "url": "https://manapool.com/card/lcc/168/reflections-of-littjara"
+      },
+      {
+        "name": "Simic Ascendancy",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/blc/260/simic-ascendancy"
+      }
+    ],
+    "planeswalkers": [],
+    "lands": [
+      {
+        "name": "The Tabernacle at Pendrell Vale",
+        "price": "$2657.10",
+        "url": "https://manapool.com/card/leg/307/the-tabernacle-at-pendrell-vale"
+      },
+      {
+        "name": "Secluded Courtyard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fdn/267/secluded-courtyard"
+      },
+      {
+        "name": "Unclaimed Territory",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lcc/366/unclaimed-territory"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Karn's Bastion",
+        "price": "$2.08",
+        "url": "https://manapool.com/card/moc/409/karns-bastion"
+      },
+      {
+        "name": "Rogue's Passage",
+        "price": "$0.35",
+        "url": "https://manapool.com/card/fdn/264/rogues-passage"
+      },
+      {
+        "name": "Alchemist's Refuge",
+        "price": "$0.65",
+        "url": "https://manapool.com/card/lcc/318/alchemists-refuge"
+      },
+      {
+        "name": "Vineglimmer Snarl",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/drc/183/vineglimmer-snarl"
+      },
+      {
+        "name": "Mosswort Bridge",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mkc/275/mosswort-bridge"
+      },
+      {
+        "name": "Llanowar Reborn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lcc/341/llanowar-reborn"
+      },
+      {
+        "name": "Hinterland Harbor",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmc/69/hinterland-harbor"
+      },
+      {
+        "name": "Command Tower",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/325/command-tower"
+      },
+      {
+        "name": "Exotic Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/131/exotic-orchard"
+      },
+      {
+        "name": "Flooded Grove",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltc/309/flooded-grove"
+      },
+      {
+        "name": "Novijen, Heart of Progress",
+        "price": "$0.30",
+        "url": "https://manapool.com/card/dis/175/novijen-heart-of-progress"
+      },
+      {
+        "name": "Overflowing Basin",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/321/overflowing-basin"
+      },
+      {
+        "name": "Slumbering Waterways",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mb2/618/slumbering-waterways"
+      },
+      {
+        "name": "Waterlogged Grove",
+        "price": "$0.57",
+        "url": "https://manapool.com/card/who/331/waterlogged-grove"
+      },
+      {
+        "name": "Yavimaya Coast",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/drc/184/yavimaya-coast"
+      },
+      {
+        "name": "Balamb Garden, SeeD Academy // Balamb Garden, Airborne",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/272/balamb-garden-seed-academy-balamb-garden-airborne"
+      },
+      {
+        "name": "Botanical Sanctum",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/otj/267/botanical-sanctum"
+      },
+      {
+        "name": "Dreamroot Cascade",
+        "price": "$0.96",
+        "url": "https://manapool.com/card/who/273/dreamroot-cascade"
+      },
+      {
+        "name": "Drowner of Truth // Drowned Jungle",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/253/drowner-of-truth-drowned-jungle"
+      },
+      {
+        "name": "Guadosalam, Farplane Gateway",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/281/guadosalam-farplane-gateway"
+      },
+      {
+        "name": "Kitchen",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/clu/17/kitchen"
+      },
+      {
+        "name": "Lakeside Shack",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsk/262/lakeside-shack"
+      },
+      {
+        "name": "Littjara Mirrorlake",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/khm/264/littjara-mirrorlake"
+      },
+      {
+        "name": "Lumbering Falls",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afc/247/lumbering-falls"
+      },
+      {
+        "name": "Lush Oasis",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/m3c/356/lush-oasis"
+      },
+      {
+        "name": "Meditation Pools",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tla/272/meditation-pools"
+      },
+      {
+        "name": "Mutant Town",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmt/187/mutant-town"
+      },
+      {
+        "name": "Quandrix Campus",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsc/294/quandrix-campus"
+      },
+      {
+        "name": "Rain-Slicked Copse",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmc/71/rain-slicked-copse"
+      },
+      {
+        "name": "Restless Vinestalk",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/woe/261/restless-vinestalk"
+      },
+      {
+        "name": "Rimewood Falls",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/khm/266/rimewood-falls"
+      },
+      {
+        "name": "Simic Growth Chamber",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/clu/247/simic-growth-chamber"
+      },
+      {
+        "name": "Simic Guildgate",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c13/323/simic-guildgate"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      }
+    ],
+    "other": []
+  },
+  "export_text": "1 Hakbal of the Surging Soul *CMDR*\n1 Nicanzil, Current Conductor\n1 Rainveil Rejuvenator\n1 Svyelun of Sea and Sky\n1 Risen Reef\n1 Overgrowth\n1 Glacier Godmaw\n1 Automated Artificer\n1 Brood Astronomer\n1 Chrome Mox\n1 Flood the Engine\n1 Kumena, Tyrant of Orazca\n1 Seafloor Oracle\n1 Graceful Takedown\n1 Pemmin's Aura\n1 Shattered Wings\n1 Aven Augur\n1 Cold-Eyed Selkie\n1 Wave Goodbye\n1 Zegana, Utopian Speaker\n1 Inspiring Call\n1 Season of Gathering\n1 The Tabernacle at Pendrell Vale\n1 Jin-Gitaxias // The Great Synthesis\n1 Upheaval\n1 Secluded Courtyard\n1 Unclaimed Territory\n1 Deeproot Historian\n1 Path of Ancestry\n1 Benthic Biomancer\n1 Realmwalker\n1 Karn's Bastion\n1 Kiora's Follower\n1 Metallic Mimic\n1 Tatyova, Benthic Druid\n1 Reflections of Littjara\n1 Tributary Instructor\n1 Merfolk Skydiver\n1 Merfolk Cave-Diver\n1 Rapid Hybridization\n1 Tishana, Voice of Thunder\n1 Simic Ascendancy\n1 Aetherize\n1 Rogue's Passage\n1 Alchemist's Refuge\n1 Evolution Sage\n1 Vineglimmer Snarl\n1 Prime Speaker Zegana\n1 Vorel of the Hull Clade\n1 Surgespanner\n1 Harbinger of the Seas\n1 Forerunner of the Heralds\n1 Mosswort Bridge\n1 Llanowar Reborn\n1 Deepfathom Echo\n1 Quandrix Command\n1 Hinterland Harbor\n1 Bygone Marvels\n1 Swiftfoot Boots\n1 Ruinous Intrusion\n1 Ravenform\n1 Explore\n1 Sage of Fables\n1 Command Tower\n1 Exotic Orchard\n1 Flooded Grove\n1 Novijen, Heart of Progress\n1 Overflowing Basin\n1 Slumbering Waterways\n1 Waterlogged Grove\n1 Yavimaya Coast\n1 Balamb Garden, SeeD Academy // Balamb Garden, Airborne\n1 Botanical Sanctum\n1 Dreamroot Cascade\n1 Drowner of Truth // Drowned Jungle\n1 Guadosalam, Farplane Gateway\n1 Kitchen\n1 Lakeside Shack\n1 Littjara Mirrorlake\n1 Lumbering Falls\n1 Lush Oasis\n1 Meditation Pools\n1 Mutant Town\n1 Quandrix Campus\n1 Rain-Slicked Copse\n1 Restless Vinestalk\n1 Rimewood Falls\n1 Simic Growth Chamber\n1 Simic Guildgate\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Forest\n1 Island\n1 Forest\n1 Island\n1 Forest",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": true,
+    "counts": {
+      "lands": 45,
+      "ramp": 10,
+      "card_draw": 13,
+      "targeted_removal": 10,
+      "mass_removal": 5,
+      "synergy": 13,
+      "uncategorized": 0
+    },
+    "gaps": {}
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "ramp",
+      "added": "Rainveil Rejuvenator",
+      "removed": "Master of the Pearl Trident"
+    },
+    {
+      "category": "ramp",
+      "added": "Risen Reef",
+      "removed": "Emperor Mihail II"
+    },
+    {
+      "category": "ramp",
+      "added": "Overgrowth",
+      "removed": "Kopala, Warden of Waves"
+    },
+    {
+      "category": "ramp",
+      "added": "Glacier Godmaw",
+      "removed": "Merrow Reejerey"
+    },
+    {
+      "category": "ramp",
+      "added": "Automated Artificer",
+      "removed": "Stonybrook Banneret"
+    },
+    {
+      "category": "ramp",
+      "added": "Brood Astronomer",
+      "removed": "Merfolk Sovereign"
+    },
+    {
+      "category": "ramp",
+      "added": "Chrome Mox",
+      "removed": "Topography Tracker"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Flood the Engine",
+      "removed": "Deeproot Waters"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Graceful Takedown",
+      "removed": "Mist Dancer"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Pemmin's Aura",
+      "removed": "Singer of Swift Rivers"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Shattered Wings",
+      "removed": "Hardened Scales"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Aven Augur",
+      "removed": "Deeproot Elite"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Season of Gathering",
+      "removed": "Ripples of Potential"
+    },
+    {
+      "category": "mass_removal",
+      "added": "The Tabernacle at Pendrell Vale",
+      "removed": "Deeproot Pilgrimage"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Jin-Gitaxias // The Great Synthesis",
+      "removed": "Merfolk Mistbinder"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Upheaval",
+      "removed": "Thieving Skydiver"
+    }
+  ]
+}

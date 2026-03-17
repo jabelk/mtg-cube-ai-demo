@@ -1,0 +1,564 @@
+{
+  "commander": "Fire Lord Azula",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 98,
+  "total_cost_display": "$47.29",
+  "deck": {
+    "commander": "Fire Lord Azula",
+    "creatures": [
+      {
+        "name": "Storm-Kiln Artist",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/astx/13/storm-kiln-artist"
+      },
+      {
+        "name": "Archmage Emeritus",
+        "price": "$2.00",
+        "url": "https://manapool.com/card/tdc/145/archmage-emeritus"
+      },
+      {
+        "name": "Furnace Dragon",
+        "price": "$0.30",
+        "url": "https://manapool.com/card/wc04/mb62sb/furnace-dragon"
+      },
+      {
+        "name": "Firebending Student",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tla/139/firebending-student"
+      },
+      {
+        "name": "Azula, Cunning Usurper",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tla/208/azula-cunning-usurper"
+      },
+      {
+        "name": "Tibor and Lumia",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/gpt/135/tibor-and-lumia"
+      },
+      {
+        "name": "Valley Floodcaller",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/ablb/13/valley-floodcaller"
+      },
+      {
+        "name": "Guttersnipe",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltc/220/guttersnipe"
+      },
+      {
+        "name": "Stormcatch Mentor",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blb/234/stormcatch-mentor"
+      },
+      {
+        "name": "Zuko, Exiled Prince",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tla/163/zuko-exiled-prince"
+      },
+      {
+        "name": "The Blue Spirit",
+        "price": "$1.43",
+        "url": "https://manapool.com/card/tle/90/the-blue-spirit"
+      },
+      {
+        "name": "Nightscape Familiar",
+        "price": "$0.36",
+        "url": "https://manapool.com/card/c13/83/nightscape-familiar"
+      },
+      {
+        "name": "Vivi Ornitier",
+        "price": "$1.03",
+        "url": "https://manapool.com/card/afin/17/vivi-ornitier"
+      },
+      {
+        "name": "Birgi, God of Storytelling",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Azula, On the Hunt",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tla/85/azula-on-the-hunt"
+      },
+      {
+        "name": "Ty Lee, Chi Blocker",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tla/76/ty-lee-chi-blocker"
+      },
+      {
+        "name": "The Rise of Sozin",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Cunning Nightbonder",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/iko/219/cunning-nightbonder"
+      },
+      {
+        "name": "Mysterious Stranger",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/pip/63/mysterious-stranger"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Big Score",
+        "price": "$0.92",
+        "url": "https://manapool.com/card/snc/102/big-score"
+      },
+      {
+        "name": "Electrodominance",
+        "price": "$0.41",
+        "url": "https://manapool.com/card/otp/23/electrodominance"
+      },
+      {
+        "name": "Frantic Search",
+        "price": "$0.51",
+        "url": "https://manapool.com/card/cmm/96/frantic-search"
+      },
+      {
+        "name": "Unexpected Windfall",
+        "price": "$3.02",
+        "url": "https://manapool.com/card/afr/164/unexpected-windfall"
+      },
+      {
+        "name": "Thrill of Possibility",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/aone/36/thrill-of-possibility"
+      },
+      {
+        "name": "The Last Agni Kai",
+        "price": "$1.55",
+        "url": "https://manapool.com/card/tla/144/the-last-agni-kai"
+      },
+      {
+        "name": "Demand Answers",
+        "price": "$0.30",
+        "url": "https://manapool.com/card/amkm/31/demand-answers"
+      },
+      {
+        "name": "Fists of Flame",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmm/223/fists-of-flame"
+      },
+      {
+        "name": "Urborg Justice",
+        "price": "$2.65",
+        "url": "https://manapool.com/card/wth/84/urborg-justice"
+      },
+      {
+        "name": "Stench of Decay",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/all/61a/stench-of-decay"
+      },
+      {
+        "name": "Brainstorm",
+        "price": "$0.61",
+        "url": "https://manapool.com/card/wc00/jf61/brainstorm"
+      },
+      {
+        "name": "Lightning Strike",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dft/136/lightning-strike"
+      },
+      {
+        "name": "Unleash Fury",
+        "price": "$0.33",
+        "url": "https://manapool.com/card/m21/170/unleash-fury"
+      },
+      {
+        "name": "Opt",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdc/158/opt"
+      },
+      {
+        "name": "Invoke Calamity",
+        "price": "$0.36",
+        "url": "https://manapool.com/card/neo/147/invoke-calamity"
+      },
+      {
+        "name": "Fire Nation Attacks",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tla/133/fire-nation-attacks"
+      },
+      {
+        "name": "Prismari Command",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lcc/279/prismari-command"
+      },
+      {
+        "name": "Abrade",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/2xm/114/abrade"
+      },
+      {
+        "name": "Consider",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/tle/157/consider"
+      },
+      {
+        "name": "Abandon Attachments",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tla/205/abandon-attachments"
+      },
+      {
+        "name": "Reverberate",
+        "price": "$2.90",
+        "url": "https://manapool.com/card/m12/152/reverberate"
+      },
+      {
+        "name": "Bolt Bend",
+        "price": "$2.51",
+        "url": "https://manapool.com/card/fdn/619/bolt-bend"
+      },
+      {
+        "name": "Azula Always Lies",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tla/84/azula-always-lies"
+      },
+      {
+        "name": "Sazacap's Brew",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blb/151/sazacaps-brew"
+      },
+      {
+        "name": "Octopus Form",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tla/66/octopus-form"
+      },
+      {
+        "name": "Cunning Maneuver",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tla/130/cunning-maneuver"
+      },
+      {
+        "name": "Heartless Act",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmm/166/heartless-act"
+      },
+      {
+        "name": "An Offer You Can't Refuse",
+        "price": "$2.49",
+        "url": "https://manapool.com/card/snc/51/an-offer-you-cant-refuse"
+      },
+      {
+        "name": "Firebending Lesson",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tla/138/firebending-lesson"
+      },
+      {
+        "name": "Increasing Vengeance",
+        "price": "$0.46",
+        "url": "https://manapool.com/card/dka/95/increasing-vengeance"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Sozin's Comet",
+        "price": "$2.89",
+        "url": "https://manapool.com/card/tla/154/sozins-comet"
+      },
+      {
+        "name": "Mana Geyser",
+        "price": "$1.79",
+        "url": "https://manapool.com/card/5dn/75/mana-geyser"
+      },
+      {
+        "name": "Crackle with Power",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/astx/12/crackle-with-power"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Bender's Waterskin",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/tla/255/benders-waterskin"
+      },
+      {
+        "name": "The Key to the Vault",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/otj/54/the-key-to-the-vault"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "Dread of Night",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmp/130/dread-of-night"
+      },
+      {
+        "name": "Firebender Ascension",
+        "price": "$0.78",
+        "url": "https://manapool.com/card/tla/137/firebender-ascension"
+      }
+    ],
+    "planeswalkers": [
+      {
+        "name": "Chandra, Pyrogenius",
+        "price": "N/A",
+        "url": "https://manapool.com/card/kld/265/chandra-pyrogenius"
+      }
+    ],
+    "lands": [
+      {
+        "name": "Fire Nation Palace",
+        "price": "$1.65",
+        "url": "https://manapool.com/card/tla/268/fire-nation-palace"
+      },
+      {
+        "name": "Waterlogged Teachings",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Cascade Bluffs",
+        "price": "$0.51",
+        "url": "https://manapool.com/card/eoc/153/cascade-bluffs"
+      },
+      {
+        "name": "Command Tower",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/325/command-tower"
+      },
+      {
+        "name": "Exotic Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/131/exotic-orchard"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Castle Sengir",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/hml/113/castle-sengir"
+      },
+      {
+        "name": "Cinder Marsh",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/tmp/317/cinder-marsh"
+      },
+      {
+        "name": "Crosis's Catacombs",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmr/242/crosiss-catacombs"
+      },
+      {
+        "name": "Crypt of the Eternals",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/hou/169/crypt-of-the-eternals"
+      },
+      {
+        "name": "Darkwater Catacombs",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/c19/238/darkwater-catacombs"
+      },
+      {
+        "name": "Desolate Lighthouse",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/avr/227/desolate-lighthouse"
+      },
+      {
+        "name": "Dreadship Reef",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/tsp/271/dreadship-reef"
+      },
+      {
+        "name": "Duskmantle, House of Shadow",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/plst/RAV-277/duskmantle-house-of-shadow"
+      },
+      {
+        "name": "Ferrous Lake",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/pip/148/ferrous-lake"
+      },
+      {
+        "name": "Lantern-Lit Graveyard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/chk/278/lantern-lit-graveyard"
+      },
+      {
+        "name": "Lava Tubes",
+        "price": "$0.30",
+        "url": "https://manapool.com/card/ptc/gb358/lava-tubes"
+      },
+      {
+        "name": "Madlands",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mb2/614/madlands"
+      },
+      {
+        "name": "Maestros' Totally Safe Hideout",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mb2/615/maestros-totally-safe-hideout"
+      },
+      {
+        "name": "Molten Slagheap",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/284/molten-slagheap"
+      },
+      {
+        "name": "Nephalia Drownyard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lcc/344/nephalia-drownyard"
+      },
+      {
+        "name": "Nivix, Aerie of the Firemind",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ddj/36/nivix-aerie-of-the-firemind"
+      },
+      {
+        "name": "River Delta",
+        "price": "$0.38",
+        "url": "https://manapool.com/card/ice/359/river-delta"
+      },
+      {
+        "name": "River of Tears",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/clb/912/river-of-tears"
+      },
+      {
+        "name": "Rix Maadi, Dungeon Palace",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c19/269/rix-maadi-dungeon-palace"
+      },
+      {
+        "name": "Rootwater Depths",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmp/323/rootwater-depths"
+      },
+      {
+        "name": "Seething Landscape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/225/seething-landscape"
+      },
+      {
+        "name": "Shadowblood Ridge",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/who/303/shadowblood-ridge"
+      },
+      {
+        "name": "Shivan Reef",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/dmu/255/shivan-reef"
+      },
+      {
+        "name": "Airship Engine Room",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tla/265/airship-engine-room"
+      },
+      {
+        "name": "Akoum Refuge",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ddk/73/akoum-refuge"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      }
+    ],
+    "other": [
+      {
+        "name": "Lightning Bolt",
+        "price": "$0.51",
+        "url": "https://manapool.com/card/fca/40/lightning-bolt"
+      },
+      {
+        "name": "Dark Ritual",
+        "price": "$2.44",
+        "url": "https://manapool.com/card/3ed/99/dark-ritual"
+      }
+    ]
+  },
+  "export_text": "1 Fire Lord Azula *CMDR*\n1 Big Score\n1 Electrodominance\n1 Frantic Search\n1 Storm-Kiln Artist\n1 Archmage Emeritus\n1 Lightning Bolt\n1 Unexpected Windfall\n1 Fire Nation Palace\n1 Thrill of Possibility\n1 The Last Agni Kai\n1 Demand Answers\n1 Furnace Dragon\n1 Firebending Student\n1 Fists of Flame\n1 Urborg Justice\n1 Stench of Decay\n1 Sozin's Comet\n1 Dread of Night\n1 Azula, Cunning Usurper\n1 Waterlogged Teachings\n1 Firebender Ascension\n1 Chandra, Pyrogenius\n1 Brainstorm\n1 Lightning Strike\n1 Tibor and Lumia\n1 Unleash Fury\n1 Valley Floodcaller\n1 Dark Ritual\n1 Opt\n1 Guttersnipe\n1 Invoke Calamity\n1 Stormcatch Mentor\n1 Fire Nation Attacks\n1 Zuko, Exiled Prince\n1 Prismari Command\n1 Abrade\n1 Consider\n1 Abandon Attachments\n1 Bender's Waterskin\n1 Reverberate\n1 Cascade Bluffs\n1 The Blue Spirit\n1 Bolt Bend\n1 Azula Always Lies\n1 Sazacap's Brew\n1 Nightscape Familiar\n1 Vivi Ornitier\n1 Birgi, God of Storytelling\n1 Azula, On the Hunt\n1 Mana Geyser\n1 Crackle with Power\n1 The Key to the Vault\n1 Ty Lee, Chi Blocker\n1 The Rise of Sozin\n1 Cunning Nightbonder\n1 Octopus Form\n1 Cunning Maneuver\n1 Heartless Act\n1 Mysterious Stranger\n1 An Offer You Can't Refuse\n1 Firebending Lesson\n1 Increasing Vengeance\n1 Command Tower\n1 Exotic Orchard\n1 Path of Ancestry\n1 Castle Sengir\n1 Cinder Marsh\n1 Crosis's Catacombs\n1 Crypt of the Eternals\n1 Darkwater Catacombs\n1 Desolate Lighthouse\n1 Dreadship Reef\n1 Duskmantle, House of Shadow\n1 Ferrous Lake\n1 Lantern-Lit Graveyard\n1 Lava Tubes\n1 Madlands\n1 Maestros' Totally Safe Hideout\n1 Molten Slagheap\n1 Nephalia Drownyard\n1 Nivix, Aerie of the Firemind\n1 River Delta\n1 River of Tears\n1 Rix Maadi, Dungeon Palace\n1 Rootwater Depths\n1 Seething Landscape\n1 Shadowblood Ridge\n1 Shivan Reef\n1 Airship Engine Room\n1 Akoum Refuge\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Swamp\n1 Island\n1 Mountain\n1 Swamp\n1 Island",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": true,
+    "counts": {
+      "lands": 38,
+      "ramp": 12,
+      "card_draw": 11,
+      "targeted_removal": 11,
+      "mass_removal": 6,
+      "synergy": 15,
+      "uncategorized": 5
+    },
+    "gaps": {}
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "mass_removal",
+      "added": "Furnace Dragon",
+      "removed": "Narset's Reversal"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Urborg Justice",
+      "removed": "Etali, Primal Storm"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Stench of Decay",
+      "removed": "Bulk Up"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Dread of Night",
+      "removed": "Swiftfoot Boots"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Chandra, Pyrogenius",
+      "removed": "Torrential Gearhulk"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Tibor and Lumia",
+      "removed": "Goblin Electromancer"
+    }
+  ]
+}

@@ -1,0 +1,574 @@
+{
+  "commander": "Tidus, Yuna's Guardian",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 93,
+  "total_cost_display": "$59.39",
+  "deck": {
+    "commander": "Tidus, Yuna's Guardian",
+    "creatures": [
+      {
+        "name": "Yuna, Grand Summoner",
+        "price": "$0.93",
+        "url": "https://manapool.com/card/fic/192/yuna-grand-summoner"
+      },
+      {
+        "name": "Migratory Greathorn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/iko/165/migratory-greathorn"
+      },
+      {
+        "name": "Wakka, Devoted Guardian",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/97/wakka-devoted-guardian"
+      },
+      {
+        "name": "Gyre Sage",
+        "price": "$0.45",
+        "url": "https://manapool.com/card/fic/306/gyre-sage"
+      },
+      {
+        "name": "Incubation Druid",
+        "price": "$1.03",
+        "url": "https://manapool.com/card/ncc/296/incubation-druid"
+      },
+      {
+        "name": "Skyclave Aerialist // Skyclave Invader",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mom/78/skyclave-aerialist-skyclave-invader"
+      },
+      {
+        "name": "Fathom Mage",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/325/fathom-mage"
+      },
+      {
+        "name": "Gempalm Avenger",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ddo/9/gempalm-avenger"
+      },
+      {
+        "name": "Coliseum Behemoth",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/181/coliseum-behemoth"
+      },
+      {
+        "name": "Kimahri, Valiant Guardian",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/85/kimahri-valiant-guardian"
+      },
+      {
+        "name": "Gatta and Luzzu",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/19/gatta-and-luzzu"
+      },
+      {
+        "name": "Auron, Venerated Guardian",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/fic/10/auron-venerated-guardian"
+      },
+      {
+        "name": "Forgotten Ancient",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/217/forgotten-ancient"
+      },
+      {
+        "name": "O'aka, Traveling Merchant",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/fic/39/oaka-traveling-merchant"
+      },
+      {
+        "name": "Summon: Yojimbo",
+        "price": "$1.36",
+        "url": "https://manapool.com/card/fic/28/summon-yojimbo"
+      },
+      {
+        "name": "Tekuthal, Inquiry Dominus",
+        "price": "$1.53",
+        "url": "https://manapool.com/card/eoc/78/tekuthal-inquiry-dominus"
+      },
+      {
+        "name": "Summon: Ixion",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/fic/27/summon-ixion"
+      },
+      {
+        "name": "Sin, Unending Cataclysm",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/95/sin-unending-cataclysm"
+      },
+      {
+        "name": "Scholar of New Horizons",
+        "price": "$0.34",
+        "url": "https://manapool.com/card/fic/252/scholar-of-new-horizons"
+      },
+      {
+        "name": "Summon: Valefor",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/42/summon-valefor"
+      },
+      {
+        "name": "Bane of Progress",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/ecc/99/bane-of-progress"
+      },
+      {
+        "name": "Thrummingbird",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmm/858/thrummingbird"
+      },
+      {
+        "name": "Summon: Magus Sisters",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/71/summon-magus-sisters"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Inspiring Call",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fdn/226/inspiring-call"
+      },
+      {
+        "name": "Evacuation",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmm/89/evacuation"
+      },
+      {
+        "name": "Sagittars' Volley",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/rna/138/sagittars-volley"
+      },
+      {
+        "name": "Spring Cleaning",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lrw/236/spring-cleaning"
+      },
+      {
+        "name": "An Offer You Can't Refuse",
+        "price": "$2.49",
+        "url": "https://manapool.com/card/snc/51/an-offer-you-cant-refuse"
+      },
+      {
+        "name": "Destroy Evil",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmu/17/destroy-evil"
+      },
+      {
+        "name": "Path to Exile",
+        "price": "$1.20",
+        "url": "https://manapool.com/card/fic/248/path-to-exile"
+      },
+      {
+        "name": "Yuna's Whistle",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/75/yunas-whistle"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Clear the Land",
+        "price": "$0.42",
+        "url": "https://manapool.com/card/mmq/235/clear-the-land"
+      },
+      {
+        "name": "Supreme Verdict",
+        "price": "$1.51",
+        "url": "https://manapool.com/card/ltc/272/supreme-verdict"
+      },
+      {
+        "name": "Collective Effort",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/emn/17/collective-effort"
+      },
+      {
+        "name": "Yuna's Decision",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/74/yunas-decision"
+      },
+      {
+        "name": "Farseek",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/rvr/138/farseek"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Everflowing Chalice",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/fic/343/everflowing-chalice"
+      },
+      {
+        "name": "Blitzball Stadium",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/34/blitzball-stadium"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "Exploration",
+        "price": "$24.89",
+        "url": "https://manapool.com/card/dmr/339/exploration"
+      },
+      {
+        "name": "Bred for the Hunt",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dgm/59/bred-for-the-hunt"
+      },
+      {
+        "name": "Inexorable Tide",
+        "price": "$0.95",
+        "url": "https://manapool.com/card/fic/265/inexorable-tide"
+      },
+      {
+        "name": "Together Forever",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c20/105/together-forever"
+      },
+      {
+        "name": "Fight Rigging",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/303/fight-rigging"
+      }
+    ],
+    "planeswalkers": [
+      {
+        "name": "Gideon, Champion of Justice",
+        "price": "$0.29",
+        "url": "https://manapool.com/card/c21/93/gideon-champion-of-justice"
+      }
+    ],
+    "lands": [
+      {
+        "name": "Nesting Grounds",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ecc/155/nesting-grounds"
+      },
+      {
+        "name": "Mikokoro, Center of the Sea",
+        "price": "$5.37",
+        "url": "https://manapool.com/card/a25/241/mikokoro-center-of-the-sea"
+      },
+      {
+        "name": "Flooded Grove",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltc/309/flooded-grove"
+      },
+      {
+        "name": "Vineglimmer Snarl",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/drc/183/vineglimmer-snarl"
+      },
+      {
+        "name": "Forge of Heroes",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/395/forge-of-heroes"
+      },
+      {
+        "name": "Fortified Village",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/396/fortified-village"
+      },
+      {
+        "name": "Port Town",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/412/port-town"
+      },
+      {
+        "name": "Overflowing Basin",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/321/overflowing-basin"
+      },
+      {
+        "name": "Brushland",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/fic/377/brushland"
+      },
+      {
+        "name": "Sunpetal Grove",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/blc/335/sunpetal-grove"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Radiant Grove",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmu/253/radiant-grove"
+      },
+      {
+        "name": "Idyllic Beachfront",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmu/249/idyllic-beachfront"
+      },
+      {
+        "name": "Sungrass Prairie",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/334/sungrass-prairie"
+      },
+      {
+        "name": "Skycloud Expanse",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/294/skycloud-expanse"
+      },
+      {
+        "name": "Tangled Islet",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmu/258/tangled-islet"
+      },
+      {
+        "name": "Hinterland Harbor",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmc/69/hinterland-harbor"
+      },
+      {
+        "name": "Glacial Fortress",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/blc/307/glacial-fortress"
+      },
+      {
+        "name": "Command Tower",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/325/command-tower"
+      },
+      {
+        "name": "Exotic Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/131/exotic-orchard"
+      },
+      {
+        "name": "Adarkar Wastes",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/blc/291/adarkar-wastes"
+      },
+      {
+        "name": "Alchemist's Refuge",
+        "price": "$0.65",
+        "url": "https://manapool.com/card/lcc/318/alchemists-refuge"
+      },
+      {
+        "name": "Aysen Abbey",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/hml/112/aysen-abbey"
+      },
+      {
+        "name": "Calciform Pools",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/tsp/270/calciform-pools"
+      },
+      {
+        "name": "Cloudcrest Lake",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/chk/274/cloudcrest-lake"
+      },
+      {
+        "name": "Fetching Garden",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/mb2/611/fetching-garden"
+      },
+      {
+        "name": "Grove of the Guardian",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/rtr/240/grove-of-the-guardian"
+      },
+      {
+        "name": "Hushwood Verge",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/adsk/26/hushwood-verge"
+      },
+      {
+        "name": "Land Cap",
+        "price": "$0.39",
+        "url": "https://manapool.com/card/ice/357/land-cap"
+      },
+      {
+        "name": "Moorland Haunt",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/isd/244/moorland-haunt"
+      },
+      {
+        "name": "Nantuko Monastery",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmr/252/nantuko-monastery"
+      },
+      {
+        "name": "Novijen, Heart of Progress",
+        "price": "$0.30",
+        "url": "https://manapool.com/card/dis/175/novijen-heart-of-progress"
+      },
+      {
+        "name": "Prahv, Spires of Order",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/dis/177/prahv-spires-of-order"
+      },
+      {
+        "name": "Saltcrusted Steppe",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tsp/277/saltcrusted-steppe"
+      },
+      {
+        "name": "Seaside Haven",
+        "price": "$0.46",
+        "url": "https://manapool.com/card/ons/323/seaside-haven"
+      },
+      {
+        "name": "Slumbering Waterways",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mb2/618/slumbering-waterways"
+      },
+      {
+        "name": "Thalakos Lowlands",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmp/328/thalakos-lowlands"
+      },
+      {
+        "name": "Tranquil Garden",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/chk/284/tranquil-garden"
+      },
+      {
+        "name": "Tranquil Landscape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/231/tranquil-landscape"
+      },
+      {
+        "name": "Abandoned Campground",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsk/255/abandoned-campground"
+      },
+      {
+        "name": "Arctic Flats",
+        "price": "$1.03",
+        "url": "https://manapool.com/card/csp/143/arctic-flats"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      }
+    ],
+    "other": []
+  },
+  "export_text": "1 Tidus, Yuna's Guardian *CMDR*\n1 Yuna, Grand Summoner\n1 Migratory Greathorn\n1 Wakka, Devoted Guardian\n1 Gyre Sage\n1 Exploration\n1 Clear the Land\n1 Nesting Grounds\n1 Incubation Druid\n1 Skyclave Aerialist // Skyclave Invader\n1 Inspiring Call\n1 Fathom Mage\n1 Gempalm Avenger\n1 Mikokoro, Center of the Sea\n1 Coliseum Behemoth\n1 Gideon, Champion of Justice\n1 Evacuation\n1 Sagittars' Volley\n1 Supreme Verdict\n1 Spring Cleaning\n1 Everflowing Chalice\n1 Kimahri, Valiant Guardian\n1 Bred for the Hunt\n1 Gatta and Luzzu\n1 Auron, Venerated Guardian\n1 Blitzball Stadium\n1 Inexorable Tide\n1 Forgotten Ancient\n1 O'aka, Traveling Merchant\n1 Summon: Yojimbo\n1 Together Forever\n1 Tekuthal, Inquiry Dominus\n1 Collective Effort\n1 Flooded Grove\n1 Vineglimmer Snarl\n1 Forge of Heroes\n1 Summon: Ixion\n1 Fortified Village\n1 Port Town\n1 Overflowing Basin\n1 Brushland\n1 An Offer You Can't Refuse\n1 Sin, Unending Cataclysm\n1 Scholar of New Horizons\n1 Destroy Evil\n1 Sunpetal Grove\n1 Path of Ancestry\n1 Radiant Grove\n1 Idyllic Beachfront\n1 Summon: Valefor\n1 Sungrass Prairie\n1 Skycloud Expanse\n1 Tangled Islet\n1 Path to Exile\n1 Fight Rigging\n1 Hinterland Harbor\n1 Glacial Fortress\n1 Bane of Progress\n1 Yuna's Decision\n1 Farseek\n1 Thrummingbird\n1 Summon: Magus Sisters\n1 Yuna's Whistle\n1 Command Tower\n1 Exotic Orchard\n1 Adarkar Wastes\n1 Alchemist's Refuge\n1 Aysen Abbey\n1 Calciform Pools\n1 Cloudcrest Lake\n1 Fetching Garden\n1 Grove of the Guardian\n1 Hushwood Verge\n1 Land Cap\n1 Moorland Haunt\n1 Nantuko Monastery\n1 Novijen, Heart of Progress\n1 Prahv, Spires of Order\n1 Saltcrusted Steppe\n1 Seaside Haven\n1 Slumbering Waterways\n1 Thalakos Lowlands\n1 Tranquil Garden\n1 Tranquil Landscape\n1 Abandoned Campground\n1 Arctic Flats\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Forest\n1 Plains\n1 Island\n1 Forest\n1 Plains",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": false,
+    "counts": {
+      "lands": 49,
+      "ramp": 11,
+      "card_draw": 7,
+      "targeted_removal": 10,
+      "mass_removal": 6,
+      "synergy": 10,
+      "uncategorized": 0
+    },
+    "gaps": {
+      "card_draw": {
+        "actual": 7,
+        "target": 10,
+        "needed": 3
+      }
+    }
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "ramp",
+      "added": "Migratory Greathorn",
+      "removed": "Rikku, Resourceful Guardian"
+    },
+    {
+      "category": "ramp",
+      "added": "Exploration",
+      "removed": "Maester Seymour"
+    },
+    {
+      "category": "ramp",
+      "added": "Clear the Land",
+      "removed": "Hardened Scales"
+    },
+    {
+      "category": "card_draw",
+      "added": "Skyclave Aerialist // Skyclave Invader",
+      "removed": "Protection Magic"
+    },
+    {
+      "category": "card_draw",
+      "added": "Gempalm Avenger",
+      "removed": "Luminous Broodmoth"
+    },
+    {
+      "category": "card_draw",
+      "added": "Mikokoro, Center of the Sea",
+      "removed": "Tromell, Seymour's Butler"
+    },
+    {
+      "category": "card_draw",
+      "added": "Coliseum Behemoth",
+      "removed": "Shelinda, Yevon Acolyte"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Gideon, Champion of Justice",
+      "removed": "Grateful Apparition"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Evacuation",
+      "removed": "Resourceful Defense"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Sagittars' Volley",
+      "removed": "Lulu, Stern Guardian"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Supreme Verdict",
+      "removed": "Chocobo Knights"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Spring Cleaning",
+      "removed": "Duskshell Crawler"
+    }
+  ]
+}

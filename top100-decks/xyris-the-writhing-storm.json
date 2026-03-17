@@ -1,0 +1,598 @@
+{
+  "commander": "Xyris, the Writhing Storm",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 99,
+  "total_cost_display": "$45.71",
+  "deck": {
+    "commander": "Xyris, the Writhing Storm",
+    "creatures": [
+      {
+        "name": "Petradon",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/tor/108/petradon"
+      },
+      {
+        "name": "Psychosis Crawler",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/mbs/126/psychosis-crawler"
+      },
+      {
+        "name": "Razorkin Needlehead",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/adsk/39/razorkin-needlehead"
+      },
+      {
+        "name": "Kumano Faces Kakkazan // Etching of Kumano",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/neo/152/kumano-faces-kakkazan-etching-of-kumano"
+      },
+      {
+        "name": "Whirlpool Warrior",
+        "price": "$0.90",
+        "url": "https://manapool.com/card/apc/36/whirlpool-warrior"
+      },
+      {
+        "name": "Subterranean Shambler",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tsp/178/subterranean-shambler"
+      },
+      {
+        "name": "Cyclone Summoner",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/khm/52/cyclone-summoner"
+      },
+      {
+        "name": "Junk Winder",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/169/junk-winder"
+      },
+      {
+        "name": "Edric, Spymaster of Trest",
+        "price": "$1.31",
+        "url": "https://manapool.com/card/c16/195/edric-spymaster-of-trest"
+      },
+      {
+        "name": "Chasm Skulker",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/164/chasm-skulker"
+      },
+      {
+        "name": "Kaseto, Orochi Archmage",
+        "price": "$0.30",
+        "url": "https://manapool.com/card/c21/221/kaseto-orochi-archmage"
+      },
+      {
+        "name": "Sakura-Tribe Elder",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/dsc/194/sakura-tribe-elder"
+      },
+      {
+        "name": "Coiling Oracle",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/2x2/194/coiling-oracle"
+      },
+      {
+        "name": "Weftstalker Ardent",
+        "price": "$1.03",
+        "url": "https://manapool.com/card/eoe/169/weftstalker-ardent"
+      },
+      {
+        "name": "Trygon Predator",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c20/232/trygon-predator"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Spoils of the Hunt",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/205/spoils-of-the-hunt"
+      },
+      {
+        "name": "Arcane Denial",
+        "price": "$2.05",
+        "url": "https://manapool.com/card/m3c/176/arcane-denial"
+      },
+      {
+        "name": "The Last Agni Kai",
+        "price": "$1.55",
+        "url": "https://manapool.com/card/tla/144/the-last-agni-kai"
+      },
+      {
+        "name": "Giant Growth",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/266/giant-growth"
+      },
+      {
+        "name": "Invigorate",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/mmq/254/invigorate"
+      },
+      {
+        "name": "Blossoming Defense",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ecl/167/blossoming-defense"
+      },
+      {
+        "name": "Temur Battle Rage",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/2xm/146/temur-battle-rage"
+      },
+      {
+        "name": "Shore Up",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blb/69/shore-up"
+      },
+      {
+        "name": "Gaea's Gift",
+        "price": "$1.56",
+        "url": "https://manapool.com/card/bro/182/gaeas-gift"
+      },
+      {
+        "name": "Simic Charm",
+        "price": "$0.84",
+        "url": "https://manapool.com/card/gtc/195/simic-charm"
+      },
+      {
+        "name": "Vines of Vastwood",
+        "price": "$0.81",
+        "url": "https://manapool.com/card/mm2/168/vines-of-vastwood"
+      },
+      {
+        "name": "Brute Force",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/plc/116/brute-force"
+      },
+      {
+        "name": "Become Immense",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/ktk/130/become-immense"
+      },
+      {
+        "name": "Titanic Growth",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/m12/198/titanic-growth"
+      },
+      {
+        "name": "Dream Fracture",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/clb/66/dream-fracture"
+      },
+      {
+        "name": "Groundswell",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/j25/667/groundswell"
+      },
+      {
+        "name": "Negate",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cn2/117/negate"
+      },
+      {
+        "name": "Titan's Strength",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/2x2/128/titans-strength"
+      },
+      {
+        "name": "Growth Spiral",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/ltc/267/growth-spiral"
+      },
+      {
+        "name": "Overprotect",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/blb/185/overprotect"
+      },
+      {
+        "name": "Long River's Pull",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blb/58/long-rivers-pull"
+      },
+      {
+        "name": "Colossal Growth",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmu/158/colossal-growth"
+      },
+      {
+        "name": "Collision // Colossus",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/rna/223/collision-colossus"
+      },
+      {
+        "name": "Get a Leg Up",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mkm/161/get-a-leg-up"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Channeled Dragonfire",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdm/102/channeled-dragonfire"
+      },
+      {
+        "name": "Giant's Ire",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lrw/170/giants-ire"
+      },
+      {
+        "name": "Destructive Force",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/m11/133/destructive-force"
+      },
+      {
+        "name": "Warp World",
+        "price": "$0.53",
+        "url": "https://manapool.com/card/rav/150/warp-world"
+      },
+      {
+        "name": "Crush the Weak",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/khm/128/crush-the-weak"
+      },
+      {
+        "name": "Prosperity",
+        "price": "$0.91",
+        "url": "https://manapool.com/card/tle/17/prosperity"
+      },
+      {
+        "name": "Cultivate",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmc/50/cultivate"
+      },
+      {
+        "name": "Echo of Eons",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/amh1/34/echo-of-eons"
+      },
+      {
+        "name": "Kodama's Reach",
+        "price": "$1.23",
+        "url": "https://manapool.com/card/cmm/300/kodamas-reach"
+      },
+      {
+        "name": "Time Reversal",
+        "price": "$1.60",
+        "url": "https://manapool.com/card/m11/75/time-reversal"
+      },
+      {
+        "name": "Minds Aglow",
+        "price": "$0.41",
+        "url": "https://manapool.com/card/cmd/51/minds-aglow"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Thought Vessel",
+        "price": "$2.32",
+        "url": "https://manapool.com/card/pip/251/thought-vessel"
+      },
+      {
+        "name": "Decanter of Endless Water",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/aclb/79/decanter-of-endless-water"
+      },
+      {
+        "name": "Swiftfoot Boots",
+        "price": "$1.87",
+        "url": "https://manapool.com/card/fdn/258/swiftfoot-boots"
+      },
+      {
+        "name": "Combine Chrysalis",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh2/191/combine-chrysalis"
+      },
+      {
+        "name": "Folio of Fancies",
+        "price": "$0.98",
+        "url": "https://manapool.com/card/eld/46/folio-of-fancies"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "Goblin Bombardment",
+        "price": "$2.60",
+        "url": "https://manapool.com/card/sch/45/goblin-bombardment"
+      },
+      {
+        "name": "Eldrazi Conscription",
+        "price": "$3.44",
+        "url": "https://manapool.com/card/m3c/155/eldrazi-conscription"
+      },
+      {
+        "name": "Rites of Flourishing",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/blc/122/rites-of-flourishing"
+      },
+      {
+        "name": "Fevered Visions",
+        "price": "$0.58",
+        "url": "https://manapool.com/card/tle/49/fevered-visions"
+      },
+      {
+        "name": "Season of Growth",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/wot/61/season-of-growth"
+      }
+    ],
+    "planeswalkers": [],
+    "lands": [
+      {
+        "name": "Geier Reach Sanitarium",
+        "price": "$0.69",
+        "url": "https://manapool.com/card/lcc/335/geier-reach-sanitarium"
+      },
+      {
+        "name": "Command Tower",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/325/command-tower"
+      },
+      {
+        "name": "Exotic Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/131/exotic-orchard"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Alchemist's Refuge",
+        "price": "$0.65",
+        "url": "https://manapool.com/card/lcc/318/alchemists-refuge"
+      },
+      {
+        "name": "Bountiful Landscape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/217/bountiful-landscape"
+      },
+      {
+        "name": "Cascade Bluffs",
+        "price": "$0.51",
+        "url": "https://manapool.com/card/eoc/153/cascade-bluffs"
+      },
+      {
+        "name": "Contested Cliffs",
+        "price": "$0.29",
+        "url": "https://manapool.com/card/c13/282/contested-cliffs"
+      },
+      {
+        "name": "Desolate Lighthouse",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/avr/227/desolate-lighthouse"
+      },
+      {
+        "name": "Ferrous Lake",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/pip/148/ferrous-lake"
+      },
+      {
+        "name": "Flooded Grove",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltc/309/flooded-grove"
+      },
+      {
+        "name": "Fungal Reaches",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tsr/279/fungal-reaches"
+      },
+      {
+        "name": "Karplusan Forest",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/drc/163/karplusan-forest"
+      },
+      {
+        "name": "Kessig Wolf Run",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mkc/269/kessig-wolf-run"
+      },
+      {
+        "name": "Mogg Hollows",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/tmp/320/mogg-hollows"
+      },
+      {
+        "name": "Mossfire Valley",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/316/mossfire-valley"
+      },
+      {
+        "name": "Nivix, Aerie of the Firemind",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ddj/36/nivix-aerie-of-the-firemind"
+      },
+      {
+        "name": "Novijen, Heart of Progress",
+        "price": "$0.30",
+        "url": "https://manapool.com/card/dis/175/novijen-heart-of-progress"
+      },
+      {
+        "name": "Overflowing Basin",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/321/overflowing-basin"
+      },
+      {
+        "name": "Pinecrest Ridge",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/chk/281/pinecrest-ridge"
+      },
+      {
+        "name": "Shivan Reef",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/dmu/255/shivan-reef"
+      },
+      {
+        "name": "Skarrg, the Rage Pits",
+        "price": "$0.62",
+        "url": "https://manapool.com/card/gpt/163/skarrg-the-rage-pits"
+      },
+      {
+        "name": "Slumbering Waterways",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mb2/618/slumbering-waterways"
+      },
+      {
+        "name": "Temur Elevator",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mb2/619/temur-elevator"
+      },
+      {
+        "name": "Timberline Ridge",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/ice/361/timberline-ridge"
+      },
+      {
+        "name": "Value Town // Take a Trip to...",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/mb2/621/value-town-take-a-trip-to"
+      },
+      {
+        "name": "Waterlogged Grove",
+        "price": "$0.57",
+        "url": "https://manapool.com/card/who/331/waterlogged-grove"
+      },
+      {
+        "name": "Yavimaya Coast",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/drc/184/yavimaya-coast"
+      },
+      {
+        "name": "Airship Engine Room",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tla/265/airship-engine-room"
+      },
+      {
+        "name": "Balamb Garden, SeeD Academy // Balamb Garden, Airborne",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/272/balamb-garden-seed-academy-balamb-garden-airborne"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      }
+    ],
+    "other": [
+      {
+        "name": "Counterspell",
+        "price": "$1.61",
+        "url": "https://manapool.com/card/wc97/pm77/counterspell"
+      }
+    ]
+  },
+  "export_text": "1 Xyris, the Writhing Storm *CMDR*\n1 Petradon\n1 Goblin Bombardment\n1 Spoils of the Hunt\n1 Thought Vessel\n1 Eldrazi Conscription\n1 Arcane Denial\n1 Channeled Dragonfire\n1 Psychosis Crawler\n1 Giant's Ire\n1 Razorkin Needlehead\n1 The Last Agni Kai\n1 Destructive Force\n1 Rites of Flourishing\n1 Kumano Faces Kakkazan // Etching of Kumano\n1 Whirlpool Warrior\n1 Warp World\n1 Subterranean Shambler\n1 Crush the Weak\n1 Cyclone Summoner\n1 Prosperity\n1 Junk Winder\n1 Edric, Spymaster of Trest\n1 Giant Growth\n1 Invigorate\n1 Chasm Skulker\n1 Blossoming Defense\n1 Decanter of Endless Water\n1 Kaseto, Orochi Archmage\n1 Temur Battle Rage\n1 Cultivate\n1 Shore Up\n1 Echo of Eons\n1 Gaea's Gift\n1 Simic Charm\n1 Vines of Vastwood\n1 Brute Force\n1 Geier Reach Sanitarium\n1 Kodama's Reach\n1 Become Immense\n1 Fevered Visions\n1 Swiftfoot Boots\n1 Sakura-Tribe Elder\n1 Titanic Growth\n1 Dream Fracture\n1 Groundswell\n1 Time Reversal\n1 Coiling Oracle\n1 Minds Aglow\n1 Weftstalker Ardent\n1 Negate\n1 Titan's Strength\n1 Combine Chrysalis\n1 Folio of Fancies\n1 Season of Growth\n1 Growth Spiral\n1 Overprotect\n1 Long River's Pull\n1 Colossal Growth\n1 Collision // Colossus\n1 Counterspell\n1 Trygon Predator\n1 Get a Leg Up\n1 Command Tower\n1 Exotic Orchard\n1 Path of Ancestry\n1 Alchemist's Refuge\n1 Bountiful Landscape\n1 Cascade Bluffs\n1 Contested Cliffs\n1 Desolate Lighthouse\n1 Ferrous Lake\n1 Flooded Grove\n1 Fungal Reaches\n1 Karplusan Forest\n1 Kessig Wolf Run\n1 Mogg Hollows\n1 Mossfire Valley\n1 Nivix, Aerie of the Firemind\n1 Novijen, Heart of Progress\n1 Overflowing Basin\n1 Pinecrest Ridge\n1 Shivan Reef\n1 Skarrg, the Rage Pits\n1 Slumbering Waterways\n1 Temur Elevator\n1 Timberline Ridge\n1 Value Town // Take a Trip to...\n1 Waterlogged Grove\n1 Yavimaya Coast\n1 Airship Engine Room\n1 Balamb Garden, SeeD Academy // Balamb Garden, Airborne\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Forest\n1 Island\n1 Mountain\n1 Forest\n1 Island",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": true,
+    "counts": {
+      "lands": 38,
+      "ramp": 8,
+      "card_draw": 10,
+      "targeted_removal": 10,
+      "mass_removal": 6,
+      "synergy": 26,
+      "uncategorized": 1
+    },
+    "gaps": {}
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "targeted_removal",
+      "added": "Petradon",
+      "removed": "Impact Tremors"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Spoils of the Hunt",
+      "removed": "Magus of the Wheel"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Eldrazi Conscription",
+      "removed": "Witty Roastmaster"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Channeled Dragonfire",
+      "removed": "Shared Animosity"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Giant's Ire",
+      "removed": "Forced Fruition"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "The Last Agni Kai",
+      "removed": "Dictate of Kruphix"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Destructive Force",
+      "removed": "Molten Gatekeeper"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Kumano Faces Kakkazan // Etching of Kumano",
+      "removed": "Beastmaster Ascension"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Warp World",
+      "removed": "Snakeskin Veil"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Subterranean Shambler",
+      "removed": "Tyvar's Stand"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Crush the Weak",
+      "removed": "Vision Skeins"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Cyclone Summoner",
+      "removed": "Agate Instigator"
+    }
+  ]
+}

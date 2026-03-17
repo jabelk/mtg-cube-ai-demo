@@ -1,0 +1,602 @@
+{
+  "commander": "Cloud, Ex-SOLDIER",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 92,
+  "total_cost_display": "$65.27",
+  "deck": {
+    "commander": "Cloud, Ex-SOLDIER",
+    "creatures": [
+      {
+        "name": "Puresteel Paladin",
+        "price": "$0.58",
+        "url": "https://manapool.com/card/fic/250/puresteel-paladin"
+      },
+      {
+        "name": "Argothian Opportunist",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/bro/167/argothian-opportunist"
+      },
+      {
+        "name": "Cityscape Leveler",
+        "price": "$9.06",
+        "url": "https://manapool.com/card/tle/53/cityscape-leveler"
+      },
+      {
+        "name": "The Cabbage Merchant",
+        "price": "$20.42",
+        "url": "https://manapool.com/card/tle/203/the-cabbage-merchant"
+      },
+      {
+        "name": "Yavimaya Dryad",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c20/197/yavimaya-dryad"
+      },
+      {
+        "name": "Professor Hojo",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/69/professor-hojo"
+      },
+      {
+        "name": "Leafkin Druid",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/m20/178/leafkin-druid"
+      },
+      {
+        "name": "Bugenhagen, Wise Elder",
+        "price": "$0.30",
+        "url": "https://manapool.com/card/fic/66/bugenhagen-wise-elder"
+      },
+      {
+        "name": "Sram, Senior Edificer",
+        "price": "$2.75",
+        "url": "https://manapool.com/card/aer/23/sram-senior-edificer"
+      },
+      {
+        "name": "Sunpearl Kirin",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdm/29/sunpearl-kirin"
+      },
+      {
+        "name": "Joshua, Phoenix's Dominant // Phoenix, Warden of Fire",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/229/joshua-phoenixs-dominant-phoenix-warden-of-fire"
+      },
+      {
+        "name": "Impounding Lot-Bot",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/unf/14/impounding-lot-bot"
+      },
+      {
+        "name": "Venomous Dragonfly",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mmq/282/venomous-dragonfly"
+      },
+      {
+        "name": "Apex Altisaur",
+        "price": "$3.80",
+        "url": "https://manapool.com/card/lcc/232/apex-altisaur"
+      },
+      {
+        "name": "Akiri, Fearless Voyager",
+        "price": "$0.70",
+        "url": "https://manapool.com/card/cmm/335/akiri-fearless-voyager"
+      },
+      {
+        "name": "Firion, Wild Rose Warrior",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/137/firion-wild-rose-warrior"
+      },
+      {
+        "name": "Aerith, Last Ancient",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/76/aerith-last-ancient"
+      },
+      {
+        "name": "Gilgamesh, Master-at-Arms",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/139/gilgamesh-master-at-arms"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Dispatch",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/eoc/64/dispatch"
+      },
+      {
+        "name": "Squall Line",
+        "price": "$1.18",
+        "url": "https://manapool.com/card/tsp/222/squall-line"
+      },
+      {
+        "name": "Cloud's Limit Break",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/14/clouds-limit-break"
+      },
+      {
+        "name": "Flames of the Raze-Boar",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/jmp/318/flames-of-the-raze-boar"
+      },
+      {
+        "name": "Lifestream's Blessing",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/fic/67/lifestreams-blessing"
+      },
+      {
+        "name": "Chaos Warp",
+        "price": "$0.38",
+        "url": "https://manapool.com/card/lcc/221/chaos-warp"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Draconic Debut",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Deconstruct",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mrd/118/deconstruct"
+      },
+      {
+        "name": "Playful Shove",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blb/145/playful-shove"
+      },
+      {
+        "name": "Vandalblast",
+        "price": "$2.06",
+        "url": "https://manapool.com/card/fic/298/vandalblast"
+      },
+      {
+        "name": "The Fall of Kroog",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/bro/133/the-fall-of-kroog"
+      },
+      {
+        "name": "Vanquish the Horde",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/260/vanquish-the-horde"
+      },
+      {
+        "name": "Star of Extinction",
+        "price": "$1.12",
+        "url": "https://manapool.com/card/xln/161/star-of-extinction"
+      },
+      {
+        "name": "Austere Command",
+        "price": "$0.40",
+        "url": "https://manapool.com/card/lcc/126/austere-command"
+      },
+      {
+        "name": "Nature's Lore",
+        "price": "$2.50",
+        "url": "https://manapool.com/card/ice/255/natures-lore"
+      },
+      {
+        "name": "Open the Armory",
+        "price": "$2.37",
+        "url": "https://manapool.com/card/soi/32/open-the-armory"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Blinkmoth Urn",
+        "price": "$0.98",
+        "url": "https://manapool.com/card/c18/197/blinkmoth-urn"
+      },
+      {
+        "name": "Mazemind Tome",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fdn/676/mazemind-tome"
+      },
+      {
+        "name": "Summoning Materia",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/72/summoning-materia"
+      },
+      {
+        "name": "Hero's Heirloom",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmu/231/heros-heirloom"
+      },
+      {
+        "name": "Inspiring Statuary",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/347/inspiring-statuary"
+      },
+      {
+        "name": "Mask of Memory",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/cmr/324/mask-of-memory"
+      }
+    ],
+    "enchantments": [],
+    "planeswalkers": [],
+    "lands": [
+      {
+        "name": "Spire of Industry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/drc/172/spire-of-industry"
+      },
+      {
+        "name": "Rugged Prairie",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdc/389/rugged-prairie"
+      },
+      {
+        "name": "Fire-Lit Thicket",
+        "price": "$1.19",
+        "url": "https://manapool.com/card/fic/392/fire-lit-thicket"
+      },
+      {
+        "name": "Slayers' Stronghold",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/424/slayers-stronghold"
+      },
+      {
+        "name": "Battlefield Forge",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/blc/293/battlefield-forge"
+      },
+      {
+        "name": "Brushland",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/fic/377/brushland"
+      },
+      {
+        "name": "Bonders' Enclave",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/fic/376/bonders-enclave"
+      },
+      {
+        "name": "Sunpetal Grove",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/blc/335/sunpetal-grove"
+      },
+      {
+        "name": "Sunscorched Divide",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/433/sunscorched-divide"
+      },
+      {
+        "name": "Furycalm Snarl",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/397/furycalm-snarl"
+      },
+      {
+        "name": "Rootbound Crag",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/326/rootbound-crag"
+      },
+      {
+        "name": "Clifftop Retreat",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/300/clifftop-retreat"
+      },
+      {
+        "name": "Fortified Village",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/396/fortified-village"
+      },
+      {
+        "name": "Sungrass Prairie",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/334/sungrass-prairie"
+      },
+      {
+        "name": "Mossfire Valley",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/316/mossfire-valley"
+      },
+      {
+        "name": "Game Trail",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/282/game-trail"
+      },
+      {
+        "name": "Scavenger Grounds",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/fic/419/scavenger-grounds"
+      },
+      {
+        "name": "Radiant Grove",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmu/253/radiant-grove"
+      },
+      {
+        "name": "Sacred Peaks",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmu/254/sacred-peaks"
+      },
+      {
+        "name": "Wooded Ridgeline",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/353/wooded-ridgeline"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Command Tower",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/325/command-tower"
+      },
+      {
+        "name": "Exotic Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/131/exotic-orchard"
+      },
+      {
+        "name": "Aggressive Crag",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/cmb2/112/aggressive-crag"
+      },
+      {
+        "name": "An-Havva Township",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/hml/111/an-havva-township"
+      },
+      {
+        "name": "Contested Cliffs",
+        "price": "$0.29",
+        "url": "https://manapool.com/card/c13/282/contested-cliffs"
+      },
+      {
+        "name": "Fetching Garden",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/mb2/611/fetching-garden"
+      },
+      {
+        "name": "Fungal Reaches",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tsr/279/fungal-reaches"
+      },
+      {
+        "name": "Grove of the Guardian",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/rtr/240/grove-of-the-guardian"
+      },
+      {
+        "name": "Hushwood Verge",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/adsk/26/hushwood-verge"
+      },
+      {
+        "name": "Karplusan Forest",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/drc/163/karplusan-forest"
+      },
+      {
+        "name": "Kessig Wolf Run",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mkc/269/kessig-wolf-run"
+      },
+      {
+        "name": "Mogg Hollows",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/tmp/320/mogg-hollows"
+      },
+      {
+        "name": "Nantuko Monastery",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmr/252/nantuko-monastery"
+      },
+      {
+        "name": "Omenpath to Naya",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mb2/616/omenpath-to-naya"
+      },
+      {
+        "name": "Path of Mettle // Metzali, Tower of Triumph",
+        "price": "$0.27",
+        "url": "https://manapool.com/card/rix/165/path-of-mettle-metzali-tower-of-triumph"
+      },
+      {
+        "name": "Pinecrest Ridge",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/chk/281/pinecrest-ridge"
+      },
+      {
+        "name": "Rith's Grove",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmr/255/riths-grove"
+      },
+      {
+        "name": "Saltcrusted Steppe",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tsp/277/saltcrusted-steppe"
+      },
+      {
+        "name": "Sheltering Landscape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/227/sheltering-landscape"
+      },
+      {
+        "name": "Skarrg, the Rage Pits",
+        "price": "$0.62",
+        "url": "https://manapool.com/card/gpt/163/skarrg-the-rage-pits"
+      },
+      {
+        "name": "Abraded Bluffs",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/otj/251/abraded-bluffs"
+      },
+      {
+        "name": "Alpine Meadow",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/khm/248/alpine-meadow"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      }
+    ],
+    "other": [
+      {
+        "name": "The Caldaia",
+        "price": "$1.18",
+        "url": "https://manapool.com/card/moc/47/the-caldaia"
+      }
+    ]
+  },
+  "export_text": "1 Cloud, Ex-SOLDIER *CMDR*\n1 Puresteel Paladin\n1 Argothian Opportunist\n1 Cityscape Leveler\n1 The Cabbage Merchant\n1 Yavimaya Dryad\n1 Professor Hojo\n1 Leafkin Druid\n1 Bugenhagen, Wise Elder\n1 Spire of Industry\n1 Blinkmoth Urn\n1 Mazemind Tome\n1 Dispatch\n1 Rugged Prairie\n1 Fire-Lit Thicket\n1 Sram, Senior Edificer\n1 Sunpearl Kirin\n1 Joshua, Phoenix's Dominant // Phoenix, Warden of Fire\n1 Slayers' Stronghold\n1 The Caldaia\n1 Squall Line\n1 Cloud's Limit Break\n1 Draconic Debut\n1 Impounding Lot-Bot\n1 Deconstruct\n1 Battlefield Forge\n1 Playful Shove\n1 Vandalblast\n1 Brushland\n1 Venomous Dragonfly\n1 Apex Altisaur\n1 Summoning Materia\n1 The Fall of Kroog\n1 Vanquish the Horde\n1 Bonders' Enclave\n1 Star of Extinction\n1 Sunpetal Grove\n1 Sunscorched Divide\n1 Furycalm Snarl\n1 Flames of the Raze-Boar\n1 Rootbound Crag\n1 Clifftop Retreat\n1 Lifestream's Blessing\n1 Austere Command\n1 Fortified Village\n1 Sungrass Prairie\n1 Mossfire Valley\n1 Hero's Heirloom\n1 Game Trail\n1 Nature's Lore\n1 Akiri, Fearless Voyager\n1 Scavenger Grounds\n1 Radiant Grove\n1 Firion, Wild Rose Warrior\n1 Sacred Peaks\n1 Aerith, Last Ancient\n1 Wooded Ridgeline\n1 Chaos Warp\n1 Gilgamesh, Master-at-Arms\n1 Path of Ancestry\n1 Open the Armory\n1 Inspiring Statuary\n1 Mask of Memory\n1 Command Tower\n1 Exotic Orchard\n1 Aggressive Crag\n1 An-Havva Township\n1 Contested Cliffs\n1 Fetching Garden\n1 Fungal Reaches\n1 Grove of the Guardian\n1 Hushwood Verge\n1 Karplusan Forest\n1 Kessig Wolf Run\n1 Mogg Hollows\n1 Nantuko Monastery\n1 Omenpath to Naya\n1 Path of Mettle // Metzali, Tower of Triumph\n1 Pinecrest Ridge\n1 Rith's Grove\n1 Saltcrusted Steppe\n1 Sheltering Landscape\n1 Skarrg, the Rage Pits\n1 Abraded Bluffs\n1 Alpine Meadow\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Forest\n1 Plains\n1 Mountain\n1 Forest\n1 Plains",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": true,
+    "counts": {
+      "lands": 51,
+      "ramp": 9,
+      "card_draw": 10,
+      "targeted_removal": 10,
+      "mass_removal": 7,
+      "synergy": 5,
+      "uncategorized": 0
+    },
+    "gaps": {}
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "ramp",
+      "added": "Argothian Opportunist",
+      "removed": "Colossus Hammer"
+    },
+    {
+      "category": "ramp",
+      "added": "Cityscape Leveler",
+      "removed": "Conqueror's Flail"
+    },
+    {
+      "category": "ramp",
+      "added": "The Cabbage Merchant",
+      "removed": "Red XIII, Proud Warrior"
+    },
+    {
+      "category": "ramp",
+      "added": "Yavimaya Dryad",
+      "removed": "Cid, Freeflier Pilot"
+    },
+    {
+      "category": "ramp",
+      "added": "Leafkin Druid",
+      "removed": "Wrecking Ball Arm"
+    },
+    {
+      "category": "ramp",
+      "added": "Blinkmoth Urn",
+      "removed": "Champion's Helm"
+    },
+    {
+      "category": "card_draw",
+      "added": "Mazemind Tome",
+      "removed": "Ultimate Magic: Holy"
+    },
+    {
+      "category": "card_draw",
+      "added": "Sunpearl Kirin",
+      "removed": "Sephiroth, Fallen Hero"
+    },
+    {
+      "category": "card_draw",
+      "added": "Joshua, Phoenix's Dominant // Phoenix, Warden of Fire",
+      "removed": "Behemoth Sledge"
+    },
+    {
+      "category": "card_draw",
+      "added": "The Caldaia",
+      "removed": "Barret, Avalanche Leader"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Squall Line",
+      "removed": "Trailblazer's Boots"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Draconic Debut",
+      "removed": "Conformer Shuriken"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Impounding Lot-Bot",
+      "removed": "Hero's Blade"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Deconstruct",
+      "removed": "Zack Fair"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Playful Shove",
+      "removed": "Vincent, Vengeful Atoner"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Venomous Dragonfly",
+      "removed": "Unfinished Business"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Apex Altisaur",
+      "removed": "Yuffie, Materia Hunter"
+    },
+    {
+      "category": "mass_removal",
+      "added": "The Fall of Kroog",
+      "removed": "Bastion Protector"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Star of Extinction",
+      "removed": "Danitha Capashen, Paragon"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Flames of the Raze-Boar",
+      "removed": "Helitrooper"
+    }
+  ]
+}

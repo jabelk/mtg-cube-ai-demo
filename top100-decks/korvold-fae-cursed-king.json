@@ -1,0 +1,594 @@
+{
+  "commander": "Korvold, Fae-Cursed King",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 99,
+  "total_cost_display": "$73.61",
+  "deck": {
+    "commander": "Korvold, Fae-Cursed King",
+    "creatures": [
+      {
+        "name": "Mayhem Devil",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/eoc/121/mayhem-devil"
+      },
+      {
+        "name": "Tireless Provisioner",
+        "price": "$2.56",
+        "url": "https://manapool.com/card/mh2/180/tireless-provisioner"
+      },
+      {
+        "name": "Pitiless Plunderer",
+        "price": "$2.11",
+        "url": "https://manapool.com/card/fic/281/pitiless-plunderer"
+      },
+      {
+        "name": "Chatterfang, Squirrel General",
+        "price": "$2.60",
+        "url": "https://manapool.com/card/mh2/151/chatterfang-squirrel-general"
+      },
+      {
+        "name": "Impulsive Pilferer",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmm/234/impulsive-pilferer"
+      },
+      {
+        "name": "Ruthless Technomancer",
+        "price": "$2.86",
+        "url": "https://manapool.com/card/nec/35/ruthless-technomancer"
+      },
+      {
+        "name": "Dragonborn Champion",
+        "price": "$10.43",
+        "url": "https://manapool.com/card/afc/45/dragonborn-champion"
+      },
+      {
+        "name": "Juri, Master of the Revue",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmr/282/juri-master-of-the-revue"
+      },
+      {
+        "name": "Mongoose Lizard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tla/148/mongoose-lizard"
+      },
+      {
+        "name": "Mahadi, Emporium Master",
+        "price": "$1.03",
+        "url": "https://manapool.com/card/clb/429/mahadi-emporium-master"
+      },
+      {
+        "name": "Tinder Wall",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/ice/270/tinder-wall"
+      },
+      {
+        "name": "Sakura-Tribe Elder",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/dsc/194/sakura-tribe-elder"
+      },
+      {
+        "name": "Invasion of Fiora // Marchesa, Resolute Monarch",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/mom/114/invasion-of-fiora-marchesa-resolute-monarch"
+      },
+      {
+        "name": "Ziatora, the Incinerator",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/m3c/279/ziatora-the-incinerator"
+      },
+      {
+        "name": "Simian Spirit Guide",
+        "price": "$2.28",
+        "url": "https://manapool.com/card/plc/122/simian-spirit-guide"
+      },
+      {
+        "name": "Elvish Spirit Guide",
+        "price": "$2.39",
+        "url": "https://manapool.com/card/dmr/157/elvish-spirit-guide"
+      },
+      {
+        "name": "Crime Novelist",
+        "price": "$0.58",
+        "url": "https://manapool.com/card/mkm/121/crime-novelist"
+      },
+      {
+        "name": "Gilded Goose",
+        "price": "$0.36",
+        "url": "https://manapool.com/card/ltc/246/gilded-goose"
+      },
+      {
+        "name": "Springbloom Druid",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/eoc/51/springbloom-druid"
+      },
+      {
+        "name": "Ancient Copper Dragon",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/aclb/4/ancient-copper-dragon"
+      },
+      {
+        "name": "Orcish Lumberjack",
+        "price": "$0.48",
+        "url": "https://manapool.com/card/ice/210/orcish-lumberjack"
+      },
+      {
+        "name": "Plaguecrafter",
+        "price": "$0.30",
+        "url": "https://manapool.com/card/blc/187/plaguecrafter"
+      },
+      {
+        "name": "Skirk Prospector",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmr/137/skirk-prospector"
+      },
+      {
+        "name": "Ignoble Hierarch",
+        "price": "$0.80",
+        "url": "https://manapool.com/card/ecc/52/ignoble-hierarch"
+      },
+      {
+        "name": "Mazirek, Kraul Death Priest",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/eoc/122/mazirek-kraul-death-priest"
+      },
+      {
+        "name": "Tireless Tracker",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/fic/316/tireless-tracker"
+      },
+      {
+        "name": "Nadier's Nightblade",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/184/nadiers-nightblade"
+      },
+      {
+        "name": "Elves of Deep Shadow",
+        "price": "$2.58",
+        "url": "https://manapool.com/card/rav/161/elves-of-deep-shadow"
+      },
+      {
+        "name": "Haywire Mite",
+        "price": "$0.46",
+        "url": "https://manapool.com/card/blc/274/haywire-mite"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Deadly Dispute",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/blc/181/deadly-dispute"
+      },
+      {
+        "name": "Dark Dabbling",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ori/89/dark-dabbling"
+      },
+      {
+        "name": "Abrupt Decay",
+        "price": "$1.30",
+        "url": "https://manapool.com/card/otp/34/abrupt-decay"
+      },
+      {
+        "name": "Harrow",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/zen/165/harrow"
+      },
+      {
+        "name": "Tsabo's Decree",
+        "price": "$0.59",
+        "url": "https://manapool.com/card/wc01/ar129/tsabos-decree"
+      },
+      {
+        "name": "Red Elemental Blast",
+        "price": "$3.04",
+        "url": "https://manapool.com/card/4ed/218/red-elemental-blast"
+      },
+      {
+        "name": "Rampage of the Clans",
+        "price": "$0.34",
+        "url": "https://manapool.com/card/rna/134/rampage-of-the-clans"
+      },
+      {
+        "name": "Village Rites",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/m21/126/village-rites"
+      },
+      {
+        "name": "Autumn's Veil",
+        "price": "$0.39",
+        "url": "https://manapool.com/card/m12/164/autumns-veil"
+      },
+      {
+        "name": "Assassin's Trophy",
+        "price": "$0.45",
+        "url": "https://manapool.com/card/tmc/55/assassins-trophy"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Nature's Resurgence",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/wth/137/natures-resurgence"
+      },
+      {
+        "name": "Living End",
+        "price": "$1.79",
+        "url": "https://manapool.com/card/tsr/121/living-end"
+      },
+      {
+        "name": "Essence Filter",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ice/233/essence-filter"
+      },
+      {
+        "name": "Culling Ritual",
+        "price": "$1.39",
+        "url": "https://manapool.com/card/dsc/85/culling-ritual"
+      },
+      {
+        "name": "Brass's Bounty",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fdn/190/brasss-bounty"
+      },
+      {
+        "name": "Victimize",
+        "price": "$0.50",
+        "url": "https://manapool.com/card/mh3/278/victimize"
+      },
+      {
+        "name": "Unearth",
+        "price": "$0.37",
+        "url": "https://manapool.com/card/mh1/113/unearth"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Bootleggers' Stash",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/207/bootleggers-stash"
+      },
+      {
+        "name": "Sword of Fire and Ice and War and Peace",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Wishclaw Talisman",
+        "price": "$1.60",
+        "url": "https://manapool.com/card/fdn/617/wishclaw-talisman"
+      },
+      {
+        "name": "Hearthhull, the Worldseed",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/eoc/1/hearthhull-the-worldseed"
+      },
+      {
+        "name": "Witch's Oven",
+        "price": "$0.46",
+        "url": "https://manapool.com/card/eld/237/witchs-oven"
+      },
+      {
+        "name": "Sol Ring",
+        "price": "$1.22",
+        "url": "https://manapool.com/card/tmc/59/sol-ring"
+      },
+      {
+        "name": "Swiftfoot Boots",
+        "price": "$1.87",
+        "url": "https://manapool.com/card/fdn/258/swiftfoot-boots"
+      },
+      {
+        "name": "Thought Vessel",
+        "price": "$2.32",
+        "url": "https://manapool.com/card/pip/251/thought-vessel"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "Awakening Zone",
+        "price": "$0.57",
+        "url": "https://manapool.com/card/roe/176/awakening-zone"
+      },
+      {
+        "name": "Goblin Bombardment",
+        "price": "$2.60",
+        "url": "https://manapool.com/card/sch/45/goblin-bombardment"
+      },
+      {
+        "name": "Chthonian Nightmare",
+        "price": "$0.58",
+        "url": "https://manapool.com/card/mh3/83/chthonian-nightmare"
+      }
+    ],
+    "planeswalkers": [
+      {
+        "name": "Garruk, Primal Hunter",
+        "price": "$1.02",
+        "url": "https://manapool.com/card/m12/174/garruk-primal-hunter"
+      }
+    ],
+    "lands": [
+      {
+        "name": "Phyrexian Tower",
+        "price": "$0.82",
+        "url": "https://manapool.com/card/amh3/23/phyrexian-tower"
+      },
+      {
+        "name": "Treasure Vault",
+        "price": "$0.80",
+        "url": "https://manapool.com/card/drc/180/treasure-vault"
+      },
+      {
+        "name": "Fabled Passage",
+        "price": "$2.06",
+        "url": "https://manapool.com/card/tmc/67/fabled-passage"
+      },
+      {
+        "name": "Command Tower",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/325/command-tower"
+      },
+      {
+        "name": "Exotic Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/131/exotic-orchard"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Cinder Marsh",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/tmp/317/cinder-marsh"
+      },
+      {
+        "name": "Contested Cliffs",
+        "price": "$0.29",
+        "url": "https://manapool.com/card/c13/282/contested-cliffs"
+      },
+      {
+        "name": "Darigaaz's Caldera",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmr/243/darigaazs-caldera"
+      },
+      {
+        "name": "Fungal Reaches",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tsr/279/fungal-reaches"
+      },
+      {
+        "name": "Grim Backwoods",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/309/grim-backwoods"
+      },
+      {
+        "name": "Karplusan Forest",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/drc/163/karplusan-forest"
+      },
+      {
+        "name": "Kessig Wolf Run",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mkc/269/kessig-wolf-run"
+      },
+      {
+        "name": "Koskun Keep",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/hml/114/koskun-keep"
+      },
+      {
+        "name": "Lantern-Lit Graveyard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/chk/278/lantern-lit-graveyard"
+      },
+      {
+        "name": "Lava Tubes",
+        "price": "$0.30",
+        "url": "https://manapool.com/card/ptc/gb358/lava-tubes"
+      },
+      {
+        "name": "Llanowar Wastes",
+        "price": "$0.47",
+        "url": "https://manapool.com/card/blc/315/llanowar-wastes"
+      },
+      {
+        "name": "Madlands",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mb2/614/madlands"
+      },
+      {
+        "name": "Mogg Hollows",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/tmp/320/mogg-hollows"
+      },
+      {
+        "name": "Molten Slagheap",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/284/molten-slagheap"
+      },
+      {
+        "name": "Mossfire Valley",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/316/mossfire-valley"
+      },
+      {
+        "name": "Noxious Bayou",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/cmb2/118/noxious-bayou"
+      },
+      {
+        "name": "Pinecrest Ridge",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/chk/281/pinecrest-ridge"
+      },
+      {
+        "name": "Rix Maadi, Dungeon Palace",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c19/269/rix-maadi-dungeon-palace"
+      },
+      {
+        "name": "Shadowblood Ridge",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/who/303/shadowblood-ridge"
+      },
+      {
+        "name": "Skarrg, the Rage Pits",
+        "price": "$0.62",
+        "url": "https://manapool.com/card/gpt/163/skarrg-the-rage-pits"
+      },
+      {
+        "name": "Stensia Bloodhall",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/isd/247/stensia-bloodhall"
+      },
+      {
+        "name": "Svogthos, the Restless Tomb",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmd/289/svogthos-the-restless-tomb"
+      },
+      {
+        "name": "Tainted Peak",
+        "price": "$0.60",
+        "url": "https://manapool.com/card/dsc/304/tainted-peak"
+      },
+      {
+        "name": "Tainted Wood",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/plst/TOR-143/tainted-wood"
+      },
+      {
+        "name": "Akoum Refuge",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ddk/73/akoum-refuge"
+      },
+      {
+        "name": "Billiard Room",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/clu/13/billiard-room"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      }
+    ],
+    "other": [
+      {
+        "name": "Dark Ritual",
+        "price": "$2.44",
+        "url": "https://manapool.com/card/3ed/99/dark-ritual"
+      }
+    ]
+  },
+  "export_text": "1 Korvold, Fae-Cursed King *CMDR*\n1 Mayhem Devil\n1 Tireless Provisioner\n1 Pitiless Plunderer\n1 Chatterfang, Squirrel General\n1 Impulsive Pilferer\n1 Deadly Dispute\n1 Ruthless Technomancer\n1 Dragonborn Champion\n1 Dark Ritual\n1 Juri, Master of the Revue\n1 Dark Dabbling\n1 Bootleggers' Stash\n1 Sword of Fire and Ice and War and Peace\n1 Mongoose Lizard\n1 Garruk, Primal Hunter\n1 Abrupt Decay\n1 Awakening Zone\n1 Phyrexian Tower\n1 Mahadi, Emporium Master\n1 Nature's Resurgence\n1 Living End\n1 Tinder Wall\n1 Harrow\n1 Sakura-Tribe Elder\n1 Invasion of Fiora // Marchesa, Resolute Monarch\n1 Tsabo's Decree\n1 Red Elemental Blast\n1 Essence Filter\n1 Culling Ritual\n1 Treasure Vault\n1 Ziatora, the Incinerator\n1 Simian Spirit Guide\n1 Rampage of the Clans\n1 Brass's Bounty\n1 Goblin Bombardment\n1 Elvish Spirit Guide\n1 Crime Novelist\n1 Gilded Goose\n1 Fabled Passage\n1 Springbloom Druid\n1 Ancient Copper Dragon\n1 Orcish Lumberjack\n1 Victimize\n1 Plaguecrafter\n1 Skirk Prospector\n1 Unearth\n1 Wishclaw Talisman\n1 Ignoble Hierarch\n1 Village Rites\n1 Hearthhull, the Worldseed\n1 Witch's Oven\n1 Sol Ring\n1 Mazirek, Kraul Death Priest\n1 Tireless Tracker\n1 Nadier's Nightblade\n1 Autumn's Veil\n1 Swiftfoot Boots\n1 Chthonian Nightmare\n1 Thought Vessel\n1 Assassin's Trophy\n1 Elves of Deep Shadow\n1 Haywire Mite\n1 Command Tower\n1 Exotic Orchard\n1 Path of Ancestry\n1 Cinder Marsh\n1 Contested Cliffs\n1 Darigaaz's Caldera\n1 Fungal Reaches\n1 Grim Backwoods\n1 Karplusan Forest\n1 Kessig Wolf Run\n1 Koskun Keep\n1 Lantern-Lit Graveyard\n1 Lava Tubes\n1 Llanowar Wastes\n1 Madlands\n1 Mogg Hollows\n1 Molten Slagheap\n1 Mossfire Valley\n1 Noxious Bayou\n1 Pinecrest Ridge\n1 Rix Maadi, Dungeon Palace\n1 Shadowblood Ridge\n1 Skarrg, the Rage Pits\n1 Stensia Bloodhall\n1 Svogthos, the Restless Tomb\n1 Tainted Peak\n1 Tainted Wood\n1 Akoum Refuge\n1 Billiard Room\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Forest\n1 Swamp\n1 Mountain\n1 Forest\n1 Swamp",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": true,
+    "counts": {
+      "lands": 40,
+      "ramp": 24,
+      "card_draw": 9,
+      "targeted_removal": 12,
+      "mass_removal": 6,
+      "synergy": 7,
+      "uncategorized": 1
+    },
+    "gaps": {}
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "card_draw",
+      "added": "Dragonborn Champion",
+      "removed": "Mirkwood Bats"
+    },
+    {
+      "category": "card_draw",
+      "added": "Dark Dabbling",
+      "removed": "Viscera Seer"
+    },
+    {
+      "category": "card_draw",
+      "added": "Sword of Fire and Ice and War and Peace",
+      "removed": "Squee, the Immortal"
+    },
+    {
+      "category": "card_draw",
+      "added": "Mongoose Lizard",
+      "removed": "Zulaport Cutthroat"
+    },
+    {
+      "category": "card_draw",
+      "added": "Garruk, Primal Hunter",
+      "removed": "Reassembling Skeleton"
+    },
+    {
+      "category": "card_draw",
+      "added": "Nature's Resurgence",
+      "removed": "Eldritch Evolution"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Living End",
+      "removed": "Blood Artist"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Invasion of Fiora // Marchesa, Resolute Monarch",
+      "removed": "Marionette Apprentice"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Tsabo's Decree",
+      "removed": "Prossh, Skyraider of Kher"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Essence Filter",
+      "removed": "Eternal Witness"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Rampage of the Clans",
+      "removed": "Finale of Devastation"
+    }
+  ]
+}

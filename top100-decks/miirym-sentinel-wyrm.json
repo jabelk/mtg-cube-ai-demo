@@ -1,0 +1,608 @@
+{
+  "commander": "Miirym, Sentinel Wyrm",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 98,
+  "total_cost_display": "$53.42",
+  "deck": {
+    "commander": "Miirym, Sentinel Wyrm",
+    "creatures": [
+      {
+        "name": "Ganax, Astral Hunter",
+        "price": "$0.36",
+        "url": "https://manapool.com/card/clb/398/ganax-astral-hunter"
+      },
+      {
+        "name": "Archmage of Runes",
+        "price": "$3.33",
+        "url": "https://manapool.com/card/fdn/30/archmage-of-runes"
+      },
+      {
+        "name": "Savage Ventmaw",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/fdn/665/savage-ventmaw"
+      },
+      {
+        "name": "Wrathful Red Dragon",
+        "price": "$3.02",
+        "url": "https://manapool.com/card/clb/207/wrathful-red-dragon"
+      },
+      {
+        "name": "Scaled Nurturer",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/clb/252/scaled-nurturer"
+      },
+      {
+        "name": "Lozhan, Dragons' Legacy",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/clb/281/lozhan-dragons-legacy"
+      },
+      {
+        "name": "Switchgrass Grazer",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Drakuseth, Maw of Flames",
+        "price": "$0.75",
+        "url": "https://manapool.com/card/fdn/193/drakuseth-maw-of-flames"
+      },
+      {
+        "name": "Ancient Copper Dragon",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/aclb/4/ancient-copper-dragon"
+      },
+      {
+        "name": "Draconic Muralists",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/clb/224/draconic-muralists"
+      },
+      {
+        "name": "Iymrith, Desert Doom",
+        "price": "$1.56",
+        "url": "https://manapool.com/card/afr/62/iymrith-desert-doom"
+      },
+      {
+        "name": "Karn, Silver Golem",
+        "price": "$6.58",
+        "url": "https://manapool.com/card/wc99/kb298/karn-silver-golem"
+      },
+      {
+        "name": "Rapacious Dragon",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/2xm/140/rapacious-dragon"
+      },
+      {
+        "name": "Bloomvine Regent",
+        "price": "$1.03",
+        "url": "https://manapool.com/card/atdm/46/bloomvine-regent"
+      },
+      {
+        "name": "Broodcaller Scourge",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdc/44/broodcaller-scourge"
+      },
+      {
+        "name": "Steel Hellkite",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fdn/681/steel-hellkite"
+      },
+      {
+        "name": "Atsushi, the Blazing Sky",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/aneo/10/atsushi-the-blazing-sky"
+      },
+      {
+        "name": "Keiga, the Tide Star",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdc/156/keiga-the-tide-star"
+      },
+      {
+        "name": "Minion of the Mighty",
+        "price": "$0.40",
+        "url": "https://manapool.com/card/afr/156/minion-of-the-mighty"
+      },
+      {
+        "name": "Temur Battlecrier",
+        "price": "$0.69",
+        "url": "https://manapool.com/card/tdm/228/temur-battlecrier"
+      }
+    ],
+    "instants": [
+      {
+        "name": "A-Splitting the Powerstone",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Firebending Lesson",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tla/138/firebending-lesson"
+      },
+      {
+        "name": "Sarkhan's Triumph",
+        "price": "$1.82",
+        "url": "https://manapool.com/card/dtk/154/sarkhans-triumph"
+      },
+      {
+        "name": "Ugin's Binding",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/mh3/76/ugins-binding"
+      },
+      {
+        "name": "Fire Magic",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/136/fire-magic"
+      },
+      {
+        "name": "Return of the Wildspeaker",
+        "price": "$0.51",
+        "url": "https://manapool.com/card/mkc/181/return-of-the-wildspeaker"
+      },
+      {
+        "name": "Heroic Intervention",
+        "price": "$1.07",
+        "url": "https://manapool.com/card/altr/73/heroic-intervention"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Dragonclaw Strike",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdm/180/dragonclaw-strike"
+      },
+      {
+        "name": "Cultivate",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmc/50/cultivate"
+      },
+      {
+        "name": "Kodama's Reach",
+        "price": "$1.23",
+        "url": "https://manapool.com/card/cmm/300/kodamas-reach"
+      },
+      {
+        "name": "Immolating Gyre",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Scrap Mastery",
+        "price": "$3.54",
+        "url": "https://manapool.com/card/c14/38/scrap-mastery"
+      },
+      {
+        "name": "Swirling Sandstorm",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/jud/102/swirling-sandstorm"
+      },
+      {
+        "name": "Monster Manual",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Nature's Lore",
+        "price": "$2.50",
+        "url": "https://manapool.com/card/ice/255/natures-lore"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "A-Cosmos Elixir",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Dragon's Hoard",
+        "price": "$0.30",
+        "url": "https://manapool.com/card/scd/264/dragons-hoard"
+      },
+      {
+        "name": "Carnelian Orb of Dragonkind",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/clb/166/carnelian-orb-of-dragonkind"
+      },
+      {
+        "name": "Jade Orb of Dragonkind",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/clb/236/jade-orb-of-dragonkind"
+      },
+      {
+        "name": "Orb of Dragonkind",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/afr/157/orb-of-dragonkind"
+      },
+      {
+        "name": "Mox Jasper",
+        "price": "$0.67",
+        "url": "https://manapool.com/card/atdm/28/mox-jasper"
+      },
+      {
+        "name": "Lapis Orb of Dragonkind",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/clb/82/lapis-orb-of-dragonkind"
+      },
+      {
+        "name": "Dragonstorm Globe",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdm/241/dragonstorm-globe"
+      },
+      {
+        "name": "Cursed Mirror",
+        "price": "$1.14",
+        "url": "https://manapool.com/card/mh3/279/cursed-mirror"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "Dragon Tempest",
+        "price": "$1.58",
+        "url": "https://manapool.com/card/tdc/94/dragon-tempest"
+      },
+      {
+        "name": "Fungal Plots",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmm/291/fungal-plots"
+      },
+      {
+        "name": "Glimmerdust Nap",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lrw/68/glimmerdust-nap"
+      },
+      {
+        "name": "Garruk's Uprising",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/fdn/220/garruks-uprising"
+      },
+      {
+        "name": "Temur Ascendancy",
+        "price": "$1.84",
+        "url": "https://manapool.com/card/tdc/305/temur-ascendancy"
+      },
+      {
+        "name": "Retro-Mutation",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmt/51/retro-mutation"
+      },
+      {
+        "name": "Encroaching Dragonstorm",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdm/142/encroaching-dragonstorm"
+      },
+      {
+        "name": "Crucible of Fire",
+        "price": "$0.48",
+        "url": "https://manapool.com/card/c17/133/crucible-of-fire"
+      },
+      {
+        "name": "Reflections of Littjara",
+        "price": "$0.92",
+        "url": "https://manapool.com/card/lcc/168/reflections-of-littjara"
+      }
+    ],
+    "planeswalkers": [],
+    "lands": [
+      {
+        "name": "Haven of the Spirit Dragon",
+        "price": "$0.34",
+        "url": "https://manapool.com/card/tdc/370/haven-of-the-spirit-dragon"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Maelstrom of the Spirit Dragon",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/atdm/42/maelstrom-of-the-spirit-dragon"
+      },
+      {
+        "name": "Temple of the Dragon Queen",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/260/temple-of-the-dragon-queen"
+      },
+      {
+        "name": "Unclaimed Territory",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lcc/366/unclaimed-territory"
+      },
+      {
+        "name": "Secluded Courtyard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fdn/267/secluded-courtyard"
+      },
+      {
+        "name": "Crucible of the Spirit Dragon",
+        "price": "$0.35",
+        "url": "https://manapool.com/card/frf/167/crucible-of-the-spirit-dragon"
+      },
+      {
+        "name": "Mosswort Bridge",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mkc/275/mosswort-bridge"
+      },
+      {
+        "name": "Command Tower",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/325/command-tower"
+      },
+      {
+        "name": "Exotic Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/131/exotic-orchard"
+      },
+      {
+        "name": "Alchemist's Refuge",
+        "price": "$0.65",
+        "url": "https://manapool.com/card/lcc/318/alchemists-refuge"
+      },
+      {
+        "name": "Bountiful Landscape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/217/bountiful-landscape"
+      },
+      {
+        "name": "Cascade Bluffs",
+        "price": "$0.51",
+        "url": "https://manapool.com/card/eoc/153/cascade-bluffs"
+      },
+      {
+        "name": "Contested Cliffs",
+        "price": "$0.29",
+        "url": "https://manapool.com/card/c13/282/contested-cliffs"
+      },
+      {
+        "name": "Desolate Lighthouse",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/avr/227/desolate-lighthouse"
+      },
+      {
+        "name": "Ferrous Lake",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/pip/148/ferrous-lake"
+      },
+      {
+        "name": "Flooded Grove",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltc/309/flooded-grove"
+      },
+      {
+        "name": "Fungal Reaches",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tsr/279/fungal-reaches"
+      },
+      {
+        "name": "Karplusan Forest",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/drc/163/karplusan-forest"
+      },
+      {
+        "name": "Kessig Wolf Run",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mkc/269/kessig-wolf-run"
+      },
+      {
+        "name": "Mogg Hollows",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/tmp/320/mogg-hollows"
+      },
+      {
+        "name": "Mossfire Valley",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/316/mossfire-valley"
+      },
+      {
+        "name": "Nivix, Aerie of the Firemind",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ddj/36/nivix-aerie-of-the-firemind"
+      },
+      {
+        "name": "Novijen, Heart of Progress",
+        "price": "$0.30",
+        "url": "https://manapool.com/card/dis/175/novijen-heart-of-progress"
+      },
+      {
+        "name": "Overflowing Basin",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/321/overflowing-basin"
+      },
+      {
+        "name": "Pinecrest Ridge",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/chk/281/pinecrest-ridge"
+      },
+      {
+        "name": "Shivan Reef",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/dmu/255/shivan-reef"
+      },
+      {
+        "name": "Skarrg, the Rage Pits",
+        "price": "$0.62",
+        "url": "https://manapool.com/card/gpt/163/skarrg-the-rage-pits"
+      },
+      {
+        "name": "Slumbering Waterways",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mb2/618/slumbering-waterways"
+      },
+      {
+        "name": "Temur Elevator",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mb2/619/temur-elevator"
+      },
+      {
+        "name": "Timberline Ridge",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/ice/361/timberline-ridge"
+      },
+      {
+        "name": "Value Town // Take a Trip to...",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/mb2/621/value-town-take-a-trip-to"
+      },
+      {
+        "name": "Waterlogged Grove",
+        "price": "$0.57",
+        "url": "https://manapool.com/card/who/331/waterlogged-grove"
+      },
+      {
+        "name": "Yavimaya Coast",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/drc/184/yavimaya-coast"
+      },
+      {
+        "name": "Airship Engine Room",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tla/265/airship-engine-room"
+      },
+      {
+        "name": "Balamb Garden, SeeD Academy // Balamb Garden, Airborne",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/272/balamb-garden-seed-academy-balamb-garden-airborne"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      }
+    ],
+    "other": [
+      {
+        "name": "Counterspell",
+        "price": "$1.61",
+        "url": "https://manapool.com/card/wc97/pm77/counterspell"
+      }
+    ]
+  },
+  "export_text": "1 Miirym, Sentinel Wyrm *CMDR*\n1 Ganax, Astral Hunter\n1 Dragon Tempest\n1 Archmage of Runes\n1 A-Splitting the Powerstone\n1 Fungal Plots\n1 A-Cosmos Elixir\n1 Glimmerdust Nap\n1 Haven of the Spirit Dragon\n1 Dragon's Hoard\n1 Firebending Lesson\n1 Savage Ventmaw\n1 Wrathful Red Dragon\n1 Garruk's Uprising\n1 Scaled Nurturer\n1 Lozhan, Dragons' Legacy\n1 Carnelian Orb of Dragonkind\n1 Temur Ascendancy\n1 Switchgrass Grazer\n1 Drakuseth, Maw of Flames\n1 Path of Ancestry\n1 Maelstrom of the Spirit Dragon\n1 Jade Orb of Dragonkind\n1 Ancient Copper Dragon\n1 Temple of the Dragon Queen\n1 Dragonclaw Strike\n1 Draconic Muralists\n1 Unclaimed Territory\n1 Secluded Courtyard\n1 Iymrith, Desert Doom\n1 Sarkhan's Triumph\n1 Karn, Silver Golem\n1 Retro-Mutation\n1 Orb of Dragonkind\n1 Mox Jasper\n1 Lapis Orb of Dragonkind\n1 Cultivate\n1 Kodama's Reach\n1 Immolating Gyre\n1 Scrap Mastery\n1 Ugin's Binding\n1 Encroaching Dragonstorm\n1 Swirling Sandstorm\n1 Crucible of the Spirit Dragon\n1 Dragonstorm Globe\n1 Rapacious Dragon\n1 Monster Manual\n1 Cursed Mirror\n1 Bloomvine Regent\n1 Fire Magic\n1 Crucible of Fire\n1 Broodcaller Scourge\n1 Steel Hellkite\n1 Counterspell\n1 Return of the Wildspeaker\n1 Reflections of Littjara\n1 Atsushi, the Blazing Sky\n1 Keiga, the Tide Star\n1 Minion of the Mighty\n1 Heroic Intervention\n1 Nature's Lore\n1 Mosswort Bridge\n1 Temur Battlecrier\n1 Command Tower\n1 Exotic Orchard\n1 Alchemist's Refuge\n1 Bountiful Landscape\n1 Cascade Bluffs\n1 Contested Cliffs\n1 Desolate Lighthouse\n1 Ferrous Lake\n1 Flooded Grove\n1 Fungal Reaches\n1 Karplusan Forest\n1 Kessig Wolf Run\n1 Mogg Hollows\n1 Mossfire Valley\n1 Nivix, Aerie of the Firemind\n1 Novijen, Heart of Progress\n1 Overflowing Basin\n1 Pinecrest Ridge\n1 Shivan Reef\n1 Skarrg, the Rage Pits\n1 Slumbering Waterways\n1 Temur Elevator\n1 Timberline Ridge\n1 Value Town // Take a Trip to...\n1 Waterlogged Grove\n1 Yavimaya Coast\n1 Airship Engine Room\n1 Balamb Garden, SeeD Academy // Balamb Garden, Airborne\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Forest\n1 Island\n1 Mountain\n1 Forest\n1 Island",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": true,
+    "counts": {
+      "lands": 44,
+      "ramp": 18,
+      "card_draw": 10,
+      "targeted_removal": 10,
+      "mass_removal": 6,
+      "synergy": 7,
+      "uncategorized": 3
+    },
+    "gaps": {}
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "card_draw",
+      "added": "Archmage of Runes",
+      "removed": "Dragonspeaker Shaman"
+    },
+    {
+      "category": "card_draw",
+      "added": "A-Splitting the Powerstone",
+      "removed": "Thrakkus the Butcher"
+    },
+    {
+      "category": "card_draw",
+      "added": "Fungal Plots",
+      "removed": "Atarka, World Render"
+    },
+    {
+      "category": "card_draw",
+      "added": "A-Cosmos Elixir",
+      "removed": "Lathliss, Dragon Queen"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Glimmerdust Nap",
+      "removed": "Dragonlord's Servant"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Firebending Lesson",
+      "removed": "Korlessa, Scale Singer"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Switchgrass Grazer",
+      "removed": "Sarkhan, Soul Aflame"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Dragonclaw Strike",
+      "removed": "Thunderbreak Regent"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Karn, Silver Golem",
+      "removed": "Renari, Merchant of Marvels"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Retro-Mutation",
+      "removed": "Acolyte of Bahamut"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Immolating Gyre",
+      "removed": "Hellkite Tyrant"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Scrap Mastery",
+      "removed": "Ghostly Flicker"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Ugin's Binding",
+      "removed": "Deceptive Frostkite"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Swirling Sandstorm",
+      "removed": "Scourge of the Throne"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Fire Magic",
+      "removed": "Dragonmaster Outcast"
+    }
+  ]
+}

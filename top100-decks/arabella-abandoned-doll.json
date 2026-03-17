@@ -1,0 +1,598 @@
+{
+  "commander": "Arabella, Abandoned Doll",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 98,
+  "total_cost_display": "$53.63",
+  "deck": {
+    "commander": "Arabella, Abandoned Doll",
+    "creatures": [
+      {
+        "name": "Welcoming Vampire",
+        "price": "$0.88",
+        "url": "https://manapool.com/card/lcc/140/welcoming-vampire"
+      },
+      {
+        "name": "Mentor of the Meek",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fdn/578/mentor-of-the-meek"
+      },
+      {
+        "name": "Codsworth, Handy Helper",
+        "price": "$11.56",
+        "url": "https://manapool.com/card/pip/14/codsworth-handy-helper"
+      },
+      {
+        "name": "Workhorse",
+        "price": "$2.32",
+        "url": "https://manapool.com/card/plst/EXO-142/workhorse"
+      },
+      {
+        "name": "Subira, Tulzidi Caravanner",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmm/261/subira-tulzidi-caravanner"
+      },
+      {
+        "name": "Grabby Giant // That's Mine",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/woe/133/grabby-giant-thats-mine"
+      },
+      {
+        "name": "Siege-Gang Lieutenant",
+        "price": "$0.58",
+        "url": "https://manapool.com/card/m3c/113/siege-gang-lieutenant"
+      },
+      {
+        "name": "Splitskin Doll",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsk/33/splitskin-doll"
+      },
+      {
+        "name": "Forerunner of the Empire",
+        "price": "$0.80",
+        "url": "https://manapool.com/card/rix/102/forerunner-of-the-empire"
+      },
+      {
+        "name": "Spiteful Prankster",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/j22/606/spiteful-prankster"
+      },
+      {
+        "name": "Kilnmouth Dragon",
+        "price": "$0.37",
+        "url": "https://manapool.com/card/ddg/59/kilnmouth-dragon"
+      },
+      {
+        "name": "Krenko, Mob Boss",
+        "price": "$1.74",
+        "url": "https://manapool.com/card/fdn/204/krenko-mob-boss"
+      },
+      {
+        "name": "Jacked Rabbit",
+        "price": "$1.44",
+        "url": "https://manapool.com/card/blc/9/jacked-rabbit"
+      },
+      {
+        "name": "Gold Myr",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/mrd/180/gold-myr"
+      },
+      {
+        "name": "Ornithopter of Paradise",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/j25/153/ornithopter-of-paradise"
+      },
+      {
+        "name": "Irreverent Gremlin",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsk/142/irreverent-gremlin"
+      },
+      {
+        "name": "Iron Myr",
+        "price": "$0.60",
+        "url": "https://manapool.com/card/som/168/iron-myr"
+      },
+      {
+        "name": "Rumor Gatherer",
+        "price": "$1.66",
+        "url": "https://manapool.com/card/plst/SNC-29/rumor-gatherer"
+      },
+      {
+        "name": "Ainok Strike Leader",
+        "price": "$2.04",
+        "url": "https://manapool.com/card/tdc/11/ainok-strike-leader"
+      },
+      {
+        "name": "Living Phone",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsk/20/living-phone"
+      },
+      {
+        "name": "Oltec Matterweaver",
+        "price": "$1.82",
+        "url": "https://manapool.com/card/big/3/oltec-matterweaver"
+      },
+      {
+        "name": "Goblin Tunneler",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cn2/160/goblin-tunneler"
+      },
+      {
+        "name": "Saradoc, Master of Buckland",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltr/282/saradoc-master-of-buckland"
+      },
+      {
+        "name": "Legion Warboss",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdc/220/legion-warboss"
+      },
+      {
+        "name": "Siege-Gang Commander",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/202/siege-gang-commander"
+      },
+      {
+        "name": "Witty Roastmaster",
+        "price": "$0.71",
+        "url": "https://manapool.com/card/snc/131/witty-roastmaster"
+      },
+      {
+        "name": "Recruiter of the Guard",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/amh3/21/recruiter-of-the-guard"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Grand Crescendo",
+        "price": "$2.16",
+        "url": "https://manapool.com/card/tdc/118/grand-crescendo"
+      },
+      {
+        "name": "Frontline Rush",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdm/186/frontline-rush"
+      },
+      {
+        "name": "Moogles' Valor",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/27/moogles-valor"
+      },
+      {
+        "name": "Raise the Alarm",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmr/41/raise-the-alarm"
+      },
+      {
+        "name": "Will of the Mardu",
+        "price": "$0.78",
+        "url": "https://manapool.com/card/tdc/17/will-of-the-mardu"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Dusk // Dawn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/138/dusk-dawn"
+      },
+      {
+        "name": "Nahiri's Lithoforming",
+        "price": "$0.36",
+        "url": "https://manapool.com/card/znr/151/nahiris-lithoforming"
+      },
+      {
+        "name": "The Battle of Bywater",
+        "price": "$2.66",
+        "url": "https://manapool.com/card/ltr/2/the-battle-of-bywater"
+      },
+      {
+        "name": "Fell the Mighty",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/otp/1/fell-the-mighty"
+      },
+      {
+        "name": "Ranger's Firebrand",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltr/143/rangers-firebrand"
+      },
+      {
+        "name": "Hop to It",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blb/16/hop-to-it"
+      },
+      {
+        "name": "Midnight Mayhem",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsk/222/midnight-mayhem"
+      },
+      {
+        "name": "Hordeling Outburst",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/ktk/111/hordeling-outburst"
+      },
+      {
+        "name": "Tempt with Bunnies",
+        "price": "$0.93",
+        "url": "https://manapool.com/card/blc/13/tempt-with-bunnies"
+      },
+      {
+        "name": "Dragon Fodder",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/97/dragon-fodder"
+      },
+      {
+        "name": "Krenko's Command",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/clu/139/krenkos-command"
+      },
+      {
+        "name": "Tempt with Vengeance",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdc/239/tempt-with-vengeance"
+      },
+      {
+        "name": "Martial Coup",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/146/martial-coup"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Fire Nation Turret",
+        "price": "$1.03",
+        "url": "https://manapool.com/card/atle/3/fire-nation-turret"
+      },
+      {
+        "name": "Honored Heirloom",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/vow/257/honored-heirloom"
+      },
+      {
+        "name": "Gauntlets of Chaos",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/chr/99/gauntlets-of-chaos"
+      },
+      {
+        "name": "Whispersilk Cloak",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/alci/80/whispersilk-cloak"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "Conquer",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/5ed/216/conquer"
+      },
+      {
+        "name": "Curse of the Pierced Heart",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/isd/138/curse-of-the-pierced-heart"
+      },
+      {
+        "name": "Raid Bombardment",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/uma/142/raid-bombardment"
+      },
+      {
+        "name": "Assemble the Players",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/mkm/3/assemble-the-players"
+      },
+      {
+        "name": "Tocasia's Welcome",
+        "price": "$2.27",
+        "url": "https://manapool.com/card/tdc/135/tocasias-welcome"
+      },
+      {
+        "name": "Break Through the Line",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/frf/94/break-through-the-line"
+      },
+      {
+        "name": "Rabble Rousing",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/snc/24/rabble-rousing"
+      }
+    ],
+    "planeswalkers": [
+      {
+        "name": "Elspeth, Sun's Champion",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/ablb/53/elspeth-suns-champion"
+      }
+    ],
+    "lands": [
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Castle Ardenvale",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/298/castle-ardenvale"
+      },
+      {
+        "name": "Kher Keep",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mkc/270/kher-keep"
+      },
+      {
+        "name": "Rogue's Passage",
+        "price": "$0.35",
+        "url": "https://manapool.com/card/fdn/264/rogues-passage"
+      },
+      {
+        "name": "Ojer Taq, Deepest Foundation",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/alci/56/ojer-taq-deepest-foundation"
+      },
+      {
+        "name": "Command Tower",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/325/command-tower"
+      },
+      {
+        "name": "Exotic Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/131/exotic-orchard"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Aggressive Crag",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/cmb2/112/aggressive-crag"
+      },
+      {
+        "name": "Battlefield Forge",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/blc/293/battlefield-forge"
+      },
+      {
+        "name": "Path of Mettle // Metzali, Tower of Triumph",
+        "price": "$0.27",
+        "url": "https://manapool.com/card/rix/165/path-of-mettle-metzali-tower-of-triumph"
+      },
+      {
+        "name": "Rugged Prairie",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdc/389/rugged-prairie"
+      },
+      {
+        "name": "Slayers' Stronghold",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/424/slayers-stronghold"
+      },
+      {
+        "name": "Sunhome, Fortress of the Legion",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mkc/298/sunhome-fortress-of-the-legion"
+      },
+      {
+        "name": "Sunscorched Divide",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/433/sunscorched-divide"
+      },
+      {
+        "name": "Abraded Bluffs",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/otj/251/abraded-bluffs"
+      },
+      {
+        "name": "Alpine Meadow",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/khm/248/alpine-meadow"
+      },
+      {
+        "name": "Ancient Amphitheater",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/plst/LRW-266/ancient-amphitheater"
+      },
+      {
+        "name": "Axgard Armory",
+        "price": "$0.41",
+        "url": "https://manapool.com/card/khm/250/axgard-armory"
+      },
+      {
+        "name": "Boros Garrison",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/rav/275/boros-garrison"
+      },
+      {
+        "name": "Boros Guildgate",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c13/280/boros-guildgate"
+      },
+      {
+        "name": "Clifftop Retreat",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/300/clifftop-retreat"
+      },
+      {
+        "name": "Dimension X",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmt/183/dimension-x"
+      },
+      {
+        "name": "Furycalm Snarl",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/397/furycalm-snarl"
+      },
+      {
+        "name": "Glittering Massif",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/eoc/22/glittering-massif"
+      },
+      {
+        "name": "Hall",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/clu/16/hall"
+      },
+      {
+        "name": "Inspiring Vantage",
+        "price": "$1.02",
+        "url": "https://manapool.com/card/otj/269/inspiring-vantage"
+      },
+      {
+        "name": "Legion Leadership // Legion Stronghold",
+        "price": "$0.39",
+        "url": "https://manapool.com/card/mh3/255/legion-leadership-legion-stronghold"
+      },
+      {
+        "name": "Lorehold Campus",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/stx/268/lorehold-campus"
+      },
+      {
+        "name": "Needle Spires",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mkc/278/needle-spires"
+      },
+      {
+        "name": "Rabanastre, Royal City",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/287/rabanastre-royal-city"
+      },
+      {
+        "name": "Raucous Carnival",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsk/266/raucous-carnival"
+      },
+      {
+        "name": "Restless Bivouac",
+        "price": "$0.35",
+        "url": "https://manapool.com/card/woe/257/restless-bivouac"
+      },
+      {
+        "name": "Rustvale Bridge",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/eoc/175/rustvale-bridge"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      }
+    ],
+    "other": []
+  },
+  "export_text": "1 Arabella, Abandoned Doll *CMDR*\n1 Dusk // Dawn\n1 Welcoming Vampire\n1 Nahiri's Lithoforming\n1 Mentor of the Meek\n1 Fire Nation Turret\n1 Codsworth, Handy Helper\n1 Conquer\n1 Workhorse\n1 Honored Heirloom\n1 Subira, Tulzidi Caravanner\n1 Access Tunnel\n1 Grabby Giant // That's Mine\n1 Gauntlets of Chaos\n1 Curse of the Pierced Heart\n1 Siege-Gang Lieutenant\n1 Splitskin Doll\n1 The Battle of Bywater\n1 Fell the Mighty\n1 Raid Bombardment\n1 Forerunner of the Empire\n1 Ranger's Firebrand\n1 Elspeth, Sun's Champion\n1 Spiteful Prankster\n1 Kilnmouth Dragon\n1 Krenko, Mob Boss\n1 Jacked Rabbit\n1 Gold Myr\n1 Ornithopter of Paradise\n1 Irreverent Gremlin\n1 Iron Myr\n1 Grand Crescendo\n1 Hop to It\n1 Rumor Gatherer\n1 Ainok Strike Leader\n1 Living Phone\n1 Castle Ardenvale\n1 Kher Keep\n1 Assemble the Players\n1 Whispersilk Cloak\n1 Midnight Mayhem\n1 Hordeling Outburst\n1 Tocasia's Welcome\n1 Break Through the Line\n1 Oltec Matterweaver\n1 Tempt with Bunnies\n1 Rogue's Passage\n1 Goblin Tunneler\n1 Saradoc, Master of Buckland\n1 Frontline Rush\n1 Legion Warboss\n1 Siege-Gang Commander\n1 Dragon Fodder\n1 Krenko's Command\n1 Witty Roastmaster\n1 Moogles' Valor\n1 Raise the Alarm\n1 Tempt with Vengeance\n1 Rabble Rousing\n1 Ojer Taq, Deepest Foundation\n1 Will of the Mardu\n1 Martial Coup\n1 Recruiter of the Guard\n1 Command Tower\n1 Exotic Orchard\n1 Path of Ancestry\n1 Aggressive Crag\n1 Battlefield Forge\n1 Path of Mettle // Metzali, Tower of Triumph\n1 Rugged Prairie\n1 Slayers' Stronghold\n1 Sunhome, Fortress of the Legion\n1 Sunscorched Divide\n1 Abraded Bluffs\n1 Alpine Meadow\n1 Ancient Amphitheater\n1 Axgard Armory\n1 Boros Garrison\n1 Boros Guildgate\n1 Clifftop Retreat\n1 Dimension X\n1 Furycalm Snarl\n1 Glittering Massif\n1 Hall\n1 Inspiring Vantage\n1 Legion Leadership // Legion Stronghold\n1 Lorehold Campus\n1 Needle Spires\n1 Rabanastre, Royal City\n1 Raucous Carnival\n1 Restless Bivouac\n1 Rustvale Bridge\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Plains\n1 Mountain\n1 Plains\n1 Mountain\n1 Plains",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": true,
+    "counts": {
+      "lands": 40,
+      "ramp": 9,
+      "card_draw": 11,
+      "targeted_removal": 10,
+      "mass_removal": 6,
+      "synergy": 21,
+      "uncategorized": 1
+    },
+    "gaps": {}
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "ramp",
+      "added": "Nahiri's Lithoforming",
+      "removed": "Impact Tremors"
+    },
+    {
+      "category": "ramp",
+      "added": "Fire Nation Turret",
+      "removed": "Ragged Playmate"
+    },
+    {
+      "category": "ramp",
+      "added": "Codsworth, Handy Helper",
+      "removed": "Secure the Wastes"
+    },
+    {
+      "category": "ramp",
+      "added": "Conquer",
+      "removed": "Loyal Apprentice"
+    },
+    {
+      "category": "ramp",
+      "added": "Workhorse",
+      "removed": "The Jolly Balloon Man"
+    },
+    {
+      "category": "ramp",
+      "added": "Honored Heirloom",
+      "removed": "Molten Gatekeeper"
+    },
+    {
+      "category": "ramp",
+      "added": "Grabby Giant // That's Mine",
+      "removed": "Selfless Spirit"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Gauntlets of Chaos",
+      "removed": "Agate Instigator"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Curse of the Pierced Heart",
+      "removed": "Adeline, Resplendent Cathar"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Forerunner of the Empire",
+      "removed": "Raise the Past"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Ranger's Firebrand",
+      "removed": "Assemble the Legion"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Spiteful Prankster",
+      "removed": "Song of Totentanz"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Kilnmouth Dragon",
+      "removed": "Skyknight Vanguard"
+    }
+  ]
+}

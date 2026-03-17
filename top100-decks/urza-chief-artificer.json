@@ -1,0 +1,597 @@
+{
+  "commander": "Urza, Chief Artificer",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 99,
+  "total_cost_display": "$60.95",
+  "deck": {
+    "commander": "Urza, Chief Artificer",
+    "creatures": [
+      {
+        "name": "Sai, Master Thopterist",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/drc/82/sai-master-thopterist"
+      },
+      {
+        "name": "Losheel, Clockwork Scholar",
+        "price": "$2.44",
+        "url": "https://manapool.com/card/cmm/38/losheel-clockwork-scholar"
+      },
+      {
+        "name": "Thought Monitor",
+        "price": "$0.39",
+        "url": "https://manapool.com/card/eoc/79/thought-monitor"
+      },
+      {
+        "name": "Ornithopter of Paradise",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/j25/153/ornithopter-of-paradise"
+      },
+      {
+        "name": "Baleful Strix",
+        "price": "$1.03",
+        "url": "https://manapool.com/card/fic/318/baleful-strix"
+      },
+      {
+        "name": "Urza, Lord High Artificer",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/amh1/13/urza-lord-high-artificer"
+      },
+      {
+        "name": "Padeem, Consul of Innovation",
+        "price": "$1.25",
+        "url": "https://manapool.com/card/j25/62/padeem-consul-of-innovation"
+      },
+      {
+        "name": "Silver Myr",
+        "price": "$0.29",
+        "url": "https://manapool.com/card/som/202/silver-myr"
+      },
+      {
+        "name": "Solemn Simulacrum",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/fdn/257/solemn-simulacrum"
+      },
+      {
+        "name": "Gold Myr",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/mrd/180/gold-myr"
+      },
+      {
+        "name": "Loran of the Third Path",
+        "price": "$3.55",
+        "url": "https://manapool.com/card/mkc/71/loran-of-the-third-path"
+      },
+      {
+        "name": "Plague Dogs",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/uds/66/plague-dogs"
+      },
+      {
+        "name": "Sephiroth, Planet's Heir",
+        "price": "$11.24",
+        "url": "https://manapool.com/card/fin/505/sephiroth-planets-heir"
+      },
+      {
+        "name": "Myr Battlesphere",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/c16/263/myr-battlesphere"
+      },
+      {
+        "name": "Leaden Myr",
+        "price": "$0.33",
+        "url": "https://manapool.com/card/mrd/191/leaden-myr"
+      },
+      {
+        "name": "Slinn Voda, the Rising Deep",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dom/66/slinn-voda-the-rising-deep"
+      },
+      {
+        "name": "Urza, Prince of Kroog",
+        "price": "$0.37",
+        "url": "https://manapool.com/card/bro/226/urza-prince-of-kroog"
+      },
+      {
+        "name": "Noxious Gearhulk",
+        "price": "$0.30",
+        "url": "https://manapool.com/card/dsc/151/noxious-gearhulk"
+      },
+      {
+        "name": "Cyberdrive Awakener",
+        "price": "$2.58",
+        "url": "https://manapool.com/card/eoc/69/cyberdrive-awakener"
+      },
+      {
+        "name": "Indomitable Archangel",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/brc/72/indomitable-archangel"
+      },
+      {
+        "name": "Vedalken Humiliator",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/brc/100/vedalken-humiliator"
+      },
+      {
+        "name": "Kappa Cannoneer",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/mh3/270/kappa-cannoneer"
+      },
+      {
+        "name": "Sharuum the Hegemon",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/brc/128/sharuum-the-hegemon"
+      },
+      {
+        "name": "Shimmer Dragon",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/j25/353/shimmer-dragon"
+      },
+      {
+        "name": "Whirler Rogue",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/brc/101/whirler-rogue"
+      },
+      {
+        "name": "Phyrexian Metamorph",
+        "price": "$2.20",
+        "url": "https://manapool.com/card/plst/NPH-42/phyrexian-metamorph"
+      },
+      {
+        "name": "Steel Hellkite",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fdn/681/steel-hellkite"
+      },
+      {
+        "name": "Urza, Lord Protector",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Oltec Matterweaver",
+        "price": "$1.82",
+        "url": "https://manapool.com/card/big/3/oltec-matterweaver"
+      },
+      {
+        "name": "Research Thief",
+        "price": "$2.34",
+        "url": "https://manapool.com/card/nec/16/research-thief"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Excise the Imperfect",
+        "price": "$0.40",
+        "url": "https://manapool.com/card/moc/14/excise-the-imperfect"
+      },
+      {
+        "name": "Run Ashore",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/j25/109/run-ashore"
+      },
+      {
+        "name": "Osseous Exhale",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdm/17/osseous-exhale"
+      },
+      {
+        "name": "Dispatch",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/eoc/64/dispatch"
+      },
+      {
+        "name": "Unbreakable Formation",
+        "price": "$0.62",
+        "url": "https://manapool.com/card/ltc/179/unbreakable-formation"
+      },
+      {
+        "name": "Despark",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/drc/115/despark"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Disemvowel",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/unf/71/disemvowel"
+      },
+      {
+        "name": "Organic Extinction",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/eoc/66/organic-extinction"
+      },
+      {
+        "name": "Dusk // Dawn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/138/dusk-dawn"
+      },
+      {
+        "name": "One with the Machine",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/brc/90/one-with-the-machine"
+      },
+      {
+        "name": "Thoughtcast",
+        "price": "$1.86",
+        "url": "https://manapool.com/card/wc04/ap54/thoughtcast"
+      },
+      {
+        "name": "Vindicate",
+        "price": "$0.35",
+        "url": "https://manapool.com/card/plst/A25-219/vindicate"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Tome of the Guildpact",
+        "price": "$0.39",
+        "url": "https://manapool.com/card/rna/242/tome-of-the-guildpact"
+      },
+      {
+        "name": "Ice Cauldron",
+        "price": "$0.80",
+        "url": "https://manapool.com/card/ice/321/ice-cauldron"
+      },
+      {
+        "name": "Bident of Thassa",
+        "price": "$0.40",
+        "url": "https://manapool.com/card/blc/162/bident-of-thassa"
+      },
+      {
+        "name": "Thopter Shop",
+        "price": "$0.36",
+        "url": "https://manapool.com/card/brc/19/thopter-shop"
+      },
+      {
+        "name": "Thought Vessel",
+        "price": "$2.32",
+        "url": "https://manapool.com/card/pip/251/thought-vessel"
+      },
+      {
+        "name": "Uthros Research Craft",
+        "price": "$1.17",
+        "url": "https://manapool.com/card/eoc/7/uthros-research-craft"
+      },
+      {
+        "name": "Swiftfoot Boots",
+        "price": "$1.87",
+        "url": "https://manapool.com/card/fdn/258/swiftfoot-boots"
+      },
+      {
+        "name": "Sculpting Steel",
+        "price": "$1.32",
+        "url": "https://manapool.com/card/brr/50/sculpting-steel"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "Waste Not",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/awoe/70/waste-not"
+      },
+      {
+        "name": "Thopter Spy Network",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/drc/83/thopter-spy-network"
+      },
+      {
+        "name": "Tempered Steel",
+        "price": "$1.04",
+        "url": "https://manapool.com/card/som/24/tempered-steel"
+      }
+    ],
+    "planeswalkers": [],
+    "lands": [
+      {
+        "name": "Seat of the Synod",
+        "price": "$0.62",
+        "url": "https://manapool.com/card/j25/773/seat-of-the-synod"
+      },
+      {
+        "name": "Ancient Den",
+        "price": "$0.95",
+        "url": "https://manapool.com/card/eoc/148/ancient-den"
+      },
+      {
+        "name": "Vault of Whispers",
+        "price": "$1.56",
+        "url": "https://manapool.com/card/mrd/286/vault-of-whispers"
+      },
+      {
+        "name": "Darksteel Citadel",
+        "price": "$0.92",
+        "url": "https://manapool.com/card/wc04/mb164/darksteel-citadel"
+      },
+      {
+        "name": "Razortide Bridge",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/eoc/171/razortide-bridge"
+      },
+      {
+        "name": "Mistvault Bridge",
+        "price": "$0.39",
+        "url": "https://manapool.com/card/mh2/249/mistvault-bridge"
+      },
+      {
+        "name": "Goldmire Bridge",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/mh2/247/goldmire-bridge"
+      },
+      {
+        "name": "Spire of Industry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/drc/172/spire-of-industry"
+      },
+      {
+        "name": "Thousand Moons Smithy",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Command Tower",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/325/command-tower"
+      },
+      {
+        "name": "Exotic Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/131/exotic-orchard"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Adarkar Wastes",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/blc/291/adarkar-wastes"
+      },
+      {
+        "name": "Calciform Pools",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/tsp/270/calciform-pools"
+      },
+      {
+        "name": "Caves of Koilos",
+        "price": "$0.80",
+        "url": "https://manapool.com/card/m15/241/caves-of-koilos"
+      },
+      {
+        "name": "Cloudcrest Lake",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/chk/274/cloudcrest-lake"
+      },
+      {
+        "name": "Contaminated Landscape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/218/contaminated-landscape"
+      },
+      {
+        "name": "Darkwater Catacombs",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/c19/238/darkwater-catacombs"
+      },
+      {
+        "name": "Desolate Mire",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/386/desolate-mire"
+      },
+      {
+        "name": "Dreadship Reef",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/tsp/271/dreadship-reef"
+      },
+      {
+        "name": "Dromar's Cavern",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmr/246/dromars-cavern"
+      },
+      {
+        "name": "Duskmantle, House of Shadow",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/plst/RAV-277/duskmantle-house-of-shadow"
+      },
+      {
+        "name": "Fetid Heath",
+        "price": "$0.39",
+        "url": "https://manapool.com/card/fic/391/fetid-heath"
+      },
+      {
+        "name": "Land Cap",
+        "price": "$0.39",
+        "url": "https://manapool.com/card/ice/357/land-cap"
+      },
+      {
+        "name": "Moorland Haunt",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/isd/244/moorland-haunt"
+      },
+      {
+        "name": "Nephalia Drownyard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lcc/344/nephalia-drownyard"
+      },
+      {
+        "name": "Orzhova, the Church of Deals",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/gpt/162/orzhova-the-church-of-deals"
+      },
+      {
+        "name": "Prahv, Spires of Order",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/dis/177/prahv-spires-of-order"
+      },
+      {
+        "name": "Processing Plant",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mb2/617/processing-plant"
+      },
+      {
+        "name": "Profane Procession // Tomb of the Dusk Rose",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/rix/166/profane-procession-tomb-of-the-dusk-rose"
+      },
+      {
+        "name": "River Delta",
+        "price": "$0.38",
+        "url": "https://manapool.com/card/ice/359/river-delta"
+      },
+      {
+        "name": "River of Tears",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/clb/912/river-of-tears"
+      },
+      {
+        "name": "Rootwater Depths",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmp/323/rootwater-depths"
+      },
+      {
+        "name": "Seaside Haven",
+        "price": "$0.46",
+        "url": "https://manapool.com/card/ons/323/seaside-haven"
+      },
+      {
+        "name": "Silent Clearing",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/amh1/51/silent-clearing"
+      },
+      {
+        "name": "Skycloud Expanse",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/294/skycloud-expanse"
+      },
+      {
+        "name": "Abandoned Campground",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsk/255/abandoned-campground"
+      },
+      {
+        "name": "Ancient Spring",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/inv/319/ancient-spring"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      }
+    ],
+    "other": []
+  },
+  "export_text": "1 Urza, Chief Artificer *CMDR*\n1 Seat of the Synod\n1 Ancient Den\n1 Waste Not\n1 Vault of Whispers\n1 Darksteel Citadel\n1 Razortide Bridge\n1 Mistvault Bridge\n1 Sai, Master Thopterist\n1 Goldmire Bridge\n1 Thopter Spy Network\n1 Losheel, Clockwork Scholar\n1 Tome of the Guildpact\n1 Thought Monitor\n1 Ice Cauldron\n1 Excise the Imperfect\n1 Run Ashore\n1 Ornithopter of Paradise\n1 Osseous Exhale\n1 Baleful Strix\n1 Disemvowel\n1 Urza, Lord High Artificer\n1 Spire of Industry\n1 Padeem, Consul of Innovation\n1 Silver Myr\n1 Solemn Simulacrum\n1 Gold Myr\n1 Dispatch\n1 Organic Extinction\n1 Loran of the Third Path\n1 Plague Dogs\n1 Sephiroth, Planet's Heir\n1 Myr Battlesphere\n1 Leaden Myr\n1 Bident of Thassa\n1 Slinn Voda, the Rising Deep\n1 Dusk // Dawn\n1 Urza, Prince of Kroog\n1 Thousand Moons Smithy\n1 Noxious Gearhulk\n1 One with the Machine\n1 Tempered Steel\n1 Cyberdrive Awakener\n1 Indomitable Archangel\n1 Thoughtcast\n1 Vedalken Humiliator\n1 Kappa Cannoneer\n1 Sharuum the Hegemon\n1 Shimmer Dragon\n1 Unbreakable Formation\n1 Whirler Rogue\n1 Phyrexian Metamorph\n1 Thopter Shop\n1 Thought Vessel\n1 Steel Hellkite\n1 Urza, Lord Protector\n1 Despark\n1 Vindicate\n1 Uthros Research Craft\n1 Oltec Matterweaver\n1 Research Thief\n1 Swiftfoot Boots\n1 Sculpting Steel\n1 Command Tower\n1 Exotic Orchard\n1 Path of Ancestry\n1 Adarkar Wastes\n1 Calciform Pools\n1 Caves of Koilos\n1 Cloudcrest Lake\n1 Contaminated Landscape\n1 Darkwater Catacombs\n1 Desolate Mire\n1 Dreadship Reef\n1 Dromar's Cavern\n1 Duskmantle, House of Shadow\n1 Fetid Heath\n1 Land Cap\n1 Moorland Haunt\n1 Nephalia Drownyard\n1 Orzhova, the Church of Deals\n1 Prahv, Spires of Order\n1 Processing Plant\n1 Profane Procession // Tomb of the Dusk Rose\n1 River Delta\n1 River of Tears\n1 Rootwater Depths\n1 Seaside Haven\n1 Silent Clearing\n1 Skycloud Expanse\n1 Abandoned Campground\n1 Ancient Spring\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Swamp\n1 Plains\n1 Island\n1 Swamp\n1 Plains",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": true,
+    "counts": {
+      "lands": 45,
+      "ramp": 10,
+      "card_draw": 13,
+      "targeted_removal": 10,
+      "mass_removal": 6,
+      "synergy": 14,
+      "uncategorized": 1
+    },
+    "gaps": {}
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "ramp",
+      "added": "Waste Not",
+      "removed": "Etherium Sculptor"
+    },
+    {
+      "category": "ramp",
+      "added": "Tome of the Guildpact",
+      "removed": "Foundry Inspector"
+    },
+    {
+      "category": "ramp",
+      "added": "Ice Cauldron",
+      "removed": "Bronze Guardian"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Excise the Imperfect",
+      "removed": "Master of Etherium"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Run Ashore",
+      "removed": "Steel Overseer"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Osseous Exhale",
+      "removed": "Digsite Engineer"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Disemvowel",
+      "removed": "March of Progress"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Loran of the Third Path",
+      "removed": "Cranial Plating"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Plague Dogs",
+      "removed": "Emry, Lurker of the Loch"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Sephiroth, Planet's Heir",
+      "removed": "Chief of the Foundry"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Slinn Voda, the Rising Deep",
+      "removed": "Mystic Forge"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Dusk // Dawn",
+      "removed": "Sharding Sphinx"
+    }
+  ]
+}

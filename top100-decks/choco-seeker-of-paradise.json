@@ -1,0 +1,632 @@
+{
+  "commander": "Choco, Seeker of Paradise",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 97,
+  "total_cost_display": "$53.37",
+  "deck": {
+    "commander": "Choco, Seeker of Paradise",
+    "creatures": [
+      {
+        "name": "Kastral, the Windcrested",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blb/221/kastral-the-windcrested"
+      },
+      {
+        "name": "Gala Greeters",
+        "price": "$0.62",
+        "url": "https://manapool.com/card/snc/148/gala-greeters"
+      },
+      {
+        "name": "Sidequest: Raise a Chocobo",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Bartz and Boko",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/175/bartz-and-boko"
+      },
+      {
+        "name": "Great Forest Druid",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ecl/178/great-forest-druid"
+      },
+      {
+        "name": "Marwyn, the Nurturer",
+        "price": "$5.30",
+        "url": "https://manapool.com/card/dom/172/marwyn-the-nurturer"
+      },
+      {
+        "name": "Loam Dryad",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/soi/216/loam-dryad"
+      },
+      {
+        "name": "Sazh Katzroy",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/199/sazh-katzroy"
+      },
+      {
+        "name": "Oran-Rief Recluse",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/zen/173/oran-rief-recluse"
+      },
+      {
+        "name": "Suncrusher",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/5dn/159/suncrusher"
+      },
+      {
+        "name": "Sunblast Angel",
+        "price": "$0.50",
+        "url": "https://manapool.com/card/c20/102/sunblast-angel"
+      },
+      {
+        "name": "Mageta the Lion",
+        "price": "$0.56",
+        "url": "https://manapool.com/card/pcy/13/mageta-the-lion"
+      },
+      {
+        "name": "Gilded Goose",
+        "price": "$0.36",
+        "url": "https://manapool.com/card/ltc/246/gilded-goose"
+      },
+      {
+        "name": "Kangee, Sky Warden",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmr/283/kangee-sky-warden"
+      },
+      {
+        "name": "The Goose Mother",
+        "price": "$1.81",
+        "url": "https://manapool.com/card/woe/204/the-goose-mother"
+      },
+      {
+        "name": "Summon: Choco/Mog",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/35/summon-chocomog"
+      },
+      {
+        "name": "Ishai, Ojutai Dragonspeaker",
+        "price": "$1.20",
+        "url": "https://manapool.com/card/fca/53/ishai-ojutai-dragonspeaker"
+      },
+      {
+        "name": "Aven Mindcensor",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/akh/5/aven-mindcensor"
+      },
+      {
+        "name": "Healer's Hawk",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fdn/142/healers-hawk"
+      },
+      {
+        "name": "Salvation Swan",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blb/28/salvation-swan"
+      },
+      {
+        "name": "Curiosity Crafter",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/plst/C21-24/curiosity-crafter"
+      },
+      {
+        "name": "Tatyova, Benthic Druid",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmm/358/tatyova-benthic-druid"
+      },
+      {
+        "name": "Owlbear Cub",
+        "price": "$0.36",
+        "url": "https://manapool.com/card/clb/246/owlbear-cub"
+      },
+      {
+        "name": "Jubilant Skybonder",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/iko/223/jubilant-skybonder"
+      },
+      {
+        "name": "Tireless Provisioner",
+        "price": "$2.56",
+        "url": "https://manapool.com/card/mh2/180/tireless-provisioner"
+      },
+      {
+        "name": "Senu, Keen-Eyed Protector",
+        "price": "$0.73",
+        "url": "https://manapool.com/card/acr/8/senu-keen-eyed-protector"
+      },
+      {
+        "name": "Shrike Force",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blb/31/shrike-force"
+      },
+      {
+        "name": "Wingmate Roc",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c19/78/wingmate-roc"
+      },
+      {
+        "name": "Plumecreed Mentor",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blb/228/plumecreed-mentor"
+      },
+      {
+        "name": "Lifecreed Duo",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blb/20/lifecreed-duo"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Run Ashore",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/j25/109/run-ashore"
+      },
+      {
+        "name": "Airbending Lesson",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tla/8/airbending-lesson"
+      },
+      {
+        "name": "Verdigris",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmp/264/verdigris"
+      },
+      {
+        "name": "Winged Portent",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/vow/89/winged-portent"
+      },
+      {
+        "name": "Perch Protection",
+        "price": "$1.04",
+        "url": "https://manapool.com/card/blc/11/perch-protection"
+      },
+      {
+        "name": "Lofty Denial",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/m21/56/lofty-denial"
+      },
+      {
+        "name": "Strix Serenade",
+        "price": "$2.45",
+        "url": "https://manapool.com/card/mh3/71/strix-serenade"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Explore the Underdark",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/clb/232/explore-the-underdark"
+      },
+      {
+        "name": "Ravenform",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/khm/72/ravenform"
+      },
+      {
+        "name": "Reverent Silence",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/nem/111/reverent-silence"
+      },
+      {
+        "name": "Chocobo Kick",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/178/chocobo-kick"
+      },
+      {
+        "name": "Tragic Arrogance",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c21/109/tragic-arrogance"
+      },
+      {
+        "name": "Airborne Aid",
+        "price": "$0.30",
+        "url": "https://manapool.com/card/ons/62/airborne-aid"
+      },
+      {
+        "name": "Ezuri's Predation",
+        "price": "$0.81",
+        "url": "https://manapool.com/card/cmm/287/ezuris-predation"
+      },
+      {
+        "name": "Turtles in Time",
+        "price": "$0.41",
+        "url": "https://manapool.com/card/tmt/55/turtles-in-time"
+      },
+      {
+        "name": "Righteous Fury",
+        "price": "$10.72",
+        "url": "https://manapool.com/card/s99/23/righteous-fury"
+      },
+      {
+        "name": "Migratory Route",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c16/38/migratory-route"
+      },
+      {
+        "name": "Farseek",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/rvr/138/farseek"
+      },
+      {
+        "name": "Winged Words",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/j25/393/winged-words"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Staff of Nin",
+        "price": "$0.59",
+        "url": "https://manapool.com/card/c15/270/staff-of-nin"
+      },
+      {
+        "name": "Bident of Thassa",
+        "price": "$0.40",
+        "url": "https://manapool.com/card/blc/162/bident-of-thassa"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "Weirding Wood",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/moc/315/weirding-wood"
+      },
+      {
+        "name": "Most Wanted",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/snc/153/most-wanted"
+      },
+      {
+        "name": "Ride the Shoopuf",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/197/ride-the-shoopuf"
+      },
+      {
+        "name": "Beastmaster Ascension",
+        "price": "$2.73",
+        "url": "https://manapool.com/card/c16/142/beastmaster-ascension"
+      },
+      {
+        "name": "Reflections of Littjara",
+        "price": "$0.92",
+        "url": "https://manapool.com/card/lcc/168/reflections-of-littjara"
+      }
+    ],
+    "planeswalkers": [],
+    "lands": [
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Restless Anchorage",
+        "price": "$0.83",
+        "url": "https://manapool.com/card/lci/280/restless-anchorage"
+      },
+      {
+        "name": "Seaside Haven",
+        "price": "$0.46",
+        "url": "https://manapool.com/card/ons/323/seaside-haven"
+      },
+      {
+        "name": "Lupinflower Village",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blb/256/lupinflower-village"
+      },
+      {
+        "name": "Evolving Wilds",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/277/evolving-wilds"
+      },
+      {
+        "name": "Fabled Passage",
+        "price": "$2.06",
+        "url": "https://manapool.com/card/tmc/67/fabled-passage"
+      },
+      {
+        "name": "Command Tower",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/325/command-tower"
+      },
+      {
+        "name": "Exotic Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/131/exotic-orchard"
+      },
+      {
+        "name": "Adarkar Wastes",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/blc/291/adarkar-wastes"
+      },
+      {
+        "name": "Alchemist's Refuge",
+        "price": "$0.65",
+        "url": "https://manapool.com/card/lcc/318/alchemists-refuge"
+      },
+      {
+        "name": "Aysen Abbey",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/hml/112/aysen-abbey"
+      },
+      {
+        "name": "Brushland",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/fic/377/brushland"
+      },
+      {
+        "name": "Calciform Pools",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/tsp/270/calciform-pools"
+      },
+      {
+        "name": "Cloudcrest Lake",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/chk/274/cloudcrest-lake"
+      },
+      {
+        "name": "Fetching Garden",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/mb2/611/fetching-garden"
+      },
+      {
+        "name": "Flooded Grove",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltc/309/flooded-grove"
+      },
+      {
+        "name": "Grove of the Guardian",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/rtr/240/grove-of-the-guardian"
+      },
+      {
+        "name": "Hushwood Verge",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/adsk/26/hushwood-verge"
+      },
+      {
+        "name": "Land Cap",
+        "price": "$0.39",
+        "url": "https://manapool.com/card/ice/357/land-cap"
+      },
+      {
+        "name": "Moorland Haunt",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/isd/244/moorland-haunt"
+      },
+      {
+        "name": "Nantuko Monastery",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmr/252/nantuko-monastery"
+      },
+      {
+        "name": "Novijen, Heart of Progress",
+        "price": "$0.30",
+        "url": "https://manapool.com/card/dis/175/novijen-heart-of-progress"
+      },
+      {
+        "name": "Overflowing Basin",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/321/overflowing-basin"
+      },
+      {
+        "name": "Prahv, Spires of Order",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/dis/177/prahv-spires-of-order"
+      },
+      {
+        "name": "Saltcrusted Steppe",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tsp/277/saltcrusted-steppe"
+      },
+      {
+        "name": "Skycloud Expanse",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/294/skycloud-expanse"
+      },
+      {
+        "name": "Slumbering Waterways",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mb2/618/slumbering-waterways"
+      },
+      {
+        "name": "Sungrass Prairie",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/334/sungrass-prairie"
+      },
+      {
+        "name": "Thalakos Lowlands",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmp/328/thalakos-lowlands"
+      },
+      {
+        "name": "Tranquil Garden",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/chk/284/tranquil-garden"
+      },
+      {
+        "name": "Tranquil Landscape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/231/tranquil-landscape"
+      },
+      {
+        "name": "Abandoned Campground",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsk/255/abandoned-campground"
+      },
+      {
+        "name": "Arctic Flats",
+        "price": "$1.03",
+        "url": "https://manapool.com/card/csp/143/arctic-flats"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      }
+    ],
+    "other": []
+  },
+  "export_text": "1 Choco, Seeker of Paradise *CMDR*\n1 Weirding Wood\n1 Kastral, the Windcrested\n1 Gala Greeters\n1 Sidequest: Raise a Chocobo\n1 Bartz and Boko\n1 Great Forest Druid\n1 Explore the Underdark\n1 Marwyn, the Nurturer\n1 Loam Dryad\n1 Most Wanted\n1 Ravenform\n1 Sazh Katzroy\n1 Reverent Silence\n1 Oran-Rief Recluse\n1 Run Ashore\n1 Airbending Lesson\n1 Suncrusher\n1 Verdigris\n1 Chocobo Kick\n1 Staff of Nin\n1 Sunblast Angel\n1 Mageta the Lion\n1 Tragic Arrogance\n1 Airborne Aid\n1 Gilded Goose\n1 Ezuri's Predation\n1 Turtles in Time\n1 Righteous Fury\n1 Kangee, Sky Warden\n1 The Goose Mother\n1 Summon: Choco/Mog\n1 Ishai, Ojutai Dragonspeaker\n1 Aven Mindcensor\n1 Winged Portent\n1 Path of Ancestry\n1 Healer's Hawk\n1 Restless Anchorage\n1 Salvation Swan\n1 Seaside Haven\n1 Curiosity Crafter\n1 Perch Protection\n1 Ride the Shoopuf\n1 Beastmaster Ascension\n1 Tatyova, Benthic Druid\n1 Owlbear Cub\n1 Jubilant Skybonder\n1 Migratory Route\n1 Bident of Thassa\n1 Tireless Provisioner\n1 Senu, Keen-Eyed Protector\n1 Shrike Force\n1 Lofty Denial\n1 Lupinflower Village\n1 Strix Serenade\n1 Evolving Wilds\n1 Fabled Passage\n1 Farseek\n1 Wingmate Roc\n1 Plumecreed Mentor\n1 Lifecreed Duo\n1 Winged Words\n1 Reflections of Littjara\n1 Command Tower\n1 Exotic Orchard\n1 Adarkar Wastes\n1 Alchemist's Refuge\n1 Aysen Abbey\n1 Brushland\n1 Calciform Pools\n1 Cloudcrest Lake\n1 Fetching Garden\n1 Flooded Grove\n1 Grove of the Guardian\n1 Hushwood Verge\n1 Land Cap\n1 Moorland Haunt\n1 Nantuko Monastery\n1 Novijen, Heart of Progress\n1 Overflowing Basin\n1 Prahv, Spires of Order\n1 Saltcrusted Steppe\n1 Skycloud Expanse\n1 Slumbering Waterways\n1 Sungrass Prairie\n1 Thalakos Lowlands\n1 Tranquil Garden\n1 Tranquil Landscape\n1 Abandoned Campground\n1 Arctic Flats\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Forest\n1 Plains\n1 Island\n1 Forest\n1 Plains",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": true,
+    "counts": {
+      "lands": 41,
+      "ramp": 10,
+      "card_draw": 10,
+      "targeted_removal": 9,
+      "mass_removal": 7,
+      "synergy": 19,
+      "uncategorized": 1
+    },
+    "gaps": {}
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "ramp",
+      "added": "Weirding Wood",
+      "removed": "Sazh's Chocobo"
+    },
+    {
+      "category": "ramp",
+      "added": "Gala Greeters",
+      "removed": "Chocobo Racetrack"
+    },
+    {
+      "category": "ramp",
+      "added": "Great Forest Druid",
+      "removed": "Emeria Angel"
+    },
+    {
+      "category": "ramp",
+      "added": "Explore the Underdark",
+      "removed": "Ambrosia Whiteheart"
+    },
+    {
+      "category": "ramp",
+      "added": "Marwyn, the Nurturer",
+      "removed": "Murmuration"
+    },
+    {
+      "category": "ramp",
+      "added": "Loam Dryad",
+      "removed": "Summon: Fat Chocobo"
+    },
+    {
+      "category": "ramp",
+      "added": "Most Wanted",
+      "removed": "Mockingbird"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Ravenform",
+      "removed": "Empyrean Eagle"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Reverent Silence",
+      "removed": "Jackdaw Savior"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Oran-Rief Recluse",
+      "removed": "Watcher of the Spheres"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Run Ashore",
+      "removed": "Dazzling Denial"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Airbending Lesson",
+      "removed": "Flurry of Wings"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Suncrusher",
+      "removed": "Gwaihir the Windlord"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Verdigris",
+      "removed": "Tawnos, the Toymaker"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Staff of Nin",
+      "removed": "Plumecreed Escort"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Sunblast Angel",
+      "removed": "Warden of Evos Isle"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Mageta the Lion",
+      "removed": "Gysahl Greens"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Tragic Arrogance",
+      "removed": "Esior, Wardwing Familiar"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Ezuri's Predation",
+      "removed": "Judge's Familiar"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Turtles in Time",
+      "removed": "Hermes, Overseer of Elpis"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Righteous Fury",
+      "removed": "Felidar Retreat"
+    }
+  ]
+}

@@ -1,0 +1,583 @@
+{
+  "commander": "Atla Palani, Nest Tender",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 99,
+  "total_cost_display": "$43.15",
+  "deck": {
+    "commander": "Atla Palani, Nest Tender",
+    "creatures": [
+      {
+        "name": "Valiant Batrider",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Common Iguana",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/und/50/common-iguana"
+      },
+      {
+        "name": "Gathering Throng",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/snc/13/gathering-throng"
+      },
+      {
+        "name": "Zacama, Primal Calamity",
+        "price": "$0.64",
+        "url": "https://manapool.com/card/lcc/296/zacama-primal-calamity"
+      },
+      {
+        "name": "Worldspine Wurm",
+        "price": "$0.77",
+        "url": "https://manapool.com/card/dsc/206/worldspine-wurm"
+      },
+      {
+        "name": "Verdant Sun's Avatar",
+        "price": "$0.30",
+        "url": "https://manapool.com/card/c21/208/verdant-suns-avatar"
+      },
+      {
+        "name": "Etali, Primal Conqueror",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Mirror Entity",
+        "price": "$1.04",
+        "url": "https://manapool.com/card/mkc/75/mirror-entity"
+      },
+      {
+        "name": "Pantlaza, Sun-Favored",
+        "price": "$0.78",
+        "url": "https://manapool.com/card/alci/75/pantlaza-sun-favored"
+      },
+      {
+        "name": "Terastodon",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/m3c/249/terastodon"
+      },
+      {
+        "name": "Regisaur Alpha",
+        "price": "$0.39",
+        "url": "https://manapool.com/card/lcc/286/regisaur-alpha"
+      },
+      {
+        "name": "Dragon Egg",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmr/173/dragon-egg"
+      },
+      {
+        "name": "Quartzwood Crasher",
+        "price": "$0.32",
+        "url": "https://manapool.com/card/lcc/281/quartzwood-crasher"
+      },
+      {
+        "name": "Goring Ceratops",
+        "price": "$0.62",
+        "url": "https://manapool.com/card/xln/13/goring-ceratops"
+      },
+      {
+        "name": "Marauding Raptor",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/lcc/228/marauding-raptor"
+      },
+      {
+        "name": "Zopandrel, Hunger Dominus",
+        "price": "$0.51",
+        "url": "https://manapool.com/card/aone/44/zopandrel-hunger-dominus"
+      },
+      {
+        "name": "Roc Egg",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c19/73/roc-egg"
+      },
+      {
+        "name": "Earthshaker Dreadmaw",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lci/183/earthshaker-dreadmaw"
+      },
+      {
+        "name": "Temple Altisaur",
+        "price": "$0.34",
+        "url": "https://manapool.com/card/lcc/138/temple-altisaur"
+      },
+      {
+        "name": "Kogla and Yidaro",
+        "price": "$0.81",
+        "url": "https://manapool.com/card/mom/244/kogla-and-yidaro"
+      },
+      {
+        "name": "Kodama of the East Tree",
+        "price": "$2.54",
+        "url": "https://manapool.com/card/blc/227/kodama-of-the-east-tree"
+      },
+      {
+        "name": "Samut, Voice of Dissent",
+        "price": "$2.03",
+        "url": "https://manapool.com/card/akh/205/samut-voice-of-dissent"
+      },
+      {
+        "name": "Silverclad Ferocidons",
+        "price": "$0.40",
+        "url": "https://manapool.com/card/pza/9/silverclad-ferocidons"
+      },
+      {
+        "name": "Ranging Raptors",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/lcc/249/ranging-raptors"
+      },
+      {
+        "name": "Forerunner of the Empire",
+        "price": "$0.80",
+        "url": "https://manapool.com/card/rix/102/forerunner-of-the-empire"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Your Temple Is Under Attack",
+        "price": "$0.35",
+        "url": "https://manapool.com/card/clb/52/your-temple-is-under-attack"
+      },
+      {
+        "name": "Sundering Growth",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mm3/211/sundering-growth"
+      },
+      {
+        "name": "Rootborn Defenses",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/rtr/19/rootborn-defenses"
+      },
+      {
+        "name": "Druid's Deliverance",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mm3/124/druids-deliverance"
+      },
+      {
+        "name": "Beast Within",
+        "price": "$0.59",
+        "url": "https://manapool.com/card/blc/206/beast-within"
+      },
+      {
+        "name": "Shields of Velis Vel",
+        "price": "$0.40",
+        "url": "https://manapool.com/card/lrw/39/shields-of-velis-vel"
+      },
+      {
+        "name": "Naya Charm",
+        "price": "$0.34",
+        "url": "https://manapool.com/card/ddh/29/naya-charm"
+      },
+      {
+        "name": "Congregation at Dawn",
+        "price": "$2.37",
+        "url": "https://manapool.com/card/rav/198/congregation-at-dawn"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Ruinous Rampage",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/eoe/158/ruinous-rampage"
+      },
+      {
+        "name": "Rampant Growth",
+        "price": "$0.30",
+        "url": "https://manapool.com/card/m10/201/rampant-growth"
+      },
+      {
+        "name": "Kodama's Reach",
+        "price": "$1.23",
+        "url": "https://manapool.com/card/cmm/300/kodamas-reach"
+      },
+      {
+        "name": "Cultivate",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmc/50/cultivate"
+      },
+      {
+        "name": "Farseek",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/rvr/138/farseek"
+      },
+      {
+        "name": "Monster Manual",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Primal Growth",
+        "price": "$0.34",
+        "url": "https://manapool.com/card/plst/PLS-87/primal-growth"
+      },
+      {
+        "name": "Blasphemous Act",
+        "price": "$0.38",
+        "url": "https://manapool.com/card/tmc/47/blasphemous-act"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Aladdin's Lamp",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/4ed/291/aladdins-lamp"
+      },
+      {
+        "name": "Aligned Hedron Network",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/bfz/222/aligned-hedron-network"
+      },
+      {
+        "name": "Culling Dais",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mm2/207/culling-dais"
+      },
+      {
+        "name": "Gruul Signet",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/rvr/259/gruul-signet"
+      },
+      {
+        "name": "Swiftfoot Boots",
+        "price": "$1.87",
+        "url": "https://manapool.com/card/fdn/258/swiftfoot-boots"
+      },
+      {
+        "name": "Selesnya Signet",
+        "price": "$0.36",
+        "url": "https://manapool.com/card/tdc/324/selesnya-signet"
+      },
+      {
+        "name": "Spawning Pit",
+        "price": "$1.81",
+        "url": "https://manapool.com/card/dst/141/spawning-pit"
+      },
+      {
+        "name": "Boros Signet",
+        "price": "$0.41",
+        "url": "https://manapool.com/card/rav/255/boros-signet"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "Goblin Bombardment",
+        "price": "$2.60",
+        "url": "https://manapool.com/card/sch/45/goblin-bombardment"
+      },
+      {
+        "name": "Garruk's Uprising",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/fdn/220/garruks-uprising"
+      },
+      {
+        "name": "Limited Resources",
+        "price": "$1.09",
+        "url": "https://manapool.com/card/exo/10/limited-resources"
+      },
+      {
+        "name": "Fanatical Devotion",
+        "price": "$0.45",
+        "url": "https://manapool.com/card/plst/NEM-8/fanatical-devotion"
+      },
+      {
+        "name": "Warstorm Surge",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/m12/160/warstorm-surge"
+      },
+      {
+        "name": "Growing Ranks",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/rtr/217/growing-ranks"
+      },
+      {
+        "name": "Martyr's Cause",
+        "price": "$0.72",
+        "url": "https://manapool.com/card/ulg/13/martyrs-cause"
+      },
+      {
+        "name": "Colossal Majesty",
+        "price": "$1.03",
+        "url": "https://manapool.com/card/m19/173/colossal-majesty"
+      }
+    ],
+    "planeswalkers": [
+      {
+        "name": "Gideon, Champion of Justice",
+        "price": "$0.29",
+        "url": "https://manapool.com/card/c21/93/gideon-champion-of-justice"
+      }
+    ],
+    "lands": [
+      {
+        "name": "High Market",
+        "price": "$0.83",
+        "url": "https://manapool.com/card/fic/402/high-market"
+      },
+      {
+        "name": "Mosswort Bridge",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mkc/275/mosswort-bridge"
+      },
+      {
+        "name": "Gruul Turf",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/310/gruul-turf"
+      },
+      {
+        "name": "Ojer Taq, Deepest Foundation",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/alci/56/ojer-taq-deepest-foundation"
+      },
+      {
+        "name": "Command Tower",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/325/command-tower"
+      },
+      {
+        "name": "Exotic Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/131/exotic-orchard"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Aggressive Crag",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/cmb2/112/aggressive-crag"
+      },
+      {
+        "name": "An-Havva Township",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/hml/111/an-havva-township"
+      },
+      {
+        "name": "Battlefield Forge",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/blc/293/battlefield-forge"
+      },
+      {
+        "name": "Brushland",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/fic/377/brushland"
+      },
+      {
+        "name": "Contested Cliffs",
+        "price": "$0.29",
+        "url": "https://manapool.com/card/c13/282/contested-cliffs"
+      },
+      {
+        "name": "Fetching Garden",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/mb2/611/fetching-garden"
+      },
+      {
+        "name": "Fungal Reaches",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tsr/279/fungal-reaches"
+      },
+      {
+        "name": "Grove of the Guardian",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/rtr/240/grove-of-the-guardian"
+      },
+      {
+        "name": "Hushwood Verge",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/adsk/26/hushwood-verge"
+      },
+      {
+        "name": "Karplusan Forest",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/drc/163/karplusan-forest"
+      },
+      {
+        "name": "Kessig Wolf Run",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mkc/269/kessig-wolf-run"
+      },
+      {
+        "name": "Mogg Hollows",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/tmp/320/mogg-hollows"
+      },
+      {
+        "name": "Mossfire Valley",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/316/mossfire-valley"
+      },
+      {
+        "name": "Nantuko Monastery",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmr/252/nantuko-monastery"
+      },
+      {
+        "name": "Omenpath to Naya",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mb2/616/omenpath-to-naya"
+      },
+      {
+        "name": "Path of Mettle // Metzali, Tower of Triumph",
+        "price": "$0.27",
+        "url": "https://manapool.com/card/rix/165/path-of-mettle-metzali-tower-of-triumph"
+      },
+      {
+        "name": "Pinecrest Ridge",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/chk/281/pinecrest-ridge"
+      },
+      {
+        "name": "Rith's Grove",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmr/255/riths-grove"
+      },
+      {
+        "name": "Rugged Prairie",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdc/389/rugged-prairie"
+      },
+      {
+        "name": "Saltcrusted Steppe",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tsp/277/saltcrusted-steppe"
+      },
+      {
+        "name": "Sheltering Landscape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/227/sheltering-landscape"
+      },
+      {
+        "name": "Skarrg, the Rage Pits",
+        "price": "$0.62",
+        "url": "https://manapool.com/card/gpt/163/skarrg-the-rage-pits"
+      },
+      {
+        "name": "Slayers' Stronghold",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/424/slayers-stronghold"
+      },
+      {
+        "name": "Sungrass Prairie",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/334/sungrass-prairie"
+      },
+      {
+        "name": "Abraded Bluffs",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/otj/251/abraded-bluffs"
+      },
+      {
+        "name": "Alpine Meadow",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/khm/248/alpine-meadow"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      }
+    ],
+    "other": []
+  },
+  "export_text": "1 Atla Palani, Nest Tender *CMDR*\n1 Your Temple Is Under Attack\n1 Goblin Bombardment\n1 High Market\n1 Aladdin's Lamp\n1 Valiant Batrider\n1 Sundering Growth\n1 Common Iguana\n1 Gathering Throng\n1 Garruk's Uprising\n1 Zacama, Primal Calamity\n1 Limited Resources\n1 Gideon, Champion of Justice\n1 Aligned Hedron Network\n1 Ruinous Rampage\n1 Worldspine Wurm\n1 Fanatical Devotion\n1 Verdant Sun's Avatar\n1 Etali, Primal Conqueror\n1 Mirror Entity\n1 Pantlaza, Sun-Favored\n1 Rootborn Defenses\n1 Terastodon\n1 Culling Dais\n1 Rampant Growth\n1 Regisaur Alpha\n1 Dragon Egg\n1 Warstorm Surge\n1 Quartzwood Crasher\n1 Goring Ceratops\n1 Druid's Deliverance\n1 Kodama's Reach\n1 Growing Ranks\n1 Martyr's Cause\n1 Gruul Signet\n1 Cultivate\n1 Farseek\n1 Marauding Raptor\n1 Zopandrel, Hunger Dominus\n1 Roc Egg\n1 Swiftfoot Boots\n1 Earthshaker Dreadmaw\n1 Monster Manual\n1 Temple Altisaur\n1 Kogla and Yidaro\n1 Beast Within\n1 Shields of Velis Vel\n1 Primal Growth\n1 Kodama of the East Tree\n1 Samut, Voice of Dissent\n1 Naya Charm\n1 Blasphemous Act\n1 Mosswort Bridge\n1 Selesnya Signet\n1 Silverclad Ferocidons\n1 Spawning Pit\n1 Boros Signet\n1 Gruul Turf\n1 Ranging Raptors\n1 Ojer Taq, Deepest Foundation\n1 Forerunner of the Empire\n1 Congregation at Dawn\n1 Colossal Majesty\n1 Command Tower\n1 Exotic Orchard\n1 Path of Ancestry\n1 Aggressive Crag\n1 An-Havva Township\n1 Battlefield Forge\n1 Brushland\n1 Contested Cliffs\n1 Fetching Garden\n1 Fungal Reaches\n1 Grove of the Guardian\n1 Hushwood Verge\n1 Karplusan Forest\n1 Kessig Wolf Run\n1 Mogg Hollows\n1 Mossfire Valley\n1 Nantuko Monastery\n1 Omenpath to Naya\n1 Path of Mettle // Metzali, Tower of Triumph\n1 Pinecrest Ridge\n1 Rith's Grove\n1 Rugged Prairie\n1 Saltcrusted Steppe\n1 Sheltering Landscape\n1 Skarrg, the Rage Pits\n1 Slayers' Stronghold\n1 Sungrass Prairie\n1 Abraded Bluffs\n1 Alpine Meadow\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Forest\n1 Plains\n1 Mountain\n1 Forest\n1 Plains",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": true,
+    "counts": {
+      "lands": 40,
+      "ramp": 10,
+      "card_draw": 10,
+      "targeted_removal": 9,
+      "mass_removal": 6,
+      "synergy": 21,
+      "uncategorized": 3
+    },
+    "gaps": {}
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "card_draw",
+      "added": "Your Temple Is Under Attack",
+      "removed": "Palani's Hatcher"
+    },
+    {
+      "category": "card_draw",
+      "added": "Aladdin's Lamp",
+      "removed": "Nesting Dragon"
+    },
+    {
+      "category": "card_draw",
+      "added": "Valiant Batrider",
+      "removed": "Etali, Primal Storm"
+    },
+    {
+      "category": "card_draw",
+      "added": "Common Iguana",
+      "removed": "Maskwood Nexus"
+    },
+    {
+      "category": "card_draw",
+      "added": "Gathering Throng",
+      "removed": "Zetalpa, Primal Dawn"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Limited Resources",
+      "removed": "Dinosaur Egg"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Gideon, Champion of Justice",
+      "removed": "Ghalta and Mavren"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Aligned Hedron Network",
+      "removed": "Ghalta, Stampede Tyrant"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Ruinous Rampage",
+      "removed": "Ghalta, Primal Hunger"
+    }
+  ]
+}

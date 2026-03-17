@@ -1,0 +1,583 @@
+{
+  "commander": "Animar, Soul of Elements",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 99,
+  "total_cost_display": "$423.40",
+  "deck": {
+    "commander": "Animar, Soul of Elements",
+    "creatures": [
+      {
+        "name": "Conclave Naturalists",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/2xm/160/conclave-naturalists"
+      },
+      {
+        "name": "Soul of the Harvest",
+        "price": "$1.20",
+        "url": "https://manapool.com/card/c14/215/soul-of-the-harvest"
+      },
+      {
+        "name": "Rattleclaw Mystic",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/ktk/144/rattleclaw-mystic"
+      },
+      {
+        "name": "Ornithopter of Paradise",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/j25/153/ornithopter-of-paradise"
+      },
+      {
+        "name": "Mulldrifter",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ecc/67/mulldrifter"
+      },
+      {
+        "name": "Solemn Simulacrum",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/fdn/257/solemn-simulacrum"
+      },
+      {
+        "name": "Artisan of Kozilek",
+        "price": "$0.45",
+        "url": "https://manapool.com/card/ddp/42/artisan-of-kozilek"
+      },
+      {
+        "name": "Primordial Sage",
+        "price": "$0.63",
+        "url": "https://manapool.com/card/jmp/422/primordial-sage"
+      },
+      {
+        "name": "Llanowar Elves",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fdn/227/llanowar-elves"
+      },
+      {
+        "name": "Elvish Mystic",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/cmm/648/elvish-mystic"
+      },
+      {
+        "name": "Exocrine",
+        "price": "$1.29",
+        "url": "https://manapool.com/card/40k/76/exocrine"
+      },
+      {
+        "name": "Fierce Empath",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/2xm/168/fierce-empath"
+      },
+      {
+        "name": "Reclamation Sage",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmr/248/reclamation-sage"
+      },
+      {
+        "name": "Beastcaller Savant",
+        "price": "$0.53",
+        "url": "https://manapool.com/card/bfz/170/beastcaller-savant"
+      },
+      {
+        "name": "Sakura-Tribe Elder",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/dsc/194/sakura-tribe-elder"
+      },
+      {
+        "name": "Wandering Archaic",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Phyrexian Metamorph",
+        "price": "$2.20",
+        "url": "https://manapool.com/card/plst/NPH-42/phyrexian-metamorph"
+      },
+      {
+        "name": "Cloud of Faeries",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/dmr/43/cloud-of-faeries"
+      },
+      {
+        "name": "Eternal Witness",
+        "price": "$0.85",
+        "url": "https://manapool.com/card/ddj/55/eternal-witness"
+      },
+      {
+        "name": "Fyndhorn Elves",
+        "price": "$1.86",
+        "url": "https://manapool.com/card/cmr/228/fyndhorn-elves"
+      },
+      {
+        "name": "Zoanthrope",
+        "price": "$0.98",
+        "url": "https://manapool.com/card/40k/149/zoanthrope"
+      },
+      {
+        "name": "Stonecoil Serpent",
+        "price": "$1.13",
+        "url": "https://manapool.com/card/eld/235/stonecoil-serpent"
+      },
+      {
+        "name": "Fauna Shaman",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/abro/24/fauna-shaman"
+      },
+      {
+        "name": "Kalonian Hydra",
+        "price": "$3.01",
+        "url": "https://manapool.com/card/blc/226/kalonian-hydra"
+      },
+      {
+        "name": "Shivan Devastator",
+        "price": "$2.80",
+        "url": "https://manapool.com/card/dmu/143/shivan-devastator"
+      },
+      {
+        "name": "Wood Elves",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/ltc/263/wood-elves"
+      },
+      {
+        "name": "Winged Hive Tyrant",
+        "price": "$2.36",
+        "url": "https://manapool.com/card/40k/148/winged-hive-tyrant"
+      },
+      {
+        "name": "Tam, Mindful First-Year",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ecl/245/tam-mindful-first-year"
+      },
+      {
+        "name": "Selvala, Heart of the Wilds",
+        "price": "$2.90",
+        "url": "https://manapool.com/card/ecc/116/selvala-heart-of-the-wilds"
+      },
+      {
+        "name": "Sunderflock",
+        "price": "$1.29",
+        "url": "https://manapool.com/card/ecl/74/sunderflock"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Unfriendly Fire",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/xln/172/unfriendly-fire"
+      },
+      {
+        "name": "Shivan Fire",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dom/142/shivan-fire"
+      },
+      {
+        "name": "Cleansing Beam",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cma/78/cleansing-beam"
+      },
+      {
+        "name": "Cinderclasm",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/znr/136/cinderclasm"
+      },
+      {
+        "name": "Slip Out the Back",
+        "price": "$1.87",
+        "url": "https://manapool.com/card/snc/62/slip-out-the-back"
+      },
+      {
+        "name": "Heroic Intervention",
+        "price": "$1.07",
+        "url": "https://manapool.com/card/altr/73/heroic-intervention"
+      },
+      {
+        "name": "Inspiring Call",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fdn/226/inspiring-call"
+      },
+      {
+        "name": "Invigorating Surge",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/plst/M21-190/invigorating-surge"
+      },
+      {
+        "name": "Shared Summons",
+        "price": "$1.22",
+        "url": "https://manapool.com/card/m20/193/shared-summons"
+      },
+      {
+        "name": "Trap Essence",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ktk/209/trap-essence"
+      },
+      {
+        "name": "Ugin's Binding",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/mh3/76/ugins-binding"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Neoform",
+        "price": "$0.59",
+        "url": "https://manapool.com/card/war/206/neoform"
+      },
+      {
+        "name": "Wave Goodbye",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/tmc/46/wave-goodbye"
+      },
+      {
+        "name": "Eldritch Evolution",
+        "price": "$2.39",
+        "url": "https://manapool.com/card/plst/EMN-155/eldritch-evolution"
+      },
+      {
+        "name": "Overwhelming Stampede",
+        "price": "$1.62",
+        "url": "https://manapool.com/card/dsc/192/overwhelming-stampede"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Aligned Hedron Network",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/bfz/222/aligned-hedron-network"
+      },
+      {
+        "name": "Chaos Orb",
+        "price": "$364.70",
+        "url": "https://manapool.com/card/30a/231/chaos-orb"
+      },
+      {
+        "name": "Swiftfoot Boots",
+        "price": "$1.87",
+        "url": "https://manapool.com/card/fdn/258/swiftfoot-boots"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "Temur Ascendancy",
+        "price": "$1.84",
+        "url": "https://manapool.com/card/tdc/305/temur-ascendancy"
+      },
+      {
+        "name": "Magma Vein",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/ody/203/magma-vein"
+      },
+      {
+        "name": "Garruk's Uprising",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/fdn/220/garruks-uprising"
+      },
+      {
+        "name": "Hydra's Growth",
+        "price": "$0.93",
+        "url": "https://manapool.com/card/thb/172/hydras-growth"
+      },
+      {
+        "name": "Simic Ascendancy",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/blc/260/simic-ascendancy"
+      },
+      {
+        "name": "Kozilek's Unsealing",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/65/kozileks-unsealing"
+      },
+      {
+        "name": "Equilibrium",
+        "price": "$0.61",
+        "url": "https://manapool.com/card/mb2/162/equilibrium"
+      }
+    ],
+    "planeswalkers": [],
+    "lands": [
+      {
+        "name": "Opal Palace",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c13/310/opal-palace"
+      },
+      {
+        "name": "Ancient Ziggurat",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/ecc/144/ancient-ziggurat"
+      },
+      {
+        "name": "Rogue's Passage",
+        "price": "$0.35",
+        "url": "https://manapool.com/card/fdn/264/rogues-passage"
+      },
+      {
+        "name": "Eldrazi Temple",
+        "price": "$1.80",
+        "url": "https://manapool.com/card/m3c/339/eldrazi-temple"
+      },
+      {
+        "name": "Karn's Bastion",
+        "price": "$2.08",
+        "url": "https://manapool.com/card/moc/409/karns-bastion"
+      },
+      {
+        "name": "Llanowar Reborn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lcc/341/llanowar-reborn"
+      },
+      {
+        "name": "Command Tower",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/325/command-tower"
+      },
+      {
+        "name": "Exotic Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/131/exotic-orchard"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Alchemist's Refuge",
+        "price": "$0.65",
+        "url": "https://manapool.com/card/lcc/318/alchemists-refuge"
+      },
+      {
+        "name": "Bountiful Landscape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/217/bountiful-landscape"
+      },
+      {
+        "name": "Cascade Bluffs",
+        "price": "$0.51",
+        "url": "https://manapool.com/card/eoc/153/cascade-bluffs"
+      },
+      {
+        "name": "Contested Cliffs",
+        "price": "$0.29",
+        "url": "https://manapool.com/card/c13/282/contested-cliffs"
+      },
+      {
+        "name": "Desolate Lighthouse",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/avr/227/desolate-lighthouse"
+      },
+      {
+        "name": "Ferrous Lake",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/pip/148/ferrous-lake"
+      },
+      {
+        "name": "Flooded Grove",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltc/309/flooded-grove"
+      },
+      {
+        "name": "Fungal Reaches",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tsr/279/fungal-reaches"
+      },
+      {
+        "name": "Karplusan Forest",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/drc/163/karplusan-forest"
+      },
+      {
+        "name": "Kessig Wolf Run",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mkc/269/kessig-wolf-run"
+      },
+      {
+        "name": "Mogg Hollows",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/tmp/320/mogg-hollows"
+      },
+      {
+        "name": "Mossfire Valley",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/316/mossfire-valley"
+      },
+      {
+        "name": "Nivix, Aerie of the Firemind",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ddj/36/nivix-aerie-of-the-firemind"
+      },
+      {
+        "name": "Novijen, Heart of Progress",
+        "price": "$0.30",
+        "url": "https://manapool.com/card/dis/175/novijen-heart-of-progress"
+      },
+      {
+        "name": "Overflowing Basin",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/321/overflowing-basin"
+      },
+      {
+        "name": "Pinecrest Ridge",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/chk/281/pinecrest-ridge"
+      },
+      {
+        "name": "Shivan Reef",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/dmu/255/shivan-reef"
+      },
+      {
+        "name": "Skarrg, the Rage Pits",
+        "price": "$0.62",
+        "url": "https://manapool.com/card/gpt/163/skarrg-the-rage-pits"
+      },
+      {
+        "name": "Slumbering Waterways",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mb2/618/slumbering-waterways"
+      },
+      {
+        "name": "Temur Elevator",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mb2/619/temur-elevator"
+      },
+      {
+        "name": "Timberline Ridge",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/ice/361/timberline-ridge"
+      },
+      {
+        "name": "Value Town // Take a Trip to...",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/mb2/621/value-town-take-a-trip-to"
+      },
+      {
+        "name": "Waterlogged Grove",
+        "price": "$0.57",
+        "url": "https://manapool.com/card/who/331/waterlogged-grove"
+      },
+      {
+        "name": "Yavimaya Coast",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/drc/184/yavimaya-coast"
+      },
+      {
+        "name": "Airship Engine Room",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tla/265/airship-engine-room"
+      },
+      {
+        "name": "Balamb Garden, SeeD Academy // Balamb Garden, Airborne",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/272/balamb-garden-seed-academy-balamb-garden-airborne"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      }
+    ],
+    "other": [
+      {
+        "name": "Counterspell",
+        "price": "$1.61",
+        "url": "https://manapool.com/card/wc97/pm77/counterspell"
+      }
+    ]
+  },
+  "export_text": "1 Animar, Soul of Elements *CMDR*\n1 Unfriendly Fire\n1 Conclave Naturalists\n1 Aligned Hedron Network\n1 Soul of the Harvest\n1 Rattleclaw Mystic\n1 Shivan Fire\n1 Ornithopter of Paradise\n1 Chaos Orb\n1 Mulldrifter\n1 Cleansing Beam\n1 Solemn Simulacrum\n1 Artisan of Kozilek\n1 Primordial Sage\n1 Llanowar Elves\n1 Elvish Mystic\n1 Cinderclasm\n1 Exocrine\n1 Fierce Empath\n1 Reclamation Sage\n1 Beastcaller Savant\n1 Temur Ascendancy\n1 Magma Vein\n1 Garruk's Uprising\n1 Sakura-Tribe Elder\n1 Wandering Archaic\n1 Opal Palace\n1 Phyrexian Metamorph\n1 Cloud of Faeries\n1 Eternal Witness\n1 Fyndhorn Elves\n1 Zoanthrope\n1 Stonecoil Serpent\n1 Fauna Shaman\n1 Kalonian Hydra\n1 Slip Out the Back\n1 Shivan Devastator\n1 Wood Elves\n1 Ancient Ziggurat\n1 Heroic Intervention\n1 Hydra's Growth\n1 Winged Hive Tyrant\n1 Inspiring Call\n1 Rogue's Passage\n1 Simic Ascendancy\n1 Tam, Mindful First-Year\n1 Invigorating Surge\n1 Shared Summons\n1 Neoform\n1 Wave Goodbye\n1 Counterspell\n1 Selvala, Heart of the Wilds\n1 Trap Essence\n1 Eldritch Evolution\n1 Swiftfoot Boots\n1 Eldrazi Temple\n1 Ugin's Binding\n1 Overwhelming Stampede\n1 Kozilek's Unsealing\n1 Equilibrium\n1 Karn's Bastion\n1 Llanowar Reborn\n1 Sunderflock\n1 Command Tower\n1 Exotic Orchard\n1 Path of Ancestry\n1 Alchemist's Refuge\n1 Bountiful Landscape\n1 Cascade Bluffs\n1 Contested Cliffs\n1 Desolate Lighthouse\n1 Ferrous Lake\n1 Flooded Grove\n1 Fungal Reaches\n1 Karplusan Forest\n1 Kessig Wolf Run\n1 Mogg Hollows\n1 Mossfire Valley\n1 Nivix, Aerie of the Firemind\n1 Novijen, Heart of Progress\n1 Overflowing Basin\n1 Pinecrest Ridge\n1 Shivan Reef\n1 Skarrg, the Rage Pits\n1 Slumbering Waterways\n1 Temur Elevator\n1 Timberline Ridge\n1 Value Town // Take a Trip to...\n1 Waterlogged Grove\n1 Yavimaya Coast\n1 Airship Engine Room\n1 Balamb Garden, SeeD Academy // Balamb Garden, Airborne\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Forest\n1 Island\n1 Mountain\n1 Forest\n1 Island",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": true,
+    "counts": {
+      "lands": 43,
+      "ramp": 11,
+      "card_draw": 10,
+      "targeted_removal": 8,
+      "mass_removal": 8,
+      "synergy": 17,
+      "uncategorized": 2
+    },
+    "gaps": {}
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "targeted_removal",
+      "added": "Unfriendly Fire",
+      "removed": "Ancestral Statue"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Conclave Naturalists",
+      "removed": "Forgotten Ancient"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Aligned Hedron Network",
+      "removed": "Hardened Scales"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Shivan Fire",
+      "removed": "Peregrine Drake"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Chaos Orb",
+      "removed": "Hydroid Krasis"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Cleansing Beam",
+      "removed": "Vizier of the Menagerie"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Cinderclasm",
+      "removed": "Maelstrom Wanderer"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Exocrine",
+      "removed": "Surrak Dragonclaw"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Magma Vein",
+      "removed": "Temur Sabertooth"
+    }
+  ]
+}

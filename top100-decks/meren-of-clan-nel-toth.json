@@ -1,0 +1,552 @@
+{
+  "commander": "Meren of Clan Nel Toth",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 97,
+  "total_cost_display": "$67.81",
+  "deck": {
+    "commander": "Meren of Clan Nel Toth",
+    "creatures": [
+      {
+        "name": "Plaguecrafter",
+        "price": "$0.30",
+        "url": "https://manapool.com/card/blc/187/plaguecrafter"
+      },
+      {
+        "name": "Sakura-Tribe Elder",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/dsc/194/sakura-tribe-elder"
+      },
+      {
+        "name": "Grim Haruspex",
+        "price": "$2.07",
+        "url": "https://manapool.com/card/ktk/73/grim-haruspex"
+      },
+      {
+        "name": "Accursed Marauder",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/80/accursed-marauder"
+      },
+      {
+        "name": "Fleshbag Marauder",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/drc/92/fleshbag-marauder"
+      },
+      {
+        "name": "Ravenous Chupacabra",
+        "price": "$0.36",
+        "url": "https://manapool.com/card/rix/82/ravenous-chupacabra"
+      },
+      {
+        "name": "Cankerbloom",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/one/294/cankerbloom"
+      },
+      {
+        "name": "Blood Artist",
+        "price": "$2.08",
+        "url": "https://manapool.com/card/2x2/70/blood-artist"
+      },
+      {
+        "name": "Shriekmaw",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ecc/85/shriekmaw"
+      },
+      {
+        "name": "Zulaport Cutthroat",
+        "price": "$1.40",
+        "url": "https://manapool.com/card/bfz/126/zulaport-cutthroat"
+      },
+      {
+        "name": "Haywire Mite",
+        "price": "$0.46",
+        "url": "https://manapool.com/card/blc/274/haywire-mite"
+      },
+      {
+        "name": "Syr Konrad, the Grim",
+        "price": "$0.36",
+        "url": "https://manapool.com/card/plst/ELD-107/syr-konrad-the-grim"
+      },
+      {
+        "name": "Solemn Simulacrum",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/fdn/257/solemn-simulacrum"
+      },
+      {
+        "name": "Butcher of Malakir",
+        "price": "$0.28",
+        "url": "https://manapool.com/card/c17/103/butcher-of-malakir"
+      },
+      {
+        "name": "Wood Elves",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/ltc/263/wood-elves"
+      },
+      {
+        "name": "Reclamation Sage",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmr/248/reclamation-sage"
+      },
+      {
+        "name": "Wight of the Reliquary",
+        "price": "$2.29",
+        "url": "https://manapool.com/card/mh3/207/wight-of-the-reliquary"
+      },
+      {
+        "name": "Caustic Caterpillar",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/j22/86/caustic-caterpillar"
+      },
+      {
+        "name": "Satyr Wayfinder",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/bng/136/satyr-wayfinder"
+      },
+      {
+        "name": "Demon's Disciple",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmm/149/demons-disciple"
+      },
+      {
+        "name": "Midnight Reaper",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/fdn/609/midnight-reaper"
+      },
+      {
+        "name": "Junji, the Midnight Sky",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/tdc/183/junji-the-midnight-sky"
+      },
+      {
+        "name": "Merciless Executioner",
+        "price": "$0.29",
+        "url": "https://manapool.com/card/ltc/204/merciless-executioner"
+      },
+      {
+        "name": "Fauna Shaman",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/abro/24/fauna-shaman"
+      },
+      {
+        "name": "Insidious Fungus",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsk/321/insidious-fungus"
+      },
+      {
+        "name": "Acidic Slime",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afc/151/acidic-slime"
+      },
+      {
+        "name": "Umbral Collar Zealot",
+        "price": "$0.80",
+        "url": "https://manapool.com/card/eoe/123/umbral-collar-zealot"
+      },
+      {
+        "name": "Jarad, Golgari Lich Lord",
+        "price": "$0.50",
+        "url": "https://manapool.com/card/tdc/293/jarad-golgari-lich-lord"
+      },
+      {
+        "name": "Viridian Emissary",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c15/208/viridian-emissary"
+      },
+      {
+        "name": "Woe Strider",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/189/woe-strider"
+      },
+      {
+        "name": "Morbid Opportunist",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/183/morbid-opportunist"
+      },
+      {
+        "name": "Stitcher's Supplier",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsc/157/stitchers-supplier"
+      },
+      {
+        "name": "Disciple of Bolas",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/tdc/178/disciple-of-bolas"
+      },
+      {
+        "name": "Farhaven Elf",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmr/225/farhaven-elf"
+      },
+      {
+        "name": "Llanowar Elves",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fdn/227/llanowar-elves"
+      },
+      {
+        "name": "Elves of Deep Shadow",
+        "price": "$2.58",
+        "url": "https://manapool.com/card/rav/161/elves-of-deep-shadow"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Rampage of the Clans",
+        "price": "$0.34",
+        "url": "https://manapool.com/card/rna/134/rampage-of-the-clans"
+      },
+      {
+        "name": "Village Rites",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/m21/126/village-rites"
+      },
+      {
+        "name": "Grisly Salvage",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsc/219/grisly-salvage"
+      },
+      {
+        "name": "Corrupted Conviction",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/mom/98/corrupted-conviction"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Nuclear Fallout",
+        "price": "$5.68",
+        "url": "https://manapool.com/card/pip/47/nuclear-fallout"
+      },
+      {
+        "name": "The Great Aurora",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/ori/179/the-great-aurora"
+      },
+      {
+        "name": "Victimize",
+        "price": "$0.50",
+        "url": "https://manapool.com/card/mh3/278/victimize"
+      },
+      {
+        "name": "Living Death",
+        "price": "$1.85",
+        "url": "https://manapool.com/card/a25/96/living-death"
+      },
+      {
+        "name": "Eldritch Evolution",
+        "price": "$2.39",
+        "url": "https://manapool.com/card/plst/EMN-155/eldritch-evolution"
+      },
+      {
+        "name": "Jarad's Orders",
+        "price": "$0.57",
+        "url": "https://manapool.com/card/rtr/175/jarads-orders"
+      },
+      {
+        "name": "Rise of the Witch-king",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/ltr/221/rise-of-the-witch-king"
+      },
+      {
+        "name": "Dread Return",
+        "price": "$0.46",
+        "url": "https://manapool.com/card/ddq/55/dread-return"
+      },
+      {
+        "name": "Unmarked Grave",
+        "price": "$2.38",
+        "url": "https://manapool.com/card/mh2/106/unmarked-grave"
+      },
+      {
+        "name": "Primal Growth",
+        "price": "$0.34",
+        "url": "https://manapool.com/card/plst/PLS-87/primal-growth"
+      }
+    ],
+    "artifacts": [],
+    "enchantments": [
+      {
+        "name": "Illness in the Ranks",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/gtc/69/illness-in-the-ranks"
+      },
+      {
+        "name": "Season of the Witch",
+        "price": "$16.65",
+        "url": "https://manapool.com/card/drk/52/season-of-the-witch"
+      },
+      {
+        "name": "Evolutionary Leap",
+        "price": "$0.78",
+        "url": "https://manapool.com/card/ncc/288/evolutionary-leap"
+      },
+      {
+        "name": "Moldervine Reclamation",
+        "price": "$0.32",
+        "url": "https://manapool.com/card/blc/255/moldervine-reclamation"
+      },
+      {
+        "name": "Insidious Roots",
+        "price": "$1.54",
+        "url": "https://manapool.com/card/mkm/208/insidious-roots"
+      },
+      {
+        "name": "Awakening Zone",
+        "price": "$0.57",
+        "url": "https://manapool.com/card/roe/176/awakening-zone"
+      }
+    ],
+    "planeswalkers": [],
+    "lands": [
+      {
+        "name": "High Market",
+        "price": "$0.83",
+        "url": "https://manapool.com/card/fic/402/high-market"
+      },
+      {
+        "name": "Phyrexian Tower",
+        "price": "$0.82",
+        "url": "https://manapool.com/card/amh3/23/phyrexian-tower"
+      },
+      {
+        "name": "Grim Backwoods",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/309/grim-backwoods"
+      },
+      {
+        "name": "Journey to Eternity",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Tainted Wood",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/plst/TOR-143/tainted-wood"
+      },
+      {
+        "name": "Command Tower",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/325/command-tower"
+      },
+      {
+        "name": "Exotic Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/131/exotic-orchard"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Llanowar Wastes",
+        "price": "$0.47",
+        "url": "https://manapool.com/card/blc/315/llanowar-wastes"
+      },
+      {
+        "name": "Noxious Bayou",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/cmb2/118/noxious-bayou"
+      },
+      {
+        "name": "Svogthos, the Restless Tomb",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmd/289/svogthos-the-restless-tomb"
+      },
+      {
+        "name": "Twilight Mire",
+        "price": "$0.36",
+        "url": "https://manapool.com/card/blc/351/twilight-mire"
+      },
+      {
+        "name": "Viridescent Bog",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/352/viridescent-bog"
+      },
+      {
+        "name": "Darkmoss Bridge",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsc/269/darkmoss-bridge"
+      },
+      {
+        "name": "Festering Gulch",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/otj/257/festering-gulch"
+      },
+      {
+        "name": "Festering Thicket",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/ecc/61/festering-thicket"
+      },
+      {
+        "name": "Foggy Bottom Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tla/269/foggy-bottom-swamp"
+      },
+      {
+        "name": "Foul Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/akh/279/foul-orchard"
+      },
+      {
+        "name": "Gohn, Town of Ruin",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/278/gohn-town-of-ruin"
+      },
+      {
+        "name": "Golgari Guildgate",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c15/286/golgari-guildgate"
+      },
+      {
+        "name": "Golgari Rot Farm",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/308/golgari-rot-farm"
+      },
+      {
+        "name": "Haunted Mire",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/311/haunted-mire"
+      },
+      {
+        "name": "Hissing Quagmire",
+        "price": "$0.23",
+        "url": "https://manapool.com/card/eos/19/hissing-quagmire"
+      },
+      {
+        "name": "Illegitimate Business",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmt/186/illegitimate-business"
+      },
+      {
+        "name": "Jungle Hollow",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/313/jungle-hollow"
+      },
+      {
+        "name": "Lounge",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/clu/19/lounge"
+      },
+      {
+        "name": "Necroblossom Snarl",
+        "price": "$0.33",
+        "url": "https://manapool.com/card/stx/269/necroblossom-snarl"
+      },
+      {
+        "name": "Pine Barrens",
+        "price": "$1.04",
+        "url": "https://manapool.com/card/tmp/321/pine-barrens"
+      },
+      {
+        "name": "Restless Cottage",
+        "price": "$1.04",
+        "url": "https://manapool.com/card/woe/304/restless-cottage"
+      },
+      {
+        "name": "Revitalizing Repast // Old-Growth Grove",
+        "price": "$0.95",
+        "url": "https://manapool.com/card/mh3/256/revitalizing-repast-old-growth-grove"
+      },
+      {
+        "name": "Skemfar Elderhall",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/khm/268/skemfar-elderhall"
+      },
+      {
+        "name": "Strangled Cemetery",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsk/268/strangled-cemetery"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      }
+    ],
+    "other": [
+      {
+        "name": "Dark Ritual",
+        "price": "$2.44",
+        "url": "https://manapool.com/card/3ed/99/dark-ritual"
+      }
+    ]
+  },
+  "export_text": "1 Meren of Clan Nel Toth *CMDR*\n1 Rampage of the Clans\n1 Plaguecrafter\n1 Sakura-Tribe Elder\n1 Illness in the Ranks\n1 Season of the Witch\n1 Nuclear Fallout\n1 The Great Aurora\n1 Victimize\n1 Grim Haruspex\n1 Accursed Marauder\n1 Fleshbag Marauder\n1 Ravenous Chupacabra\n1 High Market\n1 Cankerbloom\n1 Blood Artist\n1 Shriekmaw\n1 Zulaport Cutthroat\n1 Haywire Mite\n1 Syr Konrad, the Grim\n1 Solemn Simulacrum\n1 Butcher of Malakir\n1 Wood Elves\n1 Living Death\n1 Reclamation Sage\n1 Wight of the Reliquary\n1 Phyrexian Tower\n1 Caustic Caterpillar\n1 Satyr Wayfinder\n1 Demon's Disciple\n1 Midnight Reaper\n1 Junji, the Midnight Sky\n1 Merciless Executioner\n1 Fauna Shaman\n1 Insidious Fungus\n1 Acidic Slime\n1 Umbral Collar Zealot\n1 Village Rites\n1 Jarad, Golgari Lich Lord\n1 Grisly Salvage\n1 Eldritch Evolution\n1 Grim Backwoods\n1 Viridian Emissary\n1 Woe Strider\n1 Jarad's Orders\n1 Morbid Opportunist\n1 Stitcher's Supplier\n1 Rise of the Witch-king\n1 Dread Return\n1 Unmarked Grave\n1 Journey to Eternity\n1 Disciple of Bolas\n1 Farhaven Elf\n1 Primal Growth\n1 Dark Ritual\n1 Evolutionary Leap\n1 Tainted Wood\n1 Llanowar Elves\n1 Elves of Deep Shadow\n1 Corrupted Conviction\n1 Moldervine Reclamation\n1 Insidious Roots\n1 Awakening Zone\n1 Command Tower\n1 Exotic Orchard\n1 Path of Ancestry\n1 Llanowar Wastes\n1 Noxious Bayou\n1 Svogthos, the Restless Tomb\n1 Twilight Mire\n1 Viridescent Bog\n1 Darkmoss Bridge\n1 Festering Gulch\n1 Festering Thicket\n1 Foggy Bottom Swamp\n1 Foul Orchard\n1 Gohn, Town of Ruin\n1 Golgari Guildgate\n1 Golgari Rot Farm\n1 Haunted Mire\n1 Hissing Quagmire\n1 Illegitimate Business\n1 Jungle Hollow\n1 Lounge\n1 Necroblossom Snarl\n1 Pine Barrens\n1 Restless Cottage\n1 Revitalizing Repast // Old-Growth Grove\n1 Skemfar Elderhall\n1 Strangled Cemetery\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Forest\n1 Swamp\n1 Forest\n1 Swamp\n1 Forest",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": true,
+    "counts": {
+      "lands": 39,
+      "ramp": 11,
+      "card_draw": 11,
+      "targeted_removal": 15,
+      "mass_removal": 6,
+      "synergy": 13,
+      "uncategorized": 2
+    },
+    "gaps": {}
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "mass_removal",
+      "added": "Rampage of the Clans",
+      "removed": "Spore Frog"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Illness in the Ranks",
+      "removed": "Gray Merchant of Asphodel"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Season of the Witch",
+      "removed": "Viscera Seer"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Nuclear Fallout",
+      "removed": "Eternal Witness"
+    },
+    {
+      "category": "mass_removal",
+      "added": "The Great Aurora",
+      "removed": "Buried Alive"
+    }
+  ]
+}

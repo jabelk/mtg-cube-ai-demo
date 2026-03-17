@@ -1,0 +1,599 @@
+{
+  "commander": "Alela, Cunning Conqueror",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 97,
+  "total_cost_display": "$66.90",
+  "deck": {
+    "commander": "Alela, Cunning Conqueror",
+    "creatures": [
+      {
+        "name": "Greedy Freebooter",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lci/109/greedy-freebooter"
+      },
+      {
+        "name": "Tegwyll, Duke of Splendor",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/awoe/48/tegwyll-duke-of-splendor"
+      },
+      {
+        "name": "Hydro-Man, Fluid Felon",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/spm/250/hydro-man-fluid-felon"
+      },
+      {
+        "name": "Nymris, Oona's Trickster",
+        "price": "$0.23",
+        "url": "https://manapool.com/card/cmr/288/nymris-oonas-trickster"
+      },
+      {
+        "name": "Brazen Borrower",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Boiling Rock Rioter",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tla/87/boiling-rock-rioter"
+      },
+      {
+        "name": "Voracious Tome-Skimmer",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ecl/250/voracious-tome-skimmer"
+      },
+      {
+        "name": "Wavebreak Hippocamp",
+        "price": "$0.68",
+        "url": "https://manapool.com/card/j25/387/wavebreak-hippocamp"
+      },
+      {
+        "name": "Rankle, Master of Pranks",
+        "price": "$2.65",
+        "url": "https://manapool.com/card/woc/116/rankle-master-of-pranks"
+      },
+      {
+        "name": "Western Paladin",
+        "price": "$0.23",
+        "url": "https://manapool.com/card/7ed/170/western-paladin"
+      },
+      {
+        "name": "Glen Elendra Guardian",
+        "price": "$0.62",
+        "url": "https://manapool.com/card/ecl/51/glen-elendra-guardian"
+      },
+      {
+        "name": "Picklock Prankster",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Hypnotic Sprite",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Spellscorn Coven",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Scourge of Fleets",
+        "price": "$0.37",
+        "url": "https://manapool.com/card/jou/51/scourge-of-fleets"
+      },
+      {
+        "name": "Cloud of Faeries",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/dmr/43/cloud-of-faeries"
+      },
+      {
+        "name": "Cunning Nightbonder",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/iko/219/cunning-nightbonder"
+      },
+      {
+        "name": "Flitterwing Nuisance",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ecl/304/flitterwing-nuisance"
+      },
+      {
+        "name": "Unwelcome Sprite",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ecl/81/unwelcome-sprite"
+      },
+      {
+        "name": "Talion's Messenger",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/woe/73/talions-messenger"
+      },
+      {
+        "name": "Faerie Formation",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/scd/51/faerie-formation"
+      },
+      {
+        "name": "Puppeteer Clique",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ecc/84/puppeteer-clique"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Opt",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdc/158/opt"
+      },
+      {
+        "name": "Consider",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/tle/157/consider"
+      },
+      {
+        "name": "Frantic Search",
+        "price": "$0.51",
+        "url": "https://manapool.com/card/cmm/96/frantic-search"
+      },
+      {
+        "name": "Reality Shift",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/drc/39/reality-shift"
+      },
+      {
+        "name": "Faerie Fencing",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/woe/90/faerie-fencing"
+      },
+      {
+        "name": "Keep Watch",
+        "price": "$0.48",
+        "url": "https://manapool.com/card/jud/43/keep-watch"
+      },
+      {
+        "name": "Arcane Denial",
+        "price": "$2.05",
+        "url": "https://manapool.com/card/m3c/176/arcane-denial"
+      },
+      {
+        "name": "Run Away Together",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blb/67/run-away-together"
+      },
+      {
+        "name": "Harmonized Crescendo",
+        "price": "$0.42",
+        "url": "https://manapool.com/card/ecl/54/harmonized-crescendo"
+      },
+      {
+        "name": "Brainstorm",
+        "price": "$0.61",
+        "url": "https://manapool.com/card/wc00/jf61/brainstorm"
+      },
+      {
+        "name": "Pongify",
+        "price": "$1.45",
+        "url": "https://manapool.com/card/tdc/160/pongify"
+      },
+      {
+        "name": "Ugin's Binding",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/mh3/76/ugins-binding"
+      },
+      {
+        "name": "Deadly Dispute",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/blc/181/deadly-dispute"
+      },
+      {
+        "name": "Perplexing Test",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/blc/171/perplexing-test"
+      },
+      {
+        "name": "Rewind",
+        "price": "$0.35",
+        "url": "https://manapool.com/card/m13/65/rewind"
+      },
+      {
+        "name": "Rapid Hybridization",
+        "price": "$0.51",
+        "url": "https://manapool.com/card/lcc/166/rapid-hybridization"
+      },
+      {
+        "name": "Faebloom Trick",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fdn/38/faebloom-trick"
+      },
+      {
+        "name": "Aetherize",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fdn/151/aetherize"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Tegwyll's Scouring",
+        "price": "$0.83",
+        "url": "https://manapool.com/card/woc/52/tegwylls-scouring"
+      },
+      {
+        "name": "Distant Melody",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/ecc/45/distant-melody"
+      },
+      {
+        "name": "Poison Arrow",
+        "price": "$28.05",
+        "url": "https://manapool.com/card/ptk/80/poison-arrow"
+      },
+      {
+        "name": "Reduce to Dreams",
+        "price": "$0.38",
+        "url": "https://manapool.com/card/bok/49/reduce-to-dreams"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Paradise Plume",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c21/255/paradise-plume"
+      },
+      {
+        "name": "Mobile Homestead",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/otj/245/mobile-homestead"
+      },
+      {
+        "name": "Blue Mana Battery",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/4ed/300/blue-mana-battery"
+      },
+      {
+        "name": "Bident of Thassa",
+        "price": "$0.40",
+        "url": "https://manapool.com/card/blc/162/bident-of-thassa"
+      },
+      {
+        "name": "Bender's Waterskin",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/tla/255/benders-waterskin"
+      },
+      {
+        "name": "Midnight Clock",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/m3c/189/midnight-clock"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "Reconnaissance Mission",
+        "price": "$1.45",
+        "url": "https://manapool.com/card/iko/65/reconnaissance-mission"
+      },
+      {
+        "name": "Screams from Within",
+        "price": "$1.44",
+        "url": "https://manapool.com/card/dst/52/screams-from-within"
+      },
+      {
+        "name": "Reflections of Littjara",
+        "price": "$0.92",
+        "url": "https://manapool.com/card/lcc/168/reflections-of-littjara"
+      }
+    ],
+    "planeswalkers": [
+      {
+        "name": "Ashiok, Nightmare Muse",
+        "price": "$3.02",
+        "url": "https://manapool.com/card/thb/208/ashiok-nightmare-muse"
+      }
+    ],
+    "lands": [
+      {
+        "name": "Secluded Glen",
+        "price": "$1.77",
+        "url": "https://manapool.com/card/woc/166/secluded-glen"
+      },
+      {
+        "name": "Urza's Mine",
+        "price": "$0.35",
+        "url": "https://manapool.com/card/5ed/427/urzas-mine"
+      },
+      {
+        "name": "Faerie Conclave",
+        "price": "$0.50",
+        "url": "https://manapool.com/card/c13/288/faerie-conclave"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Waterlogged Teachings",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Bojuka Bog",
+        "price": "$0.98",
+        "url": "https://manapool.com/card/lcc/320/bojuka-bog"
+      },
+      {
+        "name": "Tainted Isle",
+        "price": "$0.45",
+        "url": "https://manapool.com/card/dsc/303/tainted-isle"
+      },
+      {
+        "name": "Command Tower",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/325/command-tower"
+      },
+      {
+        "name": "Exotic Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/131/exotic-orchard"
+      },
+      {
+        "name": "Darkwater Catacombs",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/c19/238/darkwater-catacombs"
+      },
+      {
+        "name": "Dreadship Reef",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/tsp/271/dreadship-reef"
+      },
+      {
+        "name": "Duskmantle, House of Shadow",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/plst/RAV-277/duskmantle-house-of-shadow"
+      },
+      {
+        "name": "Nephalia Drownyard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lcc/344/nephalia-drownyard"
+      },
+      {
+        "name": "River Delta",
+        "price": "$0.38",
+        "url": "https://manapool.com/card/ice/359/river-delta"
+      },
+      {
+        "name": "River of Tears",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/clb/912/river-of-tears"
+      },
+      {
+        "name": "Rootwater Depths",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmp/323/rootwater-depths"
+      },
+      {
+        "name": "Waterveil Cavern",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/chk/286/waterveil-cavern"
+      },
+      {
+        "name": "Choked Estuary",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lcc/322/choked-estuary"
+      },
+      {
+        "name": "Contaminated Aquifer",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmu/245/contaminated-aquifer"
+      },
+      {
+        "name": "Creeping Tar Pit",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/who/267/creeping-tar-pit"
+      },
+      {
+        "name": "Darkslick Shores",
+        "price": "$0.93",
+        "url": "https://manapool.com/card/one/250/darkslick-shores"
+      },
+      {
+        "name": "Dimir Aqueduct",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/clu/233/dimir-aqueduct"
+      },
+      {
+        "name": "Dimir Guildgate",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c13/284/dimir-guildgate"
+      },
+      {
+        "name": "Dismal Backwater",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/276/dismal-backwater"
+      },
+      {
+        "name": "Domesticated Watercourse",
+        "price": "$0.30",
+        "url": "https://manapool.com/card/cmb2/114/domesticated-watercourse"
+      },
+      {
+        "name": "Fetid Pools",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/drc/156/fetid-pools"
+      },
+      {
+        "name": "Frost Marsh",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/plst/CSP-146/frost-marsh"
+      },
+      {
+        "name": "Ice Tunnel",
+        "price": "$0.46",
+        "url": "https://manapool.com/card/khm/262/ice-tunnel"
+      },
+      {
+        "name": "Jwar Isle Refuge",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c13/300/jwar-isle-refuge"
+      },
+      {
+        "name": "Mistvault Bridge",
+        "price": "$0.39",
+        "url": "https://manapool.com/card/mh2/249/mistvault-bridge"
+      },
+      {
+        "name": "Murky Sewer",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsk/263/murky-sewer"
+      },
+      {
+        "name": "Port of Karfell",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/clb/908/port-of-karfell"
+      },
+      {
+        "name": "Salt Marsh",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/scd/316/salt-marsh"
+      },
+      {
+        "name": "Secret Passage",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/clu/20/secret-passage"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      }
+    ],
+    "other": [
+      {
+        "name": "Counterspell",
+        "price": "$1.61",
+        "url": "https://manapool.com/card/wc97/pm77/counterspell"
+      }
+    ]
+  },
+  "export_text": "1 Alela, Cunning Conqueror *CMDR*\n1 Greedy Freebooter\n1 Tegwyll, Duke of Splendor\n1 Hydro-Man, Fluid Felon\n1 Nymris, Oona's Trickster\n1 Brazen Borrower\n1 Secluded Glen\n1 Opt\n1 Boiling Rock Rioter\n1 Voracious Tome-Skimmer\n1 Wavebreak Hippocamp\n1 Urza's Mine\n1 Consider\n1 Frantic Search\n1 Faerie Conclave\n1 Rankle, Master of Pranks\n1 Paradise Plume\n1 Reality Shift\n1 Faerie Fencing\n1 Tegwyll's Scouring\n1 Mobile Homestead\n1 Reconnaissance Mission\n1 Keep Watch\n1 Blue Mana Battery\n1 Path of Ancestry\n1 Distant Melody\n1 Arcane Denial\n1 Western Paladin\n1 Screams from Within\n1 Run Away Together\n1 Glen Elendra Guardian\n1 Harmonized Crescendo\n1 Poison Arrow\n1 Picklock Prankster\n1 Hypnotic Sprite\n1 Waterlogged Teachings\n1 Ashiok, Nightmare Muse\n1 Bident of Thassa\n1 Bender's Waterskin\n1 Brainstorm\n1 Pongify\n1 Ugin's Binding\n1 Reduce to Dreams\n1 Spellscorn Coven\n1 Deadly Dispute\n1 Scourge of Fleets\n1 Perplexing Test\n1 Reflections of Littjara\n1 Bojuka Bog\n1 Midnight Clock\n1 Cloud of Faeries\n1 Rewind\n1 Cunning Nightbonder\n1 Flitterwing Nuisance\n1 Unwelcome Sprite\n1 Rapid Hybridization\n1 Talion's Messenger\n1 Faerie Formation\n1 Faebloom Trick\n1 Tainted Isle\n1 Counterspell\n1 Puppeteer Clique\n1 Aetherize\n1 Command Tower\n1 Exotic Orchard\n1 Darkwater Catacombs\n1 Dreadship Reef\n1 Duskmantle, House of Shadow\n1 Nephalia Drownyard\n1 River Delta\n1 River of Tears\n1 Rootwater Depths\n1 Waterveil Cavern\n1 Choked Estuary\n1 Contaminated Aquifer\n1 Creeping Tar Pit\n1 Darkslick Shores\n1 Dimir Aqueduct\n1 Dimir Guildgate\n1 Dismal Backwater\n1 Domesticated Watercourse\n1 Fetid Pools\n1 Frost Marsh\n1 Ice Tunnel\n1 Jwar Isle Refuge\n1 Mistvault Bridge\n1 Murky Sewer\n1 Port of Karfell\n1 Salt Marsh\n1 Secret Passage\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Swamp\n1 Island\n1 Swamp\n1 Island\n1 Swamp",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": true,
+    "counts": {
+      "lands": 41,
+      "ramp": 9,
+      "card_draw": 19,
+      "targeted_removal": 10,
+      "mass_removal": 6,
+      "synergy": 6,
+      "uncategorized": 6
+    },
+    "gaps": {}
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "ramp",
+      "added": "Greedy Freebooter",
+      "removed": "Obyra, Dreaming Duelist"
+    },
+    {
+      "category": "ramp",
+      "added": "Hydro-Man, Fluid Felon",
+      "removed": "Spell Stutter"
+    },
+    {
+      "category": "ramp",
+      "added": "Boiling Rock Rioter",
+      "removed": "Glen Elendra Liege"
+    },
+    {
+      "category": "ramp",
+      "added": "Urza's Mine",
+      "removed": "Mocking Sprite"
+    },
+    {
+      "category": "ramp",
+      "added": "Paradise Plume",
+      "removed": "Oona's Blackguard"
+    },
+    {
+      "category": "ramp",
+      "added": "Mobile Homestead",
+      "removed": "Sower of Temptation"
+    },
+    {
+      "category": "ramp",
+      "added": "Blue Mana Battery",
+      "removed": "Nettling Nuisance"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Western Paladin",
+      "removed": "Halo Forager"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Screams from Within",
+      "removed": "Quickling"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Poison Arrow",
+      "removed": "Oona, Queen of the Fae"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Ashiok, Nightmare Muse",
+      "removed": "Unwind"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Ugin's Binding",
+      "removed": "Faerie Tauntings"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Reduce to Dreams",
+      "removed": "Glen Elendra's Answer"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Scourge of Fleets",
+      "removed": "Illusionist's Gambit"
+    }
+  ]
+}

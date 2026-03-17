@@ -1,0 +1,617 @@
+{
+  "commander": "Teysa Karlov",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 99,
+  "total_cost_display": "$135.53",
+  "deck": {
+    "commander": "Teysa Karlov",
+    "creatures": [
+      {
+        "name": "Pitiless Plunderer",
+        "price": "$2.11",
+        "url": "https://manapool.com/card/fic/281/pitiless-plunderer"
+      },
+      {
+        "name": "Master of Ceremonies",
+        "price": "$15.29",
+        "url": "https://manapool.com/card/sld/2379/master-of-ceremonies"
+      },
+      {
+        "name": "Palladium Myr",
+        "price": "$0.41",
+        "url": "https://manapool.com/card/m21/234/palladium-myr"
+      },
+      {
+        "name": "Teysa, Orzhov Scion",
+        "price": "$1.11",
+        "url": "https://manapool.com/card/gpt/134/teysa-orzhov-scion"
+      },
+      {
+        "name": "Harvester of Souls",
+        "price": "$0.42",
+        "url": "https://manapool.com/card/j25/453/harvester-of-souls"
+      },
+      {
+        "name": "Bloodspatter Vampire",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Sidisi, Undead Vizier",
+        "price": "$6.80",
+        "url": "https://manapool.com/card/dtk/120/sidisi-undead-vizier"
+      },
+      {
+        "name": "Grim Haruspex",
+        "price": "$2.07",
+        "url": "https://manapool.com/card/ktk/73/grim-haruspex"
+      },
+      {
+        "name": "Midnight Reaper",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/fdn/609/midnight-reaper"
+      },
+      {
+        "name": "Sifter of Skulls",
+        "price": "$0.55",
+        "url": "https://manapool.com/card/ogw/77/sifter-of-skulls"
+      },
+      {
+        "name": "Ophiomancer",
+        "price": "$0.62",
+        "url": "https://manapool.com/card/mh3/276/ophiomancer"
+      },
+      {
+        "name": "Marionette Apprentice",
+        "price": "$0.98",
+        "url": "https://manapool.com/card/mh3/100/marionette-apprentice"
+      },
+      {
+        "name": "Bartolom\u00e9 del Presidio",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lci/224/bartolome-del-presidio"
+      },
+      {
+        "name": "Solemn Simulacrum",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/fdn/257/solemn-simulacrum"
+      },
+      {
+        "name": "Vindictive Vampire",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/rvr/330/vindictive-vampire"
+      },
+      {
+        "name": "Mirkwood Bats",
+        "price": "$0.76",
+        "url": "https://manapool.com/card/ltr/95/mirkwood-bats"
+      },
+      {
+        "name": "Tithe Taker",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/woc/80/tithe-taker"
+      },
+      {
+        "name": "Indebted Spirit",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/31/indebted-spirit"
+      },
+      {
+        "name": "Requiem Angel",
+        "price": "$0.36",
+        "url": "https://manapool.com/card/dka/18/requiem-angel"
+      },
+      {
+        "name": "Infestation Sage",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fdn/64/infestation-sage"
+      },
+      {
+        "name": "Falkenrath Noble",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsc/140/falkenrath-noble"
+      },
+      {
+        "name": "Woe Strider",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/189/woe-strider"
+      },
+      {
+        "name": "Junji, the Midnight Sky",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/tdc/183/junji-the-midnight-sky"
+      },
+      {
+        "name": "Reveillark",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/c20/97/reveillark"
+      },
+      {
+        "name": "Butcher of Malakir",
+        "price": "$0.28",
+        "url": "https://manapool.com/card/c17/103/butcher-of-malakir"
+      },
+      {
+        "name": "Doomed Dissenter",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/akh/87/doomed-dissenter"
+      },
+      {
+        "name": "Carrier Thrall",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/2x2/72/carrier-thrall"
+      },
+      {
+        "name": "Greedy Freebooter",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lci/109/greedy-freebooter"
+      },
+      {
+        "name": "Imperious Oligarch",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/rna/184/imperious-oligarch"
+      },
+      {
+        "name": "Garrison Cat",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/iko/14/garrison-cat"
+      },
+      {
+        "name": "Umbral Collar Zealot",
+        "price": "$0.80",
+        "url": "https://manapool.com/card/eoe/123/umbral-collar-zealot"
+      },
+      {
+        "name": "Wriggling Grub",
+        "price": "$0.28",
+        "url": "https://manapool.com/card/j25/12/wriggling-grub"
+      },
+      {
+        "name": "Morbid Opportunist",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/183/morbid-opportunist"
+      },
+      {
+        "name": "Thalisse, Reverent Medium",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmr/291/thalisse-reverent-medium"
+      },
+      {
+        "name": "Vengeful Bloodwitch",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fdn/325/vengeful-bloodwitch"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Desert's Due",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/otj/85/deserts-due"
+      },
+      {
+        "name": "A-Eyes of the Beholder",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Village Rites",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/m21/126/village-rites"
+      },
+      {
+        "name": "Deadly Dispute",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/blc/181/deadly-dispute"
+      },
+      {
+        "name": "Corrupted Conviction",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/mom/98/corrupted-conviction"
+      },
+      {
+        "name": "Afterlife Insurance",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Plumb the Forbidden",
+        "price": "$0.46",
+        "url": "https://manapool.com/card/stx/81/plumb-the-forbidden"
+      },
+      {
+        "name": "Mortify",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/acr/96/mortify"
+      },
+      {
+        "name": "Tragic Slip",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmm/192/tragic-slip"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Ravnica at War",
+        "price": "$0.28",
+        "url": "https://manapool.com/card/war/28/ravnica-at-war"
+      },
+      {
+        "name": "Infest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/80/infest"
+      },
+      {
+        "name": "Hellfire",
+        "price": "$78.68",
+        "url": "https://manapool.com/card/leg/105/hellfire"
+      },
+      {
+        "name": "Perish",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/plst/TMP-147/perish"
+      },
+      {
+        "name": "Victimize",
+        "price": "$0.50",
+        "url": "https://manapool.com/card/mh3/278/victimize"
+      },
+      {
+        "name": "Rite of Oblivion",
+        "price": "$0.30",
+        "url": "https://manapool.com/card/mid/237/rite-of-oblivion"
+      },
+      {
+        "name": "Kaya's Wrath",
+        "price": "$0.41",
+        "url": "https://manapool.com/card/dmc/155/kayas-wrath"
+      },
+      {
+        "name": "Living Death",
+        "price": "$1.85",
+        "url": "https://manapool.com/card/a25/96/living-death"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Ebony Fly",
+        "price": "$2.33",
+        "url": "https://manapool.com/card/afc/60/ebony-fly"
+      },
+      {
+        "name": "Eye of Ojer Taq // Apex Observatory",
+        "price": "$0.67",
+        "url": "https://manapool.com/card/lcc/15/eye-of-ojer-taq-apex-observatory"
+      },
+      {
+        "name": "Goblin Cannon",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/5dn/125/goblin-cannon"
+      },
+      {
+        "name": "Helvault",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/inr/266/helvault"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "Serenity",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mb2/152/serenity"
+      },
+      {
+        "name": "Open the Graves",
+        "price": "$0.36",
+        "url": "https://manapool.com/card/m19/112/open-the-graves"
+      },
+      {
+        "name": "Field of Souls",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/plst/VOC-86/field-of-souls"
+      }
+    ],
+    "planeswalkers": [],
+    "lands": [
+      {
+        "name": "High Market",
+        "price": "$0.83",
+        "url": "https://manapool.com/card/fic/402/high-market"
+      },
+      {
+        "name": "Phyrexian Tower",
+        "price": "$0.82",
+        "url": "https://manapool.com/card/amh3/23/phyrexian-tower"
+      },
+      {
+        "name": "Westvale Abbey",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Command Tower",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/325/command-tower"
+      },
+      {
+        "name": "Exotic Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/131/exotic-orchard"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Caves of Koilos",
+        "price": "$0.80",
+        "url": "https://manapool.com/card/m15/241/caves-of-koilos"
+      },
+      {
+        "name": "Desolate Mire",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/386/desolate-mire"
+      },
+      {
+        "name": "Fetid Heath",
+        "price": "$0.39",
+        "url": "https://manapool.com/card/fic/391/fetid-heath"
+      },
+      {
+        "name": "Orzhova, the Church of Deals",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/gpt/162/orzhova-the-church-of-deals"
+      },
+      {
+        "name": "Profane Procession // Tomb of the Dusk Rose",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/rix/166/profane-procession-tomb-of-the-dusk-rose"
+      },
+      {
+        "name": "Silent Clearing",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/amh1/51/silent-clearing"
+      },
+      {
+        "name": "Starlit Sanctum",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ons/325/starlit-sanctum"
+      },
+      {
+        "name": "Tainted Field",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/356/tainted-field"
+      },
+      {
+        "name": "Vault of the Archangel",
+        "price": "$0.47",
+        "url": "https://manapool.com/card/lcc/367/vault-of-the-archangel"
+      },
+      {
+        "name": "Ballroom",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/clu/12/ballroom"
+      },
+      {
+        "name": "Concealed Courtyard",
+        "price": "$0.98",
+        "url": "https://manapool.com/card/otj/268/concealed-courtyard"
+      },
+      {
+        "name": "Foot Headquarters",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmt/185/foot-headquarters"
+      },
+      {
+        "name": "Forlorn Flats",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/otj/258/forlorn-flats"
+      },
+      {
+        "name": "Forsaken Sanctuary",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/akh/281/forsaken-sanctuary"
+      },
+      {
+        "name": "Glasswing Grace // Age-Graced Chapel",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/254/glasswing-grace-age-graced-chapel"
+      },
+      {
+        "name": "Goldmire Bridge",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/mh2/247/goldmire-bridge"
+      },
+      {
+        "name": "Great Hall of Starnheim",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/khm/259/great-hall-of-starnheim"
+      },
+      {
+        "name": "Insomnia, Crown City",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/282/insomnia-crown-city"
+      },
+      {
+        "name": "Isolated Chapel",
+        "price": "$0.32",
+        "url": "https://manapool.com/card/fic/405/isolated-chapel"
+      },
+      {
+        "name": "Lazotep Archway",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mb2/613/lazotep-archway"
+      },
+      {
+        "name": "Misty Palms Oasis",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tla/273/misty-palms-oasis"
+      },
+      {
+        "name": "Neglected Manor",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsk/264/neglected-manor"
+      },
+      {
+        "name": "Orzhov Basilica",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsc/292/orzhov-basilica"
+      },
+      {
+        "name": "Orzhov Guildgate",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c17/269/orzhov-guildgate"
+      },
+      {
+        "name": "Restless Fortress",
+        "price": "$0.37",
+        "url": "https://manapool.com/card/woe/259/restless-fortress"
+      },
+      {
+        "name": "Salt Flats",
+        "price": "$0.78",
+        "url": "https://manapool.com/card/tmp/324/salt-flats"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      }
+    ],
+    "other": []
+  },
+  "export_text": "1 Teysa Karlov *CMDR*\n1 Ebony Fly\n1 Pitiless Plunderer\n1 Master of Ceremonies\n1 Palladium Myr\n1 Teysa, Orzhov Scion\n1 Eye of Ojer Taq // Apex Observatory\n1 Harvester of Souls\n1 Bloodspatter Vampire\n1 Sidisi, Undead Vizier\n1 Grim Haruspex\n1 Goblin Cannon\n1 Midnight Reaper\n1 Helvault\n1 Serenity\n1 Desert's Due\n1 A-Eyes of the Beholder\n1 Ravnica at War\n1 Infest\n1 Hellfire\n1 Village Rites\n1 Perish\n1 Sifter of Skulls\n1 Victimize\n1 Ophiomancer\n1 Marionette Apprentice\n1 Bartolom\u00e9 del Presidio\n1 High Market\n1 Solemn Simulacrum\n1 Vindictive Vampire\n1 Phyrexian Tower\n1 Mirkwood Bats\n1 Tithe Taker\n1 Deadly Dispute\n1 Indebted Spirit\n1 Requiem Angel\n1 Infestation Sage\n1 Corrupted Conviction\n1 Afterlife Insurance\n1 Falkenrath Noble\n1 Woe Strider\n1 Junji, the Midnight Sky\n1 Reveillark\n1 Butcher of Malakir\n1 Rite of Oblivion\n1 Doomed Dissenter\n1 Carrier Thrall\n1 Plumb the Forbidden\n1 Kaya's Wrath\n1 Greedy Freebooter\n1 Imperious Oligarch\n1 Garrison Cat\n1 Umbral Collar Zealot\n1 Wriggling Grub\n1 Open the Graves\n1 Field of Souls\n1 Westvale Abbey\n1 Morbid Opportunist\n1 Thalisse, Reverent Medium\n1 Vengeful Bloodwitch\n1 Living Death\n1 Mortify\n1 Tragic Slip\n1 Command Tower\n1 Exotic Orchard\n1 Path of Ancestry\n1 Caves of Koilos\n1 Desolate Mire\n1 Fetid Heath\n1 Orzhova, the Church of Deals\n1 Profane Procession // Tomb of the Dusk Rose\n1 Silent Clearing\n1 Starlit Sanctum\n1 Tainted Field\n1 Vault of the Archangel\n1 Ballroom\n1 Concealed Courtyard\n1 Foot Headquarters\n1 Forlorn Flats\n1 Forsaken Sanctuary\n1 Glasswing Grace // Age-Graced Chapel\n1 Goldmire Bridge\n1 Great Hall of Starnheim\n1 Insomnia, Crown City\n1 Isolated Chapel\n1 Lazotep Archway\n1 Misty Palms Oasis\n1 Neglected Manor\n1 Orzhov Basilica\n1 Orzhov Guildgate\n1 Restless Fortress\n1 Salt Flats\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Swamp\n1 Plains\n1 Swamp\n1 Plains\n1 Swamp",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": true,
+    "counts": {
+      "lands": 39,
+      "ramp": 10,
+      "card_draw": 10,
+      "targeted_removal": 9,
+      "mass_removal": 7,
+      "synergy": 23,
+      "uncategorized": 1
+    },
+    "gaps": {}
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "ramp",
+      "added": "Ebony Fly",
+      "removed": "Zulaport Cutthroat"
+    },
+    {
+      "category": "ramp",
+      "added": "Master of Ceremonies",
+      "removed": "Cruel Celebrant"
+    },
+    {
+      "category": "ramp",
+      "added": "Palladium Myr",
+      "removed": "Bastion of Remembrance"
+    },
+    {
+      "category": "ramp",
+      "added": "Eye of Ojer Taq // Apex Observatory",
+      "removed": "Reassembling Skeleton"
+    },
+    {
+      "category": "card_draw",
+      "added": "Harvester of Souls",
+      "removed": "Blood Artist"
+    },
+    {
+      "category": "card_draw",
+      "added": "Bloodspatter Vampire",
+      "removed": "Doomed Traveler"
+    },
+    {
+      "category": "card_draw",
+      "added": "Sidisi, Undead Vizier",
+      "removed": "Viscera Seer"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Goblin Cannon",
+      "removed": "Ministrant of Obligation"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Helvault",
+      "removed": "Elas il-Kor, Sadistic Pilgrim"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Serenity",
+      "removed": "Hallowed Spiritkeeper"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Desert's Due",
+      "removed": "Drivnod, Carnage Dominus"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "A-Eyes of the Beholder",
+      "removed": "Luminous Broodmoth"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Ravnica at War",
+      "removed": "Syr Konrad, the Grim"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Infest",
+      "removed": "Hunted Witness"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Hellfire",
+      "removed": "Orzhov Enforcer"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Perish",
+      "removed": "Yahenni, Undying Partisan"
+    }
+  ]
+}

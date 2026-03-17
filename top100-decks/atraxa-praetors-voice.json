@@ -1,0 +1,573 @@
+{
+  "commander": "Atraxa, Praetors' Voice",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 98,
+  "total_cost_display": "$60.16",
+  "deck": {
+    "commander": "Atraxa, Praetors' Voice",
+    "creatures": [
+      {
+        "name": "Ezuri, Stalker of Spheres",
+        "price": "$0.23",
+        "url": "https://manapool.com/card/one/201/ezuri-stalker-of-spheres"
+      },
+      {
+        "name": "Sheoldred // The True Scriptures",
+        "price": "$16.67",
+        "url": "https://manapool.com/card/mom/125/sheoldred-the-true-scriptures"
+      },
+      {
+        "name": "Skyway Sniper",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/m21/206/skyway-sniper"
+      },
+      {
+        "name": "Slinn Voda, the Rising Deep",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dom/66/slinn-voda-the-rising-deep"
+      },
+      {
+        "name": "Cankerbloom",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/one/294/cankerbloom"
+      },
+      {
+        "name": "Blighted Agent",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/nph/29/blighted-agent"
+      },
+      {
+        "name": "Metastatic Evangel",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/mh3/35/metastatic-evangel"
+      },
+      {
+        "name": "Skrelv, Defector Mite",
+        "price": "$2.64",
+        "url": "https://manapool.com/card/one/33/skrelv-defector-mite"
+      },
+      {
+        "name": "Ixhel, Scion of Atraxa",
+        "price": "$2.21",
+        "url": "https://manapool.com/card/onc/1/ixhel-scion-of-atraxa"
+      },
+      {
+        "name": "Voidwing Hybrid",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/one/221/voidwing-hybrid"
+      },
+      {
+        "name": "Blightbelly Rat",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/one/289/blightbelly-rat"
+      },
+      {
+        "name": "Tainted Observer",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/one/217/tainted-observer"
+      },
+      {
+        "name": "Plague Stinger",
+        "price": "$0.32",
+        "url": "https://manapool.com/card/som/75/plague-stinger"
+      },
+      {
+        "name": "Phyrexian Swarmlord",
+        "price": "$1.95",
+        "url": "https://manapool.com/card/nph/119/phyrexian-swarmlord"
+      },
+      {
+        "name": "Vishgraz, the Doomhive",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/onc/4/vishgraz-the-doomhive"
+      },
+      {
+        "name": "Grateful Apparition",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/244/grateful-apparition"
+      },
+      {
+        "name": "Shalai, Voice of Plenty",
+        "price": "$0.47",
+        "url": "https://manapool.com/card/dom/35/shalai-voice-of-plenty"
+      },
+      {
+        "name": "Bilious Skulldweller",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/one/83/bilious-skulldweller"
+      },
+      {
+        "name": "Necrogen Rotpriest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/one/212/necrogen-rotpriest"
+      },
+      {
+        "name": "Carth the Lion",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh2/189/carth-the-lion"
+      },
+      {
+        "name": "Plague Myr",
+        "price": "$1.35",
+        "url": "https://manapool.com/card/mbs/125/plague-myr"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Prologue to Phyresis",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/one/65/prologue-to-phyresis"
+      },
+      {
+        "name": "Vraska's Fall",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/one/116/vraskas-fall"
+      },
+      {
+        "name": "Experimental Augury",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/eoc/73/experimental-augury"
+      },
+      {
+        "name": "Infectious Bite",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/one/172/infectious-bite"
+      },
+      {
+        "name": "Ripples of Potential",
+        "price": "$1.34",
+        "url": "https://manapool.com/card/eoc/77/ripples-of-potential"
+      },
+      {
+        "name": "Tainted Strike",
+        "price": "$2.06",
+        "url": "https://manapool.com/card/som/80/tainted-strike"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Famine",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c13/77/famine"
+      },
+      {
+        "name": "Worthy Cost",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdm/99/worthy-cost"
+      },
+      {
+        "name": "Tezzeret's Gambit",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c19/98/tezzerets-gambit"
+      },
+      {
+        "name": "Infectious Inquiry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/one/97/infectious-inquiry"
+      },
+      {
+        "name": "Ravnica at War",
+        "price": "$0.28",
+        "url": "https://manapool.com/card/war/28/ravnica-at-war"
+      },
+      {
+        "name": "Sway of the Stars",
+        "price": "$2.31",
+        "url": "https://manapool.com/card/bok/54/sway-of-the-stars"
+      },
+      {
+        "name": "Endemic Plague",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ons/142/endemic-plague"
+      },
+      {
+        "name": "Unnatural Restoration",
+        "price": "$1.47",
+        "url": "https://manapool.com/card/one/191/unnatural-restoration"
+      },
+      {
+        "name": "Drown in Ichor",
+        "price": "$0.87",
+        "url": "https://manapool.com/card/one/91/drown-in-ichor"
+      },
+      {
+        "name": "Contentious Plan",
+        "price": "$0.36",
+        "url": "https://manapool.com/card/war/46/contentious-plan"
+      },
+      {
+        "name": "Cultivate",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmc/50/cultivate"
+      },
+      {
+        "name": "Thirsting Roots",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/one/185/thirsting-roots"
+      },
+      {
+        "name": "Farseek",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/rvr/138/farseek"
+      },
+      {
+        "name": "White Sun's Twilight",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/aone/11/white-suns-twilight"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Astral Cornucopia",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/eoc/131/astral-cornucopia"
+      },
+      {
+        "name": "Everflowing Chalice",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/fic/343/everflowing-chalice"
+      },
+      {
+        "name": "Contagion Engine",
+        "price": "$1.03",
+        "url": "https://manapool.com/card/aotj/50/contagion-engine"
+      },
+      {
+        "name": "Chromatic Lantern",
+        "price": "$0.44",
+        "url": "https://manapool.com/card/tmc/58/chromatic-lantern"
+      },
+      {
+        "name": "Replicating Ring",
+        "price": "$0.46",
+        "url": "https://manapool.com/card/khm/244/replicating-ring"
+      },
+      {
+        "name": "Contagion Clasp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ecc/140/contagion-clasp"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "Brokers Ascendancy",
+        "price": "$0.67",
+        "url": "https://manapool.com/card/snc/297/brokers-ascendancy"
+      },
+      {
+        "name": "Norn's Decree",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/aone/6/norns-decree"
+      },
+      {
+        "name": "Oath of Teferi",
+        "price": "$0.51",
+        "url": "https://manapool.com/card/dom/200/oath-of-teferi"
+      },
+      {
+        "name": "Skrelv's Hive",
+        "price": "$0.92",
+        "url": "https://manapool.com/card/one/34/skrelvs-hive"
+      }
+    ],
+    "planeswalkers": [
+      {
+        "name": "Vraska, Betrayal's Sting",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/ecc/88/vraska-betrayals-sting"
+      },
+      {
+        "name": "Tamiyo, Field Researcher",
+        "price": "$0.32",
+        "url": "https://manapool.com/card/blc/100/tamiyo-field-researcher"
+      },
+      {
+        "name": "Ajani, Sleeper Agent",
+        "price": "$1.01",
+        "url": "https://manapool.com/card/dmu/192/ajani-sleeper-agent"
+      },
+      {
+        "name": "Narset, Parter of Veils",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/war/61/narset-parter-of-veils"
+      },
+      {
+        "name": "Teferi, Temporal Archmage",
+        "price": "$0.51",
+        "url": "https://manapool.com/card/plst/C14-19/teferi-temporal-archmage"
+      }
+    ],
+    "lands": [
+      {
+        "name": "Karn's Bastion",
+        "price": "$2.08",
+        "url": "https://manapool.com/card/moc/409/karns-bastion"
+      },
+      {
+        "name": "Sandsteppe Citadel",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ecc/164/sandsteppe-citadel"
+      },
+      {
+        "name": "Opulent Palace",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ecc/157/opulent-palace"
+      },
+      {
+        "name": "Seaside Citadel",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/329/seaside-citadel"
+      },
+      {
+        "name": "Arcane Sanctum",
+        "price": "$0.23",
+        "url": "https://manapool.com/card/fic/373/arcane-sanctum"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Command Tower",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/325/command-tower"
+      },
+      {
+        "name": "Exotic Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/131/exotic-orchard"
+      },
+      {
+        "name": "Adarkar Wastes",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/blc/291/adarkar-wastes"
+      },
+      {
+        "name": "Alchemist's Refuge",
+        "price": "$0.65",
+        "url": "https://manapool.com/card/lcc/318/alchemists-refuge"
+      },
+      {
+        "name": "Aysen Abbey",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/hml/112/aysen-abbey"
+      },
+      {
+        "name": "Brushland",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/fic/377/brushland"
+      },
+      {
+        "name": "Calciform Pools",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/tsp/270/calciform-pools"
+      },
+      {
+        "name": "Caves of Koilos",
+        "price": "$0.80",
+        "url": "https://manapool.com/card/m15/241/caves-of-koilos"
+      },
+      {
+        "name": "Cloudcrest Lake",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/chk/274/cloudcrest-lake"
+      },
+      {
+        "name": "Contaminated Landscape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/218/contaminated-landscape"
+      },
+      {
+        "name": "Darkwater Catacombs",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/c19/238/darkwater-catacombs"
+      },
+      {
+        "name": "Deceptive Landscape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/219/deceptive-landscape"
+      },
+      {
+        "name": "Desolate Mire",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/386/desolate-mire"
+      },
+      {
+        "name": "Dreadship Reef",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/tsp/271/dreadship-reef"
+      },
+      {
+        "name": "Dromar's Cavern",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmr/246/dromars-cavern"
+      },
+      {
+        "name": "Duskmantle, House of Shadow",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/plst/RAV-277/duskmantle-house-of-shadow"
+      },
+      {
+        "name": "Fetching Garden",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/mb2/611/fetching-garden"
+      },
+      {
+        "name": "Fetid Heath",
+        "price": "$0.39",
+        "url": "https://manapool.com/card/fic/391/fetid-heath"
+      },
+      {
+        "name": "Flooded Grove",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltc/309/flooded-grove"
+      },
+      {
+        "name": "Foreboding Landscape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/221/foreboding-landscape"
+      },
+      {
+        "name": "Grim Backwoods",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/309/grim-backwoods"
+      },
+      {
+        "name": "Grove of the Guardian",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/rtr/240/grove-of-the-guardian"
+      },
+      {
+        "name": "Hushwood Verge",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/adsk/26/hushwood-verge"
+      },
+      {
+        "name": "Land Cap",
+        "price": "$0.39",
+        "url": "https://manapool.com/card/ice/357/land-cap"
+      },
+      {
+        "name": "Llanowar Wastes",
+        "price": "$0.47",
+        "url": "https://manapool.com/card/blc/315/llanowar-wastes"
+      },
+      {
+        "name": "Moorland Haunt",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/isd/244/moorland-haunt"
+      },
+      {
+        "name": "Abandoned Campground",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsk/255/abandoned-campground"
+      },
+      {
+        "name": "Ancient Spring",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/inv/319/ancient-spring"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      }
+    ],
+    "other": []
+  },
+  "export_text": "1 Atraxa, Praetors' Voice *CMDR*\n1 Famine\n1 Worthy Cost\n1 Karn's Bastion\n1 Ezuri, Stalker of Spheres\n1 Vraska, Betrayal's Sting\n1 Sheoldred // The True Scriptures\n1 Skyway Sniper\n1 Tezzeret's Gambit\n1 Astral Cornucopia\n1 Prologue to Phyresis\n1 Everflowing Chalice\n1 Infectious Inquiry\n1 Vraska's Fall\n1 Ravnica at War\n1 Slinn Voda, the Rising Deep\n1 Sway of the Stars\n1 Cankerbloom\n1 Endemic Plague\n1 Experimental Augury\n1 Brokers Ascendancy\n1 Blighted Agent\n1 Metastatic Evangel\n1 Infectious Bite\n1 Unnatural Restoration\n1 Contagion Engine\n1 Skrelv, Defector Mite\n1 Ixhel, Scion of Atraxa\n1 Tamiyo, Field Researcher\n1 Voidwing Hybrid\n1 Blightbelly Rat\n1 Drown in Ichor\n1 Norn's Decree\n1 Ajani, Sleeper Agent\n1 Chromatic Lantern\n1 Tainted Observer\n1 Plague Stinger\n1 Phyrexian Swarmlord\n1 Contentious Plan\n1 Sandsteppe Citadel\n1 Vishgraz, the Doomhive\n1 Grateful Apparition\n1 Oath of Teferi\n1 Replicating Ring\n1 Opulent Palace\n1 Seaside Citadel\n1 Arcane Sanctum\n1 Cultivate\n1 Shalai, Voice of Plenty\n1 Thirsting Roots\n1 Contagion Clasp\n1 Farseek\n1 Narset, Parter of Veils\n1 Bilious Skulldweller\n1 Necrogen Rotpriest\n1 Carth the Lion\n1 Plague Myr\n1 Ripples of Potential\n1 Tainted Strike\n1 White Sun's Twilight\n1 Skrelv's Hive\n1 Teferi, Temporal Archmage\n1 Path of Ancestry\n1 Command Tower\n1 Exotic Orchard\n1 Adarkar Wastes\n1 Alchemist's Refuge\n1 Aysen Abbey\n1 Brushland\n1 Calciform Pools\n1 Caves of Koilos\n1 Cloudcrest Lake\n1 Contaminated Landscape\n1 Darkwater Catacombs\n1 Deceptive Landscape\n1 Desolate Mire\n1 Dreadship Reef\n1 Dromar's Cavern\n1 Duskmantle, House of Shadow\n1 Fetching Garden\n1 Fetid Heath\n1 Flooded Grove\n1 Foreboding Landscape\n1 Grim Backwoods\n1 Grove of the Guardian\n1 Hushwood Verge\n1 Land Cap\n1 Llanowar Wastes\n1 Moorland Haunt\n1 Abandoned Campground\n1 Ancient Spring\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Forest\n1 Swamp\n1 Plains\n1 Island\n1 Forest",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": true,
+    "counts": {
+      "lands": 42,
+      "ramp": 8,
+      "card_draw": 12,
+      "targeted_removal": 9,
+      "mass_removal": 7,
+      "synergy": 20,
+      "uncategorized": 0
+    },
+    "gaps": {}
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "targeted_removal",
+      "added": "Famine",
+      "removed": "Tekuthal, Inquiry Dominus"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Worthy Cost",
+      "removed": "Evolution Sage"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Sheoldred // The True Scriptures",
+      "removed": "Inexorable Tide"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Skyway Sniper",
+      "removed": "Thrummingbird"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Ravnica at War",
+      "removed": "Bloated Contaminator"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Slinn Voda, the Rising Deep",
+      "removed": "Ichor Rats"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Sway of the Stars",
+      "removed": "Venerated Rotpriest"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Endemic Plague",
+      "removed": "Deepglow Skate"
+    }
+  ]
+}

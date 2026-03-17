@@ -1,0 +1,603 @@
+{
+  "commander": "Arcades, the Strategist",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 98,
+  "total_cost_display": "$37.70",
+  "deck": {
+    "commander": "Arcades, the Strategist",
+    "creatures": [
+      {
+        "name": "Overgrown Battlement",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/jmp/417/overgrown-battlement"
+      },
+      {
+        "name": "Axebane Guardian",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/plst/RTR-115/axebane-guardian"
+      },
+      {
+        "name": "Wall of Blossoms",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/jmp/442/wall-of-blossoms"
+      },
+      {
+        "name": "Wall of Omens",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fca/27/wall-of-omens"
+      },
+      {
+        "name": "The Pride of Hull Clade",
+        "price": "$1.19",
+        "url": "https://manapool.com/card/mkm/352/the-pride-of-hull-clade"
+      },
+      {
+        "name": "Pheres-Band Brawler",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/thb/193/pheres-band-brawler"
+      },
+      {
+        "name": "Sylvan Caryatid",
+        "price": "$0.42",
+        "url": "https://manapool.com/card/tdc/272/sylvan-caryatid"
+      },
+      {
+        "name": "Shield-Wall Sentinel",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/dmu/238/shield-wall-sentinel"
+      },
+      {
+        "name": "Vine Trellis",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/mmq/285/vine-trellis"
+      },
+      {
+        "name": "Wall of Tanglecord",
+        "price": "$0.33",
+        "url": "https://manapool.com/card/som/222/wall-of-tanglecord"
+      },
+      {
+        "name": "Weathered Sentinels",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/tdc/336/weathered-sentinels"
+      },
+      {
+        "name": "Wall of Stolen Identity",
+        "price": "$2.89",
+        "url": "https://manapool.com/card/c19/13/wall-of-stolen-identity"
+      },
+      {
+        "name": "Tree of Redemption",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/tdc/97/tree-of-redemption"
+      },
+      {
+        "name": "Wall of Runes",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/m21/85/wall-of-runes"
+      },
+      {
+        "name": "Wingmantle Chaplain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmu/39/wingmantle-chaplain"
+      },
+      {
+        "name": "Walking Bulwark",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmu/241/walking-bulwark"
+      },
+      {
+        "name": "Angelic Wall",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/5/angelic-wall"
+      },
+      {
+        "name": "Wall of Glare",
+        "price": "$0.50",
+        "url": "https://manapool.com/card/uds/25/wall-of-glare"
+      },
+      {
+        "name": "Corrupted Shapeshifter",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/56/corrupted-shapeshifter"
+      },
+      {
+        "name": "Carven Caryatid",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdc/250/carven-caryatid"
+      },
+      {
+        "name": "Wall of Roots",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdc/278/wall-of-roots"
+      },
+      {
+        "name": "Flumph",
+        "price": "$2.14",
+        "url": "https://manapool.com/card/afr/15/flumph"
+      },
+      {
+        "name": "Fortified Rampart",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/bfz/27/fortified-rampart"
+      },
+      {
+        "name": "Drift of Phantasms",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/rvr/42/drift-of-phantasms"
+      },
+      {
+        "name": "Towering Titan",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdc/276/towering-titan"
+      },
+      {
+        "name": "Mnemonic Wall",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cn2/116/mnemonic-wall"
+      },
+      {
+        "name": "Riptide Turtle",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/thb/61/riptide-turtle"
+      },
+      {
+        "name": "Fog Bank",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fdn/591/fog-bank"
+      },
+      {
+        "name": "Resolute Watchdog",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/rna/19/resolute-watchdog"
+      },
+      {
+        "name": "Wall of Mulch",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/m15/208/wall-of-mulch"
+      },
+      {
+        "name": "Steel Wall",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/mrd/248/steel-wall"
+      },
+      {
+        "name": "Jungle Barrier",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/apc/106/jungle-barrier"
+      },
+      {
+        "name": "Bedrock Tortoise",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/alci/23/bedrock-tortoise"
+      },
+      {
+        "name": "Gatecreeper Vine",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/rtr/124/gatecreeper-vine"
+      },
+      {
+        "name": "Suspicious Bookcase",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmm/977/suspicious-bookcase"
+      },
+      {
+        "name": "Plagon, Lord of the Beach",
+        "price": "$2.31",
+        "url": "https://manapool.com/card/j25/37/plagon-lord-of-the-beach"
+      },
+      {
+        "name": "Glacial Wall",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/ema/53/glacial-wall"
+      },
+      {
+        "name": "Orator of Ojutai",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dtk/28/orator-of-ojutai"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Outflank",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/eld/23/outflank"
+      },
+      {
+        "name": "Bar the Door",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dka/2/bar-the-door"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Slaughter the Strong",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/clb/43/slaughter-the-strong"
+      },
+      {
+        "name": "Dusk // Dawn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/138/dusk-dawn"
+      },
+      {
+        "name": "Polymorph",
+        "price": "$0.67",
+        "url": "https://manapool.com/card/m10/67/polymorph"
+      },
+      {
+        "name": "Fell the Mighty",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/otp/1/fell-the-mighty"
+      },
+      {
+        "name": "Expel the Interlopers",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdc/115/expel-the-interlopers"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Dreamstone Hedron",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c14/236/dreamstone-hedron"
+      },
+      {
+        "name": "Ancient Cornucopia",
+        "price": "$0.73",
+        "url": "https://manapool.com/card/big/16/ancient-cornucopia"
+      },
+      {
+        "name": "Neko-Te",
+        "price": "$3.80",
+        "url": "https://manapool.com/card/bok/155/neko-te"
+      },
+      {
+        "name": "Rammas Echor, Ancient Shield",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/altc/15/rammas-echor-ancient-shield"
+      },
+      {
+        "name": "Slagwurm Armor",
+        "price": "$0.44",
+        "url": "https://manapool.com/card/mrd/243/slagwurm-armor"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "Manabond",
+        "price": "$2.34",
+        "url": "https://manapool.com/card/mb2/208/manabond"
+      },
+      {
+        "name": "Elemental Resonance",
+        "price": "$0.65",
+        "url": "https://manapool.com/card/dis/83/elemental-resonance"
+      },
+      {
+        "name": "A-Druid Class",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "The Phasing of Zhalfir",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmu/59/the-phasing-of-zhalfir"
+      },
+      {
+        "name": "Silkwrap",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dtk/38/silkwrap"
+      },
+      {
+        "name": "Serra's Boon",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dvd/18/serras-boon"
+      },
+      {
+        "name": "Root Cage",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/pcy/122/root-cage"
+      },
+      {
+        "name": "Guard Duty",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ima/22/guard-duty"
+      },
+      {
+        "name": "Stoneskin",
+        "price": "$1.97",
+        "url": "https://manapool.com/card/clb/45/stoneskin"
+      }
+    ],
+    "planeswalkers": [
+      {
+        "name": "Huatli, the Sun's Heart",
+        "price": "$0.25",
+        "url": "https://manapool.com/card/war/230/huatli-the-suns-heart"
+      },
+      {
+        "name": "Teyo, the Shieldmage",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/plst/WAR-32/teyo-the-shieldmage"
+      }
+    ],
+    "lands": [
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Command Tower",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/325/command-tower"
+      },
+      {
+        "name": "Exotic Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/131/exotic-orchard"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Adarkar Wastes",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/blc/291/adarkar-wastes"
+      },
+      {
+        "name": "Alchemist's Refuge",
+        "price": "$0.65",
+        "url": "https://manapool.com/card/lcc/318/alchemists-refuge"
+      },
+      {
+        "name": "Aysen Abbey",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/hml/112/aysen-abbey"
+      },
+      {
+        "name": "Brushland",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/fic/377/brushland"
+      },
+      {
+        "name": "Calciform Pools",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/tsp/270/calciform-pools"
+      },
+      {
+        "name": "Cloudcrest Lake",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/chk/274/cloudcrest-lake"
+      },
+      {
+        "name": "Fetching Garden",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/mb2/611/fetching-garden"
+      },
+      {
+        "name": "Flooded Grove",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltc/309/flooded-grove"
+      },
+      {
+        "name": "Grove of the Guardian",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/rtr/240/grove-of-the-guardian"
+      },
+      {
+        "name": "Hushwood Verge",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/adsk/26/hushwood-verge"
+      },
+      {
+        "name": "Land Cap",
+        "price": "$0.39",
+        "url": "https://manapool.com/card/ice/357/land-cap"
+      },
+      {
+        "name": "Moorland Haunt",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/isd/244/moorland-haunt"
+      },
+      {
+        "name": "Nantuko Monastery",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmr/252/nantuko-monastery"
+      },
+      {
+        "name": "Novijen, Heart of Progress",
+        "price": "$0.30",
+        "url": "https://manapool.com/card/dis/175/novijen-heart-of-progress"
+      },
+      {
+        "name": "Overflowing Basin",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/321/overflowing-basin"
+      },
+      {
+        "name": "Prahv, Spires of Order",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/dis/177/prahv-spires-of-order"
+      },
+      {
+        "name": "Saltcrusted Steppe",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tsp/277/saltcrusted-steppe"
+      },
+      {
+        "name": "Seaside Haven",
+        "price": "$0.46",
+        "url": "https://manapool.com/card/ons/323/seaside-haven"
+      },
+      {
+        "name": "Skycloud Expanse",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/294/skycloud-expanse"
+      },
+      {
+        "name": "Slumbering Waterways",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mb2/618/slumbering-waterways"
+      },
+      {
+        "name": "Sungrass Prairie",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/334/sungrass-prairie"
+      },
+      {
+        "name": "Thalakos Lowlands",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmp/328/thalakos-lowlands"
+      },
+      {
+        "name": "Tranquil Garden",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/chk/284/tranquil-garden"
+      },
+      {
+        "name": "Tranquil Landscape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/231/tranquil-landscape"
+      },
+      {
+        "name": "Abandoned Campground",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsk/255/abandoned-campground"
+      },
+      {
+        "name": "Arctic Flats",
+        "price": "$1.03",
+        "url": "https://manapool.com/card/csp/143/arctic-flats"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      }
+    ],
+    "other": []
+  },
+  "export_text": "1 Arcades, the Strategist *CMDR*\n1 Overgrown Battlement\n1 Manabond\n1 Axebane Guardian\n1 Elemental Resonance\n1 A-Druid Class\n1 Dreamstone Hedron\n1 Wall of Blossoms\n1 Wall of Omens\n1 The Pride of Hull Clade\n1 Ancient Cornucopia\n1 Pheres-Band Brawler\n1 The Phasing of Zhalfir\n1 Silkwrap\n1 Neko-Te\n1 Slaughter the Strong\n1 Serra's Boon\n1 Dusk // Dawn\n1 Root Cage\n1 Guard Duty\n1 Sylvan Caryatid\n1 Polymorph\n1 Shield-Wall Sentinel\n1 Vine Trellis\n1 Outflank\n1 Wall of Tanglecord\n1 Fell the Mighty\n1 Weathered Sentinels\n1 Wall of Stolen Identity\n1 Tree of Redemption\n1 Wall of Runes\n1 Wingmantle Chaplain\n1 Rammas Echor, Ancient Shield\n1 Stoneskin\n1 Walking Bulwark\n1 Angelic Wall\n1 Wall of Glare\n1 Corrupted Shapeshifter\n1 Carven Caryatid\n1 Wall of Roots\n1 Flumph\n1 Fortified Rampart\n1 Drift of Phantasms\n1 Towering Titan\n1 Mnemonic Wall\n1 Riptide Turtle\n1 Fog Bank\n1 Bar the Door\n1 Access Tunnel\n1 Expel the Interlopers\n1 Resolute Watchdog\n1 Wall of Mulch\n1 Huatli, the Sun's Heart\n1 Steel Wall\n1 Jungle Barrier\n1 Bedrock Tortoise\n1 Gatecreeper Vine\n1 Suspicious Bookcase\n1 Plagon, Lord of the Beach\n1 Glacial Wall\n1 Teyo, the Shieldmage\n1 Orator of Ojutai\n1 Slagwurm Armor\n1 Command Tower\n1 Exotic Orchard\n1 Path of Ancestry\n1 Adarkar Wastes\n1 Alchemist's Refuge\n1 Aysen Abbey\n1 Brushland\n1 Calciform Pools\n1 Cloudcrest Lake\n1 Fetching Garden\n1 Flooded Grove\n1 Grove of the Guardian\n1 Hushwood Verge\n1 Land Cap\n1 Moorland Haunt\n1 Nantuko Monastery\n1 Novijen, Heart of Progress\n1 Overflowing Basin\n1 Prahv, Spires of Order\n1 Saltcrusted Steppe\n1 Seaside Haven\n1 Skycloud Expanse\n1 Slumbering Waterways\n1 Sungrass Prairie\n1 Thalakos Lowlands\n1 Tranquil Garden\n1 Tranquil Landscape\n1 Abandoned Campground\n1 Arctic Flats\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Forest\n1 Plains\n1 Island\n1 Forest\n1 Plains",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": true,
+    "counts": {
+      "lands": 37,
+      "ramp": 10,
+      "card_draw": 13,
+      "targeted_removal": 9,
+      "mass_removal": 5,
+      "synergy": 24,
+      "uncategorized": 0
+    },
+    "gaps": {}
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "ramp",
+      "added": "Manabond",
+      "removed": "Wall of Denial"
+    },
+    {
+      "category": "ramp",
+      "added": "Elemental Resonance",
+      "removed": "Tetsuko Umezawa, Fugitive"
+    },
+    {
+      "category": "ramp",
+      "added": "A-Druid Class",
+      "removed": "High Alert"
+    },
+    {
+      "category": "ramp",
+      "added": "Dreamstone Hedron",
+      "removed": "Stalwart Shield-Bearers"
+    },
+    {
+      "category": "ramp",
+      "added": "Ancient Cornucopia",
+      "removed": "Sunscape Familiar"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Pheres-Band Brawler",
+      "removed": "Crashing Drawbridge"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "The Phasing of Zhalfir",
+      "removed": "Tower Defense"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Silkwrap",
+      "removed": "Assault Formation"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Neko-Te",
+      "removed": "Wall of Frost"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Serra's Boon",
+      "removed": "Hover Barrier"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Root Cage",
+      "removed": "Perimeter Captain"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Guard Duty",
+      "removed": "Crystal Barricade"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Polymorph",
+      "removed": "Jeskai Barricade"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Outflank",
+      "removed": "Wall of Junk"
+    }
+  ]
+}

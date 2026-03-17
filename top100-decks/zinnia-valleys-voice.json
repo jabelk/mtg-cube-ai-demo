@@ -1,0 +1,502 @@
+{
+  "commander": "Zinnia, Valley's Voice",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 92,
+  "total_cost_display": "$30.61",
+  "deck": {
+    "commander": "Zinnia, Valley's Voice",
+    "creatures": [
+      {
+        "name": "Agate Instigator",
+        "price": "$0.81",
+        "url": "https://manapool.com/card/blc/20/agate-instigator"
+      },
+      {
+        "name": "Selfless Spirit",
+        "price": "$0.54",
+        "url": "https://manapool.com/card/tdc/129/selfless-spirit"
+      },
+      {
+        "name": "Curiosity Crafter",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/plst/C21-24/curiosity-crafter"
+      },
+      {
+        "name": "Ornithopter of Paradise",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/j25/153/ornithopter-of-paradise"
+      },
+      {
+        "name": "Rapid Augmenter",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/38/rapid-augmenter"
+      },
+      {
+        "name": "Aether Channeler",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/dmu/42/aether-channeler"
+      },
+      {
+        "name": "Jacked Rabbit",
+        "price": "$1.44",
+        "url": "https://manapool.com/card/blc/9/jacked-rabbit"
+      },
+      {
+        "name": "Rose Room Treasurer",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/201/rose-room-treasurer"
+      },
+      {
+        "name": "Spirited Companion",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/155/spirited-companion"
+      },
+      {
+        "name": "Devilish Valet",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/195/devilish-valet"
+      },
+      {
+        "name": "Solemn Simulacrum",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/fdn/257/solemn-simulacrum"
+      },
+      {
+        "name": "Molten Gatekeeper",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/128/molten-gatekeeper"
+      },
+      {
+        "name": "Tetsuko Umezawa, Fugitive",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/177/tetsuko-umezawa-fugitive"
+      },
+      {
+        "name": "Starfield Vocalist",
+        "price": "$1.45",
+        "url": "https://manapool.com/card/eoe/78/starfield-vocalist"
+      },
+      {
+        "name": "Welcoming Vampire",
+        "price": "$0.88",
+        "url": "https://manapool.com/card/lcc/140/welcoming-vampire"
+      },
+      {
+        "name": "Skyclave Apparition",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/m3c/172/skyclave-apparition"
+      },
+      {
+        "name": "Luminous Broodmoth",
+        "price": "$0.62",
+        "url": "https://manapool.com/card/blc/144/luminous-broodmoth"
+      },
+      {
+        "name": "Junk Winder",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/169/junk-winder"
+      },
+      {
+        "name": "Cayth, Famed Mechanist",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/m3c/6/cayth-famed-mechanist"
+      },
+      {
+        "name": "Loyal Warhound",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/blc/107/loyal-warhound"
+      },
+      {
+        "name": "Sun Titan",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afc/73/sun-titan"
+      },
+      {
+        "name": "Siege-Gang Commander",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/202/siege-gang-commander"
+      },
+      {
+        "name": "Weftstalker Ardent",
+        "price": "$1.03",
+        "url": "https://manapool.com/card/eoe/169/weftstalker-ardent"
+      },
+      {
+        "name": "Boss's Chauffeur",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/137/bosss-chauffeur"
+      },
+      {
+        "name": "Hanged Executioner",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/139/hanged-executioner"
+      },
+      {
+        "name": "Witty Roastmaster",
+        "price": "$0.71",
+        "url": "https://manapool.com/card/snc/131/witty-roastmaster"
+      },
+      {
+        "name": "Arabella, Abandoned Doll",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsk/208/arabella-abandoned-doll"
+      },
+      {
+        "name": "Combat Celebrant",
+        "price": "$0.53",
+        "url": "https://manapool.com/card/j25/531/combat-celebrant"
+      },
+      {
+        "name": "Mulldrifter",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ecc/67/mulldrifter"
+      },
+      {
+        "name": "Inspiring Overseer",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/141/inspiring-overseer"
+      },
+      {
+        "name": "Oltec Matterweaver",
+        "price": "$1.82",
+        "url": "https://manapool.com/card/big/3/oltec-matterweaver"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Rapid Hybridization",
+        "price": "$0.51",
+        "url": "https://manapool.com/card/lcc/166/rapid-hybridization"
+      },
+      {
+        "name": "Aetherize",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fdn/151/aetherize"
+      },
+      {
+        "name": "Path to Exile",
+        "price": "$1.20",
+        "url": "https://manapool.com/card/fic/248/path-to-exile"
+      },
+      {
+        "name": "Rootborn Defenses",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/rtr/19/rootborn-defenses"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Storm of Souls",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/156/storm-of-souls"
+      },
+      {
+        "name": "Dusk // Dawn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/138/dusk-dawn"
+      },
+      {
+        "name": "Calamity of Cinders",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/23/calamity-of-cinders"
+      },
+      {
+        "name": "Martial Coup",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/146/martial-coup"
+      },
+      {
+        "name": "Chart a Course",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/110/chart-a-course"
+      },
+      {
+        "name": "Stolen by the Fae",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/176/stolen-by-the-fae"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Bident of Thassa",
+        "price": "$0.40",
+        "url": "https://manapool.com/card/blc/162/bident-of-thassa"
+      },
+      {
+        "name": "Azorius Signet",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdc/312/azorius-signet"
+      },
+      {
+        "name": "Fellwar Stone",
+        "price": "$1.02",
+        "url": "https://manapool.com/card/nec/150/fellwar-stone"
+      },
+      {
+        "name": "Boros Signet",
+        "price": "$0.41",
+        "url": "https://manapool.com/card/rav/255/boros-signet"
+      },
+      {
+        "name": "Mind Stone",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/40k/245/mind-stone"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "Echoing Assault",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/24/echoing-assault"
+      },
+      {
+        "name": "Impact Tremors",
+        "price": "$2.26",
+        "url": "https://manapool.com/card/wot/44/impact-tremors"
+      },
+      {
+        "name": "Murmuration",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/10/murmuration"
+      }
+    ],
+    "planeswalkers": [
+      {
+        "name": "Elspeth, Sun's Champion",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/ablb/53/elspeth-suns-champion"
+      }
+    ],
+    "lands": [
+      {
+        "name": "Seachrome Coast",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/blc/328/seachrome-coast"
+      },
+      {
+        "name": "Castle Ardenvale",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/298/castle-ardenvale"
+      },
+      {
+        "name": "Sunscorched Divide",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/433/sunscorched-divide"
+      },
+      {
+        "name": "Rugged Prairie",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdc/389/rugged-prairie"
+      },
+      {
+        "name": "Ferrous Lake",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/pip/148/ferrous-lake"
+      },
+      {
+        "name": "Cascade Bluffs",
+        "price": "$0.51",
+        "url": "https://manapool.com/card/eoc/153/cascade-bluffs"
+      },
+      {
+        "name": "Adarkar Wastes",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/blc/291/adarkar-wastes"
+      },
+      {
+        "name": "Skycloud Expanse",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/294/skycloud-expanse"
+      },
+      {
+        "name": "Thriving Heath",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afc/269/thriving-heath"
+      },
+      {
+        "name": "Clifftop Retreat",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/300/clifftop-retreat"
+      },
+      {
+        "name": "Battlefield Forge",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/blc/293/battlefield-forge"
+      },
+      {
+        "name": "Thriving Isle",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afc/270/thriving-isle"
+      },
+      {
+        "name": "Command Tower",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/325/command-tower"
+      },
+      {
+        "name": "Exotic Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/131/exotic-orchard"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Aggressive Crag",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/cmb2/112/aggressive-crag"
+      },
+      {
+        "name": "Calciform Pools",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/tsp/270/calciform-pools"
+      },
+      {
+        "name": "Cloudcrest Lake",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/chk/274/cloudcrest-lake"
+      },
+      {
+        "name": "Desolate Lighthouse",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/avr/227/desolate-lighthouse"
+      },
+      {
+        "name": "Land Cap",
+        "price": "$0.39",
+        "url": "https://manapool.com/card/ice/357/land-cap"
+      },
+      {
+        "name": "Moorland Haunt",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/isd/244/moorland-haunt"
+      },
+      {
+        "name": "Nivix, Aerie of the Firemind",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ddj/36/nivix-aerie-of-the-firemind"
+      },
+      {
+        "name": "Path of Mettle // Metzali, Tower of Triumph",
+        "price": "$0.27",
+        "url": "https://manapool.com/card/rix/165/path-of-mettle-metzali-tower-of-triumph"
+      },
+      {
+        "name": "Perilous Landscape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/223/perilous-landscape"
+      },
+      {
+        "name": "Prahv, Spires of Order",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/dis/177/prahv-spires-of-order"
+      },
+      {
+        "name": "Seaside Haven",
+        "price": "$0.46",
+        "url": "https://manapool.com/card/ons/323/seaside-haven"
+      },
+      {
+        "name": "Shivan Reef",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/dmu/255/shivan-reef"
+      },
+      {
+        "name": "Slayers' Stronghold",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/424/slayers-stronghold"
+      },
+      {
+        "name": "Sunhome, Fortress of the Legion",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mkc/298/sunhome-fortress-of-the-legion"
+      },
+      {
+        "name": "Thalakos Lowlands",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmp/328/thalakos-lowlands"
+      },
+      {
+        "name": "Value Town // Take a Trip to...",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/mb2/621/value-town-take-a-trip-to"
+      },
+      {
+        "name": "Abandoned Campground",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsk/255/abandoned-campground"
+      },
+      {
+        "name": "Abraded Bluffs",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/otj/251/abraded-bluffs"
+      },
+      {
+        "name": "Airship Engine Room",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tla/265/airship-engine-room"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Mountain",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/315/mountain"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      }
+    ],
+    "other": []
+  },
+  "export_text": "1 Zinnia, Valley's Voice *CMDR*\n1 Agate Instigator\n1 Selfless Spirit\n1 Curiosity Crafter\n1 Ornithopter of Paradise\n1 Rapid Augmenter\n1 Aether Channeler\n1 Storm of Souls\n1 Jacked Rabbit\n1 Rose Room Treasurer\n1 Spirited Companion\n1 Devilish Valet\n1 Elspeth, Sun's Champion\n1 Rapid Hybridization\n1 Solemn Simulacrum\n1 Dusk // Dawn\n1 Seachrome Coast\n1 Castle Ardenvale\n1 Sunscorched Divide\n1 Molten Gatekeeper\n1 Echoing Assault\n1 Tetsuko Umezawa, Fugitive\n1 Starfield Vocalist\n1 Welcoming Vampire\n1 Impact Tremors\n1 Bident of Thassa\n1 Skyclave Apparition\n1 Luminous Broodmoth\n1 Rugged Prairie\n1 Junk Winder\n1 Cayth, Famed Mechanist\n1 Loyal Warhound\n1 Ferrous Lake\n1 Sun Titan\n1 Cascade Bluffs\n1 Siege-Gang Commander\n1 Calamity of Cinders\n1 Aetherize\n1 Weftstalker Ardent\n1 Boss's Chauffeur\n1 Hanged Executioner\n1 Martial Coup\n1 Adarkar Wastes\n1 Skycloud Expanse\n1 Witty Roastmaster\n1 Murmuration\n1 Azorius Signet\n1 Fellwar Stone\n1 Boros Signet\n1 Arabella, Abandoned Doll\n1 Chart a Course\n1 Thriving Heath\n1 Combat Celebrant\n1 Stolen by the Fae\n1 Mind Stone\n1 Path to Exile\n1 Mulldrifter\n1 Inspiring Overseer\n1 Oltec Matterweaver\n1 Rootborn Defenses\n1 Clifftop Retreat\n1 Battlefield Forge\n1 Thriving Isle\n1 Command Tower\n1 Exotic Orchard\n1 Path of Ancestry\n1 Aggressive Crag\n1 Calciform Pools\n1 Cloudcrest Lake\n1 Desolate Lighthouse\n1 Land Cap\n1 Moorland Haunt\n1 Nivix, Aerie of the Firemind\n1 Path of Mettle // Metzali, Tower of Triumph\n1 Perilous Landscape\n1 Prahv, Spires of Order\n1 Seaside Haven\n1 Shivan Reef\n1 Slayers' Stronghold\n1 Sunhome, Fortress of the Legion\n1 Thalakos Lowlands\n1 Value Town // Take a Trip to...\n1 Abandoned Campground\n1 Abraded Bluffs\n1 Airship Engine Room\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Island\n1 Plains\n1 Mountain\n1 Island\n1 Plains",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": true,
+    "counts": {
+      "lands": 42,
+      "ramp": 8,
+      "card_draw": 8,
+      "targeted_removal": 8,
+      "mass_removal": 5,
+      "synergy": 21,
+      "uncategorized": 0
+    },
+    "gaps": {}
+  },
+  "auto_fixes_applied": []
+}

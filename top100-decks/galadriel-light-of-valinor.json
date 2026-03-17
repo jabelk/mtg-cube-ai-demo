@@ -1,0 +1,582 @@
+{
+  "commander": "Galadriel, Light of Valinor",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 97,
+  "total_cost_display": "$41.31",
+  "deck": {
+    "commander": "Galadriel, Light of Valinor",
+    "creatures": [
+      {
+        "name": "Elvish Mystic",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/cmm/648/elvish-mystic"
+      },
+      {
+        "name": "Elvish Archdruid",
+        "price": "$0.23",
+        "url": "https://manapool.com/card/fdn/219/elvish-archdruid"
+      },
+      {
+        "name": "Skymark Roc",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/gk2/20/skymark-roc"
+      },
+      {
+        "name": "Reclamation Sage",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmr/248/reclamation-sage"
+      },
+      {
+        "name": "Gala Greeters",
+        "price": "$0.62",
+        "url": "https://manapool.com/card/snc/148/gala-greeters"
+      },
+      {
+        "name": "Priest of Titania",
+        "price": "$0.92",
+        "url": "https://manapool.com/card/mh3/286/priest-of-titania"
+      },
+      {
+        "name": "Llanowar Elves",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fdn/227/llanowar-elves"
+      },
+      {
+        "name": "Elrond, Master of Healing",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltr/200/elrond-master-of-healing"
+      },
+      {
+        "name": "Wood Elves",
+        "price": "$0.20",
+        "url": "https://manapool.com/card/ltc/263/wood-elves"
+      },
+      {
+        "name": "Rumor Gatherer",
+        "price": "$1.66",
+        "url": "https://manapool.com/card/plst/SNC-29/rumor-gatherer"
+      },
+      {
+        "name": "Galadriel of Lothl\u00f3rien",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltr/206/galadriel-of-lothlorien"
+      },
+      {
+        "name": "Fyndhorn Elves",
+        "price": "$1.86",
+        "url": "https://manapool.com/card/cmr/228/fyndhorn-elves"
+      },
+      {
+        "name": "Farhaven Elf",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmr/225/farhaven-elf"
+      },
+      {
+        "name": "Paradise Druid",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/j25/698/paradise-druid"
+      },
+      {
+        "name": "Unstable Glyphbridge // Sandswirl Wanderglyph",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lci/41/unstable-glyphbridge-sandswirl-wanderglyph"
+      },
+      {
+        "name": "Elvish Visionary",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/130/elvish-visionary"
+      },
+      {
+        "name": "Rhys the Redeemed",
+        "price": "$1.81",
+        "url": "https://manapool.com/card/tle/52/rhys-the-redeemed"
+      },
+      {
+        "name": "Incubation Druid",
+        "price": "$1.03",
+        "url": "https://manapool.com/card/ncc/296/incubation-druid"
+      },
+      {
+        "name": "Circle of Dreams Druid",
+        "price": "$1.04",
+        "url": "https://manapool.com/card/aafr/66/circle-of-dreams-druid"
+      },
+      {
+        "name": "Lys Alana Huntmaster",
+        "price": "$1.09",
+        "url": "https://manapool.com/card/lrw/229/lys-alana-huntmaster"
+      },
+      {
+        "name": "Elrond, Lord of Rivendell",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltr/307/elrond-lord-of-rivendell"
+      },
+      {
+        "name": "Tendershoot Dryad",
+        "price": "$1.82",
+        "url": "https://manapool.com/card/blc/242/tendershoot-dryad"
+      },
+      {
+        "name": "Master Biomancer",
+        "price": "$0.54",
+        "url": "https://manapool.com/card/clu/200/master-biomancer"
+      },
+      {
+        "name": "Arbor Elf",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/m13/160/arbor-elf"
+      },
+      {
+        "name": "Eladamri, Korvecdal",
+        "price": "$0.33",
+        "url": "https://manapool.com/card/amh3/9/eladamri-korvecdal"
+      },
+      {
+        "name": "Elvish Piper",
+        "price": "$0.91",
+        "url": "https://manapool.com/card/ltc/239/elvish-piper"
+      },
+      {
+        "name": "Legolas Greenleaf",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltc/40/legolas-greenleaf"
+      },
+      {
+        "name": "Elvish Mariner",
+        "price": "$1.13",
+        "url": "https://manapool.com/card/ltr/283/elvish-mariner"
+      },
+      {
+        "name": "Legolas, Counter of Kills",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltr/212/legolas-counter-of-kills"
+      },
+      {
+        "name": "Celeborn the Wise",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltr/156/celeborn-the-wise"
+      },
+      {
+        "name": "Rishkar, Peema Renegade",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/blc/235/rishkar-peema-renegade"
+      },
+      {
+        "name": "Champion of Lambholt",
+        "price": "$2.86",
+        "url": "https://manapool.com/card/jmp/383/champion-of-lambholt"
+      },
+      {
+        "name": "Champions of the Perfect",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ecl/171/champions-of-the-perfect"
+      },
+      {
+        "name": "Selfless Safewright",
+        "price": "$0.41",
+        "url": "https://manapool.com/card/ecl/193/selfless-safewright"
+      },
+      {
+        "name": "Kutzil, Malamet Exemplar",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/alci/50/kutzil-malamet-exemplar"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Origin of Metalbending",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tla/187/origin-of-metalbending"
+      },
+      {
+        "name": "Windswift Slice",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltc/45/windswift-slice"
+      },
+      {
+        "name": "Synthetic Destiny",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/khc/44/synthetic-destiny"
+      },
+      {
+        "name": "Inspiring Call",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fdn/226/inspiring-call"
+      },
+      {
+        "name": "Beast Within",
+        "price": "$0.59",
+        "url": "https://manapool.com/card/blc/206/beast-within"
+      },
+      {
+        "name": "Ephemerate",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/amh1/36/ephemerate"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Fortunate Few",
+        "price": "$0.27",
+        "url": "https://manapool.com/card/c17/4/fortunate-few"
+      },
+      {
+        "name": "Crisis of Conscience",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/who/17/crisis-of-conscience"
+      },
+      {
+        "name": "Supreme Verdict",
+        "price": "$1.51",
+        "url": "https://manapool.com/card/ltc/272/supreme-verdict"
+      },
+      {
+        "name": "Mists of L\u00f3rien",
+        "price": "$0.42",
+        "url": "https://manapool.com/card/altc/11/mists-of-lorien"
+      },
+      {
+        "name": "Elven Farsight",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltr/161/elven-farsight"
+      },
+      {
+        "name": "Preordain",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/m11/70/preordain"
+      },
+      {
+        "name": "Genesis Wave",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fdn/221/genesis-wave"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Lothl\u00f3rien Blade",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltc/77/lothlorien-blade"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "On Thin Ice",
+        "price": "$0.47",
+        "url": "https://manapool.com/card/mh1/20/on-thin-ice"
+      },
+      {
+        "name": "Kraven's Last Hunt",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/spm/105/kravens-last-hunt"
+      },
+      {
+        "name": "Hunter's Talent",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blb/179/hunters-talent"
+      },
+      {
+        "name": "Time of Ice",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dom/70/time-of-ice"
+      },
+      {
+        "name": "Hardened Scales",
+        "price": "$2.34",
+        "url": "https://manapool.com/card/ktk/133/hardened-scales"
+      },
+      {
+        "name": "Asceticism",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/altr/72/asceticism"
+      }
+    ],
+    "planeswalkers": [],
+    "lands": [
+      {
+        "name": "Rivendell",
+        "price": "$1.35",
+        "url": "https://manapool.com/card/ltr/259/rivendell"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Minas Tirith",
+        "price": "$0.40",
+        "url": "https://manapool.com/card/altr/55/minas-tirith"
+      },
+      {
+        "name": "Vineglimmer Snarl",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/drc/183/vineglimmer-snarl"
+      },
+      {
+        "name": "The Grey Havens",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltr/255/the-grey-havens"
+      },
+      {
+        "name": "Flooded Grove",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltc/309/flooded-grove"
+      },
+      {
+        "name": "Growing Rites of Itlimoc",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Command Tower",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/325/command-tower"
+      },
+      {
+        "name": "Exotic Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/131/exotic-orchard"
+      },
+      {
+        "name": "Adarkar Wastes",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/blc/291/adarkar-wastes"
+      },
+      {
+        "name": "Alchemist's Refuge",
+        "price": "$0.65",
+        "url": "https://manapool.com/card/lcc/318/alchemists-refuge"
+      },
+      {
+        "name": "Aysen Abbey",
+        "price": "$0.18",
+        "url": "https://manapool.com/card/hml/112/aysen-abbey"
+      },
+      {
+        "name": "Brushland",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/fic/377/brushland"
+      },
+      {
+        "name": "Calciform Pools",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/tsp/270/calciform-pools"
+      },
+      {
+        "name": "Cloudcrest Lake",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/chk/274/cloudcrest-lake"
+      },
+      {
+        "name": "Fetching Garden",
+        "price": "$0.21",
+        "url": "https://manapool.com/card/mb2/611/fetching-garden"
+      },
+      {
+        "name": "Grove of the Guardian",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/rtr/240/grove-of-the-guardian"
+      },
+      {
+        "name": "Hushwood Verge",
+        "price": "$0.31",
+        "url": "https://manapool.com/card/adsk/26/hushwood-verge"
+      },
+      {
+        "name": "Land Cap",
+        "price": "$0.39",
+        "url": "https://manapool.com/card/ice/357/land-cap"
+      },
+      {
+        "name": "Moorland Haunt",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/isd/244/moorland-haunt"
+      },
+      {
+        "name": "Nantuko Monastery",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmr/252/nantuko-monastery"
+      },
+      {
+        "name": "Novijen, Heart of Progress",
+        "price": "$0.30",
+        "url": "https://manapool.com/card/dis/175/novijen-heart-of-progress"
+      },
+      {
+        "name": "Overflowing Basin",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/321/overflowing-basin"
+      },
+      {
+        "name": "Prahv, Spires of Order",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/dis/177/prahv-spires-of-order"
+      },
+      {
+        "name": "Saltcrusted Steppe",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tsp/277/saltcrusted-steppe"
+      },
+      {
+        "name": "Seaside Haven",
+        "price": "$0.46",
+        "url": "https://manapool.com/card/ons/323/seaside-haven"
+      },
+      {
+        "name": "Skycloud Expanse",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/294/skycloud-expanse"
+      },
+      {
+        "name": "Slumbering Waterways",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mb2/618/slumbering-waterways"
+      },
+      {
+        "name": "Sungrass Prairie",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/334/sungrass-prairie"
+      },
+      {
+        "name": "Thalakos Lowlands",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmp/328/thalakos-lowlands"
+      },
+      {
+        "name": "Tranquil Garden",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/chk/284/tranquil-garden"
+      },
+      {
+        "name": "Tranquil Landscape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/231/tranquil-landscape"
+      },
+      {
+        "name": "Abandoned Campground",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsk/255/abandoned-campground"
+      },
+      {
+        "name": "Arctic Flats",
+        "price": "$1.03",
+        "url": "https://manapool.com/card/csp/143/arctic-flats"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Plains",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/afr/262/plains"
+      }
+    ],
+    "other": []
+  },
+  "export_text": "1 Galadriel, Light of Valinor *CMDR*\n1 Elvish Mystic\n1 Elvish Archdruid\n1 Skymark Roc\n1 On Thin Ice\n1 Reclamation Sage\n1 Gala Greeters\n1 Priest of Titania\n1 Llanowar Elves\n1 Origin of Metalbending\n1 Elrond, Master of Healing\n1 Wood Elves\n1 Kraven's Last Hunt\n1 Hunter's Talent\n1 Fortunate Few\n1 Rivendell\n1 Time of Ice\n1 Rumor Gatherer\n1 Galadriel of Lothl\u00f3rien\n1 Crisis of Conscience\n1 Fyndhorn Elves\n1 Farhaven Elf\n1 Paradise Druid\n1 Supreme Verdict\n1 Windswift Slice\n1 Unstable Glyphbridge // Sandswirl Wanderglyph\n1 Synthetic Destiny\n1 Elvish Visionary\n1 Rhys the Redeemed\n1 Incubation Druid\n1 Inspiring Call\n1 Mists of L\u00f3rien\n1 Circle of Dreams Druid\n1 Lys Alana Huntmaster\n1 Elrond, Lord of Rivendell\n1 Tendershoot Dryad\n1 Master Biomancer\n1 Path of Ancestry\n1 Arbor Elf\n1 Hardened Scales\n1 Beast Within\n1 Eladamri, Korvecdal\n1 Elvish Piper\n1 Legolas Greenleaf\n1 Elvish Mariner\n1 Legolas, Counter of Kills\n1 Celeborn the Wise\n1 Elven Farsight\n1 Asceticism\n1 Rishkar, Peema Renegade\n1 Champion of Lambholt\n1 Minas Tirith\n1 Vineglimmer Snarl\n1 The Grey Havens\n1 Champions of the Perfect\n1 Selfless Safewright\n1 Lothl\u00f3rien Blade\n1 Flooded Grove\n1 Kutzil, Malamet Exemplar\n1 Ephemerate\n1 Preordain\n1 Genesis Wave\n1 Growing Rites of Itlimoc\n1 Command Tower\n1 Exotic Orchard\n1 Adarkar Wastes\n1 Alchemist's Refuge\n1 Aysen Abbey\n1 Brushland\n1 Calciform Pools\n1 Cloudcrest Lake\n1 Fetching Garden\n1 Grove of the Guardian\n1 Hushwood Verge\n1 Land Cap\n1 Moorland Haunt\n1 Nantuko Monastery\n1 Novijen, Heart of Progress\n1 Overflowing Basin\n1 Prahv, Spires of Order\n1 Saltcrusted Steppe\n1 Seaside Haven\n1 Skycloud Expanse\n1 Slumbering Waterways\n1 Sungrass Prairie\n1 Thalakos Lowlands\n1 Tranquil Garden\n1 Tranquil Landscape\n1 Abandoned Campground\n1 Arctic Flats\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Forest\n1 Plains\n1 Island\n1 Forest\n1 Plains",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": true,
+    "counts": {
+      "lands": 41,
+      "ramp": 15,
+      "card_draw": 9,
+      "targeted_removal": 10,
+      "mass_removal": 6,
+      "synergy": 15,
+      "uncategorized": 1
+    },
+    "gaps": {}
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "targeted_removal",
+      "added": "Skymark Roc",
+      "removed": "Galadhrim Brigade"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "On Thin Ice",
+      "removed": "Galadriel's Dismissal"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Origin of Metalbending",
+      "removed": "Imperious Perfect"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Kraven's Last Hunt",
+      "removed": "Haldir, L\u00f3rien Lieutenant"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Hunter's Talent",
+      "removed": "Overwhelming Stampede"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Fortunate Few",
+      "removed": "Rally the Galadhrim"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Time of Ice",
+      "removed": "Heroic Intervention"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Crisis of Conscience",
+      "removed": "Arwen Und\u00f3miel"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Supreme Verdict",
+      "removed": "Aragorn and Arwen, Wed"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Unstable Glyphbridge // Sandswirl Wanderglyph",
+      "removed": "Arboreal Alliance"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Synthetic Destiny",
+      "removed": "Evolution Witness"
+    }
+  ]
+}

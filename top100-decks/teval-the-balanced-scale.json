@@ -1,0 +1,603 @@
+{
+  "commander": "Teval, the Balanced Scale",
+  "bracket": null,
+  "budget": "$200",
+  "style": "default",
+  "total_cards": 97,
+  "total_cost_display": "$42.52",
+  "deck": {
+    "commander": "Teval, the Balanced Scale",
+    "creatures": [
+      {
+        "name": "Morbius the Living Vampire",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/spm/137/morbius-the-living-vampire"
+      },
+      {
+        "name": "Stockman, Mad Fly-entist",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmt/54/stockman-mad-fly-entist"
+      },
+      {
+        "name": "Kishla Skimmer",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdm/201/kishla-skimmer"
+      },
+      {
+        "name": "World Breaker",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/eoc/112/world-breaker"
+      },
+      {
+        "name": "Meren of Clan Nel Toth",
+        "price": "$0.29",
+        "url": "https://manapool.com/card/tdc/297/meren-of-clan-nel-toth"
+      },
+      {
+        "name": "Skull Prophet",
+        "price": "$0.29",
+        "url": "https://manapool.com/card/tdc/304/skull-prophet"
+      },
+      {
+        "name": "Sword Coast Serpent // Capsizing Wave",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/clb/99/sword-coast-serpent-capsizing-wave"
+      },
+      {
+        "name": "Kheru Goldkeeper",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdm/199/kheru-goldkeeper"
+      },
+      {
+        "name": "Cephalid Constable",
+        "price": "$2.50",
+        "url": "https://manapool.com/card/jud/35/cephalid-constable"
+      },
+      {
+        "name": "River Kelpie",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdc/166/river-kelpie"
+      },
+      {
+        "name": "Festercreep",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c16/110/festercreep"
+      },
+      {
+        "name": "The Gitrog Monster",
+        "price": "$0.47",
+        "url": "https://manapool.com/card/eoc/117/the-gitrog-monster"
+      },
+      {
+        "name": "Sakura-Tribe Elder",
+        "price": "$0.26",
+        "url": "https://manapool.com/card/dsc/194/sakura-tribe-elder"
+      },
+      {
+        "name": "Nyx Weaver",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmm/933/nyx-weaver"
+      },
+      {
+        "name": "Shigeki, Jukai Visionary",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsc/198/shigeki-jukai-visionary"
+      },
+      {
+        "name": "Steward of the Harvest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdc/48/steward-of-the-harvest"
+      },
+      {
+        "name": "Jarad, Golgari Lich Lord",
+        "price": "$0.50",
+        "url": "https://manapool.com/card/tdc/293/jarad-golgari-lich-lord"
+      },
+      {
+        "name": "Floral Evoker",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdc/46/floral-evoker"
+      },
+      {
+        "name": "Springbloom Druid",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/eoc/51/springbloom-druid"
+      },
+      {
+        "name": "Multani, Yavimaya's Avatar",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsc/190/multani-yavimayas-avatar"
+      },
+      {
+        "name": "Aftermath Analyst",
+        "price": "$0.82",
+        "url": "https://manapool.com/card/mkm/148/aftermath-analyst"
+      },
+      {
+        "name": "Lost Monarch of Ifnir",
+        "price": "$0.68",
+        "url": "https://manapool.com/card/drc/11/lost-monarch-of-ifnir"
+      },
+      {
+        "name": "Diviner of Mist",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdc/20/diviner-of-mist"
+      },
+      {
+        "name": "Millikin",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dmr/231/millikin"
+      },
+      {
+        "name": "Wight of the Reliquary",
+        "price": "$2.29",
+        "url": "https://manapool.com/card/mh3/207/wight-of-the-reliquary"
+      },
+      {
+        "name": "Syr Konrad, the Grim",
+        "price": "$0.36",
+        "url": "https://manapool.com/card/plst/ELD-107/syr-konrad-the-grim"
+      }
+    ],
+    "instants": [
+      {
+        "name": "Very Cryptic Command",
+        "price": "$0.85",
+        "url": "https://manapool.com/card/ust/49f/very-cryptic-command"
+      },
+      {
+        "name": "Clear the Stage",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/rna/68/clear-the-stage"
+      },
+      {
+        "name": "Tear Asunder",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/241/tear-asunder"
+      },
+      {
+        "name": "Feast or Famine",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/all/49a/feast-or-famine"
+      },
+      {
+        "name": "Consume the Meek",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ddp/49/consume-the-meek"
+      },
+      {
+        "name": "Harrow",
+        "price": "$0.17",
+        "url": "https://manapool.com/card/zen/165/harrow"
+      },
+      {
+        "name": "Lethal Scheme",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fic/277/lethal-scheme"
+      },
+      {
+        "name": "Grisly Salvage",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsc/219/grisly-salvage"
+      },
+      {
+        "name": "Putrefy",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/257/putrefy"
+      }
+    ],
+    "sorceries": [
+      {
+        "name": "Innistrad Charm",
+        "price": "N/A",
+        "url": ""
+      },
+      {
+        "name": "Living Death",
+        "price": "$1.85",
+        "url": "https://manapool.com/card/a25/96/living-death"
+      },
+      {
+        "name": "Dread Return",
+        "price": "$0.46",
+        "url": "https://manapool.com/card/ddq/55/dread-return"
+      },
+      {
+        "name": "Welcome the Dead",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tdc/30/welcome-the-dead"
+      },
+      {
+        "name": "Necromantic Selection",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/scd/94/necromantic-selection"
+      },
+      {
+        "name": "Treasure Cruise",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ktk/59/treasure-cruise"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Smokestack",
+        "price": "$1.82",
+        "url": "https://manapool.com/card/mb2/232/smokestack"
+      },
+      {
+        "name": "False Floor",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ncc/82/false-floor"
+      },
+      {
+        "name": "Hedge Shredder",
+        "price": "$2.05",
+        "url": "https://manapool.com/card/pdsk/183p/hedge-shredder"
+      }
+    ],
+    "enchantments": [
+      {
+        "name": "Insidious Roots",
+        "price": "$1.54",
+        "url": "https://manapool.com/card/mkm/208/insidious-roots"
+      },
+      {
+        "name": "Pernicious Deed",
+        "price": "$4.15",
+        "url": "https://manapool.com/card/cns/191/pernicious-deed"
+      },
+      {
+        "name": "Crawling Sensation",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/dsc/173/crawling-sensation"
+      }
+    ],
+    "planeswalkers": [
+      {
+        "name": "Karn Liberated",
+        "price": "$3.23",
+        "url": "https://manapool.com/card/uma/5/karn-liberated"
+      }
+    ],
+    "lands": [
+      {
+        "name": "Cephalid Coliseum",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/300/cephalid-coliseum"
+      },
+      {
+        "name": "Memorial to Folly",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c19/259/memorial-to-folly"
+      },
+      {
+        "name": "Dreamroot Cascade",
+        "price": "$0.96",
+        "url": "https://manapool.com/card/who/273/dreamroot-cascade"
+      },
+      {
+        "name": "Crypt of Agadeem",
+        "price": "$1.02",
+        "url": "https://manapool.com/card/tdc/354/crypt-of-agadeem"
+      },
+      {
+        "name": "Drownyard Temple",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/c19/240/drownyard-temple"
+      },
+      {
+        "name": "Foreboding Landscape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mh3/221/foreboding-landscape"
+      },
+      {
+        "name": "Golgari Rot Farm",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/308/golgari-rot-farm"
+      },
+      {
+        "name": "Fetid Pools",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/drc/156/fetid-pools"
+      },
+      {
+        "name": "Llanowar Wastes",
+        "price": "$0.47",
+        "url": "https://manapool.com/card/blc/315/llanowar-wastes"
+      },
+      {
+        "name": "Woodland Cemetery",
+        "price": "$0.46",
+        "url": "https://manapool.com/card/ecc/176/woodland-cemetery"
+      },
+      {
+        "name": "Haunted Mire",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/311/haunted-mire"
+      },
+      {
+        "name": "Myriad Landscape",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lcc/343/myriad-landscape"
+      },
+      {
+        "name": "Hinterland Harbor",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmc/69/hinterland-harbor"
+      },
+      {
+        "name": "Terramorphic Expanse",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/360/terramorphic-expanse"
+      },
+      {
+        "name": "Command Tower",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/lcc/325/command-tower"
+      },
+      {
+        "name": "Exotic Orchard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/131/exotic-orchard"
+      },
+      {
+        "name": "Path of Ancestry",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/40k/287/path-of-ancestry"
+      },
+      {
+        "name": "Alchemist's Refuge",
+        "price": "$0.65",
+        "url": "https://manapool.com/card/lcc/318/alchemists-refuge"
+      },
+      {
+        "name": "Darkwater Catacombs",
+        "price": "$0.16",
+        "url": "https://manapool.com/card/c19/238/darkwater-catacombs"
+      },
+      {
+        "name": "Dreadship Reef",
+        "price": "$0.19",
+        "url": "https://manapool.com/card/tsp/271/dreadship-reef"
+      },
+      {
+        "name": "Duskmantle, House of Shadow",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/plst/RAV-277/duskmantle-house-of-shadow"
+      },
+      {
+        "name": "Flooded Grove",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ltc/309/flooded-grove"
+      },
+      {
+        "name": "Grim Backwoods",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/309/grim-backwoods"
+      },
+      {
+        "name": "Nephalia Drownyard",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/lcc/344/nephalia-drownyard"
+      },
+      {
+        "name": "Novijen, Heart of Progress",
+        "price": "$0.30",
+        "url": "https://manapool.com/card/dis/175/novijen-heart-of-progress"
+      },
+      {
+        "name": "Noxious Bayou",
+        "price": "$0.52",
+        "url": "https://manapool.com/card/cmb2/118/noxious-bayou"
+      },
+      {
+        "name": "Overflowing Basin",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/321/overflowing-basin"
+      },
+      {
+        "name": "River Delta",
+        "price": "$0.38",
+        "url": "https://manapool.com/card/ice/359/river-delta"
+      },
+      {
+        "name": "River of Tears",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/clb/912/river-of-tears"
+      },
+      {
+        "name": "Rootwater Depths",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/tmp/323/rootwater-depths"
+      },
+      {
+        "name": "Slumbering Waterways",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/mb2/618/slumbering-waterways"
+      },
+      {
+        "name": "Svogthos, the Restless Tomb",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/cmd/289/svogthos-the-restless-tomb"
+      },
+      {
+        "name": "Tainted Isle",
+        "price": "$0.45",
+        "url": "https://manapool.com/card/dsc/303/tainted-isle"
+      },
+      {
+        "name": "Tainted Wood",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/plst/TOR-143/tainted-wood"
+      },
+      {
+        "name": "Twilight Mire",
+        "price": "$0.36",
+        "url": "https://manapool.com/card/blc/351/twilight-mire"
+      },
+      {
+        "name": "Viridescent Bog",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/blc/352/viridescent-bog"
+      },
+      {
+        "name": "Waterlogged Grove",
+        "price": "$0.57",
+        "url": "https://manapool.com/card/who/331/waterlogged-grove"
+      },
+      {
+        "name": "Waterveil Cavern",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/chk/286/waterveil-cavern"
+      },
+      {
+        "name": "Yavimaya Coast",
+        "price": "$0.22",
+        "url": "https://manapool.com/card/drc/184/yavimaya-coast"
+      },
+      {
+        "name": "Balamb Garden, SeeD Academy // Balamb Garden, Airborne",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/272/balamb-garden-seed-academy-balamb-garden-airborne"
+      },
+      {
+        "name": "Botanical Sanctum",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/otj/267/botanical-sanctum"
+      },
+      {
+        "name": "Access Tunnel",
+        "price": "$0.43",
+        "url": "https://manapool.com/card/mkc/247/access-tunnel"
+      },
+      {
+        "name": "Accursed Duneyard",
+        "price": "$0.86",
+        "url": "https://manapool.com/card/drc/20/accursed-duneyard"
+      },
+      {
+        "name": "Adventurer's Inn",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/fin/271/adventurers-inn"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      },
+      {
+        "name": "Island",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/ala/234/island"
+      },
+      {
+        "name": "Forest",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/4ed/378/forest"
+      },
+      {
+        "name": "Swamp",
+        "price": "$0.15",
+        "url": "https://manapool.com/card/10e/373/swamp"
+      }
+    ],
+    "other": []
+  },
+  "export_text": "1 Teval, the Balanced Scale *CMDR*\n1 Innistrad Charm\n1 Morbius the Living Vampire\n1 Very Cryptic Command\n1 Stockman, Mad Fly-entist\n1 Smokestack\n1 Kishla Skimmer\n1 Living Death\n1 World Breaker\n1 Insidious Roots\n1 Meren of Clan Nel Toth\n1 Clear the Stage\n1 Skull Prophet\n1 Sword Coast Serpent // Capsizing Wave\n1 Kheru Goldkeeper\n1 Tear Asunder\n1 Feast or Famine\n1 Karn Liberated\n1 Cephalid Constable\n1 Cephalid Coliseum\n1 Memorial to Folly\n1 River Kelpie\n1 Festercreep\n1 Dreamroot Cascade\n1 Pernicious Deed\n1 False Floor\n1 Consume the Meek\n1 Harrow\n1 The Gitrog Monster\n1 Lethal Scheme\n1 Crypt of Agadeem\n1 Dread Return\n1 Drownyard Temple\n1 Sakura-Tribe Elder\n1 Nyx Weaver\n1 Welcome the Dead\n1 Hedge Shredder\n1 Shigeki, Jukai Visionary\n1 Foreboding Landscape\n1 Steward of the Harvest\n1 Jarad, Golgari Lich Lord\n1 Floral Evoker\n1 Springbloom Druid\n1 Golgari Rot Farm\n1 Fetid Pools\n1 Multani, Yavimaya's Avatar\n1 Llanowar Wastes\n1 Aftermath Analyst\n1 Lost Monarch of Ifnir\n1 Crawling Sensation\n1 Woodland Cemetery\n1 Diviner of Mist\n1 Haunted Mire\n1 Millikin\n1 Myriad Landscape\n1 Wight of the Reliquary\n1 Grisly Salvage\n1 Necromantic Selection\n1 Syr Konrad, the Grim\n1 Putrefy\n1 Treasure Cruise\n1 Hinterland Harbor\n1 Terramorphic Expanse\n1 Command Tower\n1 Exotic Orchard\n1 Path of Ancestry\n1 Alchemist's Refuge\n1 Darkwater Catacombs\n1 Dreadship Reef\n1 Duskmantle, House of Shadow\n1 Flooded Grove\n1 Grim Backwoods\n1 Nephalia Drownyard\n1 Novijen, Heart of Progress\n1 Noxious Bayou\n1 Overflowing Basin\n1 River Delta\n1 River of Tears\n1 Rootwater Depths\n1 Slumbering Waterways\n1 Svogthos, the Restless Tomb\n1 Tainted Isle\n1 Tainted Wood\n1 Twilight Mire\n1 Viridescent Bog\n1 Waterlogged Grove\n1 Waterveil Cavern\n1 Yavimaya Coast\n1 Balamb Garden, SeeD Academy // Balamb Garden, Airborne\n1 Botanical Sanctum\n1 Access Tunnel\n1 Accursed Duneyard\n1 Adventurer's Inn\n1 Forest\n1 Swamp\n1 Island\n1 Forest\n1 Swamp",
+  "export_instructions": "Copy the export_text and paste into Moxfield (Import), Archidekt (Import > Paste), or any tool that accepts 'quantity cardname' format.",
+  "health_check": {
+    "passing": true,
+    "counts": {
+      "lands": 49,
+      "ramp": 12,
+      "card_draw": 9,
+      "targeted_removal": 11,
+      "mass_removal": 6,
+      "synergy": 10,
+      "uncategorized": 0
+    },
+    "gaps": {}
+  },
+  "auto_fixes_applied": [
+    {
+      "category": "card_draw",
+      "added": "Innistrad Charm",
+      "removed": "Gravecrawler"
+    },
+    {
+      "category": "card_draw",
+      "added": "Morbius the Living Vampire",
+      "removed": "Victimize"
+    },
+    {
+      "category": "card_draw",
+      "added": "Very Cryptic Command",
+      "removed": "Hedron Crab"
+    },
+    {
+      "category": "card_draw",
+      "added": "Stockman, Mad Fly-entist",
+      "removed": "Wonder"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Smokestack",
+      "removed": "Will of the Sultai"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "World Breaker",
+      "removed": "Stitcher's Supplier"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Clear the Stage",
+      "removed": "Phyrexian Reclamation"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Sword Coast Serpent // Capsizing Wave",
+      "removed": "Timeless Witness"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Feast or Famine",
+      "removed": "Muldrotha, the Gravetide"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Karn Liberated",
+      "removed": "Grapple with the Past"
+    },
+    {
+      "category": "targeted_removal",
+      "added": "Cephalid Constable",
+      "removed": "Afterlife from the Loam"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Festercreep",
+      "removed": "Ob Nixilis, the Fallen"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Pernicious Deed",
+      "removed": "Avenger of Zendikar"
+    },
+    {
+      "category": "mass_removal",
+      "added": "False Floor",
+      "removed": "Sidisi, Brood Tyrant"
+    },
+    {
+      "category": "mass_removal",
+      "added": "Consume the Meek",
+      "removed": "Kotis, Sibsig Champion"
+    }
+  ]
+}
